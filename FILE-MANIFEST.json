@@ -473,8 +473,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 1033426,
-      "sha256": "e7c8da650a96abd1e13f076fc17ece7e927d2e4a7f8bb9077846e272bf75f8c8"
+      "bytes": 1038568,
+      "sha256": "32eb953be12e41646f6b43821a2cfe98a02d63efed099312d4318c93d91460f9"
     },
     {
       "path": "manuscript.html",
@@ -483,8 +483,8 @@
     },
     {
       "path": "reader.js",
-      "bytes": 14600,
-      "sha256": "c83a7e627625ba01fbeaf28e43cc931b488ecd8e228a43bd57755b6660744cfe"
+      "bytes": 14722,
+      "sha256": "8eb87229562f7715f4b214db8d6a2a2e1ebc34df1bfb55ceea6f542f74e27933"
     },
     {
       "path": "review.html",

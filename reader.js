@@ -108,7 +108,7 @@ function choose(id, target, seek) {
     const paragraph = findParagraph(record, target);
     if (paragraph) { document.getElementById(paragraph.id)?.scrollIntoView({ block: 'center' }); seek = paragraph.start; }
   }
-  if (!target && changed) window.scrollTo({ top: 0 });
+  if (!target && changed) el('reading')?.scrollIntoView({ block: 'start' });
   if (seek != null) {
     const apply = () => { el('audio').currentTime = seek; };
     if (el('audio').readyState) apply(); else el('audio').addEventListener('loadedmetadata', apply, { once: true });
@@ -210,6 +210,7 @@ function readHash() {
   const [target, clock] = hash.split('@');
   const selected = all().find(r => r.source.id === target || findParagraph(r, target));
   choose(selected ? selected.source.id : all()[0].source.id, selected && target !== selected.source.id ? target : null, clock == null ? null : Number(clock));
+  if (selected && target === selected.source.id) el('reading')?.scrollIntoView({ block: 'start' });
 }
 window.addEventListener('hashchange', readHash);
 readHash();
