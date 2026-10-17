@@ -318,8 +318,8 @@
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.md",
-      "bytes": 112549,
-      "sha256": "0fd086250e39f321b70d1310f1262b98b455cee4c5d12561049f2c3564112c99"
+      "bytes": 112709,
+      "sha256": "3b7f2ddc134bbe26ec8cf4680cb3a1a270be47bb79c341b78db768ed7ec34ca6"
     },
     {
       "path": "disputations/01-mikhailos-boltus/sources.json",
@@ -338,8 +338,8 @@
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 134638,
-      "sha256": "d306f7bf83c359bfa7eb895d8e3301e7a3950b8f15ce32ec14f74017c219f6c7"
+      "bytes": 134798,
+      "sha256": "5c22b91530fbf1a540bde9aa22ee7c7146119b556025b36c92c8218e84f22b1e"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -358,8 +358,8 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 95994,
-      "sha256": "58931007110aa830afba5340ef398b61e961da605767f403854c5576a85e9a3b"
+      "bytes": 96174,
+      "sha256": "816f6066f95372650a2ea7cb47d433192f3969b05f11cbda0d87ff58f62555b3"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -378,8 +378,8 @@
     },
     {
       "path": "disputations/04-logistique/reading.md",
-      "bytes": 91789,
-      "sha256": "272ebcdb2bdf4fa07658c6c40701c3e33bda7599854ca354ae11fe9db8ab19a6"
+      "bytes": 92269,
+      "sha256": "b4e042730210329835e9da2e32a4653928a9b933981cd502ed6156824e0451f7"
     },
     {
       "path": "disputations/04-logistique/sources.json",
@@ -438,8 +438,8 @@
     },
     {
       "path": "reader.js",
-      "bytes": 8947,
-      "sha256": "735d0d51380497a986333e362a76d5159b631821f7dadb97bf771190d549a960"
+      "bytes": 9040,
+      "sha256": "0887ffcd08e7d475ad0db12ce474738337ea0c09bed9fd740a012615a49e5d8a"
     },
     {
       "path": "review.html",

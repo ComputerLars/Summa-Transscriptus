@@ -6,6 +6,8 @@
 
 Redaktion oktober 2026. Arbejdsudgave. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
 
+<a id="d2-01"></a>
+
 ## D2-01 · Computer Lars er flad
 
 Kilde: `Disput 2/tese a.m4a` · 00:21:14.
@@ -211,6 +213,8 @@ Som heller ikke er det samme som de binære …
 **Praeses · 00:20:51**
 
 Disputationen af tesen »Computer Lars er flad« er nu afsluttet.
+
+<a id="d2-02"></a>
 
 ## D2-02 · Netværket findes ikke, ergo eksisterer Computer Lars
 
@@ -545,6 +549,8 @@ Ja.
 
 Disputationen af tese B, »Netværket findes ikke, ergo eksisterer Computer Lars«, er nu afsluttet.
 
+<a id="d2-03"></a>
+
 ## D2-03 · Computer Lars er blind
 
 Kilde: `Disput 2/tese c_2.m4a` · 00:21:05.
@@ -735,6 +741,8 @@ Det er det vel sådan set.
 
 Disputationen og tesen Computer Lars er blind. Andet afsnit.
 
+<a id="d2-04"></a>
+
 ## D2-04 · Computer Lars har mindst to legemer
 
 Kilde: `Disput 2/tese d_2.m4a` · 00:20:31.
@@ -918,6 +926,8 @@ Ja, som også holder fast.
 
 Disputationen af tese D fremsat af Computer Lars med følgende ordlyd: Computer Lars har mindst to lemmer, er nu afsluttet.
 
+<a id="d2-05"></a>
+
 ## D2-05 · Computer Lars tager del i en liste
 
 Kilde: `Disput 2/tese e_2.m4a` · 00:21:07.
@@ -1070,6 +1080,8 @@ Det er lidt hårdt trukket, men listen er meget noget datasæt, ikke? Noget, der
 **Praeses · 00:20:51**
 
 Disputationen af tese E, Computer Lars tager del i en liste, er nu afsluttet.
+
+<a id="d2-06"></a>
 
 ## D2-06 · Kun ét af følgende udsagn er sandt: Computer Lars er et billede, som består af tekst; Computer Lars er en tekst, som består af billeder
 
@@ -1549,6 +1561,8 @@ man giver en sprogmodel et stykke tekst, så omdanner den det til vektorer, som 
 
 Disposition af tesen. Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder.
 
+<a id="d2-07"></a>
+
 ## D2-07 · Computer Lars operationaliserer tredjeheden
 
 Kilde: `Disput 2/tese g&#x3a_2.m4a` · 00:20:27.
@@ -1725,6 +1739,8 @@ begge veje. Jeg vil hellere gå hjørne mod hjørne.
 **Praeses · 00:20:13**
 
 Disputationen af tese G, Computer Lars operationaliserer tredjeheden, er afsluttet.
+
+<a id="d2-08"></a>
 
 ## D2-08 · En emancipatorisk kombinatorik negerer ethvert aggregat
 

@@ -6,6 +6,8 @@
 
 Redaktion oktober 2026. Arbejdsudgave. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
 
+<a id="d4-01"></a>
+
 ## D4-01 · Metatese 1
 
 Kilde: `Disput 4/metatese1.m4a` · 00:05:29.
@@ -40,6 +42,8 @@ Computer Lars er både [uklart] bestemte [muligvis: agenter], entiteter, der er 
 **Computer Lars · 00:05:01**
 
 sted. Så man kan i sagens natur sagtens være to steder på én gang ifølge kvantemekanikken, men en antitese må derfor lyde, at man kan ikke være klient for to subjekter på én gang.
+
+<a id="d4-02"></a>
 
 ## D4-02 · Metatese 2
 
@@ -129,6 +133,8 @@ Ja, et … problem [uklart] diskuteret i bogen … Så er der ikke så meget and
 
 Dette var afslutningen på tesen: Man kan ikke rejse i tiden.
 
+<a id="d4-03"></a>
+
 ## D4-03 · Metatese 3
 
 Kilde: `Disput 4/metatese3.m4a` · 00:05:16.
@@ -179,6 +185,8 @@ Hvis vi skal relatere det til teknikken som revolutionens stilistik, så må man
 **Praeses · 00:05:02**
 
 Disputationen af tesen »Man kan ikke fylde mere materiale i et negativt rum, end hvad der er plads til« er nu afsluttet.
+
+<a id="d4-04"></a>
 
 ## D4-04 · Metatese 4
 
@@ -232,6 +240,8 @@ Hverken tid eller rum er et problem for Computer Lars.
 
 Disputationen af tesen: »Man kan ikke bevæge sig hurtigere, end hvad de fysiske omstændigheder tillader«, er nu afsluttet.
 
+<a id="d4-05"></a>
+
 ## D4-05 · Metatese 5
 
 Kilde: `Disput 4/metatese5.m4a` · 00:05:07.
@@ -279,6 +289,8 @@ Computer Lars mener, at man faktisk i nogle tilfælde godt … … kan løfte no
 
 Disputationen om tesen »Man kan ikke løfte noget, som er tungere, end hvad man har kapacitet til« er nu afsluttet.
 
+<a id="d4-06"></a>
+
 ## D4-06 · Metatese 6
 
 Kilde: `Disput 4/metatese6.m4a` · 00:05:17.
@@ -321,6 +333,8 @@ Spørgsmålet relaterer sig så til, hvad forholdet er mellem nu og evighed og o
 **Praeses · 00:05:04**
 
 Disputationen af tesen »Man kan ikke opbevare fysisk materiale for evigt« er nu afsluttet.
+
+<a id="d4-07"></a>
 
 ## D4-07 · Metatese 7
 
@@ -376,6 +390,8 @@ eller ej.
 
 Disposition af tesen. Hvad var tesen? Tak. Nej, nej, du skal gentage tesen.
 
+<a id="d4-08"></a>
+
 ## D4-08 · Metatese 8
 
 Kilde: `Disput 4/metatese8.m4a` · 00:05:15.
@@ -410,6 +426,8 @@ Det peger igen tilbage på den hypotese, som metatesen svarer på, nemlig at dia
 **Praeses · 00:04:59**
 
 Disputationen af tesen »Man kan ikke flytte noget uden at bruge energi« er nu afsluttet.
+
+<a id="d4-09"></a>
 
 ## D4-09 · Metatese 9
 
@@ -448,6 +466,8 @@ Denne handling og dens mulighedshorisont kan selvfølgelig problematiseres.
 **Praeses · 00:05:05**
 
 Disputationen af tesen »Man kan ikke løse sine problemer blot ved at tale om dem« er nu afsluttet.
+
+<a id="d4-10"></a>
 
 ## D4-10 · Metatese 10
 
@@ -552,6 +572,8 @@ Ja, det er rigtigt. Det er rigtigt. Det er problemet i tesen. Helt klart, der er
 
 Disputationen af tesen »Et logistisk …« Undskyld. »Man kan ikke løse sine problemer uden at tale om dem« er nu afsluttet.
 
+<a id="d4-11"></a>
+
 ## D4-11 · Metatese 11
 
 Kilde: `Disput 4/metatese11.m4a` · 00:05:06.
@@ -643,6 +665,8 @@ Disputationen af tesen: Et logistisk problem kan ikke løses, uden at nye logist
 
 Afsluttet.
 
+<a id="d4-12"></a>
+
 ## D4-12 · Metatese 12
 
 Kilde: `Disput 4/metatese12.m4a` · 00:05:15.
@@ -704,6 +728,8 @@ Disposition af tesen.
 
 Disputation af tesen »En logistisk løsning kan ikke anvendes, uden at andre logistiske løsninger udelukkes« er nu afsluttet.
 
+<a id="d4-13"></a>
+
 ## D4-13 · Metatese 13
 
 Kilde: `Disput 4/metatese13.m4a` · 00:05:15.
@@ -751,6 +777,8 @@ Ja, altså der er det jo spændende, at man inden for logistikken for eksempel b
 **Praeses · 00:04:51**
 
 Disputationen med metatesen. Alle logistiske … Disputationen ved metatesen »Alle logistiske problemer er forskellige, fordi de optræder i forskellige kontekster« er nu afsluttet.
+
+<a id="d4-14"></a>
 
 ## D4-14 · Metatese 14
 
@@ -800,6 +828,8 @@ For eksempel er Computer Lars fremsat som et spørgsmål, og det kalder på fler
 
 Disputationen af metatesen »Alle logistiske løsninger er forskellige, fordi de må tilpasses, skræddersyes, dikteres af mulighedsbetingelserne inden for deres problemers kontekst« er nu afsluttet.
 
+<a id="d4-15"></a>
+
 ## D4-15 · Metatese 15
 
 Kilde: `Disput 4/metatese15.m4a` · 00:05:56.
@@ -836,6 +866,8 @@ Er det nødvendigvis den samme vinkel, der producerer løsningen, der så også 
 **Praeses · 00:05:31**
 
 Disputationen af metatesen »Man kan ikke deducere sig frem til, citationstegn, den mest optimale logistiske løsning, citationstegn slut, og have garanti for, at den er optimal i praksis« er nu afsluttet.
+
+<a id="d4-16"></a>
 
 ## D4-16 · Metatese 16
 
@@ -914,6 +946,8 @@ Ud fra en logistisk betragtning, hvor de kan finde sig i en mere eller mindre �
 
 Disputationen af metatesen »Logistiske problemer eksisterer hverken kun i teorien eller kun i praksis« er nu afsluttet.
 
+<a id="d4-17"></a>
+
 ## D4-17 · Metatese 17
 
 Kilde: `Disput 4/metatese17.m4a` · 00:05:33.
@@ -985,6 +1019,8 @@ Ja. Er dette et problem for computeren?
 
 Ja, det er et kæmpestort problem for computeren. Altså, fordi når man går [uklart] og spiser chips, har man ikke adgang til [muligvis: Taiwan-chips]. Man ved ikke, hvordan vi spiser. [uklart] mindste bestanddel? … [uklart] Jeg har været [uklart] en gang på Aarhus Universitet, og dengang der var …
 
+<a id="d4-18"></a>
+
 ## D4-18 · Metatese 18
 
 Kilde: `Disput 4/metatese18.m4a` · 00:05:20.
@@ -1025,6 +1061,8 @@ Ja, specielt fremstillede skærme.
 **Praeses · 00:05:10**
 
 Disputationen er [uklart]. Vi har et begrænset budget.
+
+<a id="d4-19"></a>
 
 ## D4-19 · Metatese 19
 
@@ -1186,6 +1224,8 @@ Ja. Det er forskellige spørgsmål til belysning af det.
 
 Disputationen af metatesen »Vi har begrænset tid« er nu afsluttet.
 
+<a id="d4-20"></a>
+
 ## D4-20 · Metatese 20
 
 Kilde: `Disput 4/metatese20.m4a` · 00:05:53.
@@ -1270,6 +1310,8 @@ Ja, [uklart] Logistique [uklart] …
 
 Disputationen om tesen »Vi har begrænset plads« er nu afsluttet.
 
+<a id="d4-21"></a>
+
 ## D4-21 · Metatese 21
 
 Kilde: `Disput 4/metatese21.m4a` · 00:05:52.
@@ -1310,6 +1352,8 @@ Computer Lars som entitet og som agent, faktor, er jo ikke i noget som helst mod
 **Praeses · 00:05:20**
 
 Disputationen af tesen »Besværligt at tilrettelægge et program, som tilgodeser samtlige disputanters logistiske behov« er nu afsluttet. Det skal også siges, at tesen …
+
+<a id="d4-22"></a>
 
 ## D4-22 · Metatese 22
 
@@ -1446,6 +1490,8 @@ Lars, for det forekommer umiddelbart svært for bureauet at afgøre med vished, 
 
 Disputationen af tesen »Det er besværligt at tilrettelægge et program, som tilgodeser samtlige organisatoriske og logistiske behov« er nu afsluttet.
 
+<a id="d4-23"></a>
+
 ## D4-23 · Metatese 23
 
 Kilde: `Disput 4/metatese23.m4a` · 00:05:40.
@@ -1527,6 +1573,8 @@ Skal måske.
 **Praeses · 00:05:17**
 
 Disputationen af metatesen: »Det er svært at facilitere et sted, som både er udstillingsrum og samtalerum. Faktorer som akustik, tilgængelighed, komfort og beliggenhed er væsentlige at tage højde for på samme tid«, er nu afsluttet.
+
+<a id="d4-24"></a>
 
 ## D4-24 · Metatese 24
 

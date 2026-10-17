@@ -6,6 +6,8 @@
 
 Redaktion oktober 2026. Arbejdsudgave. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
 
+<a id="d3-01"></a>
+
 ## D3-01 · Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet
 
 Kilde: `Disput 3/tese a_3.m4a` · 00:21:18.
@@ -123,6 +125,8 @@ Den [uklart] … Computer Lars, så har den [uklart] i det samme [uklart] totalt
 **Praeses · 00:20:47**
 
 Disputationen af tesen »Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet« er nu afsluttet.
+
+<a id="d3-02"></a>
 
 ## D3-02 · Computer Lars’ etymologi er beregningens triumf
 
@@ -349,6 +353,8 @@ Disputationen af tese B, Computer Lars’ etymologi er beregningens triumf, er n
 
 Tese B, Computer Lars’ etymologi er beregningens triumf, er nu afsluttet.
 
+<a id="d3-03"></a>
+
 ## D3-03 · Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser pr. analogi
 
 Kilde: `Disput 3/tese c_3.m4a` · 00:20:21.
@@ -497,6 +503,8 @@ Disputationen af tesen, den kybernetiske …
 
 kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser per analogi, ergo genererer Leder Lars nye interessegrupper og nye politiske problemer, er nu afsluttet.
 
+<a id="d3-04"></a>
+
 ## D3-04 · Poetisk og militær hæder bestemmes som feltaritmetik
 
 Kilde: `Disput 3/tese d_3.m4a` · 00:20:19.
@@ -592,6 +600,8 @@ Jeg tænker, at vi kan betragte skuepladsen i dag som [uklart], også i det anti
 **Praeses · 00:20:06**
 
 Disputationen af tesen »Poetisk og militær hæder bestemmes som feltaritmetik« er nu afsluttet.
+
+<a id="d3-05"></a>
 
 ## D3-05 · I Biblioteket i Babel er ethvert gennemløb overtalligt i forhold til sin kombinatorik
 
@@ -766,6 +776,8 @@ Ja, men det er netop det, eller altså … Han døde måske af at blive knust un
 
 Disputationen af tesen »I Biblioteket i Babel … … er ethvert gennemløb overtalligt i forhold til sin kombinatorik« er nu afsluttet.
 
+<a id="d3-06"></a>
+
 ## D3-06 · Rekursivitet som tidssløjfe er bevidsthedens mediale struktur
 
 Kilde: `Disput 3/tese f_3.m4a` · 00:20:18.
@@ -855,6 +867,8 @@ Hvis vi forestiller os [uklart], at det går til rummet med to veje, fra udstræ
 **Praeses · 00:19:19**
 
 Disputationen af tesen »Rekursivitet som tidssløjfe er bevidsthedens mediale struktur« er nu afsluttet.
+
+<a id="d3-07"></a>
 
 ## D3-07 · Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft
 
@@ -1007,6 +1021,8 @@ Det er lidt det, jeg godt kan føle, Leder Lars er for mig. Det er som dagligdag
 **Praeses · 00:20:30**
 
 Et af Computer Lars' to [uklart] afleverer tese, argument. Disputationen af tesen: »En komputation, der erstatter uralgoritmerne roduddragelse og hævelse til potenser med uralgoritmerne division og multiplikation, afskærer sig fra fornuften, men bevarer muligheden for at være eller ikke være dum«, er nu afsluttet.
+
+<a id="d3-08"></a>
 
 ## D3-08 · Intelligens er objektivt stupidt, og vice versa
 
@@ -1191,6 +1207,8 @@ Diskussionen af tesen »Intelligens er objektivt stupidt, og vice versa« er nu 
 **Praeses · 00:20:01**
 
 Intelligens er objektivt stupidt, og vice versa, er nu afsluttet.
+
+<a id="d3-09"></a>
 
 ## D3-09 · Pseudotese
 

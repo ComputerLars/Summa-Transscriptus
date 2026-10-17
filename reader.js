@@ -142,7 +142,11 @@ const back = document.createElement('button'); back.textContent = '−5 s'; back
 const forward = document.createElement('button'); forward.textContent = '+5 s'; forward.onclick = () => { el('audio').currentTime = Math.min(el('audio').duration || Infinity, el('audio').currentTime + 5); };
 el('audio').after(back, forward, speed);
 
-const hash = decodeURIComponent(location.hash.slice(1));
-const [target, clock] = hash.split('@');
-const selected = all().find(r => r.source.id === target || findParagraph(r, target));
-choose(selected ? selected.source.id : all()[0].source.id, selected && target !== selected.source.id ? target : null, clock == null ? null : Number(clock));
+function readHash() {
+  const hash = decodeURIComponent(location.hash.slice(1));
+  const [target, clock] = hash.split('@');
+  const selected = all().find(r => r.source.id === target || findParagraph(r, target));
+  choose(selected ? selected.source.id : all()[0].source.id, selected && target !== selected.source.id ? target : null, clock == null ? null : Number(clock));
+}
+window.addEventListener('hashchange', readHash);
+readHash();

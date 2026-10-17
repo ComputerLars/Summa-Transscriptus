@@ -6,6 +6,8 @@
 
 Redaktion oktober 2026. Arbejdsudgave. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
 
+<a id="d1-01"></a>
+
 ## D1-01 · Kunsten er død
 
 Kilde: `Disput 1/Lydfiler/tese 1.m4a` · 00:25:17.
@@ -159,6 +161,8 @@ Disputationen af tesen, kunsten er død, er nu afsluttet. Mens vi venter på den
 
 Er der åbent for eventuelle ex auditorio-interventioner?
 
+<a id="d1-02"></a>
+
 ## D1-02 · Revolutionen er repræsenterbar
 
 Kilde: `Disput 1/Lydfiler/tese 2.m4a` · 00:21:37.
@@ -292,6 +296,8 @@ Jamen, det er jo interessant, hvis det kan lade sig gøre allerede i tese to at 
 **Praeses · 00:21:16**
 
 Disputationen af tesen »Revolutionen er repræsenterbar« er nu afsluttet.
+
+<a id="d1-03"></a>
 
 ## D1-03 · Fascisme og demokrati er ikke modsætninger
 
@@ -436,6 +442,8 @@ Fordi efterkrigstidens velfærdssamfund jo er kendetegnet ved en forskydning fra
 **Praeses · 00:21:31**
 
 Disputationen af tesen: »Fascisme og demokrati er ikke modsætninger« er nu afsluttet.
+
+<a id="d1-04"></a>
 
 ## D1-04 · Teknikken er revolutionens stilistik
 
@@ -603,6 +611,8 @@ så hurtigt bliver så kompliceret, ikke? Det var det, der var en hel generation
 
 Disputationen af tesen »Teknikken er revolutionens stilistik« er nu afsluttet.
 
+<a id="d1-05"></a>
+
 ## D1-05 · Offentlighed og opstand er modsætninger
 
 Kilde: `Disput 1/Lydfiler/tese e.m4a` · 00:16:54.
@@ -739,6 +749,8 @@ Disputationen af tesen ...
 
 »Offentlighed og opstand er modsætninger« er nu afsluttet.
 
+<a id="d1-06"></a>
+
 ## D1-06 · Publiciteten er transmonarkisk
 
 Kilde: `Disput 1/Lydfiler/tese f.m4a` · 00:17:56.
@@ -866,6 +878,8 @@ Altså, så det der med andre ord også betyder det der med ... Altså det er jo
 **Praeses · 00:17:21**
 
 Disputationen af tesen »Publiciteten er transmonarkisk« er nu afsluttet.
+
+<a id="d1-07"></a>
 
 ## D1-07 · Dialektikken er gået i stykker
 
@@ -1005,6 +1019,8 @@ fra [muligvis: Jan Latham], et Audre Lorde-citat: The master's tools can never d
 **Praeses · 00:18:20**
 
 Disputationen af tesen »Dialektikken er gået i stykker« er nu [muligvis: afsluttet].
+
+<a id="d1-08"></a>
 
 ## D1-08 · Revolutionen er entropisk
 
