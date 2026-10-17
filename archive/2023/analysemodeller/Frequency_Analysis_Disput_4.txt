@@ -1,0 +1,1 @@
+problemer: 61\nlogistiske: 58\nproblem: 50\nlogistik: 45\ncomputer: 43\nlogistisk: 32\nforskellige: 32\nløsninger: 29\neksempel: 28\nsynthesis: 24\n

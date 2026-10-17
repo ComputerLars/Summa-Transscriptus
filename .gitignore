@@ -1,0 +1,8 @@
+# Recordings remain in the original archive and linked Drive folder.
+*.m4a
+*.mp4
+*.mov
+*.wav
+*.zip
+.DS_Store
+__pycache__/
