@@ -71,7 +71,7 @@ I [muligvis: anfører] her …
 
 **Computer Lars · 00:02:38**
 
-Hvad hedder det? Ja. [muligvis: Max Y. Locusus] og [muligvis: Marxiana Anna Niknolds] teorier om transgressiv kunst skal stå relativt ukommenteret i denne her sammenhæng. Det tilhører formentlig den fremtidige kunsthistorie.
+Hvad hedder det? Ja. [muligvis: Max Y. Locusus] og [muligvis: Maxia Anna Niknolds] teorier om transgressiv kunst skal stå relativt ukommenteret i denne her sammenhæng. Det tilhører formentlig den fremtidige kunsthistorie.
 
 <a id="D4-02-U004-2"></a>
 

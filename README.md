@@ -20,7 +20,9 @@ Arbejdsudgaverne er redigeret i oktober 2026 og lagt på denne gren til videre g
 
 `reading.md` er den redigerbare læsetekst. Læsesiden indlæser den direkte. Læsesiden afspiller MP3-lyttekopier. Hver optagelse linker til den oprindelige M4A-fil. En lokal lydmappe kan også vælges i browseren. Word-filerne er daterede eksportudgaver. [Samlet lydkatalog](documentation/recordings.md) · [Lyttefiler](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
 
-## Tre forskellige tekstlag
+[Ramme og manuskript](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Kilder og læsemåder](https://computerlars.github.io/Summa-Transscriptus/collation.html) · [Referencekilder](documentation/references.md) · [Seneste tekstrettelser](documentation/revisions.md).
+
+## Tekstlag
 
 - [Lydkilder og redaktionsprincipper](documentation/editorial-principles.md): den nye transskription og den nænsomt grammatiske læseudgave, med tidsankre tilbage til hver originaloptagelse.
 - [Maskintransskriptioner og synteser fra 2023](archive/2023/README.md): de oprindelige TXT-filer, bevaret uændret. Deres synteser tilhører den daværende komputation og opførelse.
