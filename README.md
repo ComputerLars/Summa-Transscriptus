@@ -4,6 +4,8 @@ Dokumentation for skolastisk komputation omkring Computer Lars-spektaklet, kurat
 
 **[Læs og lyt til disputationerne](https://computerlars.github.io/Summa-Transscriptus/)**
 
+[Summa Transscriptus · hyperbog, udkast 01](https://computerlars.github.io/Summa-Transscriptus/hyperbog.html) — læsning med glosse, sammenstillinger, billedtavler, synteser og anagrammer.
+
 *Under Bugten* fandt sted ved Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi i september 2023. Navnene følger opførelsens betegnelser. Praeses ledede disputterne.
 
 ## Disputationerne
