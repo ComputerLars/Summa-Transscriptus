@@ -17,6 +17,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX",
+    "drive_name": "tese a:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10228823,
+      "sha256": "270a9960121955373934ffad392d8846e6b152ea9e2b74440df61d86f0636c07"
     }
   },
   {
@@ -37,6 +46,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8",
+    "drive_name": "tese b:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9735409,
+      "sha256": "105a241168d6de2aa088423c9bccb6cae4fade28105f4a4843222af9d10a9293"
     }
   },
   {
@@ -57,6 +75,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8",
+    "drive_name": "tese c:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9772901,
+      "sha256": "fa6411deb78923c75b72d6a3444cfaf6fd85f2800b4e70fb058bdef9d368e0b9"
     }
   },
   {
@@ -77,6 +104,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG",
+    "drive_name": "tese d:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9754134,
+      "sha256": "6ffec9d71a65f32c81fb90e8b860ce63bcd43ec4d32dcb3b05126aaf60224e67"
     }
   },
   {
@@ -97,6 +133,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu",
+    "drive_name": "tese e:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9732854,
+      "sha256": "281e1b4ac790461c015a1ef6e93799292ba0846c49e8d8c45963b6def7261260"
     }
   },
   {
@@ -117,6 +162,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg",
+    "drive_name": "tese f:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9751550,
+      "sha256": "19e6e388d49b0c8434e1ed355dd77bb12c9aef654c7edb87739d8bb5fd3f95ad"
     }
   },
   {
@@ -137,6 +191,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK",
+    "drive_name": "tese g:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10190758,
+      "sha256": "43b455b0301ba6353c3d6d38878d8c67fb555fa09bd541af992b0eead9be2bd6"
     }
   },
   {
@@ -157,6 +220,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT",
+    "drive_name": "tese h:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9783215,
+      "sha256": "adf447e1806b02d06b1baab7e4a0e449442e6ec20f8f4bab5e31cf6e0d8934c7"
     }
   },
   {
@@ -177,6 +249,15 @@
       "time": "18:00–22:00",
       "guest": "Petrus Borumanum",
       "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z",
+    "drive_name": "pseudotese:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 283210,
+      "sha256": "3568f4909f75c70e43fec5ee68436d9331670e8b5648d04feb647a942a86555b"
     }
   }
 ]

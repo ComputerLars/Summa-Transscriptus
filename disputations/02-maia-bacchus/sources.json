@@ -17,6 +17,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1u4TJmPME37K0H--SSNW7WUeJ4u7YdOQk",
+    "drive_name": "tese a.m4a",
+    "drive_url": "https://drive.google.com/file/d/1u4TJmPME37K0H--SSNW7WUeJ4u7YdOQk/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10196757,
+      "sha256": "03c86b616a0eff97e8a2abb58f1a50775da189db7c6c66b44824fea287186148"
     }
   },
   {
@@ -37,6 +46,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1E4S9CjzPDuTAHmy8e4JLPI5NcUkYniKt",
+    "drive_name": "tese b:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1E4S9CjzPDuTAHmy8e4JLPI5NcUkYniKt/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10055669,
+      "sha256": "6d35fcf95acff4f49631cdc5ebd1135b920b033dacbe3b258f1d46e9588c99c4"
     }
   },
   {
@@ -57,6 +75,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1VNZOSeX23oZPgaXBKQoQVXK0TJIlg1QS",
+    "drive_name": "tese c:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1VNZOSeX23oZPgaXBKQoQVXK0TJIlg1QS/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10126486,
+      "sha256": "4df7232cdd90644b08a8acc24e64b166b2a940275d9f7c95efe7f4ba8e683951"
     }
   },
   {
@@ -77,6 +104,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1W9gsT00HQHE6odUBUIvdkHXjbhNrxyWQ",
+    "drive_name": "tese d:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1W9gsT00HQHE6odUBUIvdkHXjbhNrxyWQ/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9850883,
+      "sha256": "c9ca61c65dfaf28b8a17ad3426403ab9ec4b7bb9c77b13b9c6a1ddc9a6b0398c"
     }
   },
   {
@@ -97,6 +133,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "122PSP080OIAlfQAA7oFWykl-P5b_jOQP",
+    "drive_name": "tese e:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/122PSP080OIAlfQAA7oFWykl-P5b_jOQP/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10137154,
+      "sha256": "13c0bd78096e77ca81109a3ad90c5831df702836e98bf137db1a866f11c90ffb"
     }
   },
   {
@@ -117,6 +162,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1iz7iSyG4TQmy3mMHjCsrj3AZBCOWw7iw",
+    "drive_name": "tese f&#x3a;2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iz7iSyG4TQmy3mMHjCsrj3AZBCOWw7iw/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9826795,
+      "sha256": "c6c3039d35c7d3edc9eaf465956e865e6b2e8d5e209c0fb39d3496956f3d9cc1"
     }
   },
   {
@@ -137,6 +191,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1P36DAa41Yr_1Ho1R-TjFRr2zmMVWNW2m",
+    "drive_name": "tese g&#x3a;2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1P36DAa41Yr_1Ho1R-TjFRr2zmMVWNW2m/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9822667,
+      "sha256": "9cf7fec762f9084dfa7f5e400405514db320a00e2e60081fd88745d2b1bdc6b7"
     }
   },
   {
@@ -157,6 +220,15 @@
       "time": "18:00–22:00",
       "guest": "Maia Bacchus",
       "directory": "02-maia-bacchus"
+    },
+    "drive_id": "16uW6kFcx3P25PXRJd6Mi1WsJ3vhNl-v0",
+    "drive_name": "tese h:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/16uW6kFcx3P25PXRJd6Mi1WsJ3vhNl-v0/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9863575,
+      "sha256": "d694f19a137df4f57fd69ba1c447baf60219d142aef37ce5a02a4e45505e0387"
     }
   }
 ]

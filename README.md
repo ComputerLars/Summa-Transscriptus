@@ -14,7 +14,11 @@ Download: https://drive.google.com/drive/folders/1Yh4-TucOUeCVpXRxtoLXZtDfOfF1Yq
 | 2023-09-22 | Petrus Borumanum og Computer Lars | [Læs](disputations/03-petrus-borumanum/reading.md) | [Tidsankre og kilder](disputations/03-petrus-borumanum/timed.md) |
 | 2023-09-24 | Logistique og Computer Lars | [Læs](disputations/04-logistique/reading.md) | [Tidsankre og kilder](disputations/04-logistique/timed.md) |
 
-Arbejdsudgaverne redigeres i oktober 2026 og lægges på denne gren til videre gennemgang. De er ikke betegnet som endeligt korrekturlæste eller som en ny historisk syntese.
+Arbejdsudgaverne er redigeret i oktober 2026 og lagt på denne gren til videre gennemgang.
+
+[Læsning med lyd og tidsankre](https://computerlars.github.io/Summa-Transscriptus/) · [Tvivlspunkter](https://computerlars.github.io/Summa-Transscriptus/review.html).
+
+`reading.md` er den redigerbare læsetekst. Læsesiden indlæser den direkte. Læsesiden afspiller MP3-lyttekopier. Hver optagelse linker til den oprindelige M4A-fil. En lokal lydmappe kan også vælges i browseren. Word-filerne er daterede eksportudgaver. [Samlet lydkatalog](documentation/recordings.md) · [Lyttefiler](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
 
 ## Tre forskellige tekstlag
 
