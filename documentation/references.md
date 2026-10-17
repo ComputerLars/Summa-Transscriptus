@@ -65,3 +65,21 @@ Ordlyd, fem tabeller og syv indlejrede billeder er bevaret. Manuskriptets plan o
 Den bevarede syntese indeholder navnene Max Y. Locusus og Maxia Anna Niknolds. Den er et forlæg for en mulig henvisning i D4-02, ikke en bibliografisk autoritet for de navngivne teorier.
 
 [Forlæg](../archive/2023/disput-1/transcription_and_synthesis_20230918164901.txt)
+
+## Yuk Hui, Machine and Sovereignty, University of Minnesota Press, 2024
+
+Forfatterens publikationsoplysning identificerer navnet i omtalen af den kommende bog i D2-04.
+
+[Forlæg](https://digitalmilieu.net/5245/publication-of-machine-and-sovereignty-university-of-minnesota-press-2024/)
+
+## Biblioteca Magliabechiana, IRHT Pinakes
+
+Biblioteket opstod af Antonio Magliabechis donation i 1714. Navnet identificerer bibliotekaren i D3-05; anekdotens påstande er bevaret som fremført.
+
+[Forlæg](https://pinakes-dev.irht.cnrs.fr/notices/copiste-possesseur-autre/5141/)
+
+## SABAE, Gustav Bunzel og Paul Smith, Arbejdsfrihedens spøgelse, CIRA katalog
+
+Katalogposten identificerer navn og organisation i D1-07.
+
+[Forlæg](https://www.cira.ch/catalogue/index.php?lvl=notice_display&id=6236)

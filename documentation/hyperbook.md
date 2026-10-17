@@ -1,18 +1,23 @@
-# Summa Transscriptus · hyperbog
+# Summa Transscriptus
 
-[Udkast 01](https://computerlars.github.io/Summa-Transscriptus/hyperbog.html), 17. oktober 2026. En særskilt læseform ved siden af arkivets eksisterende læseside.
+Disputter over Computer Lars-spektaklet. Under Bugten ved Organ for de Autonome Videnskaber, Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi, september 2023.
 
-## Indgange
+## Læseudgaven
 
-- [Disputationerne](../hyperbog.html#disput/D1-01): læsetekst, lyd, skriftlige teser og glosse. Afsnit kan åbnes med varige tids- og tekstreferencer. Lokale noter gemmes i læserens browser og kan eksporteres.
-- [Sammenstillinger](../hyperbog.html#sammen/navne): tre redaktionelle opslag mellem fremført ordlyd, skriftligt forlæg og syntese fra 2023. Sammenstillingerne er udvalgt i 2026.
-- [Figurer og fotografier](../hyperbog.html#figurer): samledokumentets syv originale billeder og tre fotografier fra dokumentationsarkivet. Hele billedrammer er bevaret.
-- [Anagrammer](../hyperbog.html#ars): samledokumentets fire navne, omsat til en bevægelse af de samme tolv bogstaver.
-- [Syntesernes række](../hyperbog.html#synteser): 48 tilknyttede synteser fra 2023, gengivet ordret ved deres optagelser.
-- [Register](../hyperbog.html#register): søgning i de fire læseudgaver med links til hele afsnit og lyd.
+Renskriften fra oktober 2026 bygger på originaloptagelserne, flere selvstændige lydgenkendelser, de oprindelige transskriptioner og de skriftlige teser. Staveformer, tegnsætning og sætningsforbindelser er normaliseret. Oplagte læsninger er valgt ud fra lyd og kontekst; korte afbrudte tilløb er udeladt. En latinsk oplæsning, som ikke har kunnet rekonstrueres, er angivet som oplæsning. Teksten er en redigeret læseudgave.
 
-## Tekst og kilder
+De to kunstnerstemmer betegnes Computer Lars. Ordstyreren betegnes Praeses. Deltagerbetegnelserne følger opførelsen. Uidentificerede replikker betegnes Deltager eller Ex auditorio.
 
-Læseudgaverne er de samme som i arkivet; siden indlæser de redigerbare Markdown-filer. Skriftlige teser, 2023-synteser og kildeobservationer hentes fra det eksisterende kildeapparat. Ingen ny syntese træder i stedet for den historiske syntese. Åbne læsesteder og forskellige tekstlag beholder deres markeringer.
+[Originaloptagelser og lydkatalog](recordings.md) · [Historiske transskriptioner](../archive/2023/) · [Tidligere læseudgave](https://github.com/ComputerLars/Summa-Transscriptus/tree/f1e8ed0d7bd00893840690cbab1d173902d34a8d/disputations) · [Redaktionelle læsemåder](../readings.html) · [Revisionsdata](reading-revisions.json).
 
-[Kilderegister](hyperbook-sources.json) · [Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Redaktionsprincipper](editorial-principles.md).
+## Forlæg og synteser
+
+De skriftlige teser er forlæg til disputterne. De bevarede synteser er tekster fra maskinens arbejde i 2023 og gengives ordret. De står som selvstændige kilder ved optagelserne. Samledokumentets ordlyd og billeder er bevaret uændret.
+
+## Egne bøger
+
+Opslag fra disputationer, teser, synteser og billedregister kan samles under Min bog. Noter og rækkefølge gemmes i læserens browser. Bogfilen kan hentes og åbnes igen. Trykvisningen indeholder de valgte tekster, egne noter, kildehenvisninger og lydsteder og kan udskrives eller gemmes som PDF fra browseren.
+
+## Billeder og rettigheder
+
+[Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Billedrettigheder](../sources/under-bugten/photos/README.md) · [Kilderegister](hyperbook-sources.json).

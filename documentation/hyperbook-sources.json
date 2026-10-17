@@ -1,8 +1,8 @@
 {
   "edition": "2026-10-17",
   "records": 49,
-  "paragraphs": 931,
-  "source_observations": 24,
+  "paragraphs": 727,
+  "source_observations": 27,
   "original_manuscript_images": 7,
   "photographs": [
     {
@@ -51,59 +51,6 @@
       "preparation": "Whole frame retained; EXIF orientation normalised; reduced web copy. Capture date not inferred from Drive upload or modification dates."
     }
   ],
-  "comparison_selections": [
-    {
-      "id": "navne",
-      "title": "Max Y. Locusus / Maxia Anna Niknolds",
-      "left": {
-        "id": "D1-01",
-        "layer": "synthesis"
-      },
-      "right": {
-        "id": "D4-02",
-        "units": [
-          "D4-02-U004-1"
-        ]
-      },
-      "notes": [
-        "d4-02-u004-21"
-      ]
-    },
-    {
-      "id": "wronski",
-      "title": "Fornuften / dømmekraften",
-      "left": {
-        "id": "D3-07",
-        "layer": "written"
-      },
-      "right": {
-        "id": "D3-07",
-        "units": [
-          "D3-07-U001"
-        ]
-      },
-      "notes": [
-        "d3-07-u001-17",
-        "d3-07-u001-18"
-      ]
-    },
-    {
-      "id": "tiden",
-      "title": "Man kan ikke rejse i tiden",
-      "left": {
-        "id": "D4-02",
-        "units": [
-          "D4-02-U001"
-        ]
-      },
-      "right": {
-        "id": "D4-02",
-        "layer": "synthesis"
-      },
-      "notes": [
-        "d4-02-u004-22"
-      ]
-    }
-  ],
-  "text_policy": "Reading passages, written theses, 2023 syntheses and source observations are imported literally from the retained editions and source apparatus. Comparisons and image juxtapositions are editorial selections, not additional historical documents."
+  "comparison_selections": [],
+  "text_policy": "Reading passages, written theses, 2023 syntheses and source observations are imported literally from the retained editions and source apparatus. No selected pairings are promoted; comparisons are made by the reader through the collection."
 }

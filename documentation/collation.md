@@ -1,6 +1,6 @@
 # Kilder og læsemåder
 
-Redaktion 17. oktober 2026. Forslag og kildevarianter står ved siden af læseudgaven. En henvisning til et skriftligt forlæg er ikke i sig selv dokumentation for, at ordene blev sagt sådan.
+Redaktion 17. oktober 2026. Skriftlige forlæg, historiske synteser og redaktionelle læsemåder. En henvisning til et skriftligt forlæg er ikke i sig selv dokumentation for, at ordene blev sagt sådan.
 
 [Rammetekst og manuskript](../manuscript.html) · [Disputationer og lyd](../index.html).
 
@@ -24,27 +24,19 @@ Max Y. Locusus og Maxia Anna Niknolds teorier om den transgressive kunst som et 
 
 [Bevaret kildefil](../archive/2023/disput-1/transcription_and_synthesis_20230918164901.txt)
 
-### Den latinske indledning og Praeses’ manuskript
+### Latinsk oplæsning
 
 [00:00:00](../index.html#D1-01@0) · D1-01-U001
 
-Det bevarede script begynder med den danske velkomst. Der er ikke fundet et fuldstændigt latinsk oplæsningsforlæg i samledokumentet. Latinens ordlyd forbliver åben.
+Optagelsen åbner med en latinsk oplæsning. Det bevarede skriftlige script begynder med den efterfølgende danske velkomst.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
-### Stedbetegnelsen
+### Kunstakademiet
 
 [00:03:30](../index.html#D1-01@210) · D1-01-U003
 
-Samledokumentet placerer disputten i kælderen under Det Jyske Kunstakademi. Kontrolgenkendelsen gengiver en forbindelse med kunst. Kunstakademiet er derfor en bedre støttet kandidat end den tidligere Postakademiet-læsning; kandidatstatus bevares.
-
-**Tidligere læsning**
-
-Vi befinder os i kælderen til [muligvis: Postakademiet].
-
-**Kandidat med stedlig kildestøtte**
-
-Vi befinder os i kælderen til [muligvis: Kunstakademiet].
+Disputten finder sted i kælderen under Det Jyske Kunstakademi. Stedbetegnelsen følger denne læsning i renskriften.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -73,7 +65,7 @@ ComputeLabs-projektet udfordrer regler og normer i det statlige og kapitalistisk
 
 [00:00:00](../index.html#D1-02@0) · D1-02-U001
 
-Lumpenintelligentsia er bekræftet af Asker Bryld Staunæs den 17. oktober 2026. Det gamle tekstlags staveformer er bevaret i deres egne kilder. Bekræftelsen gælder ordet, ikke samtlige omgivende sætningsled.
+Læseudgaven samler ordets forskellige genkendelses- og staveformer som lumpenintelligentsia.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -119,19 +111,15 @@ Computer Lars fremfører en revolutionær teknik, der anvendes til at producere 
 
 [Bevaret kildefil](../archive/2023/disput-1/transcription_and_synthesis_20230918182620.txt)
 
-### Stilistik og statistik
+### Revolutionens stilistik
 
 [00:00:00](../index.html#D1-04@0) · D1-04-U001
 
-Manuskriptet skriver stilistik. Flere lydgenkendelser skriver statistik. Læseudgavens afbrudte fremsættelse bevares, og manuskriptets fulde tese står ved siden af.
+Teknikken er revolutionens stilistik. Tesens ordlyd følger manuskriptet og forfatterens bekræftelse.
 
-**Manuskript**
+**Manuskriptets tese**
 
 Teknikken er revolutionens stilistik.
-
-**Gennemgående genkendelsesvariant**
-
-Teknikken er revolutionens statistik.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -181,7 +169,7 @@ Foucault's undersøgelse af pastorale og monarkiske magtformer i forhold til med
 
 [00:00:00](../index.html#D1-06@0) · D1-06-U001
 
-Manuskriptets hypotese bruger trans-monarkisk. Læseudgaven skriver transmonarkisk. Forskellen i bindestreg ændrer ikke tesens ord; den historiske kildeform bevares ved siden af.
+Manuskriptets trans-monarkisk og læseudgavens transmonarkisk betegner samme tese.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -205,6 +193,14 @@ Antitese H: Dialektikken er i konstant evolution.
 Udfordringerne ved halvmærkets offentlighedsbeklædelighed har krævet innovative løsninger for at undgå dialektikkens brud og opretholde historiens lovmæssigheder.
 
 [Bevaret kildefil](../archive/2023/disput-1/transcription_and_synthesis_20230918195942.txt)
+
+### SABAE og Gustav Bunzel
+
+[00:15:33](../index.html#D1-07@933) · D1-07-U019
+
+De genkendte navneformer er samlet som SABAE og Gustav Bunzel.
+
+[SABAE, Gustav Bunzel og Paul Smith, Arbejdsfrihedens spøgelse, CIRA katalog](https://www.cira.ch/catalogue/index.php?lvl=notice_display&id=6236)
 
 
 ## D1-08 Revolutionen er entropisk
@@ -252,9 +248,9 @@ Computer Lars' paradoksale rumtid, som kombinerer dyb teori, forberedelser og me
 
 [00:16:13](../index.html#D2-01@973) · D2-01-U023
 
-Solidum petit in profundis er bekræftet i Aarhus Universitets egen beskrivelse af seglet. Denne identifikation afgør ikke den fulde, omgivende latinske formulering.
+Solidum petit in profundis er Aarhus Universitets motto. Henvisningen identificerer mottoet i den latinske passage.
 
-**Dokumenteret motto**
+**Motto**
 
 Solidum petit in profundis
 
@@ -323,6 +319,14 @@ Computer-Lars har udviklet et suverænitetsprincip, som kræver at man har to le
 
 [Bevaret kildefil](../archive/2023/disput-2/transcription_and_synthesis_20230920201005.txt)
 
+### Yuk Hui
+
+[00:00:08](../index.html#D2-04@8) · D2-04-U001
+
+Navnet og den nævnte kommende bog identificeres som Yuk Hui, Machine and Sovereignty.
+
+[Yuk Hui, Machine and Sovereignty, University of Minnesota Press, 2024](https://digitalmilieu.net/5245/publication-of-machine-and-sovereignty-university-of-minnesota-press-2024/)
+
 
 ## D2-05 Computer Lars tager del i en liste
 
@@ -386,11 +390,11 @@ Computer Lars oprettes som en mediator mellem to modsætninger, der systematisk 
 
 [Bevaret kildefil](../archive/2023/disput-2/transcription_and_synthesis_20230920215016.txt)
 
-### Peirce og det andet
+### Peirce om det andet
 
 [00:00:31](../index.html#D2-07@31) · D2-07-U001
 
-Oplæsningen følger CP 1.536. Det engelske forlæg betegner det andet som eksisterende. De foreliggende danske genkendelser giver en usikker forbindelse mellem ting, eksistens og mindre end eksistens. Der er ikke indsat en ny dansk oversættelse i talen.
+Oplæsningens forlæg er CP 1.536. Det andet karakteriseres her som eksisterende; kvalitet og lov skelnes fra denne eksistens.
 
 [Charles S. Peirce, Collected Papers 1.536–1.537](https://www.textlog.de/4284-2.html)
 
@@ -398,15 +402,11 @@ Oplæsningen følger CP 1.536. Det engelske forlæg betegner det andet som eksis
 
 [00:01:03](../index.html#D2-07@63) · D2-07-U001
 
-CP 1.536 giver en konkret kildekandidat til den uklare afslutning. Lydgenkendelserne bekræfter ikke sikkert den danske formulering.
+Afslutningen følger CP 1.536: en lov manifesterer sig som lov ved at bestemme en vane.
 
-**Engelsk forlæg**
+**Forlæg**
 
 except by determining a habit
-
-**Dansk læseforslag til kontrol**
-
-… undtagen ved at bestemme en vane.
 
 [Charles S. Peirce, Collected Papers 1.536–1.537](https://www.textlog.de/4284-2.html)
 
@@ -414,7 +414,7 @@ except by determining a habit
 
 [00:01:13](../index.html#D2-07@73) · D2-07-U002
 
-Passagens forlæg fortsætter i CP 1.537. Henvisningen forbinder oplæsningens tanke, erkendelse og tegn med den citerede tekst uden at ændre den danske formulering.
+Oplæsningen fortsætter i CP 1.537 med forbindelsen mellem tanke, erkendelse og tegn.
 
 [Charles S. Peirce, Collected Papers 1.536–1.537](https://www.textlog.de/4284-2.html)
 
@@ -460,11 +460,11 @@ En syntetisk sammenblanding af computerteknik, narfologisk segmentering og synta
 
 [Bevaret kildefil](../archive/2023/disput-3/transcription_and_synthesis_20230922184510.txt)
 
-### Den skrevne tese og den udfoldede fremsættelse
+### Inversion og rekursivitet
 
 [00:00:29](../index.html#D3-01@29) · D3-01-U001
 
-Manuskriptet giver tesens relation mellem imaginær rekursivitet og strukturel irreduktibilitet. Optagelsen udfolder sondringen mellem narratologiske segmenter og syntaktiske perioder. Det usikre transfrastiske ord løses ikke alene af den kortere skrevne tese.
+Den skrevne hypotese formulerer relationen mellem imaginær rekursivitet og strukturel irreduktibilitet. Fremsættelsen udfolder den gennem narratologiske segmenter og syntaktiske perioder.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -489,51 +489,31 @@ Computer og Lars refererer begge til beregning, som resulterer i hæderlig trium
 
 [Bevaret kildefil](../archive/2023/disput-3/transcription_and_synthesis_20230922190913.txt)
 
-### Det tredje navn
+### Vindtyven
 
 [00:08:15](../index.html#D3-02@495) · D3-02-U006
 
-Genkendelserne giver flere former af et navn fulgt af kleptor eller kleptr. Ingen sikker skriftlig navneform er fundet. Navnene registreres som lydlige kandidater, ikke som identificerede klassiske navne.
+Den tredje navnedannelse udlægges som en vindtyv og forbindes med bønder, fiskere og søfolk. Læseudgaven vælger Aiolos kleptor blandt de bevarede lydlige varianter.
 
-**Nuværende kandidat**
+**Læseudgave**
 
-Aiolos kleptor / Aiolos kleptr
+Aiolos kleptor
 
-**Alternativ lydlæsning**
-
-Arjons kleptor / Arjons kleptr
-
-**Alternativ lydlæsning**
-
-Ions kleptror / Ions kleptr
-
-### Vindtyven
+### Gunstig vind
 
 [00:08:38](../index.html#D3-02@518) · D3-02-U006
 
-En ny kontrolgenkendelse giver ved gunstig vind. Den tidligere genkendelse gav ved gunstig lejlighed. Kandidaten med vind passer til de følgende bønder, fiskere og søfolk, men er fortsat markeret som mulig.
+Ved gunstig vind følger den selvstændige genkendelse og den efterfølgende omtale af bønder, fiskere og søfolk.
 
-**Kandidat**
-
-… den, der stjæler [muligvis: ved gunstig vind].
-
-**Tidligere alternativ**
-
-… den, der stjæler ved gunstig lejlighed.
-
-### Carol Stumper og Karl Stumpf
+### Carol Stumper
 
 [00:17:20](../index.html#D3-02@1040) · D3-02-U019
 
-De indlejrede anagramfigurer i manuskriptet skriver Carol Stumper. Det er et bogstavret anagram af Computer Lars. Karl Stumpf har et andet bogstavinventar. Figuren giver et stærkt læseforslag; navnet er ikke automatisk udskiftet i den talte passage.
+Samledokumentets figur skriver Carol Stumper, et bogstavret anagram af Computer Lars. Navnet er brugt i læseudgaven.
 
-**Anagramfigur i manuskriptet**
+**Anagram**
 
 Carol Stumper
-
-**Nuværende lydtransskription**
-
-Karl Stumpf
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 
@@ -541,17 +521,17 @@ Karl Stumpf
 
 [00:00:22](../index.html#D3-02@22) · D3-02-U001
 
-Rammeteksten angiver 6.227.020.800 permutationer og omtaler tretten bogstaver. Computer Lars har tolv bogstaver, inklusive to r-er, samt ét mellemrum. Optællingen afhænger derfor af, om mellemrum tælles med, og om identiske r-er behandles som forskellige. Kildens tal er bevaret.
+Rammetekstens tal er bevaret. Computer Lars har tolv bogstaver, heraf to r-er, samt ét mellemrum. Beregningen afhænger af, om mellemrum medtælles, og om de to r-er skelnes.
 
-**Tal i rammeteksten**
+**Rammetekst**
 
 13! = 6.227.020.800
 
-**Forskellige ordninger med ét mellemrum**
+**Ordninger med ét mellemrum og identiske r-er**
 
 13! / 2! = 3.113.510.400
 
-**Forskellige ordninger uden mellemrum**
+**Ordninger uden mellemrum og med identiske r-er**
 
 12! / 2! = 239.500.800
 
@@ -620,21 +600,25 @@ Gud manifesterer sig gennem det bibelske bibliotek gennem 411 bogstemmer og inde
 
 [Bevaret kildefil](../archive/2023/disput-3/transcription_and_synthesis_20230922205423.txt)
 
-### Bibliotekets taludtryk
+### Bibliotekets kombinatorik
 
 [00:00:27](../index.html#D3-05@27) · D3-05-U001
 
-Læseudgaven angiver et uklart taludtryk. Af de opregnede parametre kan antallet af mulige bøger udregnes. Det følgende er en beregning af de nævnte parametre, ikke en rekonstruktion af de talte ord.
+De opregnede parametre er 410 sider, 40 linjer, 80 tegn og 25 tegnmuligheder. Nedenstående er beregningen af disse parametre, særskilt fra det talte taludtryk.
 
-**Opregnede parametre**
-
-410 sider × 40 linjer × 80 tegn; 25 mulige tegn pr. position.
-
-**Afledt antal mulige bøger**
+**Beregning**
 
 25^(410 × 40 × 80) = 25^1.312.000.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
+
+### Magliabechi
+
+[00:14:58](../index.html#D3-05@898) · D3-05-U017
+
+Lydformerne Magierbækket og lignende er læst som Magliabechi, den omtalte bibliotekar.
+
+[Biblioteca Magliabechiana, IRHT Pinakes](https://pinakes-dev.irht.cnrs.fr/notices/copiste-possesseur-autre/5141/)
 
 
 ## D3-06 Rekursivitet som tidssløjfe er bevidsthedens mediale struktur
@@ -657,11 +641,11 @@ Rekursivitet, kunstig intelligens og temporalitet interagerer for at definere be
 
 [Bevaret kildefil](../archive/2023/disput-3/transcription_and_synthesis_20230922211906.txt)
 
-### Romanens åbningssætning
+### Romanens åbning
 
 [00:02:07](../index.html#D3-06@127) · D3-06-U002
 
-Den danske gengivelse kan sammenholdes med åbningen af Combray. Den talte oversættelse er bevaret.
+Den talte danske gengivelse henviser til åbningen af Combray i Du côté de chez Swann.
 
 [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
 
@@ -690,13 +674,9 @@ Uddragelses- og hævelsesalgoritmerne er blevet forsøgt knyttet sammen med forn
 
 [00:00:55](../index.html#D3-07@55) · D3-07-U001
 
-En selvstændig kontrolgenkendelse giver dumhed som sætningens subjekt. Kants tekst understøtter emnet, og den foregående læseudgave gentog dømmekraften som både subjekt og bestemmelse. Den ene forekomst er rettet til dumhed; resten af argumentet er bevaret.
+Den selvstændige kontrolgenkendelse giver dumhed som sætningens subjekt. Kants tekst forbinder dumhed med mangel på dømmekraft.
 
-**Tidligere læseudgave**
-
-Imidlertid er dømmekraften ifølge Kant en egenskab, der knytter sig til dømmekraften.
-
-**Rettet læsning**
+**Læseudgave**
 
 Imidlertid er dumhed ifølge Kant en egenskab, der knytter sig til dømmekraften.
 
@@ -706,13 +686,13 @@ Imidlertid er dumhed ifølge Kant en egenskab, der knytter sig til dømmekraften
 
 [00:00:01](../index.html#D3-07@1) · D3-07-U001
 
-Den skrevne hypotese og den transskriberede fremsættelse fordeler potens/rod og multiplikation/division forskelligt. Kontrolgenkendelsen støtter den foreliggende transskriptions fordeling. Begge forbliver synlige; manuskriptet bruges ikke til at ensrette dem.
+Den skrevne tese og den fremførte fremsættelse fordeler operationerne forskelligt. Begge tekstlag er bevaret.
 
 **Skrevet hypotese**
 
 Multiplikation/division: fornuft. Potensopløftning/roduddragning: dømmekraft.
 
-**Transskriberet fremsættelse**
+**Fremsættelse**
 
 Roduddragelse/potens: fornuft. Division/multiplikation: dømmekraft.
 
@@ -745,17 +725,17 @@ Intelligens er objektivt stabil, og er relateret til problemløsning og problemo
 
 [00:01:40](../index.html#D3-08@100) · D3-08-U002
 
-Passagen skelner mellem romanens åbningssætning og forordet til Contre Sainte-Beuve. Begge forlæg er identificeret. Den talte danske formulering af intelligenssætningen bevares.
+Passagen skelner mellem romanens åbningssætning og forordet til Contre Sainte-Beuve. Henvisningerne giver adgang til begge forlæg.
 
 [Marcel Proust, Contre Sainte-Beuve, Préface (Gallimard 1954), 55–63](https://fr.wikisource.org/wiki/Contre_Sainte-Beuve/Pr%C3%A9face)
 
 [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
 
-### Flauberts to venner
+### Bouvard et Pécuchet
 
 [00:03:18](../index.html#D3-08@198) · D3-08-U003
 
-Bouvard et Pécuchet er identificeret som det omtalte værk. Henvisningen giver adgang til teksten uden at udpege en bestemt passage som et ordret citat.
+Flauberts roman er forlæg til omtalen af de to venner, dumhed og tilegnelse af viden.
 
 [Gustave Flaubert, Bouvard et Pécuchet](https://www.gutenberg.org/ebooks/14157)
 
@@ -810,19 +790,15 @@ Man kan rejse til Tørre den 2. september 2020 og få indblik i politiske proble
 
 [Bevaret kildefil](../archive/2023/disput-4/transcription_and_synthesis_20230924184245.txt)
 
-### Navnene vender tilbage
+### Syntesens navne
 
 [00:02:33](../index.html#D4-02@153) · D4-02-U004
 
-Syntesen fra den første disput skriver Max Y. Locusus og Maxia Anna Niknolds. Senere omtales lignende navne i metadisputten. Stavningen Maxia er nu brugt som mulig læsning med henvisning til den bevarede syntese.
+Den bevarede syntese fra første disput skriver Max Y. Locusus og Maxia Anna Niknolds. Navnene vender tilbage i metadisputten.
 
-**Syntese fra 2023**
+**Syntese · 2023**
 
 Max Y. Locusus og Maxia Anna Niknolds teorier om den transgressive kunst …
-
-**Mulig læsning i metadisputten**
-
-[muligvis: Max Y. Locusus] og [muligvis: Maxia Anna Niknolds] …
 
 [Summa Transscriptus, syntese til Kunsten er død, 18. september 2023](../archive/2023/disput-1/transcription_and_synthesis_20230918164901.txt)
 
@@ -830,7 +806,7 @@ Max Y. Locusus og Maxia Anna Niknolds teorier om den transgressive kunst …
 
 [00:03:10](../index.html#D4-02@190) · D4-02-U004
 
-Jarrys Commentaire er lokaliseret med sin oprindelige tidsskriftsreference. Det giver et forlæg til tid, rum og stilstand. Optagelsens betegnelse af den læste udgave og de uklare sætningsled bevares.
+Jarrys Commentaire pour servir à la construction pratique de la Machine à explorer le temps er et forlæg til tid, rum og stilstand. Teksten stod i Mercure de France i 1899, s. 387–396.
 
 [Alfred Jarry / Dr Faustroll, Commentaire pour servir à la construction pratique de la Machine à explorer le temps, Mercure de France 29 (1899), 387–396](https://fr.wikisource.org/wiki/Commentaire_pour_servir_%C3%A0_la_construction_pratique_de_la_Machine_%C3%A0_explorer_le_temps)
 
@@ -1063,9 +1039,9 @@ ComputerLars foreslår at konsultere nye løsninger for at håndtere logistiske 
 
 [00:00:00](../index.html#D4-17@0) · D4-17-U001
 
-Den følgende samtale bruger chips både om det spiselige og om mikrochips. De to betydninger holdes i samme optagelse; der er ikke rettet den ene til den anden.
+Chips bruges i samtalen både om det spiselige og om mikrochips. De to betydninger tilhører samme forløb.
 
-**Metatesens genstand**
+**Metatese**
 
 Vi har begrænsede mængder chips og øl.
 
@@ -1138,15 +1114,11 @@ Korrekt retning er præciserende nødvendig for at imødekomme logistiske behov,
 
 [Bevaret kildefil](../archive/2023/disput-4/transcription_and_synthesis_20230924220749.txt)
 
-### Hvem er klienten
+### Klientforholdet
 
 [00:01:13](../index.html#D4-22@73) · D4-22-U002
 
-Optagelsen præciserer, at Logistique er hyret af Organ for de Autonome Videnskaber og ikke af Computer Lars. Planens rollebetegnelser står ved siden af, men de tre betegnelser er ikke slået sammen.
-
-**Præcisering i samtalen**
-
-Logistique er hyret af Organ for de Autonome Videnskaber og ikke Computer Lars.
+Logistique er hyret af Organ for de Autonome Videnskaber. Computer Lars er moddisputanten. Omtalen af klienten fastholder denne forskel.
 
 [Under Bugten, samledokument, rammetekst og teser](../manuscript.html)
 

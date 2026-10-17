@@ -1,33 +1,32 @@
-# Summa-Transscriptus
-Dokumentation for skolastisk komputation omkring Computer Lars-spektaklet, kurateret af Organ for de Autonome Videnskaber i en middelalderkælder under Det Jyske Kunstakademi: https://djk.nu/offentligt/under-bugten.
+# Summa Transscriptus
 
-Download: https://drive.google.com/drive/folders/1Yh4-TucOUeCVpXRxtoLXZtDfOfF1YqKE?usp=sharing
+Disputter over Computer Lars-spektaklet ved Organ for de Autonome Videnskaber. *Under Bugten*, Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi, september 2023.
+
+**[Læs og lyt](https://computerlars.github.io/Summa-Transscriptus/)** · [Min bog](https://computerlars.github.io/Summa-Transscriptus/#bog) · [Billeder](https://computerlars.github.io/Summa-Transscriptus/#figurer) · [Synteser](https://computerlars.github.io/Summa-Transscriptus/#synteser) · [Register](https://computerlars.github.io/Summa-Transscriptus/#register)
 
 ## Disputationerne
 
-*Under Bugten* fandt sted ved Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi i september 2023. Computer Lars disputerede med fire inviterede gæster. Praeses ledede disputterne. Navnene her følger opførelsens betegnelser.
-
-| Dato | Disput | Læseudgave | Tidsforankret tekst |
+| Dato | Disput | Læsning og lyd | Word |
 | --- | --- | --- | --- |
-| 2023-09-18 | Mikhailos Boltus og Computer Lars | [Læs](disputations/01-mikhailos-boltus/reading.md) | [Tidsankre og kilder](disputations/01-mikhailos-boltus/timed.md) |
-| 2023-09-20 | Maia Bacchus og Computer Lars | [Læs](disputations/02-maia-bacchus/reading.md) | [Tidsankre og kilder](disputations/02-maia-bacchus/timed.md) |
-| 2023-09-22 | Petrus Borumanum og Computer Lars | [Læs](disputations/03-petrus-borumanum/reading.md) | [Tidsankre og kilder](disputations/03-petrus-borumanum/timed.md) |
-| 2023-09-24 | Logistique og Computer Lars | [Læs](disputations/04-logistique/reading.md) | [Tidsankre og kilder](disputations/04-logistique/timed.md) |
+| 2023-09-18 | Mikhailos Boltus og Computer Lars | [Læs og lyt](https://computerlars.github.io/Summa-Transscriptus/#disput/D1-01) | [Word](https://computerlars.github.io/Summa-Transscriptus/disputations/01-mikhailos-boltus/reading.docx) |
+| 2023-09-20 | Maia Bacchus og Computer Lars | [Læs og lyt](https://computerlars.github.io/Summa-Transscriptus/#disput/D2-01) | [Word](https://computerlars.github.io/Summa-Transscriptus/disputations/02-maia-bacchus/reading.docx) |
+| 2023-09-22 | Petrus Borumanum og Computer Lars | [Læs og lyt](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-01) | [Word](https://computerlars.github.io/Summa-Transscriptus/disputations/03-petrus-borumanum/reading.docx) |
+| 2023-09-24 | Logistique og Computer Lars | [Læs og lyt](https://computerlars.github.io/Summa-Transscriptus/#disput/D4-01) | [Word](https://computerlars.github.io/Summa-Transscriptus/disputations/04-logistique/reading.docx) |
 
-Arbejdsudgaverne er redigeret i oktober 2026 og lagt på denne gren til videre gennemgang.
+## Bog og kilder
 
-[Læsning med lyd og tidsankre](https://computerlars.github.io/Summa-Transscriptus/) · [Tvivlspunkter](https://computerlars.github.io/Summa-Transscriptus/review.html).
+Passager, teser, synteser og billeder kan samles i en egen bog med noter, kildehenvisninger og lydsteder. Bogsamlingen gemmes i browseren og kan hentes som en fil. Trykvisningen kan udskrives eller gemmes som PDF.
 
-[Summa Transscriptus · hyperbog, udkast 01](https://computerlars.github.io/Summa-Transscriptus/hyperbog.html): læsning med glosse, sammenstillinger, billedtavler, synteser og anagrammer. [Kilder og opbygning](documentation/hyperbook.md).
+Læseudgaven fra oktober 2026 er renskrevet på grundlag af originaloptagelser, selvstændige lydgenkendelser, de oprindelige transskriptioner og de skriftlige forlæg. Synteserne fra 2023 står som selvstændige tekster og er bevaret ordret. Navnene følger opførelsens betegnelser. Praeses ledede disputterne.
 
-`reading.md` er den redigerbare læsetekst. Læsesiden indlæser den direkte. Læsesiden afspiller MP3-lyttekopier. Hver optagelse linker til den oprindelige M4A-fil. En lokal lydmappe kan også vælges i browseren. Word-filerne er daterede eksportudgaver. [Samlet lydkatalog](documentation/recordings.md) · [Lyttefiler](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
+- [Ramme og manuskript](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Original Word-fil](https://computerlars.github.io/Summa-Transscriptus/sources/under-bugten/manuscript.docx).
+- [Kilder og læsemåder](https://computerlars.github.io/Summa-Transscriptus/collation.html) · [Redaktionelle læsemåder](https://computerlars.github.io/Summa-Transscriptus/readings.html).
+- [Transskriptioner og synteser fra 2023](https://github.com/ComputerLars/Summa-Transscriptus/tree/codex/retranscription-review/archive/2023/).
+- [Lydkatalog](https://github.com/ComputerLars/Summa-Transscriptus/tree/codex/retranscription-review/documentation/recordings.md) · [Originaloptagelser og delt arkiv](https://drive.google.com/drive/folders/1Yh4-TucOUeCVpXRxtoLXZtDfOfF1YqKE?usp=sharing) · [MP3-lyttekopier](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
+- [Kolofon](https://github.com/ComputerLars/Summa-Transscriptus/tree/codex/retranscription-review/documentation/hyperbook.md) · [Program og kontekst](https://github.com/ComputerLars/Summa-Transscriptus/tree/codex/retranscription-review/documentation/under-bugten.md).
 
-[Ramme og manuskript](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Kilder og læsemåder](https://computerlars.github.io/Summa-Transscriptus/collation.html) · [Referencekilder](documentation/references.md) · [Seneste tekstrettelser](documentation/revisions.md).
+## Syntheticism
 
-## Tekstlag
+[Syntheticism — afhandling, forsvarsslides og transskription](https://github.com/ComputerLars/Syntheticism). [Afhandlingens henvisninger til Summa Transscriptus](https://github.com/ComputerLars/Summa-Transscriptus/tree/codex/retranscription-review/documentation/dissertation.md).
 
-- [Lydkilder og redaktionsprincipper](documentation/editorial-principles.md): den nye transskription og den nænsomt grammatiske læseudgave, med tidsankre tilbage til hver originaloptagelse.
-- [Maskintransskriptioner og synteser fra 2023](archive/2023/README.md): de oprindelige TXT-filer, bevaret uændret. Deres synteser tilhører den daværende komputation og opførelse.
-- [Program og kontekst](documentation/under-bugten.md): ramme, datoer og kildelinks. [Forbindelsen til Syntheticism](documentation/dissertation.md) angiver de bibliografiske forbindelser til afhandlingen.
-
-Det historiske program `guitranscribe.py` og den oprindelige licens er bevaret. De nye læseudgaver erstatter hverken lydoptagelserne eller de historiske synteser.
+Det oprindelige program `guitranscribe.py` og den oprindelige licens er bevaret. Fotografierne krediteres særskilt og omfattes ikke af programmets licens.

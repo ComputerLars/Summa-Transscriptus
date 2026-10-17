@@ -4,7 +4,7 @@
 
 2023-09-24 · Aarhus Bugt Center for Kunst, Det Jyske Kunstakademi. Praeses.
 
-Redaktion oktober 2026. Arbejdsudgave. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
+Læseudgave oktober 2026. Tidsankre regnes fra begyndelsen af hver angivet lydfil.
 
 Rå genkendelse med tidsankre. Den redigerede ordlyd og talerbetegnelserne findes i læseudgaven.
 

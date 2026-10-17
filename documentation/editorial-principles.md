@@ -4,11 +4,11 @@ Læseudgaverne bygger på ny lydgenkendelse af optagelserne fra september 2023, 
 
 Tegnsætning, kongruens, åbenlyse genkendelsesfejl og rene stammen er rettet. Argumenternes rækkefølge, negationer, kvalifikationer, faglige særheder og meningsbærende gentagelser er bevaret. Talerens faktiske påstande er ikke faktakorrigeret til andre påstande. Dette er transskriptionsredaktion, ikke nye synteser af disputterne.
 
-Usikkerhed angives lokalt med `[uklart]`, `[latin utydeligt]` eller et konkret `[muligvis: …]`. De rå genkendelser, rettelser og resterende kontrolpunkter findes i det lokale redaktionsmateriale. Hele ordlyden er endnu ikke kontrolleret ved manuel aflytning. Tidsankrene er omtrentlige og afledt af den parallelle lydgenkendelse.
+Læseudgaven vælger de bedst underbyggede læsninger ved sammenhold af lyd, kontekst, selvstændige genkendelser, de oprindelige transskriptioner og skriftlige forlæg. Afbrudte tilløb er udeladt; sætningsforbindelser er renskrevet. En urekonstrueret latinsk oplæsning er angivet som oplæsning. [Redaktionelle læsemåder](../readings.html) · [Revisionsdata](reading-revisions.json) og de tidligere udgaver bevarer teksthistorien. Tidsankrene er omtrentlige og regnes fra begyndelsen af hver optagelse.
 
 ## Stemmer og opførelsesnavne
 
-Begge stemmer, der optræder som Computer Lars, betegnes Computer Lars. Ordmoderation betegnes Praeses. Gæsterne betegnes Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Indlæg fra salen betegnes Ex auditorio, hvor denne funktion kan identificeres. En uafklaret stemme får en lokal usikkerhedsmarkering.
+Begge stemmer, der optræder som Computer Lars, betegnes Computer Lars. Ordstyreren betegnes Praeses. Gæsterne betegnes Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Indlæg fra salen betegnes Ex auditorio, hvor denne funktion kan identificeres. En uidentificeret stemme betegnes Deltager.
 
 Disse er opførelsesbetegnelser. Organ for de Autonome Videnskaber, Computer Lars, Praeses og Summa Transscriptus holdes adskilt.
 
