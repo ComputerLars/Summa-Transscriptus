@@ -1,0 +1,109 @@
+{
+  "edition": "2026-10-17",
+  "records": 49,
+  "paragraphs": 931,
+  "source_observations": 24,
+  "original_manuscript_images": 7,
+  "photographs": [
+    {
+      "id": "kaelder-1",
+      "src": "sources/under-bugten/photos/cille-hvass-holm-1.jpg",
+      "title": "Foto Cille Hvass Holm1.jpg",
+      "credit": "Cille Hvass Holm",
+      "place": "Under Bugten · Aarhus Bugt Center for Kunst · september 2023",
+      "source_url": "https://drive.google.com/file/d/10Vh-GqQBvZ6gzKNpR5qBVHKHZQeOwJuW/view",
+      "source_sha256": "90804045e979a1520de1700846541830bb07842e14b0b403eb144ab56e05c994",
+      "source_bytes": 1304661,
+      "web_sha256": "6678facc9a83a862119efa8404c821fb1c9bd07ca34db0e26617118799ea6608",
+      "web_bytes": 318021,
+      "width": 1650,
+      "height": 2200,
+      "preparation": "Whole frame retained; EXIF orientation normalised; reduced web copy. Capture date not inferred from Drive upload or modification dates."
+    },
+    {
+      "id": "kaelder-2",
+      "src": "sources/under-bugten/photos/cille-hvass-holm-2.jpg",
+      "title": "Foto Cille Hvass Holm2.jpg",
+      "credit": "Cille Hvass Holm",
+      "place": "Under Bugten · Aarhus Bugt Center for Kunst · september 2023",
+      "source_url": "https://drive.google.com/file/d/1parNmdZY6LMGW401SKfhUxEWEgZuT-aN/view",
+      "source_sha256": "709471d67606d9c7fbe7b0d336a9731969c2884e67156bb7f5836b86014f0c1a",
+      "source_bytes": 2640057,
+      "web_sha256": "5674456ad4771789166aa0283ba43aaf448130221f98fbe75d33a8d36e876ae3",
+      "web_bytes": 657414,
+      "width": 2200,
+      "height": 1650,
+      "preparation": "Whole frame retained; EXIF orientation normalised; reduced web copy. Capture date not inferred from Drive upload or modification dates."
+    },
+    {
+      "id": "oversigt",
+      "src": "sources/under-bugten/photos/oversigtsbillede.jpg",
+      "title": "oversigtsbillede.jpg",
+      "credit": null,
+      "place": "Under Bugten · Aarhus Bugt Center for Kunst · september 2023",
+      "source_url": "https://drive.google.com/file/d/1ubEJiCIXWVmj_1UU4CmOtTCrCVW_M0jz/view",
+      "source_sha256": "a8f36ef2357290dd8b4e66b2bd3d8416d3c6d65c7c7f730a8153334bcb256cab",
+      "source_bytes": 2757373,
+      "web_sha256": "e872fca834d253b656622b15b7700677cbcd23b1a3004acc4079bb8e758fee24",
+      "web_bytes": 318788,
+      "width": 2200,
+      "height": 1467,
+      "preparation": "Whole frame retained; EXIF orientation normalised; reduced web copy. Capture date not inferred from Drive upload or modification dates."
+    }
+  ],
+  "comparison_selections": [
+    {
+      "id": "navne",
+      "title": "Max Y. Locusus / Maxia Anna Niknolds",
+      "left": {
+        "id": "D1-01",
+        "layer": "synthesis"
+      },
+      "right": {
+        "id": "D4-02",
+        "units": [
+          "D4-02-U004-1"
+        ]
+      },
+      "notes": [
+        "d4-02-u004-21"
+      ]
+    },
+    {
+      "id": "wronski",
+      "title": "Fornuften / dømmekraften",
+      "left": {
+        "id": "D3-07",
+        "layer": "written"
+      },
+      "right": {
+        "id": "D3-07",
+        "units": [
+          "D3-07-U001"
+        ]
+      },
+      "notes": [
+        "d3-07-u001-17",
+        "d3-07-u001-18"
+      ]
+    },
+    {
+      "id": "tiden",
+      "title": "Man kan ikke rejse i tiden",
+      "left": {
+        "id": "D4-02",
+        "units": [
+          "D4-02-U001"
+        ]
+      },
+      "right": {
+        "id": "D4-02",
+        "layer": "synthesis"
+      },
+      "notes": [
+        "d4-02-u004-22"
+      ]
+    }
+  ],
+  "text_policy": "Reading passages, written theses, 2023 syntheses and source observations are imported literally from the retained editions and source apparatus. Comparisons and image juxtapositions are editorial selections, not additional historical documents."
+}

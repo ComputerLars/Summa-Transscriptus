@@ -18,6 +18,8 @@ Arbejdsudgaverne er redigeret i oktober 2026 og lagt på denne gren til videre g
 
 [Læsning med lyd og tidsankre](https://computerlars.github.io/Summa-Transscriptus/) · [Tvivlspunkter](https://computerlars.github.io/Summa-Transscriptus/review.html).
 
+[Summa Transscriptus · hyperbog, udkast 01](https://computerlars.github.io/Summa-Transscriptus/hyperbog.html): læsning med glosse, sammenstillinger, billedtavler, synteser og anagrammer. [Kilder og opbygning](documentation/hyperbook.md).
+
 `reading.md` er den redigerbare læsetekst. Læsesiden indlæser den direkte. Læsesiden afspiller MP3-lyttekopier. Hver optagelse linker til den oprindelige M4A-fil. En lokal lydmappe kan også vælges i browseren. Word-filerne er daterede eksportudgaver. [Samlet lydkatalog](documentation/recordings.md) · [Lyttefiler](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
 
 [Ramme og manuskript](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Kilder og læsemåder](https://computerlars.github.io/Summa-Transscriptus/collation.html) · [Referencekilder](documentation/references.md) · [Seneste tekstrettelser](documentation/revisions.md).

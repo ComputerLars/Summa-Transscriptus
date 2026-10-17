@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Summa Transscriptus. Disputationer, glosser, lyd, figurer og synteser fra Under Bugten.">
+  <title>Summa Transscriptus · Hyperbog</title>
+  <link rel="stylesheet" href="hyperbook.css">
+</head>
+<body>
+  <a class="skip" href="#book">Til teksten</a>
+  <header class="running-head">
+    <a class="wordmark" href="#tabula">Summa Transscriptus</a>
+    <span class="small-meta">Under Bugten · 2023 / redaktion 2026 · udkast 01</span>
+    <a href="index.html">Arkiv</a>
+  </header>
+  <nav class="book-nav" aria-label="Hyperbogens indgange">
+    <a href="#tabula" data-mode="tabula">Tabula</a>
+    <a href="#disput/D1-01" data-mode="disput">Disputationer</a>
+    <a href="#sammen/navne" data-mode="sammen">Sammenstillinger</a>
+    <a href="#figurer" data-mode="figurer">Figurer</a>
+    <a href="#ars" data-mode="ars">Permutationer</a>
+    <a href="#synteser" data-mode="synteser">Synteser</a>
+    <a href="#register" data-mode="register">Register</a>
+  </nav>
+  <main id="book" tabindex="-1"><p class="loading">Summa Transscriptus</p></main>
+  <footer class="sound-desk" id="sound-desk" hidden>
+    <div class="sound-label"><span id="sound-title"></span><button id="close-sound" aria-label="Luk lydafspiller">×</button></div>
+    <audio id="sound" controls preload="none"></audio>
+    <div class="sound-tools"><button id="back-sound">−5 s</button><label>Hastighed <select id="speed"><option value="0.75">0,75 ×</option><option value="0.85">0,85 ×</option><option value="1" selected>1 ×</option><option value="1.25">1,25 ×</option></select></label><button id="stop-loop" hidden>Stop gentagelse</button><a id="sound-original" href="#">Originaloptagelse</a></div>
+  </footer>
+  <noscript><p><a href="index.html">Disputationer og lyd</a> · <a href="manuscript.html">Ramme og manuskript</a></p></noscript>
+  <script src="hyperbook.js"></script>
+</body>
+</html>
