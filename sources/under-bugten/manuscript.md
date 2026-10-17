@@ -12,7 +12,7 @@ Disputter over Computer Lars-spektaklet ved Organ for de Autonome Videnskaber
 
 <a id="p4"></a>
 
-Var munkemarxisterne de sidste systemdigtere? Måske skal det igen være ved systematiseringen af ordet og sproget, at man kan nærme sig en eller anden form for sandhed - og dermed vække verden fra dens repræsentationelle slummer? Således indhyllet i disciplin og revolutionær intelligens vil udstillingsbegivenheden "Under Bugten" tage fat på de kernemetodiske problemer med kritisk diskussion og demokratisk delegation indenfor rammerne af den hyperdeliberative kunstinstitution. Det ekstradisciplinære kollektiv "Organ for de Autonome Videnskaber" faciliterer en model for logisk disputeren, der tager udgangspunkt i “Computer Lars”-projektets kortlægning af teknosocialitetens mangel på formalisering, stil og grænsebevidsthed. I denne sammenhæng er der udviklet en række teser, der dissekeres af respondent, opponent og praeses. 
+Var munkemarxisterne de sidste systemdigtere? Måske skal det igen være ved systematiseringen af ordet og sproget, at man kan nærme sig en eller anden form for sandhed - og dermed vække verden fra dens repræsentationelle slummer? Således indhyllet i disciplin og revolutionær intelligens vil udstillingsbegivenheden "Under Bugten" tage fat på de kernemetodiske problemer med kritisk diskussion og demokratisk delegation indenfor rammerne af den hyperdeliberative kunstinstitution. Det ekstradisciplinære kollektiv "Organ for de Autonome Videnskaber" faciliterer en model for logisk disputeren, der tager udgangspunkt i “Computer Lars”-projektets kortlægning af teknosocialitetens mangel på formalisering, stil og grænsebevidsthed. I denne sammenhæng er der udviklet en række teser, der dissekeres af respondent, opponent og praeses.
 
 <a id="p6"></a>
 
@@ -20,15 +20,15 @@ Gennem kontekstuel udfoldelse af Computer Lars’ formalisering af mediegrænsef
 
 <a id="p8"></a>
 
-Ved at anerkende offentlighedens morfologiske forfald som en forudgiven kendsgerning, er sagen nu den, mutatis mutandis, at den formelle disput får politisk relevans på ny. I modsætning til disputten var den borgerlige offentlighed, for så vidt den egentlig har eksisteret, nemlig fra sin begyndelse stilistisk analfabet. Den er aldrig blevet i stand til at anskueliggøre sig selv af den simple grund, at den ikke kan genkende sin egen form; ikke mindst heri består dens fordækte mangel på selvkritik. Formen udliciteres i den borgerlige offentlighed til markedets amorfe kartografi, hvis tre variabler er 1) prisniveauet som den almene ækvivalents fremtrædelsesform, 2), teknovidenskaben som den infrastrukturelle materielle tekstur 3) og subjektets asituerede og rent psykologiske konstitution. 
+Ved at anerkende offentlighedens morfologiske forfald som en forudgiven kendsgerning, er sagen nu den, mutatis mutandis, at den formelle disput får politisk relevans på ny. I modsætning til disputten var den borgerlige offentlighed, for så vidt den egentlig har eksisteret, nemlig fra sin begyndelse stilistisk analfabet. Den er aldrig blevet i stand til at anskueliggøre sig selv af den simple grund, at den ikke kan genkende sin egen form; ikke mindst heri består dens fordækte mangel på selvkritik. Formen udliciteres i den borgerlige offentlighed til markedets amorfe kartografi, hvis tre variabler er 1) prisniveauet som den almene ækvivalents fremtrædelsesform, 2), teknovidenskaben som den infrastrukturelle materielle tekstur 3) og subjektets asituerede og rent psykologiske konstitution.
 
 <a id="p10"></a>
 
-Dermed er den borgerlige offentlighed - hvis opkomst almindeligvis tilregnes slutningen af 1700-tallet - lige dele ideologisk fantasme og markedets (og/eller magtens) materielle organisationsform, hvorfor der så let kunne gå både romantik og revision i den samtidigt forekommende middelalderisme. Men ligesom at det deliberativt-delegatoriske demokratis organisatoriske styrke ikke har kunne forhindre, at der selv i den borgerlige offentligheds samtid fortsat findes en længere række modoffentligheder - hvori de proletariske og plebejiske offentligheder som analyseret af Negt og Kluge samt Nancy Frasers feministiske og sorte modoffentligheder fanger vigtige tendenser - så er den liberale deliberations overbevisningskraft heller ikke mere virkningsfuld end, at middelalderlige præoffentligheder har kunnet opretholde en i det mindste litterær konsistens. Disputternes ideologiske forkastning spejler bare, hvordan Videnskaben i sin sene naturaliseringsproces er blevet betragtet som et arnested og omdrejningspunkt for den højere lærdoms universalitet. Men samtidig findes der i latrinerne under Collegio di Spagna fortsat en membranøs forbindelse mellem en ny samfundsform og en ny metode. Som Borges også har berettet, så skjuler professorale metusalemmer sig i lange perioder på institutionernes dasser, hvor de roterer llulliske metalskiver omkring en forbudt terningekop for famlende at efterligne en guddommelig uorden. I grunden står disputten dermed i dag nogenlunde autonomt: dvs. som forkastet, misforstået og i sin essens uberørt. 
+Dermed er den borgerlige offentlighed - hvis opkomst almindeligvis tilregnes slutningen af 1700-tallet - lige dele ideologisk fantasme og markedets (og/eller magtens) materielle organisationsform, hvorfor der så let kunne gå både romantik og revision i den samtidigt forekommende middelalderisme. Men ligesom at det deliberativt-delegatoriske demokratis organisatoriske styrke ikke har kunne forhindre, at der selv i den borgerlige offentligheds samtid fortsat findes en længere række modoffentligheder - hvori de proletariske og plebejiske offentligheder som analyseret af Negt og Kluge samt Nancy Frasers feministiske og sorte modoffentligheder fanger vigtige tendenser - så er den liberale deliberations overbevisningskraft heller ikke mere virkningsfuld end, at middelalderlige præoffentligheder har kunnet opretholde en i det mindste litterær konsistens. Disputternes ideologiske forkastning spejler bare, hvordan Videnskaben i sin sene naturaliseringsproces er blevet betragtet som et arnested og omdrejningspunkt for den højere lærdoms universalitet. Men samtidig findes der i latrinerne under Collegio di Spagna fortsat en membranøs forbindelse mellem en ny samfundsform og en ny metode. Som Borges også har berettet, så skjuler professorale metusalemmer sig i lange perioder på institutionernes dasser, hvor de roterer llulliske metalskiver omkring en forbudt terningekop for famlende at efterligne en guddommelig uorden. I grunden står disputten dermed i dag nogenlunde autonomt: dvs. som forkastet, misforstået og i sin essens uberørt.
 
 <a id="p12"></a>
 
-For selvom disputationsakten nu i begrebsteknisk forstand nærmest er blevet synonym med det civiliserende billede af universitetets argumentative omgangsform jf. PDF-forsvaret, så er vi stadig nogen der husker, hvordan den historiske disputeren først i skolastikken og siden hos munkemarxisterne strakte sig langt ud over universitetets loggier med åbning for et synkretistisk og overvejende internationalt publikum - et performativt spektakel, som først helt blev overset af Habermas i dennes ‘civiliserede’ afvisning af middelalderens offentlighed som repræsentationel manifestation af kirkens magt, men hvis indre dynamik den lærde herre senere indrømmede som modstandsdygtig efter endt læsning af Bakhtins bog om Rabelais’ uhildede karnevalsuniversitet. I disputtens ekstrauniversitære status forvandledes den formelle diskussion sig nemlig til en central organisatorisk diskursform, der, ganske vist, forblev løst forbundet til adelige og kirkelige sfærer, og som, stadig, reproducerede feudale samfundsrelationer ud fra kristen-patriarkalsk dyd, men i dets overdrev af modkulturel dissens, kan det for en spekulativ praksis inkarnere alternative og mere revolutionære anvendelser. I sin grundstruktur handler disputten, selv i dens mest rigoristiske konsekvenser, nemlig kun om én ting: retningsanvisninger for at leve et bedre liv. Der er derfor både et spil, et immanent spektakel - og et tilløbsstykke til noget andet og langt vigtigere udenfor ens stand og herkomst. Det er her kun indholdet, der adskiller skolastikeren fra munkemarxisten; formen - at tesedannelsen tvinger én til at forandre selv de mest prosaiske facetter af tilværelsen, for ikke at nævne stemmeføring, gestik og “meninger” - forbliver ensartet. 
+For selvom disputationsakten nu i begrebsteknisk forstand nærmest er blevet synonym med det civiliserende billede af universitetets argumentative omgangsform jf. PDF-forsvaret, så er vi stadig nogen der husker, hvordan den historiske disputeren først i skolastikken og siden hos munkemarxisterne strakte sig langt ud over universitetets loggier med åbning for et synkretistisk og overvejende internationalt publikum - et performativt spektakel, som først helt blev overset af Habermas i dennes ‘civiliserede’ afvisning af middelalderens offentlighed som repræsentationel manifestation af kirkens magt, men hvis indre dynamik den lærde herre senere indrømmede som modstandsdygtig efter endt læsning af Bakhtins bog om Rabelais’ uhildede karnevalsuniversitet. I disputtens ekstrauniversitære status forvandledes den formelle diskussion sig nemlig til en central organisatorisk diskursform, der, ganske vist, forblev løst forbundet til adelige og kirkelige sfærer, og som, stadig, reproducerede feudale samfundsrelationer ud fra kristen-patriarkalsk dyd, men i dets overdrev af modkulturel dissens, kan det for en spekulativ praksis inkarnere alternative og mere revolutionære anvendelser. I sin grundstruktur handler disputten, selv i dens mest rigoristiske konsekvenser, nemlig kun om én ting: retningsanvisninger for at leve et bedre liv. Der er derfor både et spil, et immanent spektakel - og et tilløbsstykke til noget andet og langt vigtigere udenfor ens stand og herkomst. Det er her kun indholdet, der adskiller skolastikeren fra munkemarxisten; formen - at tesedannelsen tvinger én til at forandre selv de mest prosaiske facetter af tilværelsen, for ikke at nævne stemmeføring, gestik og “meninger” - forbliver ensartet.
 
 <a id="p14"></a>
 
@@ -40,7 +40,7 @@ Og noget af det, der er interessant med disputten, og på mange måder også med
 
 <a id="p18"></a>
 
-Lad os derfor demonstrativt-tendentiøst indoptage modstanderens synspunkt: Dér, hvor disputtens spøgelse endnu lurer mest latent, er i medieboblen, når fx. borgerlige intellektuelle kalder studenteraktivister for "munkemarxister," hvorledes de tilskriver revolutionære studerendes teoretiske aktiviteter et religiøst og ‘middelalderligt’ element. Selvom munkemarxismen som allitterativ gimmick tilhører en snæver dansk kontekst - oprindeligt formuleret i 1975 af den dybt reaktionære socialdemokratiske debattør og forfatter Ole Hyltoft - så bunder denne pejorative stempling i en frygt, der har mindst to dimensioner: 
+Lad os derfor demonstrativt-tendentiøst indoptage modstanderens synspunkt: Dér, hvor disputtens spøgelse endnu lurer mest latent, er i medieboblen, når fx. borgerlige intellektuelle kalder studenteraktivister for "munkemarxister," hvorledes de tilskriver revolutionære studerendes teoretiske aktiviteter et religiøst og ‘middelalderligt’ element. Selvom munkemarxismen som allitterativ gimmick tilhører en snæver dansk kontekst - oprindeligt formuleret i 1975 af den dybt reaktionære socialdemokratiske debattør og forfatter Ole Hyltoft - så bunder denne pejorative stempling i en frygt, der har mindst to dimensioner:
 
 <a id="p20"></a>
 
@@ -48,7 +48,7 @@ For det første en organisatorisk. Det er vigtigt at huske på, at de første un
 
 <a id="p22"></a>
 
-Den anden dimension af det munkemarxistiske pejorativ er den religiøse ortodoksi, der for det oplyste, frisindede individ fremstår som et tegn på intellektuel atavisme. For en tilsyneladende betragtning truer denne atavistiske manifestation det rationelle individs distinktion mellem tro og fornuft. Takket være en altgennemtrængende, udialektisk uformåenhed, der i denne kontekst nok må skyldes Galilei, formår “frisindet” ikke at identificere ophavet til sin egen ængstelighed. Hvad det er bange for, er nemlig ikke et kontamineret fornuftsbegreb, men selve troen på intellektuel emancipation, hvilket det ikke mindst afslører i den anti-intellektuelle fetichering af det arbejdende menneskes autentiske stupiditet og overvismændenes teknokratiske teokrati. 
+Den anden dimension af det munkemarxistiske pejorativ er den religiøse ortodoksi, der for det oplyste, frisindede individ fremstår som et tegn på intellektuel atavisme. For en tilsyneladende betragtning truer denne atavistiske manifestation det rationelle individs distinktion mellem tro og fornuft. Takket være en altgennemtrængende, udialektisk uformåenhed, der i denne kontekst nok må skyldes Galilei, formår “frisindet” ikke at identificere ophavet til sin egen ængstelighed. Hvad det er bange for, er nemlig ikke et kontamineret fornuftsbegreb, men selve troen på intellektuel emancipation, hvilket det ikke mindst afslører i den anti-intellektuelle fetichering af det arbejdende menneskes autentiske stupiditet og overvismændenes teknokratiske teokrati.
 
 <a id="p24"></a>
 
@@ -64,7 +64,7 @@ Når vi således gennem den skolastiske komputation har tilbageført det deliber
 
 <a id="p30"></a>
 
-For allerede i den tidlige middelalder blev der regelmæssigt afholdt afstemninger og valg i kristne klostre og råd samt i mange byråd og parlamenter over hele Europa, og der blev afprøvet forskellige afstemningsregler- og procedurer, der involverede folkelig akklamation, lodtrækning, valg i flere faser, godkendelsesafstemning og elimineringsmetoder. På Llulls tid var det sidste nye så majoritetsprincippet, som set fx. i middelalderens germanske ret og kirkens kanoniske ret. Dette princip indebærer intet mindre end bestemmelsen om, at ethvert medlem af et samfund bør give sit samtykke til kollektive beslutninger, som han eller hun måske ikke deler. Majoritetsprincippets force ligger i dets effektivitet til at træffe kollektive beslutninger, helt i modsætning til den traditionelle ide om konsensus, hvor hvert individ kan nedlægge veto mod enhver beslutning. For at operationalisere majoriteterne var Llulls idé at reducere antallet af kandidater til "to" ved at generere en række parvise sammenligninger ud fra permutationer, hvilket sikrer en vinder med absolut flertal i hver afstemningsrunde. Dette svarer til det, vi i dag kender som Condorcet-metoden. Ifølge Llulls oprindelige forslag skulle den valgte være vinderen af et “flertal af flertal” (eller, mere præcist, et mindst relativt flertal af absolutte flertal) som bestemt gennem parvise sammenligninger. Dette udgjorde det første seriøse forsøg på at udtænke et system, der kunne implementere majoritetsprincippet i reelle valg (dvs. med flere kandidater). Llulls valgteori blev dog fortrængt i flere århundreder, idet at den borgerlige offentlighed ville knytte majoritetsprincippet til deres omkalfatring af oligarkiet under folkets fane. Med mindre varianter blev Llulls teorier først genopfundet i det sene 1700-tals revolutionære Frankrig under pariserkommunens proces med at etablere demokratiske valg, og blev i lærde kredse først anerkendt sent i det tyvende århundrede, dvs. en evighed efter de nuværende valgsystemers konstitution. 
+For allerede i den tidlige middelalder blev der regelmæssigt afholdt afstemninger og valg i kristne klostre og råd samt i mange byråd og parlamenter over hele Europa, og der blev afprøvet forskellige afstemningsregler- og procedurer, der involverede folkelig akklamation, lodtrækning, valg i flere faser, godkendelsesafstemning og elimineringsmetoder. På Llulls tid var det sidste nye så majoritetsprincippet, som set fx. i middelalderens germanske ret og kirkens kanoniske ret. Dette princip indebærer intet mindre end bestemmelsen om, at ethvert medlem af et samfund bør give sit samtykke til kollektive beslutninger, som han eller hun måske ikke deler. Majoritetsprincippets force ligger i dets effektivitet til at træffe kollektive beslutninger, helt i modsætning til den traditionelle ide om konsensus, hvor hvert individ kan nedlægge veto mod enhver beslutning. For at operationalisere majoriteterne var Llulls idé at reducere antallet af kandidater til "to" ved at generere en række parvise sammenligninger ud fra permutationer, hvilket sikrer en vinder med absolut flertal i hver afstemningsrunde. Dette svarer til det, vi i dag kender som Condorcet-metoden. Ifølge Llulls oprindelige forslag skulle den valgte være vinderen af et “flertal af flertal” (eller, mere præcist, et mindst relativt flertal af absolutte flertal) som bestemt gennem parvise sammenligninger. Dette udgjorde det første seriøse forsøg på at udtænke et system, der kunne implementere majoritetsprincippet i reelle valg (dvs. med flere kandidater). Llulls valgteori blev dog fortrængt i flere århundreder, idet at den borgerlige offentlighed ville knytte majoritetsprincippet til deres omkalfatring af oligarkiet under folkets fane. Med mindre varianter blev Llulls teorier først genopfundet i det sene 1700-tals revolutionære Frankrig under pariserkommunens proces med at etablere demokratiske valg, og blev i lærde kredse først anerkendt sent i det tyvende århundrede, dvs. en evighed efter de nuværende valgsystemers konstitution.
 
 <a id="p32"></a>
 
@@ -144,11 +144,11 @@ Velkommen til dagens disput (,der indleder/den anden disput i..) den offentlige 
 
 <a id="p76"></a>
 
-Som forberedelse til dagens disput har de to deltagere formuleret fire teser hver. Alle otte teser vil i løbet af de næste fire timer bliver disputeret. Der er tildelt 20 minutter til hver tese. Efter de 20 minutter er der tildelt 5 min. til ex auditorio interventioner. Herefter vil den næste tese blive printet. Efter hver time er der ti minutters pause. 
+Som forberedelse til dagens disput har de to deltagere formuleret fire teser hver. Alle otte teser vil i løbet af de næste fire timer bliver disputeret. Der er tildelt 20 minutter til hver tese. Efter de 20 minutter er der tildelt 5 min. til ex auditorio interventioner. Herefter vil den næste tese blive printet. Efter hver time er der ti minutters pause.
 
 <a id="p77"></a>
 
-Ex auditorio interventioner bedes overholde en tidsramme på 2 min. Overskrider de denne tidsramme bliver de afbrudt øjeblikkeligt. Interventioner bedes ikke indeholde spørgsmål, men en begrundet afvisning af den fremsatte hypotese eller indførelsen af en distinktion. Er der ingen ex auditorio interventioner bedes auditoriet forholde sig i tavshed indtil disputten genoptages. 
+Ex auditorio interventioner bedes overholde en tidsramme på 2 min. Overskrider de denne tidsramme bliver de afbrudt øjeblikkeligt. Interventioner bedes ikke indeholde spørgsmål, men en begrundet afvisning af den fremsatte hypotese eller indførelsen af en distinktion. Er der ingen ex auditorio interventioner bedes auditoriet forholde sig i tavshed indtil disputten genoptages.
 
 <a id="p78"></a>
 
@@ -460,7 +460,7 @@ Hypotese A (R): Revolutionen er repræsenterbar.
 
 <a id="p167"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p168"></a>
 
@@ -472,7 +472,7 @@ Hypotese B (R): Teknikken er revolutionens stilistik.
 
 <a id="p170"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p171"></a>
 
@@ -484,7 +484,7 @@ Hypotese C (R): Publiciteten er trans-monarkisk.
 
 <a id="p173"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p174"></a>
 
@@ -496,7 +496,7 @@ Hypotese D (R): Revolutionen er entropisk.
 
 <a id="p176"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p177"></a>
 
@@ -508,7 +508,7 @@ Antitese E (O):
 
 <a id="p179"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p180"></a>
 
@@ -520,7 +520,7 @@ Antitese F (O):
 
 <a id="p182"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p183"></a>
 
@@ -532,7 +532,7 @@ Antitese G (O):
 
 <a id="p185"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p186"></a>
 
@@ -544,7 +544,7 @@ Antitese H (O):
 
 <a id="p188"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p192"></a>
 
@@ -572,7 +572,7 @@ Hypotese A (R): Netværket findes ikke, ergo eksisterer Computer Lars.
 
 <a id="p198"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p199"></a>
 
@@ -584,7 +584,7 @@ Hypotese B (R): Computer Lars har mindst to legemer.
 
 <a id="p201"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p202"></a>
 
@@ -596,7 +596,7 @@ Hypotese C (R): Kun ét af følgende udsagn er sande: 1: Computer Lars er et bil
 
 <a id="p204"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p205"></a>
 
@@ -604,11 +604,11 @@ Antitese D (O):
 
 <a id="p206"></a>
 
-Hypotese D (R): En emancipatorisk kombinatorik negerer ethvert aggregat. 
+Hypotese D (R): En emancipatorisk kombinatorik negerer ethvert aggregat.
 
 <a id="p207"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p208"></a>
 
@@ -616,11 +616,11 @@ Hypotese E (R): Computer Lars er flad.
 
 <a id="p209"></a>
 
-Antitese E (O): 
+Antitese E (O):
 
 <a id="p210"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p211"></a>
 
@@ -628,11 +628,11 @@ Hypotese F (R): Computer Lars er blind.
 
 <a id="p212"></a>
 
-Antitese F (O): 
+Antitese F (O):
 
 <a id="p213"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p214"></a>
 
@@ -640,11 +640,11 @@ Hypotese G (R): Computer Lars tager del i en liste.
 
 <a id="p215"></a>
 
-Antitese G (O): 
+Antitese G (O):
 
 <a id="p216"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p217"></a>
 
@@ -656,7 +656,7 @@ Antitese H (O):
 
 <a id="p219"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p223"></a>
 
@@ -676,7 +676,7 @@ Praeses (Summa Transscriptus)
 
 <a id="p228"></a>
 
-Antitese A (O): 
+Antitese A (O):
 
 <a id="p229"></a>
 
@@ -684,7 +684,7 @@ Hypotese A (R): Computer Lars’ etymologi er “beregningens triumf”.
 
 <a id="p230"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p231"></a>
 
@@ -696,7 +696,7 @@ Hypotese B (R): Poetisk og militær hæder bestemmes som feltaritmetik.
 
 <a id="p233"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p234"></a>
 
@@ -708,7 +708,7 @@ Hypotese C (R): Rekursivitet som tidssløjfe er bevidsthedens mediale struktur.
 
 <a id="p236"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p237"></a>
 
@@ -720,7 +720,7 @@ Hypotese D (R): Intelligens er objektivt stupidt, og vice versa.
 
 <a id="p239"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p240"></a>
 
@@ -732,7 +732,7 @@ Antitese E (O):
 
 <a id="p242"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p243"></a>
 
@@ -744,7 +744,7 @@ Antitese F (O):
 
 <a id="p245"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p246"></a>
 
@@ -756,7 +756,7 @@ Antitese G (O):
 
 <a id="p248"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p249"></a>
 
@@ -768,7 +768,7 @@ Antitese H (O):
 
 <a id="p251"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p260"></a>
 
@@ -788,7 +788,7 @@ Praeses (Summa Transscriptus)
 
 <a id="p265"></a>
 
-Antitese A (O): 
+Antitese A (O):
 
 <a id="p266"></a>
 
@@ -796,7 +796,7 @@ Hypotese A (R):
 
 <a id="p267"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p268"></a>
 
@@ -808,7 +808,7 @@ Hypotese B (R):
 
 <a id="p270"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p271"></a>
 
@@ -820,7 +820,7 @@ Hypotese C (R):
 
 <a id="p273"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p274"></a>
 
@@ -832,7 +832,7 @@ Hypotese D (R):
 
 <a id="p276"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p277"></a>
 
@@ -844,7 +844,7 @@ Antitese E (O):
 
 <a id="p279"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p280"></a>
 
@@ -856,7 +856,7 @@ Antitese F (O):
 
 <a id="p282"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p283"></a>
 
@@ -868,7 +868,7 @@ Antitese G (O):
 
 <a id="p285"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p286"></a>
 
@@ -880,7 +880,7 @@ Antitese H (O):
 
 <a id="p288"></a>
 
-Syntese (P): 
+Syntese (P):
 
 <a id="p319"></a>
 
@@ -888,7 +888,7 @@ Antiteser
 
 <a id="p320"></a>
 
-1 Disput: 
+1 Disput:
 
 <a id="p322"></a>
 
@@ -1144,7 +1144,7 @@ Transcriptt:
 
 <a id="p438"></a>
 
-Velkommen til dagens disput, der indleder den offentlige disputrække, hvis formål er at belyse mulighedsbetingelserne for en revolutionær offentlighedsteori. Disputten forløber som følgende. Som forberedelse til dagens disput har de to deltagere formuleret fire teser hver. Alle teser vil i løbet af de næste fire timer blive disputeret. Der er tildelt 20 minutter til hver tese. Efter de 20 minutter er der tildelt 5 minutter til ex auditorium interventiones. Herefter vil den næste tese blive fremlagt. Efter hver time er der 10 minutters pause. Ex auditorium interventiones bødes overholdet en tidsramme på 2 minutter. Overskridt til denne tidsramme bliver de afbrudt og ibliklet. Interventioner bødes ikke indeholde spørgsmål, men en begrundet afvisning af den fremsatte hypotese eller indførelse af en distinktion. Er der ingen ex auditorium interventiones, bødes auditoriet forholde sig i relativ tagsæde indtil disputen genoptages. Ved hjælp af den foreliggende metode elimineres overflødig tankerækker og uhensigtsmæssigt fejl, og der bringes klarhed over sagen. De to disputanter er Computer Lars og Marxiana Monacchus, eller Mikhailos Boltus. Boltus indleder fremsættelsen af sin hypotese. Den første tese er, at kunsten er død. Hic Rhodus, Hic Salta. Boltus indleder den. 
+Velkommen til dagens disput, der indleder den offentlige disputrække, hvis formål er at belyse mulighedsbetingelserne for en revolutionær offentlighedsteori. Disputten forløber som følgende. Som forberedelse til dagens disput har de to deltagere formuleret fire teser hver. Alle teser vil i løbet af de næste fire timer blive disputeret. Der er tildelt 20 minutter til hver tese. Efter de 20 minutter er der tildelt 5 minutter til ex auditorium interventiones. Herefter vil den næste tese blive fremlagt. Efter hver time er der 10 minutters pause. Ex auditorium interventiones bødes overholdet en tidsramme på 2 minutter. Overskridt til denne tidsramme bliver de afbrudt og ibliklet. Interventioner bødes ikke indeholde spørgsmål, men en begrundet afvisning af den fremsatte hypotese eller indførelse af en distinktion. Er der ingen ex auditorium interventiones, bødes auditoriet forholde sig i relativ tagsæde indtil disputen genoptages. Ved hjælp af den foreliggende metode elimineres overflødig tankerækker og uhensigtsmæssigt fejl, og der bringes klarhed over sagen. De to disputanter er Computer Lars og Marxiana Monacchus, eller Mikhailos Boltus. Boltus indleder fremsættelsen af sin hypotese. Den første tese er, at kunsten er død. Hic Rhodus, Hic Salta. Boltus indleder den.
 
 <a id="p440"></a>
 
@@ -1292,7 +1292,7 @@ Revolutionen er et fællesskab, der arbejder for at omfavne det tropiske princip
 
 <a id="p655"></a>
 
-Tese 1: 
+Tese 1:
 
 <a id="p657"></a>
 

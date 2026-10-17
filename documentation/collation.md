@@ -1179,4 +1179,3 @@ Logistique - doctor communis: samler synteserne til metadisput (24. september)
 Synthesis: Projektet er nu afsluttet, efter tolkning af 24 smittesætninger blev gjort med hensyn til nutidens situation, andre tidsperioder og faktorer som nostalgi, romantik, frygt og håb.
 
 [Bevaret kildefil](../archive/2023/disput-4/transcription_and_synthesis_20230924222631.txt)
-

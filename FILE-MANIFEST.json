@@ -418,8 +418,8 @@
     },
     {
       "path": "documentation/collation.md",
-      "bytes": 40475,
-      "sha256": "ba6e848b052ee2d62bbf93279151f7350d540aaf38e8a8a8d6ee4382c157c293"
+      "bytes": 40474,
+      "sha256": "413eb314696595e8581af76356037cd08a4eea65ee736b44314aaee3d2ab0986"
     },
     {
       "path": "documentation/dissertation.md",
@@ -538,8 +538,8 @@
     },
     {
       "path": "sources/under-bugten/manuscript.md",
-      "bytes": 413314,
-      "sha256": "f0f5a612d52b4d953081544ca4af449427c8fd0144c456b0dbed68bd4a725a78"
+      "bytes": 413264,
+      "sha256": "8dd49fdd9099da759ec64d52f857cd490739e89fceb824dfbf8358c9b947e855"
     },
     {
       "path": "sources/under-bugten/source.json",
