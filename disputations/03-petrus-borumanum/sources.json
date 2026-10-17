@@ -1,0 +1,182 @@
+[
+  {
+    "path": "Disput 3/tese a_3.m4a",
+    "seconds": 1278.528,
+    "tags": {
+      "creation_time": "2023-09-22T16:43:05.000000Z"
+    },
+    "bytes": 39038778,
+    "id": "D3-01",
+    "group": "Disput 3",
+    "sha256": "0d8936b528e49042f05ca1475ad7dbb760a34bb3e31eaab119be27a713dea8ef",
+    "display_duration": "00:21:18",
+    "status": "principal",
+    "title": "Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese b_3.m4a",
+    "seconds": 1216.853,
+    "tags": {
+      "creation_time": "2023-09-22T17:07:00.000000Z"
+    },
+    "bytes": 37135636,
+    "id": "D3-02",
+    "group": "Disput 3",
+    "sha256": "04a48e26a81237664d0b4ef5df04b6c5296b2eb9fff2e24ec9ee1b4a04758e88",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "Computer Lars’ etymologi er beregningens triumf",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese c_3.m4a",
+    "seconds": 1221.547,
+    "tags": {
+      "creation_time": "2023-09-22T17:46:27.000000Z"
+    },
+    "bytes": 37245263,
+    "id": "D3-03",
+    "group": "Disput 3",
+    "sha256": "f4a4379d7de08d05568509b333e69ef90724614a10b97434981c4ba23bb2e11d",
+    "display_duration": "00:20:21",
+    "status": "principal",
+    "title": "Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser pr. analogi",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese d_3.m4a",
+    "seconds": 1219.2,
+    "tags": {
+      "creation_time": "2023-09-22T18:09:49.000000Z"
+    },
+    "bytes": 37187237,
+    "id": "D3-04",
+    "group": "Disput 3",
+    "sha256": "93a602b40701ac4717cdbb416b4e59c13a98a052361783ddd88aed510fefca59",
+    "display_duration": "00:20:19",
+    "status": "principal",
+    "title": "Poetisk og militær hæder bestemmes som feltaritmetik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese e_3.m4a",
+    "seconds": 1216.555,
+    "tags": {
+      "creation_time": "2023-09-22T18:52:27.000000Z"
+    },
+    "bytes": 37118851,
+    "id": "D3-05",
+    "group": "Disput 3",
+    "sha256": "bc93b79235d2b9b167accdc34242dc3f440540e5c8e7e9ad1da853b8016b14b8",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "I Biblioteket i Babel er ethvert gennemløb overtalligt i forhold til sin kombinatorik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese f_3.m4a",
+    "seconds": 1218.88,
+    "tags": {
+      "creation_time": "2023-09-22T19:17:28.000000Z"
+    },
+    "bytes": 37145414,
+    "id": "D3-06",
+    "group": "Disput 3",
+    "sha256": "05b72f1dc3b07684e4628b65766a8d6c96bcb256a91549366b5073cd45b65c9e",
+    "display_duration": "00:20:18",
+    "status": "principal",
+    "title": "Rekursivitet som tidssløjfe er bevidsthedens mediale struktur",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese g_3.m4a",
+    "seconds": 1273.771,
+    "tags": {
+      "creation_time": "2023-09-22T19:54:07.000000Z"
+    },
+    "bytes": 38798684,
+    "id": "D3-07",
+    "group": "Disput 3",
+    "sha256": "585f65a121b2f5778d1d323a876e1568feee8eafef91fcc03a4763976b175621",
+    "display_duration": "00:21:13",
+    "status": "principal",
+    "title": "Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/tese h_3.m4a",
+    "seconds": 1222.827,
+    "tags": {
+      "creation_time": "2023-09-22T20:19:07.000000Z"
+    },
+    "bytes": 37289877,
+    "id": "D3-08",
+    "group": "Disput 3",
+    "sha256": "2c5e0c610467d7fc808a3a65f520eb77239bb70dedf37ff802bcdb0312661bea",
+    "display_duration": "00:20:22",
+    "status": "principal",
+    "title": "Intelligens er objektivt stupidt, og vice versa",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  },
+  {
+    "path": "Disput 3/pseudotese_3.m4a",
+    "seconds": 35.349,
+    "tags": {
+      "creation_time": "2023-09-22T20:23:10.000000Z"
+    },
+    "bytes": 1079618,
+    "id": "D3-09",
+    "group": "Disput 3",
+    "sha256": "fec8d7b384873e1c782995d6f96edb58e957bad8e011bd1c930890956e47bcbf",
+    "display_duration": "00:00:35",
+    "status": "principal",
+    "title": "Pseudotese",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    }
+  }
+]

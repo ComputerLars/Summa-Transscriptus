@@ -1,0 +1,162 @@
+[
+  {
+    "path": "Disput 2/tese a.m4a",
+    "seconds": 1274.539,
+    "tags": {
+      "creation_time": "2023-09-20T16:40:52.000000Z"
+    },
+    "bytes": 38913718,
+    "id": "D2-01",
+    "group": "Disput 2",
+    "sha256": "6655a18899c43bcb83e7149a87c8b4dee494fad74626b1036afaae006ed3d4e2",
+    "display_duration": "00:21:14",
+    "status": "principal",
+    "title": "Computer Lars er flad",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese b_2.m4a",
+    "seconds": 1256.896,
+    "tags": {
+      "creation_time": "2023-09-20T17:05:17.000000Z"
+    },
+    "bytes": 38372488,
+    "id": "D2-02",
+    "group": "Disput 2",
+    "sha256": "124c9c0bfb07f1c6204f0564b99b814bdeef87d5ef39be4601d6d1fb5c313194",
+    "display_duration": "00:20:56",
+    "status": "principal",
+    "title": "Netværket findes ikke, ergo eksisterer Computer Lars",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese c_2.m4a",
+    "seconds": 1265.749,
+    "tags": {
+      "creation_time": "2023-09-20T17:44:29.000000Z"
+    },
+    "bytes": 38696737,
+    "id": "D2-03",
+    "group": "Disput 2",
+    "sha256": "4c440e3217406e07fb9f8a3a0e508b20788c243cc8156cacd371b0a62ccc1878",
+    "display_duration": "00:21:05",
+    "status": "principal",
+    "title": "Computer Lars er blind",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese d_2.m4a",
+    "seconds": 1231.296,
+    "tags": {
+      "creation_time": "2023-09-20T18:08:11.000000Z"
+    },
+    "bytes": 37671637,
+    "id": "D2-04",
+    "group": "Disput 2",
+    "sha256": "1ea3ba4f039c7477c580130b37a0f06702e99e20613d34cfbfb9d16446f88691",
+    "display_duration": "00:20:31",
+    "status": "principal",
+    "title": "Computer Lars har mindst to legemer",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese e_2.m4a",
+    "seconds": 1267.072,
+    "tags": {
+      "creation_time": "2023-09-20T18:47:24.000000Z"
+    },
+    "bytes": 38729723,
+    "id": "D2-05",
+    "group": "Disput 2",
+    "sha256": "0276adc33e40a0b4fcfcb68cb6740682c02f868d5fb18a85c6fcd50c5436642d",
+    "display_duration": "00:21:07",
+    "status": "principal",
+    "title": "Computer Lars tager del i en liste",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese f&#x3a_2.m4a",
+    "seconds": 1228.288,
+    "tags": {
+      "creation_time": "2023-09-20T19:11:15.000000Z"
+    },
+    "bytes": 37579920,
+    "id": "D2-06",
+    "group": "Disput 2",
+    "sha256": "4be8c3db38c45a7645e673b053dc52af11ef72a87f006846d8459c58112bdfdc",
+    "display_duration": "00:20:28",
+    "status": "principal",
+    "title": "Kun ét af følgende udsagn er sandt: Computer Lars er et billede, som består af tekst; Computer Lars er en tekst, som består af billeder",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese g&#x3a_2.m4a",
+    "seconds": 1227.755,
+    "tags": {
+      "creation_time": "2023-09-20T19:48:30.000000Z"
+    },
+    "bytes": 37477486,
+    "id": "D2-07",
+    "group": "Disput 2",
+    "sha256": "b93a68f54f38747b4337b35940c30f23ac10904070d3adf8fd47753eace75e25",
+    "display_duration": "00:20:27",
+    "status": "principal",
+    "title": "Computer Lars operationaliserer tredjeheden",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  },
+  {
+    "path": "Disput 2/tese h_2.m4a",
+    "seconds": 1232.875,
+    "tags": {
+      "creation_time": "2023-09-20T20:13:09.000000Z"
+    },
+    "bytes": 37655028,
+    "id": "D2-08",
+    "group": "Disput 2",
+    "sha256": "d1e4c6a7efe6ce3c0d8f904a00704a188411601d8005d2d78b30a03f65090d07",
+    "display_duration": "00:20:32",
+    "status": "principal",
+    "title": "En emancipatorisk kombinatorik negerer ethvert aggregat",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    }
+  }
+]

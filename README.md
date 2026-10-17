@@ -9,10 +9,10 @@ Download: https://drive.google.com/drive/folders/1Yh4-TucOUeCVpXRxtoLXZtDfOfF1Yq
 
 | Dato | Disput | Læseudgave | Tidsforankret tekst |
 | --- | --- | --- | --- |
-| 2023-09-18 | Mikhailos Boltus og Computer Lars | Under redaktion | [Lydkatalog](documentation/recordings.json) |
-| 2023-09-20 | Maia Bacchus og Computer Lars | Under redaktion | [Lydkatalog](documentation/recordings.json) |
-| 2023-09-22 | Petrus Borumanum og Computer Lars | Under redaktion | [Lydkatalog](documentation/recordings.json) |
-| 2023-09-24 | Logistique og Computer Lars | Under redaktion | [Lydkatalog](documentation/recordings.json) |
+| 2023-09-18 | Mikhailos Boltus og Computer Lars | [Læs](disputations/01-mikhailos-boltus/reading.md) | [Tidsankre og kilder](disputations/01-mikhailos-boltus/timed.md) |
+| 2023-09-20 | Maia Bacchus og Computer Lars | [Læs](disputations/02-maia-bacchus/reading.md) | [Tidsankre og kilder](disputations/02-maia-bacchus/timed.md) |
+| 2023-09-22 | Petrus Borumanum og Computer Lars | [Læs](disputations/03-petrus-borumanum/reading.md) | [Tidsankre og kilder](disputations/03-petrus-borumanum/timed.md) |
+| 2023-09-24 | Logistique og Computer Lars | [Læs](disputations/04-logistique/reading.md) | [Tidsankre og kilder](disputations/04-logistique/timed.md) |
 
 Arbejdsudgaverne redigeres i oktober 2026 og lægges på denne gren til videre gennemgang. De er ikke betegnet som endeligt korrekturlæste eller som en ny historisk syntese.
 

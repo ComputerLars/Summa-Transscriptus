@@ -13,8 +13,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2071,
-      "sha256": "623b3b9d480b68500a8ab14ab246b3bc1e1c3799c97c244407d480a771d0db14"
+      "bytes": 2279,
+      "sha256": "fd338f3858cd24f21382c4cfc44f16738682e5ba1010fbcc378be94203660107"
     },
     {
       "path": "archive/2023/README.md",
@@ -305,6 +305,66 @@
       "path": "archive/2023/manifest.json",
       "bytes": 13953,
       "sha256": "c2e2b7586ebfa690126278bcc1cb84329fe08ec734bf4c8aa3ff17b6f2079cf2"
+    },
+    {
+      "path": "disputations/01-mikhailos-boltus/reading.md",
+      "bytes": 107000,
+      "sha256": "f382eb151eb2283f8bca929d1bb783279820541516513ea683aba697a463e547"
+    },
+    {
+      "path": "disputations/01-mikhailos-boltus/sources.json",
+      "bytes": 4548,
+      "sha256": "87831fd145a627a1d54389fd1af9cb0999a647d8a0cb4b41ac72a0aef4d5dac9"
+    },
+    {
+      "path": "disputations/01-mikhailos-boltus/timed.md",
+      "bytes": 105133,
+      "sha256": "4b55e72f3141f5b5cccaefe016a1cad734adce9c33752094db618d0e436233f4"
+    },
+    {
+      "path": "disputations/02-maia-bacchus/reading.md",
+      "bytes": 125020,
+      "sha256": "79a3ce6f6cf69cfbd3052dea97cedf385814371eccb8e0f29be7420bd0c9c8aa"
+    },
+    {
+      "path": "disputations/02-maia-bacchus/sources.json",
+      "bytes": 4589,
+      "sha256": "cde585acfa2aa3c9c79fa714938473b7ca3b484b7876c69810b9cdd31a702cfe"
+    },
+    {
+      "path": "disputations/02-maia-bacchus/timed.md",
+      "bytes": 119277,
+      "sha256": "cc1a7d68c5e75648721624cc7ac427cd8fc1cbc0edee5a9d232a449603007efc"
+    },
+    {
+      "path": "disputations/03-petrus-borumanum/reading.md",
+      "bytes": 90074,
+      "sha256": "bb0be1f72e2c8846ebc4da6bef642f3889471ff52fcf5dbb943a5a86895109eb"
+    },
+    {
+      "path": "disputations/03-petrus-borumanum/sources.json",
+      "bytes": 5369,
+      "sha256": "233219a3b5efc2be9e154890f547636023132c27511b78e9565014b105cc8bb6"
+    },
+    {
+      "path": "disputations/03-petrus-borumanum/timed.md",
+      "bytes": 86079,
+      "sha256": "e0bc264f26c743c3323e89c67683431928f73fdda8a7f5ffbb616b0eb9a3272b"
+    },
+    {
+      "path": "disputations/04-logistique/reading.md",
+      "bytes": 83551,
+      "sha256": "3ecb20d80ef829287d7198d8324f71d832de9cbaa16e31abcd11dd5edf7e6cb1"
+    },
+    {
+      "path": "disputations/04-logistique/sources.json",
+      "bytes": 12686,
+      "sha256": "a1d0851d145aecf5cd0c62792f81eee9e2cad386534d1d00d81a7a9658b0a02f"
+    },
+    {
+      "path": "disputations/04-logistique/timed.md",
+      "bytes": 79802,
+      "sha256": "c023949342b980d8975387bf825cb0dbaa9b78af495d371a64658b5f1bae3292"
     },
     {
       "path": "documentation/dissertation.md",

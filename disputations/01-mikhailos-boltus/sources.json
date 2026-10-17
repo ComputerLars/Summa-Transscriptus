@@ -1,0 +1,162 @@
+[
+  {
+    "path": "Disput 1/Lydfiler/tese 1.m4a",
+    "seconds": 1517.845,
+    "tags": {
+      "creation_time": "2023-09-18T14:46:00.000000Z"
+    },
+    "bytes": 46379582,
+    "id": "D1-01",
+    "group": "Disput 1",
+    "sha256": "88008b9b4b702a85aed15227ebef0c55ebfe80d832e027c43108b45f7455fd03",
+    "display_duration": "00:25:17",
+    "status": "principal",
+    "title": "Kunsten er død",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese 2.m4a",
+    "seconds": 1297.6,
+    "tags": {
+      "creation_time": "2023-09-18T15:12:24.000000Z"
+    },
+    "bytes": 39644460,
+    "id": "D1-02",
+    "group": "Disput 1",
+    "sha256": "e901667d3646f2eb9b5caa238be0a20b9abb8582489adecc0cf86427a6297a4c",
+    "display_duration": "00:21:37",
+    "status": "principal",
+    "title": "Revolutionen er repræsenterbar",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese c.m4a",
+    "seconds": 1313.493,
+    "tags": {
+      "creation_time": "2023-09-18T15:55:27.000000Z"
+    },
+    "bytes": 40142467,
+    "id": "D1-03",
+    "group": "Disput 1",
+    "sha256": "15c6eae4b9b69ec5c1e2cfdca26cb0271b7b7401506fb23d1068b8dd3b60bc3e",
+    "display_duration": "00:21:53",
+    "status": "principal",
+    "title": "Fascisme og demokrati er ikke modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese d.m4a",
+    "seconds": 1320.107,
+    "tags": {
+      "creation_time": "2023-09-18T16:24:25.000000Z"
+    },
+    "bytes": 40347603,
+    "id": "D1-04",
+    "group": "Disput 1",
+    "sha256": "0c0cb491a1fa1f36ffabdaaf4b956c280eddb2153bf37fb74f824af489ea155e",
+    "display_duration": "00:22:00",
+    "status": "principal",
+    "title": "Teknikken er revolutionens stilistik",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese e.m4a",
+    "seconds": 1014.784,
+    "tags": {
+      "creation_time": "2023-09-18T17:02:01.000000Z"
+    },
+    "bytes": 31009230,
+    "id": "D1-05",
+    "group": "Disput 1",
+    "sha256": "a1cb7bee0727d51ac96b124bbc4e4d44e0cf8b9708266e2702e8703ddc3b2a7c",
+    "display_duration": "00:16:54",
+    "status": "principal",
+    "title": "Offentlighed og opstand er modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese f.m4a",
+    "seconds": 1076.971,
+    "tags": {
+      "creation_time": "2023-09-18T17:22:46.000000Z"
+    },
+    "bytes": 32910642,
+    "id": "D1-06",
+    "group": "Disput 1",
+    "sha256": "35d04911e63cbda0f99d504bcc675de4f60257392468297a3634ac1e5c942651",
+    "display_duration": "00:17:56",
+    "status": "principal",
+    "title": "Publiciteten er transmonarkisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese g.m4a",
+    "seconds": 1130.645,
+    "tags": {
+      "creation_time": "2023-09-18T17:57:49.000000Z"
+    },
+    "bytes": 34555318,
+    "id": "D1-07",
+    "group": "Disput 1",
+    "sha256": "10effb0f547247fed24fdc87fea57fd31b3799d19feb5fb374c25973a5f6917b",
+    "display_duration": "00:18:50",
+    "status": "principal",
+    "title": "Dialektikken er gået i stykker",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese h.m4a",
+    "seconds": 1040.576,
+    "tags": {
+      "creation_time": "2023-09-18T18:18:20.000000Z"
+    },
+    "bytes": 31822395,
+    "id": "D1-08",
+    "group": "Disput 1",
+    "sha256": "c8c7dd7ee52f3b6c5b9fdee53efdfa73d4b9fe06217054ce3e42f19a74ead611",
+    "display_duration": "00:17:20",
+    "status": "principal",
+    "title": "Revolutionen er entropisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    }
+  }
+]

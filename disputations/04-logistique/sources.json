@@ -1,0 +1,482 @@
+[
+  {
+    "path": "Disput 4/metatese1.m4a",
+    "seconds": 329.216,
+    "tags": {
+      "creation_time": "2023-09-24T16:33:32.000000Z"
+    },
+    "bytes": 10058078,
+    "id": "D4-01",
+    "group": "Disput 4",
+    "sha256": "c25ec4590e8be126568d69b55604fce53e72a836ab09af752877a62c3c9ff589",
+    "display_duration": "00:05:29",
+    "status": "principal",
+    "title": "Metatese 1",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese2.m4a",
+    "seconds": 339.84,
+    "tags": {
+      "creation_time": "2023-09-24T16:41:59.000000Z"
+    },
+    "bytes": 10389057,
+    "id": "D4-02",
+    "group": "Disput 4",
+    "sha256": "f1060b13d41d9b44731e45fa56162d9ea3d2af549ba1cba96a1e0ffb1501a05a",
+    "display_duration": "00:05:39",
+    "status": "principal",
+    "title": "Metatese 2",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese3.m4a",
+    "seconds": 316.843,
+    "tags": {
+      "creation_time": "2023-09-24T16:49:57.000000Z"
+    },
+    "bytes": 9680085,
+    "id": "D4-03",
+    "group": "Disput 4",
+    "sha256": "faea74beb135a43591a568e8689eb5291c12af78455e7af6a7cb5d40bf1acfed",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 3",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese4.m4a",
+    "seconds": 299.392,
+    "tags": {
+      "creation_time": "2023-09-24T16:58:22.000000Z"
+    },
+    "bytes": 9136276,
+    "id": "D4-04",
+    "group": "Disput 4",
+    "sha256": "b55adeae9bae14f1067be7cf7b28ceffb9b77e61c289c83e20b9c04fd38e6106",
+    "display_duration": "00:04:59",
+    "status": "principal",
+    "title": "Metatese 4",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese5.m4a",
+    "seconds": 307.072,
+    "tags": {
+      "creation_time": "2023-09-24T17:06:46.000000Z"
+    },
+    "bytes": 9386610,
+    "id": "D4-05",
+    "group": "Disput 4",
+    "sha256": "462b5da46eb4dd51bcdc7921c246cf3e430625e4d20540a20f00d74560e0e169",
+    "display_duration": "00:05:07",
+    "status": "principal",
+    "title": "Metatese 5",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese6.m4a",
+    "seconds": 317.099,
+    "tags": {
+      "creation_time": "2023-09-24T17:15:19.000000Z"
+    },
+    "bytes": 9703107,
+    "id": "D4-06",
+    "group": "Disput 4",
+    "sha256": "fb0d2f63bdf2c4dcfd6fdc334edfd5f968872aa3c349971b07030dd70d5f153f",
+    "display_duration": "00:05:17",
+    "status": "principal",
+    "title": "Metatese 6",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese7.m4a",
+    "seconds": 408.853,
+    "tags": {
+      "creation_time": "2023-09-24T17:25:04.000000Z"
+    },
+    "bytes": 12483718,
+    "id": "D4-07",
+    "group": "Disput 4",
+    "sha256": "e1f49975e83bc09ddb34cdf9379fa2323eb2acacf7a3fc427b8fa382da204540",
+    "display_duration": "00:06:48",
+    "status": "principal",
+    "title": "Metatese 7",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese8.m4a",
+    "seconds": 315.52,
+    "tags": {
+      "creation_time": "2023-09-24T17:33:57.000000Z"
+    },
+    "bytes": 9631606,
+    "id": "D4-08",
+    "group": "Disput 4",
+    "sha256": "11304d12e88e771fd8b2e2d9eb6c5f3a1f367c07d1b2a686d66f893ecd175f5b",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 8",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese9.m4a",
+    "seconds": 318.656,
+    "tags": {
+      "creation_time": "2023-09-24T17:55:59.000000Z"
+    },
+    "bytes": 9723899,
+    "id": "D4-09",
+    "group": "Disput 4",
+    "sha256": "535a582e13ba31d6dca72da93691ce7f37217540312a287ed45ad27b6f5ad5e8",
+    "display_duration": "00:05:18",
+    "status": "principal",
+    "title": "Metatese 9",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese10.m4a",
+    "seconds": 324.288,
+    "tags": {
+      "creation_time": "2023-09-24T18:04:52.000000Z"
+    },
+    "bytes": 9892016,
+    "id": "D4-10",
+    "group": "Disput 4",
+    "sha256": "f06b3146e2bb841400f00d801154ecec8b136764167a7b460080b13b5d51fd76",
+    "display_duration": "00:05:24",
+    "status": "principal",
+    "title": "Metatese 10",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese11.m4a",
+    "seconds": 306.453,
+    "tags": {
+      "creation_time": "2023-09-24T18:13:10.000000Z"
+    },
+    "bytes": 9357358,
+    "id": "D4-11",
+    "group": "Disput 4",
+    "sha256": "13f21600fc4e91e28cc9f65f495e271ff3e4fe04c681c5fb494e3ba30582f6f6",
+    "display_duration": "00:05:06",
+    "status": "principal",
+    "title": "Metatese 11",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese12.m4a",
+    "seconds": 315.797,
+    "tags": {
+      "creation_time": "2023-09-24T18:21:44.000000Z"
+    },
+    "bytes": 9648206,
+    "id": "D4-12",
+    "group": "Disput 4",
+    "sha256": "dfbec5eb0a77a2d8021750226e6bad8982604f76946d7093c02d1144a3b97b47",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 12",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese13.m4a",
+    "seconds": 315.2,
+    "tags": {
+      "creation_time": "2023-09-24T18:30:24.000000Z"
+    },
+    "bytes": 9629752,
+    "id": "D4-13",
+    "group": "Disput 4",
+    "sha256": "ca4231bad1117b52a7a9c5c7c73ad45047111e0d68c3ac4b30fd875b97ef108e",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 13",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese14.m4a",
+    "seconds": 316.971,
+    "tags": {
+      "creation_time": "2023-09-24T18:38:40.000000Z"
+    },
+    "bytes": 9680561,
+    "id": "D4-14",
+    "group": "Disput 4",
+    "sha256": "6d99276c951b9ed84162d6795961b2070e5b3e51ce4849c5fc7e4bdb47e9b5dd",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 14",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese15.m4a",
+    "seconds": 356.331,
+    "tags": {
+      "creation_time": "2023-09-24T18:48:18.000000Z"
+    },
+    "bytes": 10886414,
+    "id": "D4-15",
+    "group": "Disput 4",
+    "sha256": "fda182cb2fb84171ff44b1db002369796db96b4fb7ccc4fb1580736b2ad62eb7",
+    "display_duration": "00:05:56",
+    "status": "principal",
+    "title": "Metatese 15",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese16.m4a",
+    "seconds": 332.8,
+    "tags": {
+      "creation_time": "2023-09-24T18:56:40.000000Z"
+    },
+    "bytes": 10158673,
+    "id": "D4-16",
+    "group": "Disput 4",
+    "sha256": "f64814f401e0f3ccf969a3a5a4b618f90dc8580e5f11383e102942cb67e7827a",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 16",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese17.m4a",
+    "seconds": 333.867,
+    "tags": {
+      "creation_time": "2023-09-24T19:21:12.000000Z"
+    },
+    "bytes": 10206243,
+    "id": "D4-17",
+    "group": "Disput 4",
+    "sha256": "7bd5a00fd7397dbe265710bddb8e696cc793b85b05e411423ac11740d0f51e35",
+    "display_duration": "00:05:33",
+    "status": "principal",
+    "title": "Metatese 17",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese18.m4a",
+    "seconds": 320.853,
+    "tags": {
+      "creation_time": "2023-09-24T19:30:25.000000Z"
+    },
+    "bytes": 9818626,
+    "id": "D4-18",
+    "group": "Disput 4",
+    "sha256": "94d9906020945db84bffc9d3f69bb6a48484dad7232b1cbe21c12c407419a21c",
+    "display_duration": "00:05:20",
+    "status": "principal",
+    "title": "Metatese 18",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese19.m4a",
+    "seconds": 349.696,
+    "tags": {
+      "creation_time": "2023-09-24T19:39:15.000000Z"
+    },
+    "bytes": 10691111,
+    "id": "D4-19",
+    "group": "Disput 4",
+    "sha256": "62cc1b5ec2e56aab179e2d17ccfb9674a003bb61f6020c5bc2e8e8cae1c359b6",
+    "display_duration": "00:05:49",
+    "status": "principal",
+    "title": "Metatese 19",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese20.m4a",
+    "seconds": 353.067,
+    "tags": {
+      "creation_time": "2023-09-24T19:48:28.000000Z"
+    },
+    "bytes": 10794924,
+    "id": "D4-20",
+    "group": "Disput 4",
+    "sha256": "d5df2ff9c194eb3540ecc4451b5a896fe40e60f7cf6d537189f83d7f15645c38",
+    "display_duration": "00:05:53",
+    "status": "principal",
+    "title": "Metatese 20",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese21.m4a",
+    "seconds": 352.277,
+    "tags": {
+      "creation_time": "2023-09-24T19:57:49.000000Z"
+    },
+    "bytes": 10767656,
+    "id": "D4-21",
+    "group": "Disput 4",
+    "sha256": "b6769474448999681ed80fabb8b4c4158f0f36ab7ea00eb6609b2693c76840df",
+    "display_duration": "00:05:52",
+    "status": "principal",
+    "title": "Metatese 21",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese22.m4a",
+    "seconds": 304.939,
+    "tags": {
+      "creation_time": "2023-09-24T20:07:15.000000Z"
+    },
+    "bytes": 9317115,
+    "id": "D4-22",
+    "group": "Disput 4",
+    "sha256": "4a92afdce778348bfc11e4b91fbacb313087e57a3e42b14839a6470bc3ee9b35",
+    "display_duration": "00:05:04",
+    "status": "principal",
+    "title": "Metatese 22",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese23.m4a",
+    "seconds": 340.203,
+    "tags": {
+      "creation_time": "2023-09-24T20:15:44.000000Z"
+    },
+    "bytes": 10391291,
+    "id": "D4-23",
+    "group": "Disput 4",
+    "sha256": "00bce979a3d439a91dbae9aae96a542fcc1a5dd54d28dfff868a0d12c46c4e01",
+    "display_duration": "00:05:40",
+    "status": "principal",
+    "title": "Metatese 23",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  },
+  {
+    "path": "Disput 4/metatese24.m4a",
+    "seconds": 332.885,
+    "tags": {
+      "creation_time": "2023-09-24T20:25:51.000000Z"
+    },
+    "bytes": 10178378,
+    "id": "D4-24",
+    "group": "Disput 4",
+    "sha256": "dbd9f2421a6250144cf2396e6b4ebded203bd29cea704d6f1fe9b89d814c7a7d",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 24",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    }
+  }
+]
