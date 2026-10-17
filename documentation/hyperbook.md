@@ -1,23 +1,25 @@
-# Summa Transscriptus
+# Summa Transscriptus · kolofon
 
-Disputter over Computer Lars-spektaklet. Under Bugten ved Organ for de Autonome Videnskaber, Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi, september 2023.
+Under Bugten. Organ for de Autonome Videnskaber, Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi, september 2023. Webredaktion oktober 2026.
 
-## Læseudgaven
+## Disputationes
 
-Renskriften fra oktober 2026 bygger på originaloptagelserne, flere selvstændige lydgenkendelser, de oprindelige transskriptioner og de skriftlige teser. Staveformer, tegnsætning og sætningsforbindelser er normaliseret. Oplagte læsninger er valgt ud fra lyd og kontekst; korte afbrudte tilløb er udeladt. En latinsk oplæsning, som ikke har kunnet rekonstrueres, er angivet som oplæsning. Teksten er en redigeret læseudgave.
+Tesernes rækkefølge følger optagelserne. Tese og antitese betegner skiftende funktioner, ikke en fast fordeling af alle teser mellem Computer Lars og gæsten. Begge kunstnerstemmer hedder Computer Lars; deres genkendte stemmeskift er bevaret. De skrevne antiteser gengives som manuskriptkilder og identificeres ikke automatisk med den fremførte responsio.
 
-De to kunstnerstemmer betegnes Computer Lars. Ordstyreren betegnes Praeses. Deltagerbetegnelserne følger opførelsen. Uidentificerede replikker betegnes Deltager eller Ex auditorio.
+## Apparatus
 
-[Originaloptagelser og lydkatalog](recordings.md) · [Historiske transskriptioner](../archive/2023/) · [Tidligere læseudgave](https://github.com/ComputerLars/Summa-Transscriptus/tree/f1e8ed0d7bd00893840690cbab1d173902d34a8d/disputations) · [Redaktionelle læsemåder](../readings.html) · [Revisionsdata](reading-revisions.json).
+Rammetekst, script og udstillingens opstilling er en del af den skolastiske komputation. Samledokumentet gengives uændret i sin fulde kildeudgave. Fotografiernes hele billedrammer er bevaret i reducerede webkopier. Manuskriptets afsnitsnumre er redaktionelle kildeankre.
 
-## Forlæg og synteser
+## Exegesis
 
-De skriftlige teser er forlæg til disputterne. De bevarede synteser er tekster fra maskinens arbejde i 2023 og gengives ordret. De står som selvstændige kilder ved optagelserne. Samledokumentets ordlyd og billeder er bevaret uændret.
+Exegesen føres ved den enkelte disput: den fremførte responsio, det skrevne tese- og antiteseforlæg, transskriptionen og syntesen fra 2023 samt den nye læseudgave. Ældre genkendelser citeres ordret, også når de tager fejl. Uddrag er udtaget fra de bevarede filer; den fulde historiske transskription står ved siden af. Kildehenvisninger identificerer skriftlige forlæg eller dokumenterer læsevalget og regnes ikke som talerens egne ord.
 
-## Egne bøger
+Læseudgaven er renskrevet med støtte i lydgenkendelser, oprindelige transskriptioner, forlæg og nærkontekst. Den er ikke en ordret sikkerhedsrekonstruktion. En latinsk oplæsning, som ikke kan rekonstrueres, betegnes som oplæsning. Ex auditorio betegner indlæg i den åbnede plenumsrunde. Interventio bruges om replikker uden tilstrækkelig personidentifikation; der tilføjes ikke et personnavn alene ud fra indlæggets synspunkt.
 
-Opslag fra disputationer, teser, synteser og billedregister kan samles under Min bog. Noter og rækkefølge gemmes i læserens browser. Bogfilen kan hentes og åbnes igen. Trykvisningen indeholder de valgte tekster, egne noter, kildehenvisninger og lydsteder og kan udskrives eller gemmes som PDF fra browseren.
+[Redaktionelle læsemåder](../readings.html) · [Talerpositioner](position-readings.json) · [Historiske tekster](../archive/2023/) · [Tidligere læseudgave](https://github.com/ComputerLars/Summa-Transscriptus/tree/e05176f0a2e935abc5edeba5c3d5a3627a8e366c/disputations).
 
-## Billeder og rettigheder
+## Collectanea
 
-[Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Billedrettigheder](../sources/under-bugten/photos/README.md) · [Kilderegister](hyperbook-sources.json).
+Udsagn, rammetekst, teser, historiske synteser og billeder kan samles, annoteres og arrangeres til en trykbar bog. Samlingen gemmes i læserens browser og kan eksporteres og genindlæses. Kilde- og lydhenvisninger følger opslagene.
+
+[Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Lydkatalog](recordings.md) · [Skriftlicens](../assets/fonts/OFL.txt).

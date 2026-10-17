@@ -9,3 +9,16 @@
 @media print{.book-bibliography{break-before:page;font-size:8pt}.book-bibliography h2{font-size:12pt}.book-bibliography li{margin-bottom:5mm}}
 
 @media print{.item-heading{break-inside:avoid;break-after:avoid}.item-sources{break-inside:avoid}.item-sources p{margin:0;line-height:1.45}figure img{max-height:125mm}.printed-item>figure{margin-top:4mm}}
+
+/* White paper; blackletter is confined to the short book rubrics. */
+@font-face{font-family:Unifraktur;src:url('assets/fonts/UnifrakturMaguntia-Book.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+body{color:#141414;background-color:#fff;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='.025'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23p)' opacity='.65'/%3E%3C/svg%3E")}
+.wordmark,.title-page h1,.apparatus>h1,.praefatio>h1,.exegesis>h1,.own-book>h1,.plate-view>h1{font-family:Unifraktur,Georgia,serif;font-weight:400}.wordmark{font-size:29px}.title-page h1{font-size:55px}.apparatus>h1,.praefatio>h1,.exegesis>h1,.own-book>h1{font-size:40px}.reading h1{font-family:'Courier New',Courier,monospace;font-weight:bold;min-height:0}.proposition-pair{font-size:14px;display:flex;gap:12px 35px;flex-wrap:wrap;margin-bottom:20px}.speaker-turn{margin:0 0 42px}.speaker-turn .speech+.speech{margin-top:1.15em}.locus{display:block;height:0;scroll-margin-top:24px}.turn-meta{margin-bottom:13px}.passage-tools{margin-top:14px}.manuscript-block{margin:30px 0}.manuscript-block p:first-child{margin-bottom:10px}.manuscript-block .passage-tools{opacity:.75}.local-contents{font-size:14px;margin:25px 0 35px}.opening-links{font-size:14px;margin:35px 0}.apparatus figure{margin:40px 0}.exegesis>select{font-size:14px}.exegesis-locus{margin:55px 0;border-top:1px solid;padding-top:25px}.exegesis blockquote{font-size:17px}.exegesis details{margin:30px 0}.historical-transcription{white-space:pre-wrap;font-size:16px;line-height:1.7;margin-top:25px}.exegesis h3{font-size:17px}.thesis-antithesis{margin:35px 0 50px}#positions{margin-top:55px}.title-page figcaption{font-size:12px}button,input,textarea,select{background-color:#fff}
+@media(max-width:600px){.title-page h1{font-size:39px}.wordmark{font-size:27px}.proposition-pair{display:block}.proposition-pair span{display:block;margin-bottom:7px}.speaker-turn .speech{font-size:17px}.apparatus>h1,.praefatio>h1,.exegesis>h1,.own-book>h1{font-size:35px}.exegesis blockquote{font-size:16px}}
+@media print{body{background:#fff;color:#000}.speaker-turn .speech+.speech{margin-top:4mm}.book-cover>p:first-child{font:21pt Unifraktur,Georgia,serif}.proposition-pair,.locus{display:none}.speech{white-space:pre-line}}
+
+.exegesis>select{width:100%;min-width:0;max-width:100%}.exegesis{min-width:0}.adjacent{gap:25px}.adjacent>a{max-width:49%}select,option{overflow-wrap:anywhere}
+
+@media print{.printed-item>.meta{break-after:avoid}}
+
+.locus{display:inline-block;width:0;height:0;scroll-margin-top:24px}

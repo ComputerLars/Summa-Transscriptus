@@ -1,0 +1,578 @@
+[
+  {
+    "source_id": "D1-03",
+    "unit_id": "D1-03-U007",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 468.51
+  },
+  {
+    "source_id": "D1-05",
+    "unit_id": "D1-05-U011",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 613.73
+  },
+  {
+    "source_id": "D1-08",
+    "unit_id": "D1-08-U002",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 32.778
+  },
+  {
+    "source_id": "D1-08",
+    "unit_id": "D1-08-U017",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Interventio",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 793.752
+  },
+  {
+    "source_id": "D1-08",
+    "unit_id": "D1-08-U022",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 972.928
+  },
+  {
+    "source_id": "D2-01",
+    "unit_id": "D2-01-U014",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 751.878
+  },
+  {
+    "source_id": "D2-01",
+    "unit_id": "D2-01-U015",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 761.703
+  },
+  {
+    "source_id": "D2-01",
+    "unit_id": "D2-01-U018",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 831.442
+  },
+  {
+    "source_id": "D2-01",
+    "unit_id": "D2-01-U019",
+    "turn": 1,
+    "before": "Maia Bacchus",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 842.079
+  },
+  {
+    "source_id": "D2-02",
+    "unit_id": "D2-02-U025",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 975.896
+  },
+  {
+    "source_id": "D2-04",
+    "unit_id": "D2-04-U022",
+    "turn": 2,
+    "before": "Deltager",
+    "after": "Maia Bacchus",
+    "basis": "Akustisk kontrol: 0,918; margin 0,224. Spørgsmålet fortsætter gæstens undersøgelse af Computer Lars.",
+    "start": 884.244
+  },
+  {
+    "source_id": "D2-04",
+    "unit_id": "D2-04-U029",
+    "turn": 1,
+    "before": "Maia Bacchus",
+    "after": "Maia Bacchus",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 1086.927
+  },
+  {
+    "source_id": "D2-06",
+    "unit_id": "D2-06-U004",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 135.1
+  },
+  {
+    "source_id": "D2-06",
+    "unit_id": "D2-06-U018",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Maia Bacchus",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 587.419
+  },
+  {
+    "source_id": "D2-06",
+    "unit_id": "D2-06-U019",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Maia Bacchus",
+    "basis": "Konjektural tilskrivning: spørgsmålet følger gæstens argument om skriftkunst; den bevarede akustiske kontrol peger på Maia Bacchus.",
+    "start": 602.15
+  },
+  {
+    "source_id": "D2-06",
+    "unit_id": "D2-06-U021",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 650.865
+  },
+  {
+    "source_id": "D2-06",
+    "unit_id": "D2-06-U022",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 658.555
+  },
+  {
+    "source_id": "D2-08",
+    "unit_id": "D2-08-U009",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 510.655
+  },
+  {
+    "source_id": "D2-08",
+    "unit_id": "D2-08-U012",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Maia Bacchus",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 607.446
+  },
+  {
+    "source_id": "D2-08",
+    "unit_id": "D2-08-U018",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Maia Bacchus",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 751.688
+  },
+  {
+    "source_id": "D2-08",
+    "unit_id": "D2-08-U022",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Akustisk kontrol: 0,902; margin 0,140. Fortsættelse af den foregående replik.",
+    "start": 950.553
+  },
+  {
+    "source_id": "D2-08",
+    "unit_id": "D2-08-U027",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 1171.763
+  },
+  {
+    "source_id": "D3-01",
+    "unit_id": "D3-01-U013",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 781.004
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U005",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 302
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U008",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Kort fortsættelse af navnefortolkningen i den foregående replik; den bevarede stemmekontrol peger på Computer Lars.",
+    "start": 617.107
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U012",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Petrus Borumanum",
+    "basis": "Fortsættelse af den umiddelbart foregående replik om stridssejr og triumf, ikke en ny fremsættelse.",
+    "start": 857.273
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U012",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Petrus Borumanum",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 857.273
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U016",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Interventio",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 908.816
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U018",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 1043.223
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U020",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 1084.409
+  },
+  {
+    "source_id": "D3-02",
+    "unit_id": "D3-02-U021",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 1086.432
+  },
+  {
+    "source_id": "D3-04",
+    "unit_id": "D3-04-U013",
+    "turn": 1,
+    "before": "Petrus Borumanum",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 889.784
+  },
+  {
+    "source_id": "D3-05",
+    "unit_id": "D3-05-U015",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Petrus Borumanum",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 863.501
+  },
+  {
+    "source_id": "D3-05",
+    "unit_id": "D3-05-U016",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Petrus Borumanum",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 866.099
+  },
+  {
+    "source_id": "D3-07",
+    "unit_id": "D3-07-U011",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Petrus Borumanum",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 695.507
+  },
+  {
+    "source_id": "D3-07",
+    "unit_id": "D3-07-U017",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Petrus Borumanum",
+    "basis": "Konjektural tilskrivning: matematisk svar i den igangværende udveksling; stemmekontrol 0,84 med margin 0,22.",
+    "start": 1136.988
+  },
+  {
+    "source_id": "D4-02",
+    "unit_id": "D4-02-U007",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 320.606
+  },
+  {
+    "source_id": "D4-07",
+    "unit_id": "D4-07-U001",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Egen fremsættelse: »er min tese«. Den følgende replik udfolder samme metatese. Den bevarede stemmekontrol peger på Logistique.",
+    "start": 35.462
+  },
+  {
+    "source_id": "D4-07",
+    "unit_id": "D4-07-U008",
+    "turn": 2,
+    "before": "Deltager",
+    "after": "Praeses",
+    "basis": "Procedurebemærkning: »du skal gentage tesen«. Den bevarede stemmekontrol peger på Praeses.",
+    "start": 384.51
+  },
+  {
+    "source_id": "D4-09",
+    "unit_id": "D4-09-U007",
+    "turn": 1,
+    "before": "Computer Lars",
+    "after": "Computer Lars",
+    "basis": "Det korte indledende sætningsled afslutter den foregående stemmes syntaks. Resten af replikken beholder sin taler.",
+    "start": 204.063
+  },
+  {
+    "source_id": "D4-11",
+    "unit_id": "D4-11-U006",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Praeses",
+    "basis": "Formel afslutning af disputationen, svarende til de øvrige afslutningsformler.",
+    "start": 281.668
+  },
+  {
+    "source_id": "D4-16",
+    "unit_id": "D4-16-U003",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 115.548
+  },
+  {
+    "source_id": "D4-19",
+    "unit_id": "D4-19-U001",
+    "turn": 4,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "»Der må bureauet sige« fortsættes i næste enhed af omtalen af bureauets problemforslag.",
+    "start": 12.79
+  },
+  {
+    "source_id": "D4-19",
+    "unit_id": "D4-19-U002",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Fortsættelse af den foregående replik om bureauets fremsatte metatese.",
+    "start": 51.671
+  },
+  {
+    "source_id": "D4-19",
+    "unit_id": "D4-19-U004",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Bureauet minder Computer Lars om ordlyden af det problemforslag, Logistique fremsætter.",
+    "start": 86.29
+  },
+  {
+    "source_id": "D4-19",
+    "unit_id": "D4-19-U005",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Logistique",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 118.745
+  },
+  {
+    "source_id": "D4-19",
+    "unit_id": "D4-19-U008",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Computer Lars",
+    "basis": "Fortsættelse ved genkendelsesenhedens grænse; ikke et nyt indlæg.",
+    "start": 188.811
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U003",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 153.198
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U003",
+    "turn": 2,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 153.198
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U003",
+    "turn": 3,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 153.198
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U003",
+    "turn": 4,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 153.198
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U004",
+    "turn": 2,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 237.556
+  },
+  {
+    "source_id": "D4-23",
+    "unit_id": "D4-23-U006",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 300.298
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U004",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 134.807
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U004",
+    "turn": 3,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 134.807
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 2,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 3,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 5,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 6,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 7,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 8,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 9,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U005",
+    "turn": 11,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 220.659
+  },
+  {
+    "source_id": "D4-24",
+    "unit_id": "D4-24-U006",
+    "turn": 1,
+    "before": "Deltager",
+    "after": "Ex auditorio",
+    "basis": "Indlæg i den af Praeses/Logistique eksplicit åbnede plenumsrunde.",
+    "start": 233.977
+  }
+]

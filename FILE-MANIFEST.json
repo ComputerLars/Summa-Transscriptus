@@ -18,8 +18,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3768,
-      "sha256": "b47062ba5f1594e4ab5f7b8e15af28945dd8f67ca3676ea13aa63e338bcd5732"
+      "bytes": 23582,
+      "sha256": "477f6a55ef12ef972fbd8a63501d30e078216df2b8c85aa3ba9f252d8aaeac49"
     },
     {
       "path": "archive/2023/README.md",
@@ -312,14 +312,29 @@
       "sha256": "c2e2b7586ebfa690126278bcc1cb84329fe08ec734bf4c8aa3ff17b6f2079cf2"
     },
     {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4511,
+      "sha256": "96199bf9ff12dd471a66911dee95440737b437e7f5a6fd30e9e950c16d66e8df"
+    },
+    {
+      "path": "assets/fonts/README.md",
+      "bytes": 332,
+      "sha256": "17cbd7e2fc945239e60559ac7adb23094f6b7fb151b7046ca626493564d3af51"
+    },
+    {
+      "path": "assets/fonts/UnifrakturMaguntia-Book.ttf",
+      "bytes": 88508,
+      "sha256": "d64afc0547059dd2e4a78da48bda0aba0a9901be58c7f8c201a8b2b6b4492cc8"
+    },
+    {
       "path": "collation-data.js",
-      "bytes": 54243,
-      "sha256": "7bed7da5ecb18f0785bd01ad228b50d0f048e54acc4f0a129ec1a0448469eeae"
+      "bytes": 449624,
+      "sha256": "93463d1dc397a76029bbf4d1f6ef20773620516a5de4a4515c5fde2c9c00d6a4"
     },
     {
       "path": "collation.html",
-      "bytes": 1782,
-      "sha256": "264f947d4fd82b02a7f5ebeeebe6714b72f12b67b98fc15f8f7ecc17b3532d4e"
+      "bytes": 538,
+      "sha256": "6261169e76b04a86efe374dba168c79bf82c25ff3927986246cf4160b0030e1e"
     },
     {
       "path": "collation.js",
@@ -413,8 +428,8 @@
     },
     {
       "path": "documentation/collation.json",
-      "bytes": 67929,
-      "sha256": "0e9461dcf8663a40bb4d7f6e2543745e4ec91a41a887f75f4e5ec909ce337d08"
+      "bytes": 468298,
+      "sha256": "c09f880b85110fa3ca8c2e85d4241fcfc5c98d35afc30b1431c42dc70964856b"
     },
     {
       "path": "documentation/collation.md",
@@ -428,8 +443,8 @@
     },
     {
       "path": "documentation/editorial-principles.md",
-      "bytes": 2485,
-      "sha256": "6d26050c2862428a459bdc036a670166ff060cb0ad34debaf07a34812433ea22"
+      "bytes": 2971,
+      "sha256": "ca521101acae98f24b53d0cdc6c266e5a85af8088d1e23e239ff869f12fbc517"
     },
     {
       "path": "documentation/hyperbook-sources.json",
@@ -438,8 +453,13 @@
     },
     {
       "path": "documentation/hyperbook.md",
-      "bytes": 1960,
-      "sha256": "038ceec07648c17f3cf9627ab6048d6994b4b6e8bcb3d16f71239835462fa8f5"
+      "bytes": 2422,
+      "sha256": "ed8bf61a5ca57c9a1a0c4025791386ef705bf0ace4763a7dc991ac347071f45f"
+    },
+    {
+      "path": "documentation/position-readings.json",
+      "bytes": 16745,
+      "sha256": "21e69e810d597598624c7b36bcc51fc652f52a37f9cb0ae15d0abe19dccc7983"
     },
     {
       "path": "documentation/reading-revisions.json",
@@ -488,33 +508,33 @@
     },
     {
       "path": "hyperbog.html",
-      "bytes": 1835,
-      "sha256": "ef89285b933b0831a9e3868a342adec7547e87d04b137638761b06126b86d12f"
+      "bytes": 1796,
+      "sha256": "c8f8467f06d26d7eb17fb9a12d1cdcb7321a8c487ed071bdb52964feabe3d3ea"
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 544497,
-      "sha256": "1f3aa624b9d3e1cb7965872b149b5ed4a9c0bf69a4466d2b4f6d9f3cdb7128e2"
+      "bytes": 2319641,
+      "sha256": "065d48bb39ca55052106b824f546cc3759109c1583ab1387c42f0a36fb59c63b"
     },
     {
       "path": "hyperbook.css",
-      "bytes": 8964,
-      "sha256": "6630ad4cde2438bb231390244c320c63c29b23b38d72c55539cb80bd7d201093"
+      "bytes": 11855,
+      "sha256": "ac6f8bba50409086062a1d7c02e4bb64d0e3c27ec564319b8c1440775af25d19"
     },
     {
       "path": "hyperbook.js",
-      "bytes": 27670,
-      "sha256": "aabca340e37f9d122d542b4a508abde320df8fea2d690f54f8509d0bc64c7e30"
+      "bytes": 35375,
+      "sha256": "681556dea35548535cd2e0cba25bc26718e762940db8643d835d9de3bd070537"
     },
     {
       "path": "index.html",
-      "bytes": 1835,
-      "sha256": "ef89285b933b0831a9e3868a342adec7547e87d04b137638761b06126b86d12f"
+      "bytes": 1796,
+      "sha256": "c8f8467f06d26d7eb17fb9a12d1cdcb7321a8c487ed071bdb52964feabe3d3ea"
     },
     {
       "path": "manuscript.html",
-      "bytes": 462570,
-      "sha256": "07b5434730daf956934e7b0ca5ccbbe45f2a10a2e927f1b6605640ccd95c2af1"
+      "bytes": 462614,
+      "sha256": "713a37b0ff1788040be265a888958e4eafaa7082bd244ec708158e735f72d04f"
     },
     {
       "path": "reader.html",
@@ -528,13 +548,13 @@
     },
     {
       "path": "readings.html",
-      "bytes": 997834,
-      "sha256": "295d3b91e6f2b51d39e7cd4119936fa0b508d7b8abb965a0fafdc3a178d6a66f"
+      "bytes": 997878,
+      "sha256": "6255cee85b09441ccb963f583023c17dbfbfbcec115969bb26a6aa1ef7ce5761"
     },
     {
       "path": "review.html",
-      "bytes": 189,
-      "sha256": "e723b98e98d3e7cc7206dbba338fe58969a48f930c34dd1d8ce8a28b9e47300e"
+      "bytes": 442,
+      "sha256": "138213c651ef41c6735e9557899f2909368e49c11e2278c04bf2e1d4ede5175e"
     },
     {
       "path": "sources/under-bugten/README.md",
@@ -588,8 +608,13 @@
     },
     {
       "path": "sources/under-bugten/photos/README.md",
-      "bytes": 669,
-      "sha256": "62c5970e8673b4fe35c969a88a21a51a39208a0e9aa70b964e4624466e332a46"
+      "bytes": 2409,
+      "sha256": "987561c7edd5d9b5f346b359e0f7f3c350513a09bbaf2240b5a982ab611a5609"
+    },
+    {
+      "path": "sources/under-bugten/photos/akkumulatorerne.jpg",
+      "bytes": 265948,
+      "sha256": "c3a916015949af3d2a8599b4cb3da9d61feb43156fad5079dc8be1517808ea81"
     },
     {
       "path": "sources/under-bugten/photos/cille-hvass-holm-1.jpg",
@@ -602,14 +627,49 @@
       "sha256": "5674456ad4771789166aa0283ba43aaf448130221f98fbe75d33a8d36e876ae3"
     },
     {
+      "path": "sources/under-bugten/photos/cille-hvass-holm-3.jpg",
+      "bytes": 543062,
+      "sha256": "475b53eb9a6f7d256bd25fc6264d64ae3d67d83e6e85ccd5ee63ef1e570e75a2"
+    },
+    {
+      "path": "sources/under-bugten/photos/cille-hvass-holm-4.jpg",
+      "bytes": 524699,
+      "sha256": "3883741feb8c26c1864aa7ccc600b6e1b2b8d0efcb0de402b4cebf2ceae3849c"
+    },
+    {
+      "path": "sources/under-bugten/photos/computer-lars-bind.jpg",
+      "bytes": 197030,
+      "sha256": "a0a34b200bbf6f330973b5ccb52274fd323420b528005807169e7ee5713dcee5"
+    },
+    {
+      "path": "sources/under-bugten/photos/gulvplan.jpg",
+      "bytes": 445856,
+      "sha256": "c2b431f8167a0208f6937be8671f10d5ee194d1bb9e274c8378087a9753fdce2"
+    },
+    {
+      "path": "sources/under-bugten/photos/kaeldernedgang.jpg",
+      "bytes": 260515,
+      "sha256": "f736d6aeb465ae50efdd94c943ab18f49a4991f1bb2b35e51a21963bce0230e7"
+    },
+    {
+      "path": "sources/under-bugten/photos/organets-publikationer.jpg",
+      "bytes": 360673,
+      "sha256": "be4f1feb60644c694bfdbe4402b2add70b85571f86e4a551501796df908e2b9e"
+    },
+    {
       "path": "sources/under-bugten/photos/oversigtsbillede.jpg",
       "bytes": 318788,
       "sha256": "e872fca834d253b656622b15b7700677cbcd23b1a3004acc4079bb8e758fee24"
     },
     {
+      "path": "sources/under-bugten/photos/projektion.jpg",
+      "bytes": 330967,
+      "sha256": "fcc3f97172d7cf303c927252bd845fdca5fd13c597ec4a884f7391a8346ea771"
+    },
+    {
       "path": "sources/under-bugten/photos/sources.json",
-      "bytes": 2290,
-      "sha256": "df0252b2d29bbe67b9c73041ad6009c901b764f0f7b6b83419936a82b52be744"
+      "bytes": 8978,
+      "sha256": "4b14b6816f709221398c17550f83633f30e18e170976498be27ecb87ff626b58"
     },
     {
       "path": "sources/under-bugten/source.json",
