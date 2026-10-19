@@ -1,27 +1,13 @@
-# Redaktionsprincipper
+# Udgaveprincipper
 
-Læseudgaverne bygger på ny lydgenkendelse af optagelserne fra september 2023, sammenholdt med en uafhængig genkendelse, de bevarede 2023-transskriptioner og det skriftlige tesemateriale. Vanskelige passager er udtaget til særskilt genkendelse med udjævnede lydniveauer. Den skriftlige kontekst hjælper med stavning og fagord; den er ikke et manuskript, som talen skal bringes til at svare til.
+*Under Bugten · september 2023. Læseudgave · oktober 2026.*
 
-Tegnsætning, kongruens, åbenlyse genkendelsesfejl og rene stammen er rettet. Argumenternes rækkefølge, negationer, kvalifikationer, faglige særheder og meningsbærende gentagelser er bevaret. Talerens faktiske påstande er ikke faktakorrigeret til andre påstande. Dette er transskriptionsredaktion, ikke nye synteser af disputterne.
+Læseudgaven bygger på optagelserne, de oprindelige transskriptioner og de skriftlige forlæg. Tegnsætning, grammatik, navneformer og åbenlyse genkendelsesfejl er rettet. Ordforråd, argumenter, negationer og meningsbærende gentagelser er bevaret. Konjekturale læsninger og udeladelser er registreret i udgavens rettelsesregistre.
 
-Læseudgaven vælger de bedst underbyggede læsninger ved sammenhold af lyd, kontekst, selvstændige genkendelser, de oprindelige transskriptioner og skriftlige forlæg. Afbrudte tilløb er udeladt; sætningsforbindelser er renskrevet. En urekonstrueret latinsk oplæsning er angivet som oplæsning. Tidsankrene er omtrentlige og regnes fra begyndelsen af hver optagelse.
+Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Begge kunstnerstemmer betegnes Computer Lars; ordstyreren betegnes Praeses. Ex auditorio angiver indlæg fra salen. Interventio betegner en replik uden sikker taleridentifikation.
 
-## Stemmer og opførelsesnavne
+Teksterne følger optagelsernes rækkefølge. En fortsat taler har én betegnelse med flere afsnit. Tidsangivelserne er omtrentlige og regnes fra begyndelsen af den enkelte optagelse. Manuskriptets afsnitsnumre er kildeadresser; dets plan svarer ikke overalt til fremførelsens rækkefølge.
 
-Begge stemmer, der optræder som Computer Lars, betegnes Computer Lars. Ordstyreren betegnes Praeses. Gæsterne betegnes Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Indlæg fra salen betegnes Ex auditorio, hvor denne funktion kan identificeres. Interventio betegner i hjemmesidens aktuelle læsning en replik, hvor personidentifikationen ikke er tilstrækkeligt underbygget. Word- og Markdown-udgaverne følger den aktuelle læsetekst.
+De oprindelige transskriptioner og maskinsynteser fra 2023 er bevaret uændret. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).
 
-Afsnit i hjemmesidens læsetekst følger sammenhængende argumenter. Et nyt afsnit medfører ikke et nyt talernavn. Begge Computer Lars-stemmer samles under samme fortsatte talerposition; de underliggende kildeankre bevares. Genkendelsesenheder og filgrænser bevares som kildeankre, ikke som automatiske afsnitsgrænser.
-
-Disse er opførelsesbetegnelser. Organ for de Autonome Videnskaber, Computer Lars, Praeses og Summa Transscriptus holdes adskilt.
-
-## Rækkefølge og optagelser
-
-Teksterne følger de bevarede optagelsers rækkefølge, kontrolleret mod deres indhold og de historiske transskriptioner. Det skriftlige teseskemas bogstaver svarer ikke overalt til fremførelsens rækkefølge. Tider nulstilles for hver original lydfil; de er ikke sammenhængende klokkeslæt for hele aftenen.
-
-Disput 1 indeholder også en senere eksport af diskussionen om publicitet. Begge filer er bevaret som kilder, men diskussionen optræder kun én gang i læseudgaven. Analysemodellernes tre korte optagelser er registreret som supplerende kilder, ikke som yderligere offentlige disputter. Manifesternes filnavne, varigheder og SHA-256-kontrolsummer forbinder teksterne med de uændrede lydfiler.
-
-## Tekst og kildeankre
-
-Optagelsesbrud inde i én talers sætning sammenføjes. Afsnit følger argumentets overgange. Hængende forbindelsesord fjernes, og afbrudte udsagn får udeladelsesprikker. Nye talerpositioner begynder med stort bogstav. Ændringer i paragrafgrænserne står i [paragrafregisteret](paragraph-boundaries.json). Kildeankrene og de oprindelige optagelsesenheder bevares.
-
-[Supplerende talerafstemninger](speaker-readings-20261019.json) fører generiske angivelser tilbage til de navngivne talerpositioner. Begge kunstnerstemmer hedder Computer Lars. De oprindelige transskriptioner og maskinsynteser redigeres ikke. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).
+[Kilder](references.md) · [Tekstrettelser](reading-corrections.json) · [Talerangivelser](speaker-readings-20261019.json) · [Afsnit og udeladelser](paragraph-boundaries.json)

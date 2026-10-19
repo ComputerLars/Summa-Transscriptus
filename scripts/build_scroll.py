@@ -5,6 +5,7 @@
 from pathlib import Path
 from copy import deepcopy
 import json,re,subprocess
+from difflib import SequenceMatcher
 R=Path(__file__).resolve().parents[1]
 BASE='3224e3c74cf4505f2683a036e103fa3de4900531'
 log=[];boundary_log=[]
@@ -15,6 +16,13 @@ READING_REPLACEMENTS={
  }
 }
 names={'Mikkel Bolt':'Mikhailos Boltus','Maja Bak Herrie':'Maia Bacchus','Peter Borum':'Petrus Borumanum'}
+PROSE_EDITS=json.loads((R/'documentation/reading-prose.json').read_text())['edits']
+TURN_HINGES=json.loads((R/'documentation/reading-paragraphs.json').read_text())['turn_hinges']
+def prose(text,rid):
+ for edit in PROSE_EDITS:
+  if edit['record']==rid:text=text.replace(edit['before'],edit['after'])
+ return text
+
 def clean(text,rid=''):
  for before,after in names.items():text=text.replace(before,after)
  # Remove only the detached tag, not meaningful negative questions.
@@ -25,6 +33,7 @@ def clean(text,rid=''):
  text=re.sub(r',\s*ikke\?(?:\s*,)?', '.',text)
  if rid=='D2-04':
   text=text.replace('Computer Lars har mindst to lemmer','Computer Lars har mindst to legemer').replace('Computer Lars har to lemmer','Computer Lars har mindst to legemer')
+ text=prose(text,rid)
  text=re.sub(r'\.\s*\.', '.',text)
  text=re.sub(r' {2,}',' ',text)
  return text.strip()
@@ -38,10 +47,11 @@ HINGES={
 "D3-02":["Men det, den siger, er", "Så sammenlagt bliver", "Så hvis Computer Lars"]
 }
 
-def blocks_at_hinges(blocks,rid):
+def blocks_at_hinges(blocks,rid,turn=None):
  out=[]
+ phrases=HINGES.get(rid,[])+[clean(p,rid)for p in TURN_HINGES.get(turn,[])]
  for b in blocks:
-  cuts=[0]+[b.index(phrase)for phrase in HINGES.get(rid,[])if phrase in b and b.index(phrase)>0 and __import__('re').search(r'[.!?][”\']?\s+$',b[:b.index(phrase)])]+[len(b)]
+  cuts=[0]+[b.index(phrase)for phrase in phrases if phrase in b and b.index(phrase)>0 and re.search(r'[.!?][”\'\"]?\s+$',b[:b.index(phrase)])]+[len(b)]
   cuts=sorted(set(cuts));out += [b[a:z].strip()for a,z in zip(cuts,cuts[1:])if b[a:z].strip()]
  return out
 
@@ -63,8 +73,20 @@ def reading_boundaries(blocks):
 
 def jslen(text):return len(text.encode('utf-16-le'))//2
 
+def shifted_offset(before,after,offset):
+ # Source loci use UTF-16 offsets in the browser. Keep them attached through
+ # punctuation and word edits, including a correction across source chunks.
+ a=before.encode('utf-16-le');b=after.encode('utf-16-le')
+ a=[a[n:n+2]for n in range(0,len(a),2)];b=[b[n:n+2]for n in range(0,len(b),2)]
+ for tag,i,j,x,y in SequenceMatcher(None,a,b,autojunk=False).get_opcodes():
+  if i<=offset<j:return x+min(offset-i,y-x)
+ return len(b)
+
 def build():
  h=json.loads(subprocess.check_output(['git','show',BASE+':hyperbook-data.json'],cwd=R))
+ # An accidental keystroke in the manuscript is omitted from the reading display.
+ # The diplomatic manuscript and original Word source remain available unchanged.
+ for p in h['manuscript']:p['text']=p['text'].replace('€€€#€€##€####DD###€','')
  speaker_path=R/'documentation/speaker-readings-20261019.json'
  speaker_edits={(x['record'],x['turn']):x['after']for x in json.loads(speaker_path.read_text())['changes']}if speaker_path.exists()else{}
  synthesis_before={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}
@@ -92,8 +114,10 @@ def build():
     t['blocks']=[replacement['text']]
     # Retain links to all source units without indexing the omitted chatter.
     t['loci']=[{**l,'offset':0}for l in t.get('loci',[])]
-   t['blocks']=blocks_at_hinges(reading_boundaries(t['blocks']),r['id'])
+   t['blocks']=blocks_at_hinges([prose(b,r['id'])for b in reading_boundaries(t['blocks'])],r['id'],t['id'])
    t['text']=' '.join(t['blocks'])
+   if before['text']!=t['text'] and not replacement:
+    t['loci']=[{**l,'offset':shifted_offset(before['text'],t['text'],l['offset'])}for l in t.get('loci',[])]
    if before['text']!=t['text'] or before['blocks']!=t['blocks']:
     entry={'record':r['id'],'turn':t['id'],'before':before,'after':{'text':t['text'],'blocks':t['blocks']}}
     if replacement:entry['basis']=replacement['basis']

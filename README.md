@@ -21,13 +21,13 @@ Optagelser, skriftlige forlæg, læseudgave og de oprindelige maskinsynteser fra
 
 — [Praefatio](https://computerlars.github.io/Summa-Transscriptus/#praefatio), [samledokumentet §4](https://computerlars.github.io/Summa-Transscriptus/manuscript.html#p4).
 
-Fire disputationer blev annonceret: 18. september kl. 16–20 samt 20., 22. og 24. september kl. 18–22. De første tre aftener omfatter hver fire tese–antitese-par, otte fremsættelser. Den sidste er en metadisput med Logistique. En kort pseudotese og supplerende optagelser er bevaret i arkivet. Programmets tider er ikke optagelsernes målte længder.
+Fire disputationer blev annonceret: 18. september kl. 16–20 samt 20., 22. og 24. september kl. 18–22. De første tre aftener omfatter hver fire tese–antitese-par, otte fremsættelser. Den sidste er en metadisput med Logistique. En kort pseudotese og supplerende optagelser er bevaret i arkivet.
 
 Scriptet afsætter tyve minutter pr. fremsættelse og fem minutter til indlæg ex auditorio. Et sådant indlæg skal holdes inden for to minutter og fremsætte en begrundet afvisning eller en distinktion. Praeses leder forløbet.
 
 Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, Logistique, Computer Lars og Praeses. Begge kunstnerstemmer optræder som Computer Lars. Ex auditorio betegner indlæg fra salen; en uidentificeret indskudt replik betegnes Interventio.
 
-[Rammetekst](https://computerlars.github.io/Summa-Transscriptus/#praefatio) · [Ordo disputandi](https://computerlars.github.io/Summa-Transscriptus/#apparatus) · [Manuscriptum](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Original Word-fil](sources/under-bugten/manuscript.docx) · [Ordret tekstudtræk](sources/under-bugten/manuscript.md) · [Proveniens](sources/under-bugten/source.json).
+[Rammetekst](https://computerlars.github.io/Summa-Transscriptus/#praefatio) · [Ordo disputandi](https://computerlars.github.io/Summa-Transscriptus/#apparatus) · [Manuscriptum](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Original Word-fil](sources/under-bugten/manuscript.docx).
 
 ## Teser, antiteser og kilder
 
@@ -103,19 +103,19 @@ Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, L
 
 ## Tekst og kilder
 
-**Optagelserne, 2023.** De oprindelige M4A-filer er registreret i [optagelsesoversigten](documentation/recordings.md). MP3-lyttekopierne følger samme forløb uden beskæring. Tiderne regnes fra begyndelsen af den enkelte optagelse. [Lyttekopier](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
+**Optagelserne, 2023.** [Lyd og optagelsesoversigt](documentation/recordings.md). Tiderne regnes fra begyndelsen af den enkelte optagelse.
 
-**Transskriptioner og synteser, 2023.** [56 TXT-filer](archive/2023/) er bevaret uændret. De 48 tilknyttede maskinsynteser afslutter de respektive forløb på læsesiden i deres oprindelige ordlyd. Syntesernes fejl, navne og slutninger tilhører dette historiske tekstlag. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).
+**Transskriptioner og synteser, 2023.** [De oprindelige tekster](archive/2023/) er bevaret uændret. Maskinsynteserne afslutter de respektive forløb i deres oprindelige ordlyd. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).
 
-**Manuskriptet.** Samledokumentet rummer rammetekst, procedure, planer, teser, antiteser, tabeller, billeder og historiske tekster. Dets 492 ikke-tomme tekstafsnit og syv indlejrede billeder er bevaret i den diplomatiske udgave. Dets afsnitsnumre er kildeadresser.
+**Manuskriptet.** Samledokumentet rummer rammetekst, procedure, planer, teser, antiteser, tabeller og billeder. Henvisninger med § angiver dets afsnit.
 
-**Læseudgaven, oktober 2026.** Renskrivning på grundlag af optagelser, tidligere genkendelser og skriftlige forlæg. En fortsat taler har én betegnelse med flere afsnit. Optagelses- og genkendelsesenhederne bevares som lydsteder og tekstankre. Lokal tegnsætning, navneformer og rettelser er registreret i [rettelseslisten](documentation/reading-corrections.json); kildebaserede talerafstemninger i [positionsregisteret](documentation/position-readings.json).
+**Læseudgaven, oktober 2026.** Redigeret efter optagelserne, de oprindelige transskriptioner og de skriftlige forlæg. Tegnsætning, grammatik og navneformer er renskrevet; ordforråd, argumenter og meningsbærende gentagelser er bevaret. [Udgaveprincipper](documentation/editorial-principles.md).
 
 ## Organ Tekst
 
 Organ for de Autonome Videnskabers udstillingsmateriale til *Under Bugten*, 2023. Fyrre slides med rammetekst, skolastisk komputation, Llulls parvise valg og anagrammernes repræsentationsmodel.
 
-[Se de 40 slides](https://computerlars.github.io/Summa-Transscriptus/organ-tekst.html) · [PowerPoint](sources/under-bugten/organ-tekst/Organ-Tekst.pptx) · [PDF](sources/under-bugten/organ-tekst/Organ-Tekst.pdf) · [Ordret tekstudtræk](sources/under-bugten/organ-tekst/text.md) · [Proveniens](sources/under-bugten/organ-tekst/source.json).
+[Se de 40 slides](https://computerlars.github.io/Summa-Transscriptus/organ-tekst.html) · [PowerPoint](sources/under-bugten/organ-tekst/Organ-Tekst.pptx) · [PDF](sources/under-bugten/organ-tekst/Organ-Tekst.pdf).
 
 [Oratio latina · rekonstrueret forlæg til åbningen](sources/under-bugten/opening-latin.md).
 
@@ -125,10 +125,10 @@ Organ for de Autonome Videnskabers udstillingsmateriale til *Under Bugten*, 2023
 
 ## Collectanea
 
-[Collectanea](https://computerlars.github.io/Summa-Transscriptus/#bog) samler valgte tekstforløb, lydsteder, synteser og billeder med egne anmærkninger. Udvalget gemmes i browseren. [Den samlede PDF](Summa-Transscriptus.pdf) følger den aktuelle læseudgave. **Hent PDF** sætter udvalget som en A5-bog med marginer, indhold, sidetal og kilderegister. Den samlede PDF omfatter rammeteksten og alle hovedforløb.
+[Collectanea](https://computerlars.github.io/Summa-Transscriptus/#bog) samler valgte tekstforløb, lydsteder, synteser og billeder med egne anmærkninger. Udvalget gemmes i browseren. [Den samlede PDF](Summa-Transscriptus.pdf) følger den aktuelle læseudgave. **Hent PDF** giver udvalget som en A5-bog med sidetal og kilder.
 
 ## Arkiv og rettigheder
 
-[Filmanifest](FILE-MANIFEST.json) · [Redaktionelle principper](documentation/editorial-principles.md) · [Kilder](documentation/references.md) · [Licens](LICENSE).
+[Kilder](documentation/references.md) · [Udgaveprincipper](documentation/editorial-principles.md) · [Licens](LICENSE).
 
 Computer Lars-projektets senere ph.d.-afhandling: [Asker Bryld Staunæs, *Syntheticism: How I Learned to Love Democracy*](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy).

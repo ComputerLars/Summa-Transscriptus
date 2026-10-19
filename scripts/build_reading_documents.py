@@ -17,7 +17,7 @@ for g in h['groups']:
   st=doc.styles[name];st.font.color.rgb=RGBColor(0,0,0)
  doc.add_paragraph('Summa Transscriptus','Title');doc.add_paragraph(g['guest']+' og Computer Lars','Subtitle');doc.add_paragraph(g['date']+' · Under Bugten · Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi')
  for rid in g['records']:
-  r=records[rid];doc.add_paragraph(r['position']+' · '+r['title'],'Heading 1');p=doc.add_paragraph(rid+' · '+g['date']);p.paragraph_format.space_after=Pt(18)
+  r=records[rid];title=r['title'] if r['title']==r['position'] or r['title'].startswith(r['position']+' ') else r['position']+' · '+r['title'];doc.add_paragraph(title,'Heading 1');p=doc.add_paragraph(rid+' · '+g['date']);p.paragraph_format.space_after=Pt(18)
   for t in r['utterances']:
    sec=int(t['start']);clock=f'{sec//3600:02}:{sec%3600//60:02}:{sec%60:02}'
    p=doc.add_paragraph();p.paragraph_format.keep_with_next=True;p.paragraph_format.space_before=Pt(12);run=p.add_run(t['speaker']+' · '+clock);run.font.size=Pt(9);run.italic=True

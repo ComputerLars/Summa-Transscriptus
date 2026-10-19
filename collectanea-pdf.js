@@ -66,7 +66,7 @@ async function makePDF(items,title){
    }else if(x.kind==='frame'){
     for(const n of (x.id==='ordo'?[72,74,76,77,78]:Array.from({length:66},(_,i)=>i+4))){const p=manuscriptParagraph(n),f=H.figures.find(f=>f.paragraph===n);if(p?.text.trim())para(p.text);if(f)await image(f)}
    }else{
-    if(x.speaker)para(x.speaker+' · '+clock(x.start),7.4,8,records.get(x.record)?.audio+'#t='+Math.floor(x.start));para(x.text);
+    if(x.speaker)para(x.speaker+' · '+clock(x.start),7.4,8,records.get(x.record)?.audio+'#t='+Math.floor(x.start));for(const block of x.text.split(/\n\s*\n/))para(block);
    }
    if(item.note){heading('Anmærkning',10.5);para(item.note)}
    const sources=[ref('Locus · '+(x.record||x.title),x.url)];
