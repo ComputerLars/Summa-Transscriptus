@@ -1038,6 +1038,23 @@
     },
     {
       "record": "D2-07",
+      "turn": "D2-07-U012-2",
+      "before": {
+        "text": "[Kort udveksling ved maskinen.] Det er virkelig, virkelig dejligt. [Kort svar.] Nej, nej, det er maskinen. Vil du have mere vand? Jeg tror … Et sted, eller … jeg ved ikke, er det dig først? Er det dig først? Ja, du er først.",
+        "blocks": [
+          "[Kort udveksling ved maskinen.] Det er virkelig, virkelig dejligt. [Kort svar.] Nej, nej, det er maskinen. Vil du have mere vand? Jeg tror … Et sted, eller … jeg ved ikke, er det dig først? Er det dig først? Ja, du er først."
+        ]
+      },
+      "after": {
+        "text": "Jeg håber, at det er okay, at jeg kom til at tænde maskinen.",
+        "blocks": [
+          "Jeg håber, at det er okay, at jeg kom til at tænde maskinen."
+        ]
+      },
+      "basis": "Efter forfatterens anvisning beholdes kun denne replik fra det praktiske replikskifte uden for disputten. Kildeenheder og optagelse bevares."
+    },
+    {
+      "record": "D2-07",
       "turn": "D2-07-U013-4",
       "before": {
         "text": "Hvis man skulle skabe en antitese til den meget flatterende tese, så skulle man nok angribe spørgsmålet om, hvad tredjehed som sådan er. Inspireret af at have været til fernisering i Holstebro i lørdags, så ville det angreb kunne tage form af, hvad et forestillet angreb på Jørgen Michaelsen ville være. Det ville være et forestillet angreb på hans trialektik-take fra Silkeborg, hvor drive, drift, comfort-triaden får lov at indtage position som en triadisk struktur, hvor man med udgangspunkt i argumentationen i farvelærens triader med tre radikale modsætninger, tre på hver deres måde radikale modsætninger fra hinanden i primærfarverne, ville kunne argumentere for, i et argument imod Aristoteles, at det triadiske ikke handler om indbringelsen af et tredje punkt, der medierer imellem to radikale positioner, som for eksempel drive, drift, comfort. Så en mulig vej for en antitese at gå for Computer Lars her ville være at sige, at tredjeheden er noget radikalt tredje og ikke kun er en medierende eller situerende faktor. Hvordan det så konkret fungerer? Der må man ind i en anden historiografi over trialektikerne for at skille dem ad, ikke også? Det er klart, at fredsbevægelsen som en mediator imellem øst-vest-fraktionen hurtigt kommer til per definition at indtage den her medierende funktion, om end man ville mene, at fredens princip er noget, der rækker langt hinsides to parter, ikke også? Men det samme problem plager jo også teologien langt tilbage, ikke også? Om Helligånden er noget andet end bare det, der medierer imellem Faderen og Sønnen, om den er noget radikalt fremmed, eller om den bare er garanten for funktionen mellem det første og det andet, ikke også?",

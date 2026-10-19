@@ -1238,7 +1238,7 @@ Hvordan ændrer vores indlæring sig i takt med, at der introduceres flere adapt
 
 **Interventio · 00:10:02**
 
-[Kort udveksling ved maskinen.] Det er virkelig, virkelig dejligt. [Kort svar.] Nej, nej, det er maskinen. Vil du have mere vand? Jeg tror … Et sted, eller … jeg ved ikke, er det dig først? Er det dig først? Ja, du er først.
+Jeg håber, at det er okay, at jeg kom til at tænde maskinen.
 
 <a id="D2-07-U013-4"></a>
 

@@ -23,8 +23,8 @@
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1372788,
-      "sha256": "50cf1a4598f73996b2a78aed2178e60cdec394ee9a0c76d2882238fb9062a0cd"
+      "bytes": 1372583,
+      "sha256": "3b08d5253a7a61f2fd9e2a851be8bc45e9883d89b90ed6852d8ec1d811a029d7"
     },
     {
       "path": "archive/2023/README.md",
@@ -393,13 +393,13 @@
     },
     {
       "path": "disputations/02-maia-bacchus/reading.docx",
-      "bytes": 77586,
-      "sha256": "8faddc031255509c26a3403bc8c5ab7bb09b293063c78d7080184f68ff96cef5"
+      "bytes": 77518,
+      "sha256": "7ccba9f76f98fa4af1e285988af7f407ba2b7b7664a1930fdebef7e9568861cd"
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 124457,
-      "sha256": "4fa51fa7a98f1e0622bc9d98a4a6dd45aaed1fc907e80b89df3b627170efc21b"
+      "bytes": 124288,
+      "sha256": "2948aeafe088606736f4b837f8eb02630a3f9248971a8609ae3c848eb686b5f5"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -463,8 +463,8 @@
     },
     {
       "path": "documentation/paragraph-boundaries.json",
-      "bytes": 606988,
-      "sha256": "a5e3a4d376a5b27316629a374b1ee2879696294cedd9ae2e465d6357f1a7697f"
+      "bytes": 607979,
+      "sha256": "de7660b58e45f39d2ce3e3d6d98c6060079dc28199978dc6696dc0de616520be"
     },
     {
       "path": "documentation/position-readings.json",
@@ -523,8 +523,8 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2287425,
-      "sha256": "754eecce7b74753cfb9c2ab65ac72607e59b6e9dca4812435f5b9b059c384bb7"
+      "bytes": 2287075,
+      "sha256": "163111df7c169045695b11baab9fd415f4ef9b50083d394ec57cf2ecba85aa57"
     },
     {
       "path": "hyperbook.css",
@@ -533,8 +533,8 @@
     },
     {
       "path": "hyperbook.js",
-      "bytes": 26986,
-      "sha256": "5ea43c101fe31249f52c74ed60c82c9dbc49809afb901b17228b7ab6c8d8d284"
+      "bytes": 26923,
+      "sha256": "219b31365941dab86daf78eb7f3ee16cbdd03a86dbae19791df0981ccae28776"
     },
     {
       "path": "index.html",
@@ -578,8 +578,8 @@
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 9667,
-      "sha256": "f2d6030f5b9b6e7c0d95cd44c81c8830e9c5b23c43e9cc85144cb036f16ccf1c"
+      "bytes": 10336,
+      "sha256": "4a2b9e34a24d86946886abfef8316b2743c08f972cb5fd296ca13e8818d1dcd4"
     },
     {
       "path": "scripts/refresh_manifest.py",

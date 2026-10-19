@@ -8,6 +8,12 @@ import json,re,subprocess
 R=Path(__file__).resolve().parents[1]
 BASE='3224e3c74cf4505f2683a036e103fa3de4900531'
 log=[];boundary_log=[]
+READING_REPLACEMENTS={
+ ('D2-07','D2-07-U012-2'):{
+  'text':'Jeg håber, at det er okay, at jeg kom til at tænde maskinen.',
+  'basis':'Efter forfatterens anvisning beholdes kun denne replik fra det praktiske replikskifte uden for disputten. Kildeenheder og optagelse bevares.'
+ }
+}
 names={'Mikkel Bolt':'Mikhailos Boltus','Maja Bak Herrie':'Maia Bacchus','Peter Borum':'Petrus Borumanum'}
 def clean(text,rid=''):
  for before,after in names.items():text=text.replace(before,after)
@@ -80,9 +86,18 @@ def build():
    else:turns.append(t)
   for t in turns:
    before={'text':t['text'],'blocks':list(t['blocks'])}
+   replacement=READING_REPLACEMENTS.get((r['id'],t['id']))
+   if replacement:
+    assert '[Kort udveksling ved maskinen.]' in t['text']
+    t['blocks']=[replacement['text']]
+    # Retain links to all source units without indexing the omitted chatter.
+    t['loci']=[{**l,'offset':0}for l in t.get('loci',[])]
    t['blocks']=blocks_at_hinges(reading_boundaries(t['blocks']),r['id'])
    t['text']=' '.join(t['blocks'])
-   if before['text']!=t['text'] or before['blocks']!=t['blocks']:boundary_log.append({'record':r['id'],'turn':t['id'],'before':before,'after':{'text':t['text'],'blocks':t['blocks']}})
+   if before['text']!=t['text'] or before['blocks']!=t['blocks']:
+    entry={'record':r['id'],'turn':t['id'],'before':before,'after':{'text':t['text'],'blocks':t['blocks']}}
+    if replacement:entry['basis']=replacement['basis']
+    boundary_log.append(entry)
   r['utterances']=turns
   n=int(r['id'].split('-')[1]);r['position']='Pseudotese' if r['id']=='D3-09' else 'Metatese' if r['group']==4 else 'Tese' if n%2 else 'Antitese'
   r['pair']=None if r['group']==4 or r['id']=='D3-09' else r['id'][:-2]+f'{n if n%2 else n-1:02}'
