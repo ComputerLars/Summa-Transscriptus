@@ -2,24 +2,14 @@
 
 Under Bugten. Organ for de Autonome Videnskaber, Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi, september 2023. Webredaktion oktober 2026.
 
-## Disputationes
+Rammeteksten, proceduren og disputationerne udgør én sammenhængende læsning. De første tre aftener grupperes i fire tese–antitese-par hver. Logistiques metadisput følger sit eget forløb. Den enkelte optagelses tidssteder og tekstankre bevares inden for de sammenhængende talerpositioner.
 
-Tesernes rækkefølge følger optagelserne. Tese og antitese betegner skiftende funktioner, ikke en fast fordeling af alle teser mellem Computer Lars og gæsten. Begge kunstnerstemmer hedder Computer Lars; deres genkendte stemmeskift er bevaret. De skrevne antiteser gengives som manuskriptkilder og identificeres ikke automatisk med den fremførte responsio.
+Begge kunstnerstemmer betegnes Computer Lars. Et fortsat indlæg fra denne opførelsesposition får én betegnelse, selv når der er flere afsnit. Praeses leder forløbet. Ex auditorio betegner indlæg fra salen; Interventio er en replik uden tilstrækkelig personidentifikation.
 
-## Apparatus
-
-Rammetekst, script og udstillingens opstilling er en del af den skolastiske komputation. Samledokumentet gengives uændret i sin fulde kildeudgave. Fotografiernes hele billedrammer er bevaret i reducerede webkopier. Manuskriptets afsnitsnumre er redaktionelle kildeankre.
-
-## Exegesis
-
-Exegesen føres ved den enkelte disput: den fremførte responsio, det skrevne tese- og antiteseforlæg, transskriptionen og syntesen fra 2023 samt den nye læseudgave. Ældre genkendelser citeres ordret, også når de tager fejl. Uddrag er udtaget fra de bevarede filer; den fulde historiske transskription står ved siden af. Kildehenvisninger identificerer skriftlige forlæg eller dokumenterer læsevalget og regnes ikke som talerens egne ord.
-
-Læseudgaven er renskrevet med støtte i lydgenkendelser, oprindelige transskriptioner, forlæg og nærkontekst. Den er ikke en ordret sikkerhedsrekonstruktion. En latinsk oplæsning, som ikke kan rekonstrueres, betegnes som oplæsning. Ex auditorio betegner indlæg i den åbnede plenumsrunde. Interventio bruges om replikker uden tilstrækkelig personidentifikation; der tilføjes ikke et personnavn alene ud fra indlæggets synspunkt.
-
-[Redaktionelle læsemåder](../readings.html) · [Talerpositioner](position-readings.json) · [Historiske tekster](../archive/2023/) · [Tidligere læseudgave](https://github.com/ComputerLars/Summa-Transscriptus/tree/e05176f0a2e935abc5edeba5c3d5a3627a8e366c/disputations).
+De oprindelige maskinsynteser fra 2023 står efter de tilhørende forløb. De er bevaret ordret, med deres egne navneformer, fejl og slutninger. Der findes 48 tilknyttede synteser til de 49 hovedoptagelser; ingen syntese er bevaret til D4-21. De 56 oprindelige TXT-filer og det fulde samledokument er bevaret særskilt i arkivet.
 
 ## Collectanea
 
-Udsagn, rammetekst, teser, historiske synteser og billeder kan samles, annoteres og arrangeres til en trykbar bog. Samlingen gemmes i læserens browser og kan eksporteres og genindlæses. Kilde- og lydhenvisninger følger opslagene.
+Tekstforløb, rammetekst, synteser og billeder kan samles med egne anmærkninger. Udvalget gemmes i browseren og sættes som en A5-PDF med sidetal, indhold og kilder. En samlet PDF omfatter rammeteksten og hovedforløbene. Udvalget, noterne og PDF-dannelsen forbliver i browseren; der sendes ingen tekst til en ekstern tjeneste.
 
-[Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Lydkatalog](recordings.md) · [Skriftlicens](../assets/fonts/OFL.txt).
+[Fotografiernes proveniens](../sources/under-bugten/photos/sources.json) · [Lydkatalog](recordings.md) · [Skriftlicenser](../assets/fonts/README.md).

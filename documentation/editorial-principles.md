@@ -8,9 +8,9 @@ Læseudgaven vælger de bedst underbyggede læsninger ved sammenhold af lyd, kon
 
 ## Stemmer og opførelsesnavne
 
-Begge stemmer, der optræder som Computer Lars, betegnes Computer Lars. Ordstyreren betegnes Praeses. Gæsterne betegnes Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Indlæg fra salen betegnes Ex auditorio, hvor denne funktion kan identificeres. Interventio betegner i hjemmesidens aktuelle læsning en replik, hvor personidentifikationen ikke er tilstrækkeligt underbygget. De daterede eksportudgaver kan fortsat bruge den tidligere neutrale betegnelse Deltager.
+Begge stemmer, der optræder som Computer Lars, betegnes Computer Lars. Ordstyreren betegnes Praeses. Gæsterne betegnes Mikhailos Boltus, Maia Bacchus, Petrus Borumanum og Logistique. Indlæg fra salen betegnes Ex auditorio, hvor denne funktion kan identificeres. Interventio betegner i hjemmesidens aktuelle læsning en replik, hvor personidentifikationen ikke er tilstrækkeligt underbygget. Word- og Markdown-udgaverne følger den aktuelle læsetekst.
 
-Afsnit i hjemmesidens læsetekst følger sammenhængende argumenter. Et nyt afsnit medfører ikke et nyt talernavn. De to Computer Lars-stemmers genkendte skift bevares, også når opførelsesnavnet er det samme. Genkendelsesenheder og filgrænser bevares som kildeankre, ikke som automatiske afsnitsgrænser.
+Afsnit i hjemmesidens læsetekst følger sammenhængende argumenter. Et nyt afsnit medfører ikke et nyt talernavn. Begge Computer Lars-stemmer samles under samme fortsatte talerposition; de underliggende kildeankre bevares. Genkendelsesenheder og filgrænser bevares som kildeankre, ikke som automatiske afsnitsgrænser.
 
 Disse er opførelsesbetegnelser. Organ for de Autonome Videnskaber, Computer Lars, Praeses og Summa Transscriptus holdes adskilt.
 
