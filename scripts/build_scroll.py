@@ -15,6 +15,7 @@ def clean(text,rid=''):
  text=text.replace('Carol Stombaugh','Carol Stumper').replace('Carl Miles','Corrupt Males')
  if rid=='D2-02':text=text.replace('står i i forhold til netværket','står i forhold til netværket')
  if rid=='D4-17':text=text.replace('Og problemet, der er, er, at spørgsmålet','Og problemet er, at spørgsmålet')
+ if rid=='D3-02':text=text.replace('[Oplæsning på latin.]','Martius praepositus')
  text=re.sub(r',\s*ikke\?(?:\s*,)?', '.',text)
  if rid=='D2-04':
   text=text.replace('Computer Lars har mindst to lemmer','Computer Lars har mindst to legemer').replace('Computer Lars har to lemmer','Computer Lars har mindst to legemer')
@@ -98,6 +99,7 @@ def build():
  additional_refs={
  'D1-01':[{'id':'oratio-latina','citation':'Oratio latina · efter Hans-Jørgen Schanz (1973) · rekonstrueret forlæg.','url':'sources/under-bugten/opening-latin.md'}],
  'D2-01':[{'id':'anagrams','citation':'Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.','url':'manuscript.html#p40'}],
+ 'D3-02':[{'id':'praepositus','citation':'Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.','url':'https://www.dictionnaire-academie.fr/article/A9P4273'},{'id':'martius','citation':'Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.','url':'https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars'}],
  'D2-04':[{'id':'bratton-stack','citation':'Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.','url':'https://mitpress.mit.edu/9780262029575/the-stack/'},{'id':'wynter-ceremony','citation':'Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.','url':'https://www.jstor.org/stable/302808'},{'id':'kantorowicz','citation':'Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.','url':'https://www.jstor.org/stable/j.ctvcszz1c'}],
  }
  h['record_references']={}
@@ -115,6 +117,6 @@ def build():
  assert synthesis_before=={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}
  (R/'hyperbook-data.json').write_text(json.dumps(h,ensure_ascii=False,separators=(',',':'))+'\n')
  (R/'documentation/paragraph-boundaries.json').write_text(json.dumps({'edition':'2026-10-19','changes':boundary_log,'source_unit_ids_preserved':True},ensure_ascii=False,indent=2)+'\n')
- (R/'documentation/reading-corrections.json').write_text(json.dumps({'base_commit':BASE,'changes':log,'syntheses_2023_unchanged':True,'paragraph_hinges':HINGES,'name_sources':{'Carol Stumper':'Figure 1 in the 2023 manuscript, p40 / image6.png; thesis pp. 7, 23, 244.','Corrupt Males':'Figure 1 in the 2023 manuscript, p40 / image6.png; anagram name, not Carl Miles.'}},ensure_ascii=False,indent=2)+'\n')
+ (R/'documentation/reading-corrections.json').write_text(json.dumps({'base_commit':BASE,'changes':log,'syntheses_2023_unchanged':True,'paragraph_hinges':HINGES,'name_sources':{'Carol Stumper':'Figure 1 in the 2023 manuscript, p40 / image6.png; thesis pp. 7, 23, 244.','Corrupt Males':'Figure 1 in the 2023 manuscript, p40 / image6.png; anagram name, not Carl Miles.'},'selected_readings':[{'record':'D3-02','reading':'Martius praepositus','basis':'Konjektural rekonstruktion, godkendt af Asker Bryld Staunæs. Valgt ved sammenhold af lydgenkendelserne, den efterfølgende danske forklaring og de latinske ordformer.','references':additional_refs['D3-02']}]},ensure_ascii=False,indent=2)+'\n')
  print('Reading:',len(log),'locally edited source paragraphs;',sum(len(r['utterances'])for r in h['records']),'speaking turns;',sum(bool(v.get('historical'))for v in h['collation']['records'].values()),'original syntheses.')
 if __name__=='__main__':build()

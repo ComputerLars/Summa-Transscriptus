@@ -23,8 +23,8 @@
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1371413,
-      "sha256": "890a5b75c7772a21b10134f9cc6dc851476ec56c3428d2e9d6976086bb74a896"
+      "bytes": 1372788,
+      "sha256": "50cf1a4598f73996b2a78aed2178e60cdec394ee9a0c76d2882238fb9062a0cd"
     },
     {
       "path": "archive/2023/README.md",
@@ -408,13 +408,13 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
-      "bytes": 66427,
-      "sha256": "ee589aae194aa1ecdaca7bdd88ed4c1c934a4c87248557ab51e48d5954e342fd"
+      "bytes": 66423,
+      "sha256": "facb0a3e3a1b39487392bf8f9bd7d1173ea1966a7c54fcb9a797bc2b70e92ac6"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 89553,
-      "sha256": "2ab09971e3f5966173932be241a52d44c04d13f496af860d01dcb0f9d4fab414"
+      "bytes": 89549,
+      "sha256": "28a5e2653f4f3b9bec817312e36f683060fd7015966ae5dbb8ac9024b8c4b2d9"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -463,8 +463,8 @@
     },
     {
       "path": "documentation/paragraph-boundaries.json",
-      "bytes": 607004,
-      "sha256": "8f970599e208f5658147ece44f113aab33220245707465ea720f830d88ae8050"
+      "bytes": 606988,
+      "sha256": "a5e3a4d376a5b27316629a374b1ee2879696294cedd9ae2e465d6357f1a7697f"
     },
     {
       "path": "documentation/position-readings.json",
@@ -473,8 +473,8 @@
     },
     {
       "path": "documentation/reading-corrections.json",
-      "bytes": 195051,
-      "sha256": "01b266356b314ffe6fad9906e1411f372a30fa4c6230b9cd99eb36f335ec1514"
+      "bytes": 197826,
+      "sha256": "054479a9351a8d518dd0098179c505377ff0dcdb85c7985fb6fbc6f032ce04ae"
     },
     {
       "path": "documentation/recordings.json",
@@ -523,8 +523,8 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2287041,
-      "sha256": "f14fce2400ad0613450f6db175004e3b10bd0979d1a002016db71aa52a63b983"
+      "bytes": 2287425,
+      "sha256": "754eecce7b74753cfb9c2ab65ac72607e59b6e9dca4812435f5b9b059c384bb7"
     },
     {
       "path": "hyperbook.css",
@@ -578,8 +578,8 @@
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 8886,
-      "sha256": "f4b7caafaa44ab53f4b868417439644f38ad1c95dfed9cf21a0257da4fa43011"
+      "bytes": 9667,
+      "sha256": "f2d6030f5b9b6e7c0d95cd44c81c8830e9c5b23c43e9cc85144cb036f16ccf1c"
     },
     {
       "path": "scripts/refresh_manifest.py",

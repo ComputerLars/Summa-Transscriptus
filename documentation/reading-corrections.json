@@ -525,6 +525,12 @@
     },
     {
       "record": "D3-02",
+      "locus": "D3-02-U005-3",
+      "before": "Det er vanskeligt at opstille en antitese til en tese, som så overbevisende og uimodsigeligt fører computer tilbage på beregning og Lars tilbage på laurbær og derigennem på triumf. Men den dobbelte foromstilling, der har fundet sted, og det forhold, at Computer Lars er et anagram af Marcel Proust, åbner en alternativ mulighed for indholdet i computer og Lars, laurbær eller triumf. Hvis vi siger, at Computer Lars som terminologi er et ciffer, før det er et navn, så bliver navnets etymologiske effekter en virkning af denne cifrering. Hvis vi foretager en tilsvarende tilbagevenden også fra Marcel Proust som den, der går fra Computer Lars til beregningens triumf, så kan vi konstatere, at Marcel Proust lige så godt kunne have heddet Marc Prévost, idet han kan føres tilbage til [Oplæsning på latin.], det vil sige den, som er indsat til at styre noget, og som står i et væsentligt forhold til Mars.",
+      "after": "Det er vanskeligt at opstille en antitese til en tese, som så overbevisende og uimodsigeligt fører computer tilbage på beregning og Lars tilbage på laurbær og derigennem på triumf. Men den dobbelte foromstilling, der har fundet sted, og det forhold, at Computer Lars er et anagram af Marcel Proust, åbner en alternativ mulighed for indholdet i computer og Lars, laurbær eller triumf. Hvis vi siger, at Computer Lars som terminologi er et ciffer, før det er et navn, så bliver navnets etymologiske effekter en virkning af denne cifrering. Hvis vi foretager en tilsvarende tilbagevenden også fra Marcel Proust som den, der går fra Computer Lars til beregningens triumf, så kan vi konstatere, at Marcel Proust lige så godt kunne have heddet Marc Prévost, idet han kan føres tilbage til Martius praepositus, det vil sige den, som er indsat til at styre noget, og som står i et væsentligt forhold til Mars."
+    },
+    {
+      "record": "D3-02",
       "locus": "D3-02-U014-2",
       "before": "Måske. Det er derfor, at man kan genopstå, ikke?",
       "after": "Måske. Det er derfor, at man kan genopstå."
@@ -725,5 +731,24 @@
   "name_sources": {
     "Carol Stumper": "Figure 1 in the 2023 manuscript, p40 / image6.png; thesis pp. 7, 23, 244.",
     "Corrupt Males": "Figure 1 in the 2023 manuscript, p40 / image6.png; anagram name, not Carl Miles."
-  }
+  },
+  "selected_readings": [
+    {
+      "record": "D3-02",
+      "reading": "Martius praepositus",
+      "basis": "Konjektural rekonstruktion, godkendt af Asker Bryld Staunæs. Valgt ved sammenhold af lydgenkendelserne, den efterfølgende danske forklaring og de latinske ordformer.",
+      "references": [
+        {
+          "id": "praepositus",
+          "citation": "Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.",
+          "url": "https://www.dictionnaire-academie.fr/article/A9P4273"
+        },
+        {
+          "id": "martius",
+          "citation": "Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars"
+        }
+      ]
+    }
+  ]
 }
