@@ -1,0 +1,397 @@
+{
+  "edition": "2026-10-19",
+  "changes": [
+    {
+      "record": "D1-04",
+      "turn": "D1-04-U012-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D1-04",
+      "turn": "D1-04-U012-4",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-01",
+      "turn": "D2-01-U022-2",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-05",
+      "turn": "D2-05-U020-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U005-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U007-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U022-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U022-4",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U023-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U003-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U004-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U004-5",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U005-2",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U025-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U027-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U018-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U021-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-03",
+      "turn": "D3-03-U012",
+      "before": "Interventio",
+      "after": "Petrus Borumanum",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-04",
+      "turn": "D3-04-U016",
+      "before": "Interventio",
+      "after": "Petrus Borumanum",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-05",
+      "turn": "D3-05-U022-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U011-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U016-1",
+      "before": "Interventio",
+      "after": "Petrus Borumanum",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-10",
+      "turn": "D4-10-U003-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-10",
+      "turn": "D4-10-U003-4",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-10",
+      "turn": "D4-10-U003-6",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-16",
+      "turn": "D4-16-U006-1",
+      "before": "Interventio",
+      "after": "Praeses",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-17",
+      "turn": "D4-17-U011-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U006-1",
+      "before": "Interventio",
+      "after": "Logistique",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U008-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D4-22",
+      "turn": "D4-22-U010-1",
+      "before": "Interventio",
+      "after": "Praeses",
+      "basis": "Samme stemme i samme optagelsesdel er ellers entydigt knyttet til denne offentlige talerposition."
+    },
+    {
+      "record": "D1-07",
+      "turn": "D1-07-U001-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D1-08",
+      "turn": "D1-08-U016-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D2-01",
+      "turn": "D2-01-U025-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U012-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U017-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U014-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U018-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U012-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U014-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U015",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U016",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U023",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U002",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U014",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U017-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-07",
+      "turn": "D3-07-U018-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D3-08",
+      "turn": "D3-08-U006-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer. Afslutningen af Petrus-disputten er desuden identificeret af Asker Bryld Staunæs."
+    },
+    {
+      "record": "D3-08",
+      "turn": "D3-08-U016-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer. Afslutningen af Petrus-disputten er desuden identificeret af Asker Bryld Staunæs."
+    },
+    {
+      "record": "D3-08",
+      "turn": "D3-08-U018-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer. Afslutningen af Petrus-disputten er desuden identificeret af Asker Bryld Staunæs."
+    },
+    {
+      "record": "D3-09",
+      "turn": "D3-09-U001",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer. Afslutningen af Petrus-disputten er desuden identificeret af Asker Bryld Staunæs."
+    },
+    {
+      "record": "D4-16",
+      "turn": "D4-16-U004-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-16",
+      "turn": "D4-16-U004-5",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U001-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U005-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U007-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U011-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    }
+  ]
+}

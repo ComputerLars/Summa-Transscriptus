@@ -19,3 +19,9 @@ Disse er opførelsesbetegnelser. Organ for de Autonome Videnskaber, Computer Lar
 Teksterne følger de bevarede optagelsers rækkefølge, kontrolleret mod deres indhold og de historiske transskriptioner. Det skriftlige teseskemas bogstaver svarer ikke overalt til fremførelsens rækkefølge. Tider nulstilles for hver original lydfil; de er ikke sammenhængende klokkeslæt for hele aftenen.
 
 Disput 1 indeholder også en senere eksport af diskussionen om publicitet. Begge filer er bevaret som kilder, men diskussionen optræder kun én gang i læseudgaven. Analysemodellernes tre korte optagelser er registreret som supplerende kilder, ikke som yderligere offentlige disputter. Manifesternes filnavne, varigheder og SHA-256-kontrolsummer forbinder teksterne med de uændrede lydfiler.
+
+## Læseredaktion, 19. oktober 2026
+
+Optagelsesbrud inde i én talers sætning sammenføjes. Afsnit følger argumentets overgange. Hængende forbindelsesord fjernes, og afbrudte udsagn får udeladelsesprikker. Nye talerpositioner begynder med stort bogstav. Ændringer i paragrafgrænserne står i [paragrafregisteret](paragraph-boundaries.json). Kildeankrene og de oprindelige optagelsesenheder bevares.
+
+[Supplerende talerafstemninger](speaker-readings-20261019.json) fører generiske angivelser tilbage til de navngivne talerpositioner. Begge kunstnerstemmer hedder Computer Lars. De oprindelige transskriptioner og maskinsynteser redigeres ikke.

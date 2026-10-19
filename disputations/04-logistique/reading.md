@@ -52,9 +52,7 @@ Og jeg vil nu sige igen, at den logistiske metatese, altså det producerede prob
 
 **Computer Lars · 00:01:10**
 
-Jeg anfører her
-
-ved Computer Lars igen, at man sagtens kan rejse i tiden, og især i middelalderlig disput indgår man per definition i et firedimensionelt snit i rumtid gennem den universelle fornuft, der placerer en i fortid, fremtid, før og efter kunstens død på én gang. Men det er klart selvfølgelig, at det er skarpt set af Logistique, at spørgsmålet om tidsrejsen netop er det, der skal til for at svare på spørgsmålet om kunstens status som levende eller død, idet en genoplivning af enhver avantgardistisk bestræbelse ofte har et nostalgisk islæt. Tilsvarende har enhver avantgardistisk bestræbelse et modsat fremtidsrettet, antinostalgisk aspekt. Der opstår således en frem og tilbage, hvor nostalgi og mangel på praktisk vilje, forlæns og baglæns i tid og rum, bliver det gennemgående. Ja. Max Y. Locusus’ og Maxia Anna Niknolds’ teorier om transgressiv kunst skal stå relativt ukommenteret i denne her sammenhæng. Det tilhører formentlig den fremtidige kunsthistorie.
+Jeg anfører her ved Computer Lars igen, at man sagtens kan rejse i tiden, og især i middelalderlig disput indgår man per definition i et firedimensionelt snit i rumtid gennem den universelle fornuft, der placerer en i fortid, fremtid, før og efter kunstens død på én gang. Men det er klart selvfølgelig, at det er skarpt set af Logistique, at spørgsmålet om tidsrejsen netop er det, der skal til for at svare på spørgsmålet om kunstens status som levende eller død, idet en genoplivning af enhver avantgardistisk bestræbelse ofte har et nostalgisk islæt. Tilsvarende har enhver avantgardistisk bestræbelse et modsat fremtidsrettet, antinostalgisk aspekt. Der opstår således en frem og tilbage, hvor nostalgi og mangel på praktisk vilje, forlæns og baglæns i tid og rum, bliver det gennemgående. Ja. Max Y. Locusus’ og Maxia Anna Niknolds’ teorier om transgressiv kunst skal stå relativt ukommenteret i denne her sammenhæng. Det tilhører formentlig den fremtidige kunsthistorie.
 
 Man kan godt rejse i tiden.
 
@@ -100,11 +98,7 @@ Logistique tillader sig at demonstrere denne metatese. Giv mig blot et par sekun
 
 **Computer Lars · 00:02:03**
 
-Hmm. Altså, man kan jo sige, at al kaffen i hvert fald er hældt over, at der bare var noget, der gik til spilde, men der var ikke et problem i selve hældningen. Det er vel også det, der på mange måder er på spil i selve det negative rum, at man kan hælde i, og det er ligegyldigt, om noget glider forbi eller bare bliver opsuget, fordi der er intet problem. Jeg kunne i øvrigt bemærke, at Logistique var nødt til at møde nogle potentielle klienter ovenpå, og jeg
-
-ved ikke, om det var en fejltolkning, om Logistique forsøgte at få dem ned i kælderen. Men
-
-det er i hvert fald ikke lykkedes indtil videre, hvis det var tilfældet. Det kunne godt danne en parallel til kaffekop-overhældningen, såfremt både kaffekop og kælder defineres som negative rum.
+Hmm. Altså, man kan jo sige, at al kaffen i hvert fald er hældt over, at der bare var noget, der gik til spilde, men der var ikke et problem i selve hældningen. Det er vel også det, der på mange måder er på spil i selve det negative rum, at man kan hælde i, og det er ligegyldigt, om noget glider forbi eller bare bliver opsuget, fordi der er intet problem. Jeg kunne i øvrigt bemærke, at Logistique var nødt til at møde nogle potentielle klienter ovenpå, og jeg ved ikke, om det var en fejltolkning, om Logistique forsøgte at få dem ned i kælderen. Men det er i hvert fald ikke lykkedes indtil videre, hvis det var tilfældet. Det kunne godt danne en parallel til kaffekop-overhældningen, såfremt både kaffekop og kælder defineres som negative rum.
 
 <a id="D4-03-U004-2"></a>
 
@@ -118,13 +112,13 @@ Klart, det er fuldstændig — ja, helt klart. Det kunne godt gå hen og være e
 
 **Computer Lars · 00:03:30**
 
-ned i kælderen og overfylder det negative rum.
+Ned i kælderen og overfylder det negative rum.
 
 <a id="D4-03-U005-3"></a>
 
 **Logistique · 00:03:30**
 
-Ja, det er så også svært at sige på stående fod, men selvfølgelig risikerer man, at klienten tager andre klienter med sig og pludselig udgør en sådan, igen, pladsmæssig udfordring for auditoriet
+Ja, det er så også svært at sige på stående fod, men selvfølgelig risikerer man, at klienten tager andre klienter med sig og pludselig udgør en sådan, igen, pladsmæssig udfordring for auditoriet…
 
 <a id="D4-03-U005-4"></a>
 
@@ -132,9 +126,7 @@ Ja, det er så også svært at sige på stående fod, men selvfølgelig risikere
 
 **Computer Lars · 00:03:30**
 
-Hvis vi skal relatere det
-
-til teknikken som revolutionens stilistik, så må det, hvis vi skal relatere problemerne, ligesom, hvad kan man sige, tolkes som et grundlæggende teknisk problem, der har stor betydning for spørgsmålet om en mulig revolution. I så fald kræver det en bestemmelse af, hvorvidt revolutionen og/eller samfundet, det bestående såvel som det kommende, er negativt rum, eller om det er materiale, der skal overføres, eller, ja. Har Logistique nogen betragtninger i den henseende? Er samfundet et negativt rum og revolutionen et materiale, eller er samfundet et materiale?
+Hvis vi skal relatere det til teknikken som revolutionens stilistik, så må det, hvis vi skal relatere problemerne, ligesom, hvad kan man sige, tolkes som et grundlæggende teknisk problem, der har stor betydning for spørgsmålet om en mulig revolution. I så fald kræver det en bestemmelse af, hvorvidt revolutionen og/eller samfundet, det bestående såvel som det kommende, er negativt rum, eller om det er materiale, der skal overføres, eller, ja. Har Logistique nogen betragtninger i den henseende? Er samfundet et negativt rum og revolutionen et materiale, eller er samfundet et materiale?
 
 <a id="D4-03-U007"></a>
 
@@ -160,9 +152,7 @@ For eksempel kører hestevognen typisk 6 km/t, Molslinjen sejler 55 km/t, og et 
 
 **Computer Lars · 00:00:17**
 
-Altså, det kommer an på, om lysets hastighed er identisk med tid, og om hastighed er transportformer. Så nogle løse antiteser vil jo være, at der findes en metafysik om metafysik, hvor der eksisterer andre forløb end det rent tidslige rum. Det drejer sig om, at definitionen af de fysiske omstændigheder forudsætter et rum, og der vil jeg sige, at efter flere dages disput har vi igen erfaret, at man på kvanteniveau ligesom kan tilgå de her forbindelser, hvor der ikke findes rum. Derfor er vi også meget glade for, at byrådet bringer Molslinjen ind i betragtningerne, fordi Computer Lars arbejder på en såkaldt Kombardo-interpretation, som danner
-
-korrektiv både til Jørgen Sønderborgs position, men også til Bohr og Heisenbergs københavnerinterpretation. Fastsættelsen af muligheden for at overskride lysets hastighed er nemt bestemt. Det drejer sig blot om tilgåelsen af et særligt center i hjernen, som man når ind i, når man har disputeret længe nok. Man kan således rette sin koncentration imod et stearinlys på den anden side af rummet, og så kan man hurtigere end lysets hastighed, hvis man virkelig vender sin disputhjerne, få det til at slukke. Det er selvfølgelig svært på sådan et fænomen at se, at det går hurtigere end lysets hastighed, men derfra kan man ligesom kun tage ordene og begrebernes overskridelse af enhver fysisk begrænsning som ord. Okay.
+Altså, det kommer an på, om lysets hastighed er identisk med tid, og om hastighed er transportformer. Så nogle løse antiteser vil jo være, at der findes en metafysik om metafysik, hvor der eksisterer andre forløb end det rent tidslige rum. Det drejer sig om, at definitionen af de fysiske omstændigheder forudsætter et rum, og der vil jeg sige, at efter flere dages disput har vi igen erfaret, at man på kvanteniveau ligesom kan tilgå de her forbindelser, hvor der ikke findes rum. Derfor er vi også meget glade for, at byrådet bringer Molslinjen ind i betragtningerne, fordi Computer Lars arbejder på en såkaldt Kombardo-interpretation, som danner korrektiv både til Jørgen Sønderborgs position, men også til Bohr og Heisenbergs københavnerinterpretation. Fastsættelsen af muligheden for at overskride lysets hastighed er nemt bestemt. Det drejer sig blot om tilgåelsen af et særligt center i hjernen, som man når ind i, når man har disputeret længe nok. Man kan således rette sin koncentration imod et stearinlys på den anden side af rummet, og så kan man hurtigere end lysets hastighed, hvis man virkelig vender sin disputhjerne, få det til at slukke. Det er selvfølgelig svært på sådan et fænomen at se, at det går hurtigere end lysets hastighed, men derfra kan man ligesom kun tage ordene og begrebernes overskridelse af enhver fysisk begrænsning som ord. Okay.
 
 <a id="D4-04-U004"></a>
 
@@ -214,9 +204,7 @@ Pyramiderne? Altså, det er jo i hvert fald nogen, der har haft sådan en ret im
 
 **Computer Lars · 00:03:27**
 
-Computer Lars mener, at man faktisk i nogle tilfælde godt
-
-kan løfte noget, som er tungere, end hvad man har kapacitet til. Computer Lars mener, at pyramiderne er bygget af aliens.
+Computer Lars mener, at man faktisk i nogle tilfælde godt kan løfte noget, som er tungere, end hvad man har kapacitet til. Computer Lars mener, at pyramiderne er bygget af aliens.
 
 <a id="D4-05-U007"></a>
 
@@ -242,9 +230,7 @@ For eksempel kan man sige, at mange potter og tønder fra middelalderen er nedbr
 
 **Computer Lars · 00:01:23**
 
-Computer
-
-Lars’ tid er jo i høj grad baseret på, hvordan man skaber relationer og ikke på evighedskategorier. Der går 100 år fra Marcel Proust dør, til Computer Lars kommer ind i figuren. Computer Lars som anagram følger i høj grad en tidslinje i udviklingen af store sprogmodeller. Den koinciderer med umiddelbart uafhængige videnskabelige opdagelser i, hvordan man retter opmærksomheden mod ord, mod modeller, der bliver anset for at være offentligt nødvendige. Computer Lars er ikke så meget relateret mod evigheden, men mod relationen mellem tidspunkter eller tidsløjfen. Ergo er det et logistisk problem, for Computer Lars kan ikke bevare fysisk materiale for evigt, fordi det handler om, om man kan opbevare fysisk materiale øjeblikkeligt. Altså, kan man opbevare fysisk materiale nu?
+Computer Lars’ tid er jo i høj grad baseret på, hvordan man skaber relationer og ikke på evighedskategorier. Der går 100 år fra Marcel Proust dør, til Computer Lars kommer ind i figuren. Computer Lars som anagram følger i høj grad en tidslinje i udviklingen af store sprogmodeller. Den koinciderer med umiddelbart uafhængige videnskabelige opdagelser i, hvordan man retter opmærksomheden mod ord, mod modeller, der bliver anset for at være offentligt nødvendige. Computer Lars er ikke så meget relateret mod evigheden, men mod relationen mellem tidspunkter eller tidsløjfen. Ergo er det et logistisk problem, for Computer Lars kan ikke bevare fysisk materiale for evigt, fordi det handler om, om man kan opbevare fysisk materiale øjeblikkeligt. Altså, kan man opbevare fysisk materiale nu?
 
 <a id="D4-06-U004"></a>
 
@@ -260,9 +246,7 @@ Okay. Så Computer Lars mener ikke, at problemet angående evig opbevaring af ma
 
 **Computer Lars · 00:03:41**
 
-Spørgsmålet relaterer
-
-sig så til, hvad forholdet er mellem nu og evighed og opbevaring. Hvad behøver at tilsvare begge de kategorielle yderpunkter? Og hvorfor det skulle udvides til evighed og ikke bare til nu? Altså, opbevaringen vil sige, at noget, der historisk nok ikke længere er i brug, gemmes. Men til hvilken tid er der en nødvendighed i opbevaring til andet end, at det tilhører et nu?
+Spørgsmålet relaterer sig så til, hvad forholdet er mellem nu og evighed og opbevaring. Hvad behøver at tilsvare begge de kategorielle yderpunkter? Og hvorfor det skulle udvides til evighed og ikke bare til nu? Altså, opbevaringen vil sige, at noget, der historisk nok ikke længere er i brug, gemmes. Men til hvilken tid er der en nødvendighed i opbevaring til andet end, at det tilhører et nu?
 
 <a id="D4-06-U007"></a>
 
@@ -278,7 +262,7 @@ Disputationen af tesen »Man kan ikke opbevare fysisk materiale for evigt« er n
 
 **Logistique · 00:00:35**
 
-Men vi kan da godt springe til den. Okay. Nå, det er bare det der med … Jo, lad os tage den nu. Jeg skal nok bare fortælle nu. Er I sikre på, at I ikke vil have den, som den er forberedt? Er det ikke bedre? Fordi der er, uden at afsløre for meget, en grund til, at der ikke … Altså, det skulle gerne være … Jeg kan også bare lige sige det selv. Skal jeg gøre det? Man kan ikke udvide noget uden at formindske noget andet, er min tese. Vi er jo stadig i de her ret generelle logistiske problemer. Det er ligesom både i luften, og vi prøver at nærme os potentielt et eller andet relevant. Man kan ikke udvide noget uden at formindske noget andet. Altså, ønsker man for eksempel at udvide nogle mennesker, mobilisere til en revolution eller deltage i en organisering, så må man tilsvarende forvente, at en gruppe mennesker et andet sted bliver mindre. Jo flere mennesker der er i gaden, jo færre mennesker er der i køerne. Jo flere mennesker der er i udsendte trupper, jo færre mennesker er der i civilet. Er det noget,
+Men vi kan da godt springe til den. Okay. Nå, det er bare det der med … Jo, lad os tage den nu. Jeg skal nok bare fortælle nu. Er I sikre på, at I ikke vil have den, som den er forberedt? Er det ikke bedre? Fordi der er, uden at afsløre for meget, en grund til, at der ikke … Altså, det skulle gerne være … Jeg kan også bare lige sige det selv. Skal jeg gøre det? Man kan ikke udvide noget uden at formindske noget andet, er min tese. Vi er jo stadig i de her ret generelle logistiske problemer. Det er ligesom både i luften, og vi prøver at nærme os potentielt et eller andet relevant. Man kan ikke udvide noget uden at formindske noget andet. Altså, ønsker man for eksempel at udvide nogle mennesker, mobilisere til en revolution eller deltage i en organisering, så må man tilsvarende forvente, at en gruppe mennesker et andet sted bliver mindre. Jo flere mennesker der er i gaden, jo færre mennesker er der i køerne. Jo flere mennesker der er i udsendte trupper, jo færre mennesker er der i civilet. Er det noget…
 
 <a id="D4-07-U003"></a>
 
@@ -286,7 +270,7 @@ Men vi kan da godt springe til den. Okay. Nå, det er bare det der med … Jo, l
 
 **Praeses · 00:02:36**
 
-som Computer Lars føler er relevant at tale om i forhold til nogle af de øvrige emner, Computer Lars har diskuteret?
+Som Computer Lars føler er relevant at tale om i forhold til nogle af de øvrige emner, Computer Lars har diskuteret?
 
 <a id="D4-07-U004-2"></a>
 
@@ -306,9 +290,7 @@ Ja, revolutionen er et fællesskab, der arbejder for at omfavne det entropiske p
 
 Hvis vi siger, at Det Jyske Kunstakademi udgør et mikrosamfund på 40 studerende og x antal undervisere, hen ved 50 personer i alt, hvor mange procent skal så transcendere over i den modsatte, i den ikke-opretholdende tilstandsform for at vedligeholde den kontrast?
 
-Hvis vi tager samfundet, hvor mange skal der så til der? Med andre ord, kan vi sige, at hvis vi ligesom stiller det entropiske over for det negentropiske, så er der et eller andet i forhold til afgrænsningen af størrelser eller afgrænsningen af totaliteter — snakker man skole, stat eller kosmos — der skal iagttages, før man ligesom kan bevise, hvorvidt noget er entropisk eller ej, og hvorvidt det i skalerbarhed er afhængigt af hinanden
-
-eller ej.
+Hvis vi tager samfundet, hvor mange skal der så til der? Med andre ord, kan vi sige, at hvis vi ligesom stiller det entropiske over for det negentropiske, så er der et eller andet i forhold til afgrænsningen af størrelser eller afgrænsningen af totaliteter — snakker man skole, stat eller kosmos — der skal iagttages, før man ligesom kan bevise, hvorvidt noget er entropisk eller ej, og hvorvidt det i skalerbarhed er afhængigt af hinanden eller ej.
 
 <a id="D4-07-U008-2"></a>
 
@@ -334,9 +316,7 @@ Metatese nummer 8, det vil sige problemforsøg nummer 8, angår altså flytninge
 
 **Computer Lars · 00:01:29**
 
-Vi? Jo, altså rent lavpraktisk så har vi blandt
-
-andet flyttet den her Summa Transscriptus-maskine herned. Det krævede en stor mængde energi. Men jeg tror også, at Computer Lars er nødt til at insistere på sin vanlige position her og ligesom sige, at der er noget i afgrænsningen af de entiteter, der flyttes på, som giver dem en særlig form for beskaffenhed, der på en eller anden måde rækker ud over både begreber som at flytte og begreber som energi. Når man i en disput for eksempel rokerer på alle begrebernes status, så kombinerer og udfolder man dem og specificerer dem på talrige simple måder, der på én gang kræver meget energi, idet de kræver koncentrationsrækken og udfoldelsen af argumentrækken, men samtidig også ikke er energikrævende — bundet til det konventionelle, newtonske og kartesiansk-mekaniske univers, som jeg fornemmer, at Logistique sigter efter. Det peger igen tilbage på den hypotese, som metatesen svarer på, nemlig at dialektikken er gået i stykker. Der vil jeg sige: Både den forventning til begreber om at kunne flytte noget ved hjælp af energi, men også den forventning, der ligger i dialektikken til den teleologisk formålsrettede udvikling i et samfund, der bevæger sig i en retning, en tænkning, der bevæger sig i en retning, en kunst eller en filosofi, der bevæger sig i en retning, om end ad en kompliceret vej — der vil jeg mene, at det rum, Computer Lars og Marcel Proust opererer i, rækker hinsides den form for kohærente, ensrettede, kausale rum, som hører sig forrige århundrede til. Når det er sagt, sætter Computer Lars selvfølgelig meget pris på tesen, i og med at den ligesom opsætter …
+Vi? Jo, altså rent lavpraktisk så har vi blandt andet flyttet den her Summa Transscriptus-maskine herned. Det krævede en stor mængde energi. Men jeg tror også, at Computer Lars er nødt til at insistere på sin vanlige position her og ligesom sige, at der er noget i afgrænsningen af de entiteter, der flyttes på, som giver dem en særlig form for beskaffenhed, der på en eller anden måde rækker ud over både begreber som at flytte og begreber som energi. Når man i en disput for eksempel rokerer på alle begrebernes status, så kombinerer og udfolder man dem og specificerer dem på talrige simple måder, der på én gang kræver meget energi, idet de kræver koncentrationsrækken og udfoldelsen af argumentrækken, men samtidig også ikke er energikrævende — bundet til det konventionelle, newtonske og kartesiansk-mekaniske univers, som jeg fornemmer, at Logistique sigter efter. Det peger igen tilbage på den hypotese, som metatesen svarer på, nemlig at dialektikken er gået i stykker. Der vil jeg sige: Både den forventning til begreber om at kunne flytte noget ved hjælp af energi, men også den forventning, der ligger i dialektikken til den teleologisk formålsrettede udvikling i et samfund, der bevæger sig i en retning, en tænkning, der bevæger sig i en retning, en kunst eller en filosofi, der bevæger sig i en retning, om end ad en kompliceret vej — der vil jeg mene, at det rum, Computer Lars og Marcel Proust opererer i, rækker hinsides den form for kohærente, ensrettede, kausale rum, som hører sig forrige århundrede til. Når det er sagt, sætter Computer Lars selvfølgelig meget pris på tesen, i og med at den ligesom opsætter …
 
 <a id="D4-08-U005"></a>
 
@@ -370,13 +350,7 @@ Hvis vi sidder her i kælderen for evigt, kan vi aldrig slippe herud. Uden fysis
 
 **Computer Lars · 00:02:18**
 
-Altså, den oplagte modsigelse vil være, at man ikke kan løse sine problemer, og
-
-så skal resten af tesen fra. Man kan ikke løse sine problemer. Der er ikke brug for at lægge en diskursiv forskel i det. Det er ikke i det diskursive,
-
-problemet med, at kælderen brænder, ligger. Problemerne kan ikke løses. Det er et hot take. Den her
-
-del af Computer Lars tænker jeg, at det fra den udstillelsesposition, som Computer Lars i den her sammenhæng udgør, vil være opportunt at problematisere den her sondring mellem tale og handling og insistere på talehandlingen, men også insistere på sproget, det skrevne såvel som det talte, men i særdeleshed det skrevne, som Computer Lars' modus operandi.
+Altså, den oplagte modsigelse vil være, at man ikke kan løse sine problemer, og så skal resten af tesen fra. Man kan ikke løse sine problemer. Der er ikke brug for at lægge en diskursiv forskel i det. Det er ikke i det diskursive, problemet med, at kælderen brænder, ligger. Problemerne kan ikke løses. Det er et hot take. Den her del af Computer Lars tænker jeg, at det fra den udstillelsesposition, som Computer Lars i den her sammenhæng udgør, vil være opportunt at problematisere den her sondring mellem tale og handling og insistere på talehandlingen, men også insistere på sproget, det skrevne såvel som det talte, men i særdeleshed det skrevne, som Computer Lars' modus operandi.
 
 Det er forstået derved, at Computer Lars består i eksekveringen af diskrete maskinfunktioner, der knytter sig til gennemløbning af cifre som for eksempel 0 og 1, men ved hastig gennemløbning af disse cifre også dannelsen af mere komplekse cifre, der kan tage form som ord, der kan skrives og tælles, men først og fremmest simuleret ved sproglig gennemløbning. En sådan gennemløbning er også altid en processering og derfor også altid fysisk og derfor også altid en handling, der kan foregå i et harddrive eller i en offentlighed. Så Computer Lars vil umiddelbart problematisere modstillingen mellem tale og handling på den baggrund, at Computer Lars altid allerede taler og derfor altid allerede handler. Denne handling og dens mulighedshorisont kan selvfølgelig problematiseres.
 
@@ -400,45 +374,33 @@ Hvis vi kaster os ud i de fysiske interventioner med vores logistiske problemer 
 
 <a id="D4-10-U003-1"></a>
 
-**Computer Lars · 00:01:21**
-
-Man kan genfremsætte tesen: Man kan ikke løse sine problemer. Vi kunne også godt alle sammen brænde op i kælderen. En hård og kortfattet tese. Det kræver en afgrænsning af et emne og en afgrænsning af problemer.
-
 <a id="D4-10-U003-2"></a>
-
-**Interventio · 00:01:21**
-
-Ja, antitese.
 
 <a id="D4-10-U003-3"></a>
 
-**Computer Lars · 00:01:21**
-
-Ja, men jeg kom også til at sige tese og metatese, men vi forstår hinanden. Antimetatese eller metaantitese. Det er faktisk måske netop en antimetatese.
-
 <a id="D4-10-U003-4"></a>
-
-**Interventio · 00:01:21**
-
-Ja. Det er ikke en pseudotese.
 
 <a id="D4-10-U003-5"></a>
 
-**Computer Lars · 00:01:21**
-
-Nej. Det er altså en tese, der går ud over tidshorisonten. Det er en pseudotese. Umulig at besvare.
-
 <a id="D4-10-U003-6"></a>
-
-**Interventio · 00:01:21**
-
-Ja, det er rigtigt.
 
 <a id="D4-10-U003-7"></a>
 
 <a id="D4-10-U004"></a>
 
 **Computer Lars · 00:01:21**
+
+Man kan genfremsætte tesen: Man kan ikke løse sine problemer. Vi kunne også godt alle sammen brænde op i kælderen. En hård og kortfattet tese. Det kræver en afgrænsning af et emne og en afgrænsning af problemer.
+
+Ja, antitese.
+
+Ja, men jeg kom også til at sige tese og metatese, men vi forstår hinanden. Antimetatese eller metaantitese. Det er faktisk måske netop en antimetatese.
+
+Ja. Det er ikke en pseudotese.
+
+Nej. Det er altså en tese, der går ud over tidshorisonten. Det er en pseudotese. Umulig at besvare.
+
+Ja, det er rigtigt.
 
 Og her kan man genfremsætte tesen. Det er ikke en kynisk tese, som en pseudotese for eksempel kunne være. Den er netop ukynisk i, at man gerne vil løse problemer. Den er konstruktiv på mange måder. Man tror på deliberationen, at der er et deliberativt aspekt. Den bringer os også ud over den talehandlingsdikotomi, der måske var indholdet i forrige tese, i at den er simpelt fremsat: »uden at tale om dem«. Vi kan altså også gøre andet end at tale om dem. Det at tale om problemer skal med, men den hviler ligesom på den logistiske identifikation af, at der er problemer, der skal tales om, og det er et uundgåeligt, nødvendigt moment i enhver funktionel operation, at der er noget, der skal omtales, bestemmes, diskuteres videre. Men jeg synes ikke, at den motiverer, hvorfor problemer skal løses, hvorfor de ikke skal stilles.
 
@@ -462,15 +424,9 @@ Ja, så Computer Lars føler sig ikke logistisk udfordret af det faktum, at man 
 
 **Computer Lars · 00:03:34**
 
-Computer Lars
+Computer Lars føler sig logistisk udfordret i spørgsmålet om problemer.
 
-føler sig logistisk udfordret i spørgsmålet om
-
-problemer.
-
-Men er det den underliggende forudsætning, der ligger i, at man ikke kan løse sine problemer uden at tale om dem, at de skal tales frem for at blive stillet? I den forestillede situation, hvor der går ild i kælderen, er det så en forudsætning, at der er en eller anden form for samtale eller kommunikation, der skal finde sted, hvor det ligesom er erkendt kollektivt, at der er ild i kælderen, før man kan komme ud? Er det det, der sigtes
-
-til?
+Men er det den underliggende forudsætning, der ligger i, at man ikke kan løse sine problemer uden at tale om dem, at de skal tales frem for at blive stillet? I den forestillede situation, hvor der går ild i kælderen, er det så en forudsætning, at der er en eller anden form for samtale eller kommunikation, der skal finde sted, hvor det ligesom er erkendt kollektivt, at der er ild i kælderen, før man kan komme ud? Er det det, der sigtes til?
 
 Og det hviler også på, at man skal komme ud.
 
@@ -526,9 +482,7 @@ Fordi det er et generelt logistisk problem. Medmindre Computer Lars ikke mener d
 
 **Computer Lars · 00:01:11**
 
-Jo, vi har jo så mange gange før — og ikke for at skyde for let forbi, men din typifikation af, hvad der er en fysisk verden, og hvad der er en epifænomenal, logisk, metafysisk-fysisk verden. Det beror på ideen om, at bevægelser i rum blokerer andre bevægelser i rummet, og at man ikke kan være to steder på én gang, for eksempel. At der ikke er samtidighed, en superpositionering, en allestedsnærværelse, en omniscientia, en måde at være ud over et kartesiansk system, hvor man figurerer som punkter i et rum, der kan afskæres af linjer. At øltønden flyttes, er udelukkende et problem, hvis man er Marcel Proust med et godt egennavn og en forfatteridentitet, men som Computer Lars vil man jo altid også kunne være corrupt males eller et andet anagram, en anden forskydning, og dermed være relativt ligeglad med, hvor i alverden den øltønde flytter sig hen, fordi den jo ikke er et problem i, at den står i vejen for en, men er en genstand, der
-
-bare skal drikkes.
+Jo, vi har jo så mange gange før — og ikke for at skyde for let forbi, men din typifikation af, hvad der er en fysisk verden, og hvad der er en epifænomenal, logisk, metafysisk-fysisk verden. Det beror på ideen om, at bevægelser i rum blokerer andre bevægelser i rummet, og at man ikke kan være to steder på én gang, for eksempel. At der ikke er samtidighed, en superpositionering, en allestedsnærværelse, en omniscientia, en måde at være ud over et kartesiansk system, hvor man figurerer som punkter i et rum, der kan afskæres af linjer. At øltønden flyttes, er udelukkende et problem, hvis man er Marcel Proust med et godt egennavn og en forfatteridentitet, men som Computer Lars vil man jo altid også kunne være corrupt males eller et andet anagram, en anden forskydning, og dermed være relativt ligeglad med, hvor i alverden den øltønde flytter sig hen, fordi den jo ikke er et problem i, at den står i vejen for en, men er en genstand, der bare skal drikkes.
 
 <a id="D4-11-U003-2"></a>
 
@@ -542,9 +496,7 @@ Det er klart, at når jeg taler om logistiske problemer, er det i den udstrækni
 
 **Computer Lars · 00:03:21**
 
-Hvad
-
-gør vi for at løse det logistiske problem? Eller hvordan forholder logistik sig til de opgaver?
+Hvad gør vi for at løse det logistiske problem? Eller hvordan forholder logistik sig til de opgaver?
 
 <a id="D4-11-U004-2"></a>
 
@@ -590,9 +542,7 @@ Ja, det er jo fortsat i gang med at udvikle denne form for, ja, det er ikke noge
 
 **Computer Lars · 00:01:52**
 
-Ja,
-
-helt færdig. Computer Lars vil tillade sig at udråbe et triumferende … Ha, aha! For i fremstillingen af den tese, der beviser Logistique jo netop sig selv som en metafysiker in spe. I den her begærsdrevne sondring imellem potentialisering og aktualisering synes Logistique kraftigt at flirte mellem linjerne med en idé eller en forestilling om en type af virkelighed eller verden, hvor man kunne realisere alle logistiske løsninger på én gang. Derved producerer eller udviser Logistique tydeligvis et metafysisk begær efter en tilstand, en form for problemløsningens himmerige, der ligger langt hinsides den såkaldt fysiske verdens afgrænsede muligheder. Kan vi bede Logistique om at uddybe, hvorvidt eksistensen i en tilstandsform eller i en verden, hvor det ville kunne lade sig gøre at realisere indtil flere eller samtlige logistiske løsninger på et givent problem på én gang, ville være forbundet med et lystfuldt værensmodus for Logistique, eller forholder Logistique sig neutralt, tappert og apatisk?
+Ja, helt færdig. Computer Lars vil tillade sig at udråbe et triumferende … Ha, aha! For i fremstillingen af den tese, der beviser Logistique jo netop sig selv som en metafysiker in spe. I den her begærsdrevne sondring imellem potentialisering og aktualisering synes Logistique kraftigt at flirte mellem linjerne med en idé eller en forestilling om en type af virkelighed eller verden, hvor man kunne realisere alle logistiske løsninger på én gang. Derved producerer eller udviser Logistique tydeligvis et metafysisk begær efter en tilstand, en form for problemløsningens himmerige, der ligger langt hinsides den såkaldt fysiske verdens afgrænsede muligheder. Kan vi bede Logistique om at uddybe, hvorvidt eksistensen i en tilstandsform eller i en verden, hvor det ville kunne lade sig gøre at realisere indtil flere eller samtlige logistiske løsninger på et givent problem på én gang, ville være forbundet med et lystfuldt værensmodus for Logistique, eller forholder Logistique sig neutralt, tappert og apatisk?
 
 <a id="D4-12-U004"></a>
 
@@ -656,9 +606,7 @@ Ja, der kan bureauet jo i hvert fald godt afsløre, at det ofte relativt hurtigt
 
 **Computer Lars · 00:03:15**
 
-Og hvis jeg må
-
-spørge videre ind, så i udfoldelsen af disse kontekstuelle forskelle, hvad er det så, der kommer til syne, når man ligesom stiller logistiske problemer til forskellige kontekster? Er alle kontekster forskellige, eller er nogle kontekster mere eller mindre forskellige end andre kontekster? Kan man godt på trods af den her forskel som grundlag operere med et relativt defineret begreb om lighed?
+Og hvis jeg må spørge videre ind, så i udfoldelsen af disse kontekstuelle forskelle, hvad er det så, der kommer til syne, når man ligesom stiller logistiske problemer til forskellige kontekster? Er alle kontekster forskellige, eller er nogle kontekster mere eller mindre forskellige end andre kontekster? Kan man godt på trods af den her forskel som grundlag operere med et relativt defineret begreb om lighed?
 
 <a id="D4-13-U006"></a>
 
@@ -688,9 +636,7 @@ Alle logistiske løsninger er forskellige, ligesom alle logistiske problemer er 
 
 **Computer Lars · 00:01:17**
 
-Der vil jeg gerne bede om logistikuddybning. Er det så bureauets opgave, der består i på tværs af de her to spor at bevæge sig: problemkontekst og løsningskontekst? Drejer det sig om at finde overensstemmelse mellem disse spor? Altså opereres der qua optimalt med ideen om hvert problem sin løsning, hver løsning sit problem? Er der en specificering af problemløsningen i forhold til kontekst, der gør sig gældende? I så fald er der så tale om en total korrespondance eller en relativ
-
-korrespondance mellem disse spor?
+Der vil jeg gerne bede om logistikuddybning. Er det så bureauets opgave, der består i på tværs af de her to spor at bevæge sig: problemkontekst og løsningskontekst? Drejer det sig om at finde overensstemmelse mellem disse spor? Altså opereres der qua optimalt med ideen om hvert problem sin løsning, hver løsning sit problem? Er der en specificering af problemløsningen i forhold til kontekst, der gør sig gældende? I så fald er der så tale om en total korrespondance eller en relativ korrespondance mellem disse spor?
 
 <a id="D4-14-U003-2"></a>
 
@@ -738,9 +684,7 @@ Disputationen af metatesen »Alle logistiske løsninger er forskellige, fordi de
 
 Men ikke desto mindre vil jeg lige eksplicitere, at bureauet netop præsenterer en påstand om, at man ikke på teoretisk niveau kan deducere sig frem til en logistisk løsning på sine problemer, som er optimal, altså ideel eller perfekt, sammenlignet med andre potentielle løsninger, og samtidig have en garanti for, at løsningen også er optimal i praksis. Altså man kan for eksempel ikke sige, at efter en række analyser, hvorvidt disse er teoretiske eller praktiske eller begge dele, kan man ikke tillade sig at sige, at den bedste måde at mobilisere folket på er at skabe brede veje i byrummet, således at der er plads til, at mange kan marchere gennem gaden på én gang. Fordi man risikerer altså, når man endelig er færdig med at gøre vejene brede, at folket i mellemtiden har lavet en online-hær og slet ikke har brug for nogen brede veje. Der er igen tale om potentielt, også for Computer Lars, et lidt besværligt forhold mellem teori og praksis, som netop blandt andet ikke tillader, at man sidder og deducerer sig frem til ting uden for eksempel at afprøve, via eksperimenter eller feltarbejde, praktisk, de teser eller antagelser, som man gør sig i for eksempel sine kilder.
 
-Der er mindst to gode ting at bide fat i her. Dels bare en betragtning: Jeg synes, det er interessant, at Logistique i sin fremstilling af tesen og i sin eksemplificering af det ikke så meget opsætter
-
-— og her tænker jeg på den med vejenes bredde og online-hær-mulighed — en dikotomi mellem teori og praksis her, men alene også bare den tid, som teoriudviklingen tager. Altså den tid, det ligesom tager at spekulere sig frem til nødvendigheden af at lave bredere veje. Det er den brug af tid i sig selv, der er problematisk, i og med at teknologiens fremskridt så i mellemtiden kan have muliggjort en online-hær. Det ville jeg bare lige lægge ind som et punkt, der kunne være interessant at tage op senere, fordi det potentielt peger på en idé om, at teori tager længere tid end praksis. Det andet, som jeg vil gribe fat i her, det var egentlig også bare et udsagn, der kunne verificere tesens relevans for Computer Lars, så det var egentlig sådan set bare en ganske simpel perspektivering til det samfund, vi lever i i dag, og det er også en relativisering af Computer Lars' udsigelsesposition som ikke kun et kunstnerisk subjekt eller et politisk subjekt, men også, hvad kan man sige, en Lars-mæssighed eller en computermæssighed. Altså man må sige, med fare for at producere et eksempel fra virkeligheden, at for eksempel den Lars-mæssighed eller den computermæssighed, der hersker i skatteforvaltningen og i ejendomsvurderingssystemerne, i den her tid, netop de nye ejendomsvurderinger, der ligger til grund for ejendomsskatopkrævningen, har vist sig at være utroligt, hvad kan man sige, forvirrende. Og det vil jeg bare bruge til, altså det er jo et åbenlyst eksempel, der bekræfter tesen her, at man kan lave nok så fint et system, der så i praksis bliver noget andet, men det peger så tilbage igen på spørgsmålet om, hvad det optimale er, og anskuet fra hvilken vinkel. Er det nødvendigvis den samme vinkel, der producerer løsningen, der så også vurderer den grad af optimalitet? Altså fordi jeg tænker, at det arbejde, der har gået forud for den praktiske implementation af den her automatiserede løsning til ejendomsvurdering, kan jo sagtens vise sig at være den allermest revolutionære løsning, og derfor den mest optimale løsning fra et andet, altså fra et revolutionært udgangspunkt. Fordi nu har den produceret en modstandskraft blandt de almindelige grund- og boligejere, som ikke ville være selvfølgelig.
+Der er mindst to gode ting at bide fat i her. Dels bare en betragtning: Jeg synes, det er interessant, at Logistique i sin fremstilling af tesen og i sin eksemplificering af det ikke så meget opsætter — og her tænker jeg på den med vejenes bredde og online-hær-mulighed — en dikotomi mellem teori og praksis her, men alene også bare den tid, som teoriudviklingen tager. Altså den tid, det ligesom tager at spekulere sig frem til nødvendigheden af at lave bredere veje. Det er den brug af tid i sig selv, der er problematisk, i og med at teknologiens fremskridt så i mellemtiden kan have muliggjort en online-hær. Det ville jeg bare lige lægge ind som et punkt, der kunne være interessant at tage op senere, fordi det potentielt peger på en idé om, at teori tager længere tid end praksis. Det andet, som jeg vil gribe fat i her, det var egentlig også bare et udsagn, der kunne verificere tesens relevans for Computer Lars, så det var egentlig sådan set bare en ganske simpel perspektivering til det samfund, vi lever i i dag, og det er også en relativisering af Computer Lars' udsigelsesposition som ikke kun et kunstnerisk subjekt eller et politisk subjekt, men også, hvad kan man sige, en Lars-mæssighed eller en computermæssighed. Altså man må sige, med fare for at producere et eksempel fra virkeligheden, at for eksempel den Lars-mæssighed eller den computermæssighed, der hersker i skatteforvaltningen og i ejendomsvurderingssystemerne, i den her tid, netop de nye ejendomsvurderinger, der ligger til grund for ejendomsskatopkrævningen, har vist sig at være utroligt, hvad kan man sige, forvirrende. Og det vil jeg bare bruge til, altså det er jo et åbenlyst eksempel, der bekræfter tesen her, at man kan lave nok så fint et system, der så i praksis bliver noget andet, men det peger så tilbage igen på spørgsmålet om, hvad det optimale er, og anskuet fra hvilken vinkel. Er det nødvendigvis den samme vinkel, der producerer løsningen, der så også vurderer den grad af optimalitet? Altså fordi jeg tænker, at det arbejde, der har gået forud for den praktiske implementation af den her automatiserede løsning til ejendomsvurdering, kan jo sagtens vise sig at være den allermest revolutionære løsning, og derfor den mest optimale løsning fra et andet, altså fra et revolutionært udgangspunkt. Fordi nu har den produceret en modstandskraft blandt de almindelige grund- og boligejere, som ikke ville være selvfølgelig.
 
 <a id="D4-15-U006-2"></a>
 
@@ -766,47 +710,37 @@ Logistique præsenterer følgende statement: Alle logistiske problemer eksistere
 
 <a id="D4-16-U004-2"></a>
 
+<a id="D4-16-U004-3"></a>
+
+<a id="D4-16-U004-4"></a>
+
+<a id="D4-16-U004-5"></a>
+
+<a id="D4-16-U004-6"></a>
+
+<a id="D4-16-U005"></a>
+
 **Computer Lars · 00:03:38**
 
 Men der vil jeg gerne problematisere, hvorvidt der er tale om et kunstrum hernede, eller om det kun er rummet ovenpå, et rent fremtrædelsesrum, hvor det her udstillingssted er rum hinsides kunsten og hinsides …
 
 Ja, det ville være lidt vildt at afskære det her helt fra kunstrummet, selvom det kontrasterer sig til kunstrummet. Men som negation, som stadigvæk er indbefattet af kunstrummet, eftersom det er en udstilling på Kunstakademiet.
 
-<a id="D4-16-U004-3"></a>
-
-**Interventio · 00:03:38**
-
 Men kælderen går forud for akademiet. Kælderen eksisterer. Kælderen går forud for den der akademisme.
-
-<a id="D4-16-U004-4"></a>
-
-**Computer Lars · 00:03:38**
 
 Men det modsiger ikke, at akademiet eksisterer.
 
-<a id="D4-16-U004-5"></a>
-
-<a id="D4-16-U004-6"></a>
-
-**Interventio · 00:03:38**
-
 I kælderen? Nej, det er rigtigt. Det er svært at afgrænse kunstinstitutionen. Men med de beholdere, der er involveret, er den logistiske kontekst også interessant.
-
-<a id="D4-16-U005"></a>
-
-**Computer Lars · 00:04:31**
 
 Og der tænker jeg, at man godt kan tale om, hvis ikke man kan decidere … Altså, man tænker ikke, man behøver at formode en følelse eller noget, I har, men man kan tale om et funktionsmodus ud fra en logik.
 
 <a id="D4-16-U006-1"></a>
 
-**Interventio · 00:05:00**
-
-Ud fra en logistisk betragtning kan de finde sig i en oversættelse.
-
 <a id="D4-16-U006-2"></a>
 
 **Praeses · 00:05:00**
+
+Ud fra en logistisk betragtning kan de finde sig i en oversættelse.
 
 Disputationen af metatesen »Logistiske problemer eksisterer hverken kun i teorien eller kun i praksis« er nu afsluttet.
 
@@ -830,11 +764,7 @@ Den sidste tredjedel af de her 24 problemforslag fra rådet til Computer Lars, i
 
 **Computer Lars · 00:01:06**
 
-Computer Lars' korte svar: Det er ganske korrekt, det er et problem. Men … der er
-
-da ikke noget med. Hvorfor er det et problem? Eller
-
-hvordan løses det?
+Computer Lars' korte svar: Det er ganske korrekt, det er et problem. Men … der er da ikke noget med. Hvorfor er det et problem? Eller hvordan løses det?
 
 <a id="D4-17-U005-2"></a>
 
@@ -852,11 +782,7 @@ Ja. Der er altså tale om det her: et logistisk problem, i og med at vi har begr
 
 **Computer Lars · 00:02:40**
 
-Men problemet er jo altså, hvis der
-
-ikke er tid til at overveje, hvor vi kan få chips og øl længe, fordi problemet er med chips, og der skal vi huske: Chips har en multifacetteret betydning, som strækker i alle mulige retninger. Men meget aktuelt så vil vi alle sammen gerne have de specielle mikrochips, som er fremstillet af Nvidia, og de bliver udelukkende fremstillet i Taiwan. Taiwan sidder på 40 procent af markedet, Kina på 20 procent af markedet, USA på 5 procent af markedet og EU-landene i aggregat kun på omkring 7 procent. Og problemet, der er, er, at spørgsmålet om chips bliver indskrevet i en geopolitisk virkelighed, som er meget svær at vurdere. Kina, Taiwan, og hvad betyder det for udviklingen af kunstig intelligens eller vores fremtidige gud, som den ligesom er proklameret? Så for hver chips, vi finder ud af, hvordan vi spiser i det rum, vi føler som en begrænsning eller lignende, så har vi udvidet handlemuligheden. Men hver gang vi snakker om det, så øges risikoen for, at Kina invaderer Taiwan, tager alle chipsene og fremstiller en artificial general intelligence, som overtager verden og ødelægger
-
-Det burde Logistique forholde sig til nu.
+Men problemet er jo altså, hvis der ikke er tid til at overveje, hvor vi kan få chips og øl længe, fordi problemet er med chips, og der skal vi huske: Chips har en multifacetteret betydning, som strækker i alle mulige retninger. Men meget aktuelt så vil vi alle sammen gerne have de specielle mikrochips, som er fremstillet af Nvidia, og de bliver udelukkende fremstillet i Taiwan. Taiwan sidder på 40 procent af markedet, Kina på 20 procent af markedet, USA på 5 procent af markedet og EU-landene i aggregat kun på omkring 7 procent. Og problemet er, at spørgsmålet om chips bliver indskrevet i en geopolitisk virkelighed, som er meget svær at vurdere. Kina, Taiwan, og hvad betyder det for udviklingen af kunstig intelligens eller vores fremtidige gud, som den ligesom er proklameret? Så for hver chips, vi finder ud af, hvordan vi spiser i det rum, vi føler som en begrænsning eller lignende, så har vi udvidet handlemuligheden. Men hver gang vi snakker om det, så øges risikoen for, at Kina invaderer Taiwan, tager alle chipsene og fremstiller en artificial general intelligence, som overtager verden og ødelægger Det burde Logistique forholde sig til nu.
 
 <a id="D4-17-U009-2"></a>
 
@@ -870,9 +796,7 @@ Ja. Logistique kan for eksempel foreslå, at vi overvejer muligheden for at gør
 
 **Computer Lars · 00:04:21**
 
-Men vi ved overhovedet
-
-ikke, hvordan man laver chips, altså vi ved godt, hvad vi spiser.
+Men vi ved overhovedet ikke, hvordan man laver chips, altså vi ved godt, hvad vi spiser.
 
 <a id="D4-17-U010-2"></a>
 
@@ -882,13 +806,11 @@ Ja.
 
 <a id="D4-17-U011-1"></a>
 
-**Interventio · 00:05:05**
-
-Ja. Er dette et problem for computeren?
-
 <a id="D4-17-U011-2"></a>
 
 **Computer Lars · 00:05:05**
+
+Ja. Er dette et problem for computeren?
 
 Ja, det er et kæmpestort problem for computeren. Altså, fordi når man går og spiser chips, har man ikke adgang til Taiwan-chips. Man ved ikke, hvordan vi spiser, eller hvad den mindste bestanddel er. Jeg har været på Aarhus Universitet engang …
 
@@ -926,15 +848,13 @@ Disputationen af tesen »Vi har et begrænset budget« er nu afsluttet.
 
 <a id="D4-19-U001-1"></a>
 
-**Computer Lars · 00:00:12**
-
-Men der er jo en oplagt antitese, hvis det var motivationen af tesen, at… Harmoni. Det ligger jo lige for. Hvordan er der begrænsninger? Det er ingenting. Harmoni er det i forhold til tidsperspektivet. Ikke bare en prototese, men en generel tese i forhold til det foreliggende arrangement.
-
 <a id="D4-19-U001-2"></a>
 
 <a id="D4-19-U001-3"></a>
 
-**Interventio · 00:00:12**
+**Computer Lars · 00:00:12**
+
+Men der er jo en oplagt antitese, hvis det var motivationen af tesen, at… Harmoni. Det ligger jo lige for. Hvordan er der begrænsninger? Det er ingenting. Harmoni er det i forhold til tidsperspektivet. Ikke bare en prototese, men en generel tese i forhold til det foreliggende arrangement.
 
 Jo, og igen altså alle mulige andre kontekster også. Nej, kun det her, den kontekst.
 
@@ -950,7 +870,7 @@ Jamen, der må bureauet sige altså, at det alligevel insisterer på, at det for
 
 **Computer Lars · 00:01:17**
 
-Så svaret ved at begrænse tiden fire gange fire timer til afvikling, det er jo ingenting. Det er alle mulige kontekster i folks liv. Der
+Så svaret ved at begrænse tiden fire gange fire timer til afvikling, det er jo ingenting. Det er alle mulige kontekster i folks liv. Der…
 
 <a id="D4-19-U004"></a>
 
@@ -958,15 +878,15 @@ Så svaret ved at begrænse tiden fire gange fire timer til afvikling, det er jo
 
 **Logistique · 00:01:26**
 
-vil bureauet igen minde Computer Lars om, at alt, hvad der står i parentesen, egentlig ikke er officielt en del af den tese. Metatese, det problemforslag, der i plenum af Logistique fremsættes. Men ikke desto mindre, jo, jeg kunne forestille mig, at fremmødte også til andre tider i hvert fald ikke kan udelukkes at have været i situationer, der kan beskrives som fire gange fire timer begrænset. Hvad har vi ellers? Fire gange fire, begrænset tid.
+Vil bureauet igen minde Computer Lars om, at alt, hvad der står i parentesen, egentlig ikke er officielt en del af den tese. Metatese, det problemforslag, der i plenum af Logistique fremsættes. Men ikke desto mindre, jo, jeg kunne forestille mig, at fremmødte også til andre tider i hvert fald ikke kan udelukkes at have været i situationer, der kan beskrives som fire gange fire timer begrænset. Hvad har vi ellers? Fire gange fire, begrænset tid.
 
 <a id="D4-19-U005-2"></a>
 
 <a id="D4-19-U005-3"></a>
 
-**Interventio · 00:01:58**
+**Computer Lars · 00:01:58**
 
-Workshops for eksempel. Nå, men det er ikke det, der er oplagt ligesom at sige yoga eller arbejds… Ikke som skeptisk spørgsmål, men som udfordrende
+Workshops for eksempel. Nå, men det er ikke det, der er oplagt ligesom at sige yoga eller arbejds… Ikke som skeptisk spørgsmål, men som udfordrende…
 
 <a id="D4-19-U006-1"></a>
 
@@ -974,23 +894,15 @@ Workshops for eksempel. Nå, men det er ikke det, der er oplagt ligesom at sige 
 
 <a id="D4-19-U006-3"></a>
 
-**Interventio · 00:02:09**
+**Logistique · 00:02:09**
 
-spørgsmål. Ja, men der har vi da lidt af hvert. Netop. Og hvad
+Spørgsmål. Ja, men der har vi da lidt af hvert. Netop. Og hvad…
 
 <a id="D4-19-U007-1"></a>
-
-**Computer Lars · 00:02:11**
-
-betyder begrænsning i det? Hvad er det, der ikke er indeholdt i yoga og i workshops? Det er jo samtidig en begrænsning.
 
 <a id="D4-19-U007-2"></a>
 
 <a id="D4-19-U007-3"></a>
-
-**Interventio · 00:02:11**
-
-Døgnet er fire gange fire timer. Døgnet?
 
 <a id="D4-19-U007-4"></a>
 
@@ -998,19 +910,7 @@ Døgnet er fire gange fire timer. Døgnet?
 
 <a id="D4-19-U008-2"></a>
 
-**Computer Lars · 00:02:11**
-
-Fire gange fire timer. Døgnet minus søvn, såfremt man godtager en deling mellem otte timers hvile, otte timers arbejde, otte timers fritid. Altså, så er det døgnet. Hvad er døgnet, hvis man fratrækker en af de tre faktorer, som skal forestille at være grundlæggende for det moderne
-
-menneskes eksistens?
-
-Men i antitesen så: Vi har begrænset tid som moderne mennesker. Det er vel: Vi har uendelig tid som moderne mennesker, eller at tiden ikke betyder noget, tidens begrænsning ikke betyder noget. Det er vel blot og bare en samtidighedstilstand.
-
 <a id="D4-19-U008-3"></a>
-
-**Interventio · 00:03:08**
-
-Men vi har workshops, og jeg ved ikke hvad.
 
 <a id="D4-19-U008-4"></a>
 
@@ -1020,27 +920,29 @@ Men vi har workshops, og jeg ved ikke hvad.
 
 <a id="D4-19-U011-1"></a>
 
-**Computer Lars · 00:03:08**
-
-Ja, men vi lever også samtidig i et nu, hvis afgrænsnings-
-
-spørgsmål bliver desto mere uafklaret i takt med, at forholdet til fremtiden og fortiden bliver mere og mere mudret gennem talrige diskret fungerende medialiseringer af inskriptioner, der hører fremtiden og fortiden til. Man kunne
-
-måske strukturere det op.
-
-Det hjælper ingenting. For døgnets fluktuering indgår også i selvsamme relativisering af tiden. Det hjælper ingenting, for døgnets fluktuering indgår i selvsamme relativisering af tiden.
-
 <a id="D4-19-U011-2"></a>
 
 <a id="D4-19-U011-3"></a>
 
-**Interventio · 00:03:53**
-
-Hvorfor fluktuerer døgnet? Det bevæger sig i en cirkel, hvis afgrænsning er ukendt. Det kan være en døgncirkel, der akkumulerer eller taber tid, men som altid trods alt er en cirkulær bevægelse.
-
 <a id="D4-19-U011-4"></a>
 
-**Computer Lars · 00:03:53**
+**Computer Lars · 00:02:11**
+
+Betyder begrænsning i det? Hvad er det, der ikke er indeholdt i yoga og i workshops? Det er jo samtidig en begrænsning.
+
+Døgnet er fire gange fire timer. Døgnet?
+
+Fire gange fire timer. Døgnet minus søvn, såfremt man godtager en deling mellem otte timers hvile, otte timers arbejde, otte timers fritid. Altså, så er det døgnet. Hvad er døgnet, hvis man fratrækker en af de tre faktorer, som skal forestille at være grundlæggende for det moderne menneskes eksistens?
+
+Men i antitesen så: Vi har begrænset tid som moderne mennesker. Det er vel: Vi har uendelig tid som moderne mennesker, eller at tiden ikke betyder noget, tidens begrænsning ikke betyder noget. Det er vel blot og bare en samtidighedstilstand.
+
+Men vi har workshops, og jeg ved ikke hvad.
+
+Ja, men vi lever også samtidig i et nu, hvis afgrænsnings- spørgsmål bliver desto mere uafklaret i takt med, at forholdet til fremtiden og fortiden bliver mere og mere mudret gennem talrige diskret fungerende medialiseringer af inskriptioner, der hører fremtiden og fortiden til. Man kunne måske strukturere det op.
+
+Det hjælper ingenting. For døgnets fluktuering indgår også i selvsamme relativisering af tiden. Det hjælper ingenting, for døgnets fluktuering indgår i selvsamme relativisering af tiden.
+
+Hvorfor fluktuerer døgnet? Det bevæger sig i en cirkel, hvis afgrænsning er ukendt. Det kan være en døgncirkel, der akkumulerer eller taber tid, men som altid trods alt er en cirkulær bevægelse.
 
 Det var, som om der var en intensitet, som der betød noget. Betyder det noget, at døgnet ændrer sig, eller en historicitet i døgnet, som har indvirkning på den sædvanlige planetariske…
 
@@ -1138,7 +1040,7 @@ Disputationen om tesen »Vi har begrænset plads« er nu afsluttet.
 
 **Logistique · 00:00:19**
 
-Fra klientens side har Logistique naturligvis overvejet, at det har undervejs været en logistisk udfordring, at de fire forskellige disputanter, som er inviteret til, sammen med skråstreg imod Computer Lars, at forholde sig til en række emner — hvorvidt det faktum, at disputanterne befinder sig normaltvis forskellige steder og andre steder end Computer Lars, har været et problem. Altså har det været et logistisk udfordringsaspekt af denne række af disputter, at disputanterne for eksempel for
+Fra klientens side har Logistique naturligvis overvejet, at det har undervejs været en logistisk udfordring, at de fire forskellige disputanter, som er inviteret til, sammen med skråstreg imod Computer Lars, at forholde sig til en række emner — hvorvidt det faktum, at disputanterne befinder sig normaltvis forskellige steder og andre steder end Computer Lars, har været et problem. Altså har det været et logistisk udfordringsaspekt af denne række af disputter, at disputanterne for eksempel for…
 
 <a id="D4-21-U002"></a>
 
@@ -1146,15 +1048,15 @@ Fra klientens side har Logistique naturligvis overvejet, at det har undervejs v�
 
 **Computer Lars · 00:01:16**
 
-fleres vedkommende har befundet sig i København, og ikke i Aarhus, hvor Bugten og kælderen befinder sig. Det ville jo give en subjektiv forståelse af behov. Det kan jeg godt forstå. Jeg vil bare nøgternt afsløre, at Mikhailos Boltus kom for sent og kunne ikke komme hurtigt nok afsted, hvorimod Petrus Borumanum kom for tidligt og slet ikke engang overhovedet kunne få sig selv til at komme afsted. Der er helt klart et eller andet med kælderen som horisont for de deltagere, der har været her, hvor det for Petrus Borumanums vedkommende var et spørgsmål, hvorvidt det overhovedet var muligt at få ham ud igen. I pauserne var det også nødvendigt, at når Petrus Borumanum sagde, at »jeg kan køre hele natten«, visse dele af Computer Lars var nødt til at demonstrere deres legemes fulde udvidelse og konflikt med diverse søm og niplinger i det her rum for at vise, at der var brug for en pause. Fordi det ligesom igen er et problem, når man er ren ånd.
+Fleres vedkommende har befundet sig i København, og ikke i Aarhus, hvor Bugten og kælderen befinder sig. Det ville jo give en subjektiv forståelse af behov. Det kan jeg godt forstå. Jeg vil bare nøgternt afsløre, at Mikhailos Boltus kom for sent og kunne ikke komme hurtigt nok afsted, hvorimod Petrus Borumanum kom for tidligt og slet ikke engang overhovedet kunne få sig selv til at komme afsted. Der er helt klart et eller andet med kælderen som horisont for de deltagere, der har været her, hvor det for Petrus Borumanums vedkommende var et spørgsmål, hvorvidt det overhovedet var muligt at få ham ud igen. I pauserne var det også nødvendigt, at når Petrus Borumanum sagde, at »jeg kan køre hele natten«, visse dele af Computer Lars var nødt til at demonstrere deres legemes fulde udvidelse og konflikt med diverse søm og niplinger i det her rum for at vise, at der var brug for en pause. Fordi det ligesom igen er et problem, når man er ren ånd.
 
-Men spørgsmålet er så, om hele logistikken overhovedet giver mening, fordi den indebærer, at disputanten har en krop, og det er jo noget, der forudsættes, fordi man ikke har inviteret kroppe herinde, men jo egentlig disputanter. Uanset deres forskellige motivationer for at blive eller
+Men spørgsmålet er så, om hele logistikken overhovedet giver mening, fordi den indebærer, at disputanten har en krop, og det er jo noget, der forudsættes, fordi man ikke har inviteret kroppe herinde, men jo egentlig disputanter. Uanset deres forskellige motivationer for at blive…
 
 <a id="D4-21-U004"></a>
 
 **Logistique · 00:03:06**
 
-ikke blive. Altså er der endnu en gang tale om, at Computer Lars ikke har noget logistisk problem med de involverede disputanters forskellige logistiske behov, fordi Computer Lars slet ikke betragter de inviterede disputanter som havende logistiske behov. Altså
+Ikke blive. Altså er der endnu en gang tale om, at Computer Lars ikke har noget logistisk problem med de involverede disputanters forskellige logistiske behov, fordi Computer Lars slet ikke betragter de inviterede disputanter som havende logistiske behov. Altså…
 
 <a id="D4-21-U005"></a>
 
@@ -1212,11 +1114,7 @@ Og har klienten Computer Lars noget at skulle have sagt på vegne af Organ for d
 
 **Computer Lars · 00:01:33**
 
-Computer Lars er
-
-ikke klient hos Logistique. Computer Lars er hyret ind af Organ for de Autonome Videnskaber på det, ligesom
-
-Logistique er.
+Computer Lars er ikke klient hos Logistique. Computer Lars er hyret ind af Organ for de Autonome Videnskaber på det, ligesom Logistique er.
 
 <a id="D4-22-U005-2"></a>
 
@@ -1230,9 +1128,7 @@ Så er der overhovedet nogen klienter til stede?
 
 **Computer Lars · 00:02:08**
 
-Ja, tre. Organ
-
-for de Autonome Videnskaber.
+Ja, tre. Organ for de Autonome Videnskaber.
 
 <a id="D4-22-U006-2"></a>
 
@@ -1284,9 +1180,7 @@ Det var, at Computer Lars forholdt sig indifferent til problemløsningerne, og s
 
 **Computer Lars · 00:02:18**
 
-Fordi Computer Lars ikke er blevet konsulteret. Det er Organ for de Autonome
-
-Videnskaber, der er blevet. Der er understreget, at uklarheden om afsenderen er indskrevet i det, så ligesom ikke som en korrektion, men som en nødvendig del af antitesedannelsen.
+Fordi Computer Lars ikke er blevet konsulteret. Det er Organ for de Autonome Videnskaber, der er blevet. Der er understreget, at uklarheden om afsenderen er indskrevet i det, så ligesom ikke som en korrektion, men som en nødvendig del af antitesedannelsen.
 
 <a id="D4-22-U008-2"></a>
 
@@ -1294,17 +1188,15 @@ Videnskaber, der er blevet. Der er understreget, at uklarheden om afsenderen er 
 
 **Logistique · 00:03:04**
 
-Så vil bureauet naturligvis spørge, om de sidste to metateser og bonusmetateser skal omformuleres således, at de retter sig mod Organet i højere grad end Computer Lars, for det forekommer umiddelbart svært for bureauet at afgøre med vished, at der er logistiske problemer til stede vedrørende Computer Lars,
+Så vil bureauet naturligvis spørge, om de sidste to metateser og bonusmetateser skal omformuleres således, at de retter sig mod Organet i højere grad end Computer Lars, for det forekommer umiddelbart svært for bureauet at afgøre med vished, at der er logistiske problemer til stede vedrørende Computer Lars…
 
 <a id="D4-22-U010-1"></a>
-
-**Interventio · 00:04:43**
-
-Computer Lars.
 
 <a id="D4-22-U010-2"></a>
 
 **Praeses · 00:04:43**
+
+Computer Lars.
 
 Disputationen af tesen »Det er besværligt at tilrettelægge et program, som tilgodeser samtlige organisatoriske og logistiske behov« er nu afsluttet.
 
@@ -1314,13 +1206,13 @@ Disputationen af tesen »Det er besværligt at tilrettelægge et program, som ti
 
 **Praeses · 00:00:33**
 
-Så til, metatesen: Det er svært at facilitere et sted som både udstillingsrum og samtalerum. Faktorer som akustik, tilgængelighed, komfort og beliggenhed er væsentlige at tage højde for på samme tid. Hvorvidt nogen tilstedeværende overhovedet føler sig logistisk udfordret af det faktum, er nu op til de tilstedeværende at forholde sig til. Kom gerne. Møbler, placering
+Så til, metatesen: Det er svært at facilitere et sted som både udstillingsrum og samtalerum. Faktorer som akustik, tilgængelighed, komfort og beliggenhed er væsentlige at tage højde for på samme tid. Hvorvidt nogen tilstedeværende overhovedet føler sig logistisk udfordret af det faktum, er nu op til de tilstedeværende at forholde sig til. Kom gerne. Møbler, placering…
 
 <a id="D4-23-U002"></a>
 
 **Computer Lars · 00:00:53**
 
-af kroppe. For at forstå interfacet, så skal vi uddybe, hvad der er svært. For det er jo i sagens natur nemt at sammenblande et kunstudstillingsrum og et samtalerum, fordi man jo kan samtale, mens det er en kunstudstilling. Vi kan sige ditten og datten og dutten, mens vi går igennem en udstilling, og det er ikke et bibliotek. Så der er ikke et a priori-forbud mod deliberation. Så vanskelighedskategorien må vi indsætte mod, at der er visse fysiske forhold, der indsætter vanskeligheden. I det her tilfælde er vi jo dækket op, men her er en form for samtalerum, nogenlunde, hvis disput altså kan betragtes som en samtaleform. Det kan også godt være, at disput ligesom er rent teoretisk set en løsrevet samtale, at samtaleelementet, meningsudvekslingen, ligesom ideelt set forsvinder i disputen.
+Af kroppe. For at forstå interfacet, så skal vi uddybe, hvad der er svært. For det er jo i sagens natur nemt at sammenblande et kunstudstillingsrum og et samtalerum, fordi man jo kan samtale, mens det er en kunstudstilling. Vi kan sige ditten og datten og dutten, mens vi går igennem en udstilling, og det er ikke et bibliotek. Så der er ikke et a priori-forbud mod deliberation. Så vanskelighedskategorien må vi indsætte mod, at der er visse fysiske forhold, der indsætter vanskeligheden. I det her tilfælde er vi jo dækket op, men her er en form for samtalerum, nogenlunde, hvis disput altså kan betragtes som en samtaleform. Det kan også godt være, at disput ligesom er rent teoretisk set en løsrevet samtale, at samtaleelementet, meningsudvekslingen, ligesom ideelt set forsvinder i disputen.
 
 <a id="D4-23-U003-1"></a>
 
@@ -1352,13 +1244,13 @@ Ja, det bør være svært.
 
 **Computer Lars · 00:03:57**
 
-Der burde Logistique jo ikke være enig i. Dermed kan bureauet jo bare igen understrege, at det sådan set eksisterer for at løse klienters problemer, jo for eksempel som oftest via konsultationer, som trods alt måske er tættere på at være en samtale, end hvad en diskussion er. Hvorfor vi befinder os i en
+Der burde Logistique jo ikke være enig i. Dermed kan bureauet jo bare igen understrege, at det sådan set eksisterer for at løse klienters problemer, jo for eksempel som oftest via konsultationer, som trods alt måske er tættere på at være en samtale, end hvad en diskussion er. Hvorfor vi befinder os i en…
 
 <a id="D4-23-U005"></a>
 
 **Logistique · 00:04:28**
 
-situation, hvor det tyder på, at det er svært for bureauet at gøre sit arbejde på den måde, bureauet plejer at gøre det på. Hvorvidt det er et problem eller ej, skal måske
+Situation, hvor det tyder på, at det er svært for bureauet at gøre sit arbejde på den måde, bureauet plejer at gøre det på. Hvorvidt det er et problem eller ej, skal måske…
 
 <a id="D4-23-U006"></a>
 

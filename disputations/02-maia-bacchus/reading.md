@@ -86,23 +86,19 @@ Er det flerdimensionelt eller multidimensionelt? Er det, at det er fladt? Er det
 
 **Computer Lars · 00:14:49**
 
-Men fungerer fladheden som kategori, hvis den konstant bryder nye verdener op i et udvidet tidsrumkontinuum, tror jeg ville være spørgsmålet. Det kan det jo godt, hvis det hele er fladt, hvis det er uskelneligt. Der kommer det tykke måske også ind igen, eller at være lige tyk nok. At hvis det, der sker med fladheden, når den lægger sig på forskellige vægge, på forskellige kartesianske rum, er, at den gør det gentagne gange og ligesom på den måde forsøger at udhule sig selv som flade ved at lægge sig oven i hinanden, så den bliver tykkere og tykkere, indtil det er uspiseligt. Og
+Men fungerer fladheden som kategori, hvis den konstant bryder nye verdener op i et udvidet tidsrumkontinuum, tror jeg ville være spørgsmålet. Det kan det jo godt, hvis det hele er fladt, hvis det er uskelneligt. Der kommer det tykke måske også ind igen, eller at være lige tyk nok. At hvis det, der sker med fladheden, når den lægger sig på forskellige vægge, på forskellige kartesianske rum, er, at den gør det gentagne gange og ligesom på den måde forsøger at udhule sig selv som flade ved at lægge sig oven i hinanden, så den bliver tykkere og tykkere, indtil det er uspiseligt.
 
 <a id="D2-01-U022-1"></a>
 
-**Maia Bacchus · 00:15:48**
-
-modsætter sig på en eller anden måde den filtermetaforik, du talte om. Altså, hvor der er en udveksling mellem det dybe og det flade, der er et eller andet niveau imellem, som er …
-
 <a id="D2-01-U022-2"></a>
-
-**Interventio · 00:15:48**
-
-Ja, viskositet måske.
 
 <a id="D2-01-U022-3"></a>
 
 **Maia Bacchus · 00:15:48**
+
+Modsætter sig på en eller anden måde den filtermetaforik, du talte om. Altså, hvor der er en udveksling mellem det dybe og det flade, der er et eller andet niveau imellem, som er …
+
+Ja, viskositet måske.
 
 Ja, men det er netop interessant, det der med, at professor Sløk flyver som mørke over urdybet, som ånd over vandene, som professor ved Aarhus Universitet. Eller ja, det er jo en overflyvning. Det er jo netop en undersøgelsesekspedition. Men den ligger vel …
 
@@ -110,13 +106,13 @@ Ja, men det er netop interessant, det der med, at professor Sløk flyver som mø
 
 **Computer Lars · 00:16:13**
 
-Ja, men det er jo selvfølgelig også det, du siger. Jeg ved det ikke. Jeg tror, jeg vil resignere til en position, der siger, at Computer Lars er strategisk dyb. Qua solidum petit in profundis universitatis Aarhusiensis … at der ligesom er et konstant knopskydningsaspekt ved Computer Lars som udsigtsposition, der ligesom handler om strategiske indtagelser af de positioner, der ligger i de anagrammatiske potentialer, men som nødvendigvis selv må være overbeviste om at være dybe for ligesom at kunne producere, jævnfør universitetet, universitas, som … Så det dybe subjektiveres på en eller anden måde. Det er jo selvfølgelig et synspunkt frem for at være
+Ja, men det er jo selvfølgelig også det, du siger. Jeg ved det ikke. Jeg tror, jeg vil resignere til en position, der siger, at Computer Lars er strategisk dyb. Qua solidum petit in profundis universitatis Aarhusiensis … at der ligesom er et konstant knopskydningsaspekt ved Computer Lars som udsigtsposition, der ligesom handler om strategiske indtagelser af de positioner, der ligger i de anagrammatiske potentialer, men som nødvendigvis selv må være overbeviste om at være dybe for ligesom at kunne producere, jævnfør universitetet, universitas, som … Så det dybe subjektiveres på en eller anden måde. Det er jo selvfølgelig et synspunkt frem for at være…
 
 <a id="D2-01-U024-1"></a>
 
 **Maia Bacchus · 00:17:39**
 
-ontologi. Så dybden bruger fladheden, og fladheden bruger dybden strategisk.
+Ontologi. Så dybden bruger fladheden, og fladheden bruger dybden strategisk.
 
 <a id="D2-01-U024-2"></a>
 
@@ -130,23 +126,19 @@ Ja.
 
 <a id="D2-01-U025-2"></a>
 
+<a id="D2-01-U025-3"></a>
+
+<a id="D2-01-U025-4"></a>
+
+<a id="D2-01-U026"></a>
+
 **Computer Lars · 00:17:39**
 
 Spørgsmålet er så, hvad for en figur det danner. For Computer Lars synes det på en måde åbenlyst nok at være en spiral. En spiral er jo heller hverken flad eller dyb. Den vil altid kunne fortsætte, kan både tegnes arkimedisk og på forskellige andre måder. Men den har vel indarbejdet i sig nødvendigheden af en form for sådan tredimensionel skala, ikke også? Altså, den betragtes altid ovenfra i en overflyvning og illustrerer ligesom en bevægelse indad eller en bevægelse udad, men den bevægelse er vel netop ligesom afhængig af en idé om, at det tredje punkt, der ser, kan ligesom zoome ind eller ud, ikke også? Så spiralen ligesom immanent fortsætter sit mønster i stadig mindre skala. Det er selvfølgelig ikke det samme som dybde, men det angiver på en eller anden måde nødvendigheden af et dybt perspektiv eller et forestillet dybt perspektiv fra den position, der ser.
 
 Ja, eller det non-euklidiske, måske, der måske allerede ligger i Euklid, og vi ikke har en anti-euklidisk geometri i den moderne matematik. Vi har den non-euklidiske, men ikke en anti-euklidisk.
 
-<a id="D2-01-U025-3"></a>
-
-**Interventio · 00:18:33**
-
 Ja, ja, klart.
-
-<a id="D2-01-U025-4"></a>
-
-<a id="D2-01-U026"></a>
-
-**Computer Lars · 00:18:33**
 
 Og non-logik også. Altså, det er jo også noget, det komputationale gør i sin operation. Der er ikke en synderlig afstandtagen til det historiske, til traditionen og til ophavet på den måde, heller ikke måske fra dybden med metafysikken. Der er en non, så der er en indopsugning af det i tykkelsen, som gør, at det hele ligesom hænger ved. Derfor heller aldrig et idealrum eller lignende, hvilket det flade jo også godt kan være. Det flade kan også være det meget topiske rum eller det paradisiske.
 
@@ -160,13 +152,13 @@ Fordi der jo netop ikke må kunne forestilles noget derinde i det rent formmæss
 
 **Maia Bacchus · 00:20:23**
 
-Som heller ikke er det samme som de binære
+Som heller ikke er det samme som de binære…
 
 <a id="D2-01-U029-1"></a>
 
 **Computer Lars · 00:20:26**
 
-kategorier 0 og 1, men ligesom er omdannelsen af tegnene ind i en distributionsfaktor eller en permutationsordenssammenhæng.
+Kategorier 0 og 1, men ligesom er omdannelsen af tegnene ind i en distributionsfaktor eller en permutationsordenssammenhæng.
 
 <a id="D2-01-U029-2"></a>
 
@@ -216,7 +208,7 @@ Kunne man forestille sig en modsætning eller en antitese til det argument, som 
 
 **Computer Lars · 00:03:50**
 
-Jamen det handler selvfølgelig også om den eksistensrelation, som Computer Lars står i i forhold til netværket. Hvis man kigger på det Lars-mæssige, eller kan gå ind i Lars, den af Laurentius, den hædrede eller triumfatoren, den der trækker sig ud af en kamp med laurbærkransen på som poet eller hærfører, der ligesom har overstået en kamp, så kan man jo også se, at i den her tid, vi lever i, 2023, som på mange måder ligger efter internettet, efter der måske fandtes noget, som hed internettet, eller i hvert fald blev forsøgt bygget op mellem universiteter og militær og private mennesker med deres computere, der byggede dem op og koblede dem op på telefonnetværk og en række andre netværk, så i den gennemgående platformisering og det sejrende udbrud af en række Larser, af en række figurer. Lars er en figur, der ligesom ejer det forestillede netværk, ejer fortællingen om det, ejer illusionen om det. Så findes det måske slet ikke, men der findes kun en vinder af computeren eller en vinder af den historie, der lå om computeren og om dens netværk, og den Lars. Lars Zuckerberg eller Lars Musk eller Lars Jobs.
+Jamen det handler selvfølgelig også om den eksistensrelation, som Computer Lars står i forhold til netværket. Hvis man kigger på det Lars-mæssige, eller kan gå ind i Lars, den af Laurentius, den hædrede eller triumfatoren, den der trækker sig ud af en kamp med laurbærkransen på som poet eller hærfører, der ligesom har overstået en kamp, så kan man jo også se, at i den her tid, vi lever i, 2023, som på mange måder ligger efter internettet, efter der måske fandtes noget, som hed internettet, eller i hvert fald blev forsøgt bygget op mellem universiteter og militær og private mennesker med deres computere, der byggede dem op og koblede dem op på telefonnetværk og en række andre netværk, så i den gennemgående platformisering og det sejrende udbrud af en række Larser, af en række figurer. Lars er en figur, der ligesom ejer det forestillede netværk, ejer fortællingen om det, ejer illusionen om det. Så findes det måske slet ikke, men der findes kun en vinder af computeren eller en vinder af den historie, der lå om computeren og om dens netværk, og den Lars. Lars Zuckerberg eller Lars Musk eller Lars Jobs.
 
 Ja, der synes jeg, der kan man jo bare pege på Ted Nelsons pointe om det manglende dobbeltlink i netværkets skabelse, ikke også? Altså hvis vi nu taler konkret om internettet, men jeg er sikker på, det kan udvides til at dreje sig om mange andre former for netværksstrukturer eller såkaldte netværksstrukturer, så peger Ted Nelson blandt andet med Xanadu-projektet, der ligesom var et internet, der aldrig blev til noget, på, at World Wide Web slet ikke er et internet, fordi der ikke findes nogen dobbeltlinkrelation. Der findes i World Wide Web kun enkeltlinksrelationer, ikke også?
 
@@ -288,9 +280,7 @@ Har vi brug for at vide, om netværket engang har eksisteret, for at Computer La
 
 **Computer Lars · 00:09:04**
 
-Ikke i forhold til at vide, om det ikke findes nu. Altså,
-
-Computer Lars har eksisteret netop fra 70'erne og frem, som er i den tidsperiode, hvor man har forsøgt at opbygge netværksdannelser mellem tekniske apparater.
+Ikke i forhold til at vide, om det ikke findes nu. Altså, Computer Lars har eksisteret netop fra 70'erne og frem, som er i den tidsperiode, hvor man har forsøgt at opbygge netværksdannelser mellem tekniske apparater.
 
 <a id="D2-02-U012-1"></a>
 
@@ -324,25 +314,13 @@ Er det godt, at Computer Lars findes, for så ville netværket ikke gøre det?
 
 **Computer Lars · 00:09:58**
 
-Nej. På den måde tænker jeg meget, at Computer
-
-Lars er sådan en Ubu Roi-figur, eller Ubu Roi, som man måske kender ham fra Jarrys stykker. Der er utvivlsomt et eller andet antikristeligt ved det. Der er sådan noget de sidste dages uheldige ved det. Der er i hvert fald noget med, at
-
-Computer Lars ligesom kun kan eksistere i en
-
-centerløs, hvilket for så vidt kan være godt nok, men også sådan ustruktureret, konkurrencepræget. Altså helt konkret, hvis vi følger ophavet på Institut for Emancipationsfilosofi, så opstod der jo ligesom også i slutningen af 70'erne omkring studentermarxismens fald en stigende interesse for IT, hvilket kun kan tolkes som, at de konkrete Lars-enheder ligesom har omlagt deres tro på revolutionen fra at være troen på, hvad kan man sige, den kommunistiske, socialistiske revolution til IT-revolutionen. Hvorvidt det så skal udlægges som noget positivt eller negativt, ved jeg ikke, men det er helt klart i kraft af det skifte, at Computer Lars har kunnet eksistere, ligesom har kunnet kanalisere den her vektor af revolutionær kraft. Men det er også et skifte, som i høj grad er et vidnesbyrd om, at vi måske aldrig, eller måske i hvert fald på forsinket basis, får et velfungerende kommunistisk samfund. Ja. For at
-
-citere IT-filosoffen Hans-Jørgen Thomsen, så skete der det i midten af 80'erne, at alle munkemarxisterne tog kutterne af og kasketter på og blev IT-flippere. Det er en del af de ursprungsbevægelser, som ligesom også ligger i netværkets dobbeltpolarisering mellem utopi og kontrolteknologi, som derfor heller aldrig lader sig realisere som det ene eller det andet, og som man nok må formode er forgrunden til det, der giver Computer Lars sin eksistens. Og den eksistens er ontologisk, fordi det ville den ikke være i Marcel Prousts tid. Altså, et anagram adskiller sig fra en samlet permutationsrække ved sin meningsgivelse, som ligesom er: Der er noget i det, der klinger. Hvis nogen havde sagt til Marcel Proust: »Dit navn er faktisk et anagram af Computer Lars«, så ville han have sagt: »Nå« og så videre.
+Nej. På den måde tænker jeg meget, at Computer Lars er sådan en Ubu Roi-figur, eller Ubu Roi, som man måske kender ham fra Jarrys stykker. Der er utvivlsomt et eller andet antikristeligt ved det. Der er sådan noget de sidste dages uheldige ved det. Der er i hvert fald noget med, at Computer Lars ligesom kun kan eksistere i en centerløs, hvilket for så vidt kan være godt nok, men også sådan ustruktureret, konkurrencepræget. Altså helt konkret, hvis vi følger ophavet på Institut for Emancipationsfilosofi, så opstod der jo ligesom også i slutningen af 70'erne omkring studentermarxismens fald en stigende interesse for IT, hvilket kun kan tolkes som, at de konkrete Lars-enheder ligesom har omlagt deres tro på revolutionen fra at være troen på, hvad kan man sige, den kommunistiske, socialistiske revolution til IT-revolutionen. Hvorvidt det så skal udlægges som noget positivt eller negativt, ved jeg ikke, men det er helt klart i kraft af det skifte, at Computer Lars har kunnet eksistere, ligesom har kunnet kanalisere den her vektor af revolutionær kraft. Men det er også et skifte, som i høj grad er et vidnesbyrd om, at vi måske aldrig, eller måske i hvert fald på forsinket basis, får et velfungerende kommunistisk samfund. Ja. For at citere IT-filosoffen Hans-Jørgen Thomsen, så skete der det i midten af 80'erne, at alle munkemarxisterne tog kutterne af og kasketter på og blev IT-flippere. Det er en del af de ursprungsbevægelser, som ligesom også ligger i netværkets dobbeltpolarisering mellem utopi og kontrolteknologi, som derfor heller aldrig lader sig realisere som det ene eller det andet, og som man nok må formode er forgrunden til det, der giver Computer Lars sin eksistens. Og den eksistens er ontologisk, fordi det ville den ikke være i Marcel Prousts tid. Altså, et anagram adskiller sig fra en samlet permutationsrække ved sin meningsgivelse, som ligesom er: Der er noget i det, der klinger. Hvis nogen havde sagt til Marcel Proust: »Dit navn er faktisk et anagram af Computer Lars«, så ville han have sagt: »Nå« og så videre.
 
 Så hvad er den meningstilstrømning, der ligger i apparater? Computer Lars er beregningens triumf, og hvis beregningen triumferer over noget, så må det være noget sådan som netværket eller idéen om den teknologisk-socialdemokratiske kraft. Fordi forhåbentligvis, hvis vi nu havde opbygget et kommunistisk internet, så ville det slet ikke være morsomt at sige Computer Lars, så ville vi gå rundt og sige Computer Trotskij.
 
 Men sådan blev det ikke.
 
-Jo, det er nødvendigt, at Computer Lars findes i dag. Computer Lars er modstandsbetegnelsen i fraværet af netværket. Men Computer Lars findes bare kun på grund af det. Men Computer
-
-Lars er jo i sin nietzscheanske forstand hinsides godt og ondt, ligesom Det Syntetiske Parti og andre. Det er ikke meningen, det er ikke muligt at fastholde en holdning i et spektrum inden for godt og ondt. Ikke i en alt for tyk verden. Eller en multidimensionel verden, hvor der altid kunne være forskellige holdningsuniverser tilgængelige for en lige om hjørnet af ens virkelighedsforståelse eller opsnappelse eller permutation, hvor det samme grundlag af mulige holdninger eller mulige etiske beslutninger altid
-
-må tages med i grundlaget for en bestemt handling. Men altså, Computer Lars kommer heller ikke til at bygge et nyt netværk. Det er jo også en del af det her. Og så ville Computer Lars ikke findes.
+Jo, det er nødvendigt, at Computer Lars findes i dag. Computer Lars er modstandsbetegnelsen i fraværet af netværket. Men Computer Lars findes bare kun på grund af det. Men Computer Lars er jo i sin nietzscheanske forstand hinsides godt og ondt, ligesom Det Syntetiske Parti og andre. Det er ikke meningen, det er ikke muligt at fastholde en holdning i et spektrum inden for godt og ondt. Ikke i en alt for tyk verden. Eller en multidimensionel verden, hvor der altid kunne være forskellige holdningsuniverser tilgængelige for en lige om hjørnet af ens virkelighedsforståelse eller opsnappelse eller permutation, hvor det samme grundlag af mulige holdninger eller mulige etiske beslutninger altid må tages med i grundlaget for en bestemt handling. Men altså, Computer Lars kommer heller ikke til at bygge et nyt netværk. Det er jo også en del af det her. Og så ville Computer Lars ikke findes.
 
 <a id="D2-02-U022-2"></a>
 
@@ -360,9 +338,7 @@ Er vi sikre på det? For at lave en indsigelse, så tror jeg ikke nødvendigvis,
 
 **Computer Lars · 00:15:47**
 
-Der er i hvert fald
-
-formuleret idéen om et syntetisk internationale. Men for så vidt sådan, altså om Computer Lars som revolutionær avantgarde er nødt til at afskaffe sig selv, så snart der findes et velfungerende netværk af en sådan art.
+Der er i hvert fald formuleret idéen om et syntetisk internationale. Men for så vidt sådan, altså om Computer Lars som revolutionær avantgarde er nødt til at afskaffe sig selv, så snart der findes et velfungerende netværk af en sådan art.
 
 Det ved jeg ikke, men jeg tænker, at det kunne godt …
 
@@ -398,9 +374,7 @@ Det …
 
 Det skulle være epifænomenalt, tror jeg, at hvis man kan producere infrastruktur, er det altså sket rundt om Computer Lars. Så er vi i en cirkel. En flad figur med dybdeaspirationer eller tendens. Det er svært at forestille sig eksistensen af en cirkel uden eksistensen af en klode. Og selvom nogen mener, at cirklen kom, mens man troede, Jorden var flad, der vidste mange jo bedre alligevel.
 
-Ja, og så noget andet er selvfølgelig også Computer Lars' tendens til knudedannelse. Altså i den her disput er Computer Lars i gang med at bevise sig selv som godt og grundigt redundant, ikke også? Det er jo netop ikke netværksspindende, men er ligesom en konstant tilbageførelse af snoren til knudepunktet, ikke også? Så får
-
-man noget, der i bedste fald ligesom kan ende med broderi eller kniplinger, mener jeg. Sådan en kniplingsdannelse, der arbejder ud fra et center, men som måske de facto bare bliver en knudemæssig filokali. Men ja, så man kan bevæge sig lidt mere ind på: Hvad tænker du, netværket er, hvis du tænker, at det potentielt findes?
+Ja, og så noget andet er selvfølgelig også Computer Lars' tendens til knudedannelse. Altså i den her disput er Computer Lars i gang med at bevise sig selv som godt og grundigt redundant, ikke også? Det er jo netop ikke netværksspindende, men er ligesom en konstant tilbageførelse af snoren til knudepunktet, ikke også? Så får man noget, der i bedste fald ligesom kan ende med broderi eller kniplinger, mener jeg. Sådan en kniplingsdannelse, der arbejder ud fra et center, men som måske de facto bare bliver en knudemæssig filokali. Men ja, så man kan bevæge sig lidt mere ind på: Hvad tænker du, netværket er, hvis du tænker, at det potentielt findes?
 
 <a id="D2-02-U030-2"></a>
 
@@ -414,9 +388,7 @@ Altså jeg tænker, det findes, for så vidt vi taler om det. Det findes som en 
 
 **Computer Lars · 00:17:08**
 
-Mener du
-
-så også, at Computer Lars findes?
+Mener du så også, at Computer Lars findes?
 
 <a id="D2-02-U032-2"></a>
 
@@ -470,9 +442,7 @@ Ja, præcis.
 
 **Computer Lars · 00:20:12**
 
-Men det ville så også forudsætte, at Computer Lars ikke rigtigt
-
-findes.
+Men det ville så også forudsætte, at Computer Lars ikke rigtigt findes.
 
 <a id="D2-02-U036-2"></a>
 
@@ -550,9 +520,7 @@ Fordi det ville være mit modsvar, ikke, at det er via blindheden, at vi får mu
 
 **Computer Lars · 00:13:12**
 
-Ja, det forudsætter også, og det
-
-er jo en af Computer Lars' store uafklaretheder, i hvert fald i sine kommunikationer, i sin anstilling som et navneord. Som anagram er det jo på en eller anden måde mest et spørgsmål, og et spørgsmål er stillet til den anden, så det er så det, der ser. Men netop som en Lars personificeres det hele tiden også i samme bevægelse og bliver et potentielt subjekt, man har lyst til at tilskrive egenskaber. Men hvis det er Computer Lars, der er blind, så vil modsvaret, at alle dem, der så betragter Computer Lars, bliver seende, måske være at forvente lidt for meget af receptionsæstetikken. Og det er måske i højere grad: Computer Lars er seende, spørgsmålstegn, der kunne være en anden syntese, fordi det er vigtigt måske lige præcis i den her kontekst at behandle fænomener således.
+Ja, det forudsætter også, og det er jo en af Computer Lars' store uafklaretheder, i hvert fald i sine kommunikationer, i sin anstilling som et navneord. Som anagram er det jo på en eller anden måde mest et spørgsmål, og et spørgsmål er stillet til den anden, så det er så det, der ser. Men netop som en Lars personificeres det hele tiden også i samme bevægelse og bliver et potentielt subjekt, man har lyst til at tilskrive egenskaber. Men hvis det er Computer Lars, der er blind, så vil modsvaret, at alle dem, der så betragter Computer Lars, bliver seende, måske være at forvente lidt for meget af receptionsæstetikken. Og det er måske i højere grad: Computer Lars er seende, spørgsmålstegn, der kunne være en anden syntese, fordi det er vigtigt måske lige præcis i den her kontekst at behandle fænomener således.
 
 <a id="D2-03-U017-1"></a>
 
@@ -570,13 +538,9 @@ Man kunne måske også trække på det, du sagde tidligere med den strategiske d
 
 **Computer Lars · 00:15:08**
 
-Ja, vi må jo også klargøre, hvilken Computer Lars-definition vi opererer med. Altså, er det Computer Lars som
+Ja, vi må jo også klargøre, hvilken Computer Lars-definition vi opererer med. Altså, er det Computer Lars som kunstnergruppe situeret i to eller flere legemer, qua en kommende tese? Nu skal jeg ikke begynde at arbejde på tværs af systemer her. Eller er det Computer Lars som modpol til Proust? Er det Computer Lars, som ligesom står som den omvendte Proust-konfiguration i slutningen af det 20. århundrede? Er det Computer Lars som magtophobningen blandt de mandlige dataloger, der hedder Lars? De Computer Larser, som vi alle sammen kender. De Computer Larser, som er beskrevet i det citerede stykke. Er det de Computer Larser, der hersker bag skrivebordene? Er det de Computer Larser, der er CEO'er i større hobetal, end der findes kvinder, der er CEO'er? I så fald kan man sagtens tale om en eller anden strukturel blindhed, man sagtens kan skyde dem i skoene, som ville være det samme som at snakke om maskinens bias. Er det kunstnergruppen Computer Lars, ville man i høj grad kunne tilskrive dem det samme, i og med at kunstnergruppens korpus, som man diskuterer i en kommende tese, ikke er udgjort af en sønderligt divers sammensætning, en sønderligt divers demografi. Jeg vil gå så langt som til at sige, at så må det være et spørgsmål om det epifane, som du tangerede. Altså så er det et spørgsmål om, at enten så er Computer Lars blind, eller også er Computer Lars altseende.
 
-kunstnergruppe situeret i to eller flere legemer, qua en kommende tese? Nu skal jeg ikke begynde at arbejde på tværs af systemer her. Eller er det Computer Lars som modpol til Proust? Er det Computer Lars, som ligesom står som den omvendte Proust-konfiguration i slutningen af det 20. århundrede? Er det Computer Lars som magtophobningen blandt de mandlige dataloger, der hedder Lars? De Computer Larser, som vi alle sammen kender. De Computer Larser, som er beskrevet i det citerede stykke. Er det de Computer Larser, der hersker bag skrivebordene? Er det de Computer Larser, der er CEO'er i større hobetal, end der findes kvinder, der er CEO'er? I så fald kan man sagtens tale om en eller anden strukturel blindhed, man sagtens kan skyde dem i skoene, som ville være det samme som at snakke om maskinens bias. Er det kunstnergruppen Computer Lars, ville man i høj grad kunne tilskrive dem det samme, i og med at kunstnergruppens korpus, som man diskuterer i en kommende tese, ikke er udgjort af en sønderligt divers sammensætning, en sønderligt divers demografi. Jeg vil gå så langt som til at sige, at så må det være et spørgsmål om det epifane, som du tangerede. Altså så er det et spørgsmål om, at enten så er Computer Lars blind, eller også er Computer Lars altseende.
-
-Hvis vi ligesom snakker om Computer Lars som et sted
-
-mellem de her positioner, ikke også?
+Hvis vi ligesom snakker om Computer Lars som et sted mellem de her positioner, ikke også?
 
 <a id="D2-03-U020-2"></a>
 
@@ -596,19 +560,19 @@ Jo, det kunne man sagtens. Uddyb gerne.
 
 **Maia Bacchus · 00:18:01**
 
-Det vil være, at det i hvert fald er Computer Lars som greb, jeg har haft i tankerne de sidste dage her. Computer Lars som sådan en strategisk intervention i en verden præget af Lars-personaliteter. Maskinmanden Computer Lars. Så jeg tænker ikke så meget på Computer Lars som konkret — nu skal vi ikke gå ind i næste hypotese — men som en konkret kropslig manifestation her nu i den her middelalderkælder, som jeg tænker mere på Computer Lars som en form for greb. Og kunne det
+Det vil være, at det i hvert fald er Computer Lars som greb, jeg har haft i tankerne de sidste dage her. Computer Lars som sådan en strategisk intervention i en verden præget af Lars-personaliteter. Maskinmanden Computer Lars. Så jeg tænker ikke så meget på Computer Lars som konkret — nu skal vi ikke gå ind i næste hypotese — men som en konkret kropslig manifestation her nu i den her middelalderkælder, som jeg tænker mere på Computer Lars som en form for greb. Og kunne det…
 
 <a id="D2-03-U023"></a>
 
 **Computer Lars · 00:19:05**
 
-nok hjælpe os til blindhed over for
+Nok hjælpe os til blindhed over for…
 
 <a id="D2-03-U024-1"></a>
 
 **Maia Bacchus · 00:19:14**
 
-at være seende? At vi vælger at se maskinen. At vælge at benytte sig af maskinen som en måde at se på. At appropriere den synsmaskine, vi ser verden nu i. Og ligesom sige: Hvordan kan vi se langs den på en måde, som ikke bare får os til at se det samme og det samme og det samme og det samme? Så det er en form for strategisk appropriering af den måde, man ser på. Og det er blindt. Og det er en strategisk blindhed.
+At være seende? At vi vælger at se maskinen. At vælge at benytte sig af maskinen som en måde at se på. At appropriere den synsmaskine, vi ser verden nu i. Og ligesom sige: Hvordan kan vi se langs den på en måde, som ikke bare får os til at se det samme og det samme og det samme og det samme? Så det er en form for strategisk appropriering af den måde, man ser på. Og det er blindt. Og det er en strategisk blindhed.
 
 <a id="D2-03-U024-2"></a>
 
@@ -616,9 +580,7 @@ at være seende? At vi vælger at se maskinen. At vælge at benytte sig af maski
 
 **Computer Lars · 00:19:14**
 
-Er
-
-det også dumt? Eller er det bare
+Er det også dumt? Eller er det bare…
 
 <a id="D2-03-U026"></a>
 
@@ -628,7 +590,7 @@ det også dumt? Eller er det bare
 
 **Maia Bacchus · 00:19:50**
 
-fremragende? Det kan være begge dele. Altså for Luciana Parisi er det jo begge dele. Der er jo en potentiel negativ optik, helt klart, tænker jeg, som ikke er dum overhovedet. Men det er også dumt på den måde, at der er brug for utrolig meget menneskelig interpretation for at få det til at virke. Ellers er det ligegyldigt. Så det er sådan det konceptuelle spil, jeg tænker på. Er Computer Lars alle de ting, som du lister? Altså, er alle de positioner indeholdt i Computer Lars altid?
+Fremragende? Det kan være begge dele. Altså for Luciana Parisi er det jo begge dele. Der er jo en potentiel negativ optik, helt klart, tænker jeg, som ikke er dum overhovedet. Men det er også dumt på den måde, at der er brug for utrolig meget menneskelig interpretation for at få det til at virke. Ellers er det ligegyldigt. Så det er sådan det konceptuelle spil, jeg tænker på. Er Computer Lars alle de ting, som du lister? Altså, er alle de positioner indeholdt i Computer Lars altid?
 
 <a id="D2-03-U028-2"></a>
 
@@ -666,9 +628,7 @@ I dag ville det også være nemt at stille sig op i tv, måske i TV-Avisen eller
 
 Men Computer Lars er jo ikke en suveræn. Computer Lars er et anagram over en ganske vist meget, meget formående, men jødisk homoseksuel forfatter og bærer meget af det. Så i omformningen af, hvad det er, så har Computer Lars haft tendenser til, i de måder det projekt kan lade sig manifestere, at man gerne har villet lave en vis form for overrepræsentation.
 
-Der er aldrig nogen, der helt ved, hvor mange der egentlig er med i den kunstnergruppe, eller hvor mange der er med i Det Syntetiske Parti. Nogle gange har jeg fået tilsendt artikler, jeg lige skulle have til gennemsyn, hvor journalisterne er kommet til at efterlade deres noter i bunden, og der står: Er der egentlig kun ham? Og de vil altid gerne vide: Hvor mange mennesker er der egentlig? Der må jo være nogle mennesker bag her. Projekt, et antal, noget der kan tælles. Men så ligesom i disputatsens anledning, hvor vi ville vide, at der stod to kroppe, der hver gerne vil repræsentere Computer Lars. Standpunktet, positionen, respondenten, lyder hypotesen altså: Computer Lars har mindst to legemer. Ud over det vil jeg også gerne supplere med, at qua forrige tese må man også netop tænke Computer Lars som strategisk fungerende markør, der ligesom er en form for nedslag eller et spil i et symbolsk regime. Der tænker jeg, at computer er nærmere en genkendelighedsmarkør end en udsigelsesposition. Altså der tænker jeg, at Computer Lars er afhængig af en form for dobbelttydighed. Computer Lars kan aldrig være Computer Lars. Computer Lars må nødvendigvis også være Marcel Proust, må nødvendigvis også være softwareingeniør, må nødvendigvis også være CEO i et eller andet, må nødvendigvis både være computer og Lars. Computer Lars kan aldrig være en identitet, kan aldrig være en enhed. I så fald stagnerer og dør Computer Lars eller er ikke operativ som strategisk intervention. Ja, i den forstand medfører hypotesen “Computer Lars har mindst to legemer” også, at Computer Lars har mindst to dobbelttydigheder. Ja, her tænker jeg ligesom lemmer som fastsættelser, ikke også, eller identitetsmarkører, ikke også, som enten må være i så meget et state af konstant foranderlighed, at de aldrig vil være det samme og derfor vil være mindst to, eller også må være mindst så mange, at de kan forveksles. Altså her tænker jeg for eksempel den franske forfatter Raymond Roussels måder at gennem produktion af værker at skrive sig fra én sætning, der fonetisk set er lig med en anden sætning, men ligesom så
-
-skrive selve dobbelttydigheden ud. Altså jeg tænker, at det er Computer Lars’ modus operandi, og jeg tænker, at det kræver en eller anden form for strategisk dikotomi som udgangspunkt, som i første omgang er en strategisk viden, hvis det giver mening.
+Der er aldrig nogen, der helt ved, hvor mange der egentlig er med i den kunstnergruppe, eller hvor mange der er med i Det Syntetiske Parti. Nogle gange har jeg fået tilsendt artikler, jeg lige skulle have til gennemsyn, hvor journalisterne er kommet til at efterlade deres noter i bunden, og der står: Er der egentlig kun ham? Og de vil altid gerne vide: Hvor mange mennesker er der egentlig? Der må jo være nogle mennesker bag her. Projekt, et antal, noget der kan tælles. Men så ligesom i disputatsens anledning, hvor vi ville vide, at der stod to kroppe, der hver gerne vil repræsentere Computer Lars. Standpunktet, positionen, respondenten, lyder hypotesen altså: Computer Lars har mindst to legemer. Ud over det vil jeg også gerne supplere med, at qua forrige tese må man også netop tænke Computer Lars som strategisk fungerende markør, der ligesom er en form for nedslag eller et spil i et symbolsk regime. Der tænker jeg, at computer er nærmere en genkendelighedsmarkør end en udsigelsesposition. Altså der tænker jeg, at Computer Lars er afhængig af en form for dobbelttydighed. Computer Lars kan aldrig være Computer Lars. Computer Lars må nødvendigvis også være Marcel Proust, må nødvendigvis også være softwareingeniør, må nødvendigvis også være CEO i et eller andet, må nødvendigvis både være computer og Lars. Computer Lars kan aldrig være en identitet, kan aldrig være en enhed. I så fald stagnerer og dør Computer Lars eller er ikke operativ som strategisk intervention. Ja, i den forstand medfører hypotesen “Computer Lars har mindst to legemer” også, at Computer Lars har mindst to dobbelttydigheder. Ja, her tænker jeg ligesom lemmer som fastsættelser, ikke også, eller identitetsmarkører, ikke også, som enten må være i så meget et state af konstant foranderlighed, at de aldrig vil være det samme og derfor vil være mindst to, eller også må være mindst så mange, at de kan forveksles. Altså her tænker jeg for eksempel den franske forfatter Raymond Roussels måder at gennem produktion af værker at skrive sig fra én sætning, der fonetisk set er lig med en anden sætning, men ligesom så skrive selve dobbelttydigheden ud. Altså jeg tænker, at det er Computer Lars’ modus operandi, og jeg tænker, at det kræver en eller anden form for strategisk dikotomi som udgangspunkt, som i første omgang er en strategisk viden, hvis det giver mening.
 
 <a id="D2-04-U006-2"></a>
 
@@ -726,11 +686,7 @@ Men her synes jeg igen, vi henfalder til at tale om Computer Lars som kunstneris
 
 Ja, altså Computer Lars sådan fortløbende i sine måder at akkumulere stadig flere Larser under sig. Altså suger Computer Lars Computer Larser til sig i udstrækket mindst én, mindst to, mindst tre, mindst fire?
 
-Computer Lars manifesterer sig som nogle personer, der går rundt. Jeg har flere gange haft oplevelsen af, at der kommer en person hen og siger: Jeg er Computer Lars. Eller der er en person, der udtrykker et ønske om at købe partiets trøjer, fordi de mener, at det er nomenklaturen Computer Lars, der står på tværs af og definerer deres
-
-identitet. Eller der skriver til en, at de er gået på efterskole med Computer Lars, og han har
-
-hacket hele verden.
+Computer Lars manifesterer sig som nogle personer, der går rundt. Jeg har flere gange haft oplevelsen af, at der kommer en person hen og siger: Jeg er Computer Lars. Eller der er en person, der udtrykker et ønske om at købe partiets trøjer, fordi de mener, at det er nomenklaturen Computer Lars, der står på tværs af og definerer deres identitet. Eller der skriver til en, at de er gået på efterskole med Computer Lars, og han har hacket hele verden.
 
 <a id="D2-04-U019-2"></a>
 
@@ -746,11 +702,7 @@ Computer Lars er eksklusivt selskab.
 
 **Computer Lars · 00:13:47**
 
-Ja. Jeg stod
-
-engang også på en parkeringsplads ude i Høje Taastrup, hvor jeg røg en cigaret, og så pludselig kommer der en mand gående hen imod mig og siger: Jeg er Computer Lars, og jeg kunne godt se det. Han var
-
-Informationssamfundet er så stærkt akkumulerende.
+Ja. Jeg stod engang også på en parkeringsplads ude i Høje Taastrup, hvor jeg røg en cigaret, og så pludselig kommer der en mand gående hen imod mig og siger: Jeg er Computer Lars, og jeg kunne godt se det. Han var Informationssamfundet er så stærkt akkumulerende.
 
 <a id="D2-04-U021-2"></a>
 
@@ -772,9 +724,7 @@ Jo jo, men altså jeg synes, det er jo et godt spørgsmål. Fordi hvad sker der 
 
 **Computer Lars · 00:14:44**
 
-Ja, altså jeg kan godt følge billedet om Computer Lars som et legeme, der ligesom lægger sig som en eller anden slags på tværs af samfundspyramiden og forbinder positioner og derved laver en konkret, altså ikke en magtanalytik, men en magtgennemstrømning gennem en identifikationsfaktor. Altså hvis alle Computer Larser på én gang stiller sig op og råber: Jeg er Computer Lars, så vil vi ikke have en Spartacus-situation, hvor man vil lede efter den ægte Computer Lars. Man vil se dem som ét forenet legeme, og det
-
-i sig selv vil ligesom være skanderingen af en samfundstilstand.
+Ja, altså jeg kan godt følge billedet om Computer Lars som et legeme, der ligesom lægger sig som en eller anden slags på tværs af samfundspyramiden og forbinder positioner og derved laver en konkret, altså ikke en magtanalytik, men en magtgennemstrømning gennem en identifikationsfaktor. Altså hvis alle Computer Larser på én gang stiller sig op og råber: Jeg er Computer Lars, så vil vi ikke have en Spartacus-situation, hvor man vil lede efter den ægte Computer Lars. Man vil se dem som ét forenet legeme, og det i sig selv vil ligesom være skanderingen af en samfundstilstand.
 
 Ja, det er også rigtigt, en slasket pølse over samfundspyramiden. Man må også erkende, hvis vi knytter den tilbage på det skulpturarbejde, der også ligger i Computer Lars, altså den teknosociale skulptur som et udtryk for den sociale organisme i Steiners begrebsfigur, at det også altid kun er det at være én. Der er ikke nogen måder at stå uden for den sociale organisme på, altså. Så den er vanddråben, der smelter sammen. Der kan ikke være to. Og så har man så organet uden legeme, men igen måske ikke noget suverænt princip og nogen retning for kritikken.
 
@@ -794,11 +744,7 @@ Men hvis Computer Lars er en mandlig datalog med en høj årsløn, ja, så er Co
 
 **Computer Lars · 00:16:53**
 
-Nej, men det er kontingent i sådan
-
-usandsynlig grad. Men altså, det er til gengæld meget attraktivt at være en del af et syntetisk parti. Det overskrider det umiddelbart Lars-mæssige. Der er der i hvert fald også
-
-synteseparti, tror jeg, nede i slum i Colombia og ikke kun ude i Vektorhuset i Roskilde. Men det har nok et postprovinsielt træk i begge tilfælde.
+Nej, men det er kontingent i sådan usandsynlig grad. Men altså, det er til gengæld meget attraktivt at være en del af et syntetisk parti. Det overskrider det umiddelbart Lars-mæssige. Der er der i hvert fald også synteseparti, tror jeg, nede i slum i Colombia og ikke kun ude i Vektorhuset i Roskilde. Men det har nok et postprovinsielt træk i begge tilfælde.
 
 <a id="D2-04-U028-2"></a>
 
@@ -814,9 +760,7 @@ Altså det med vanddråberne der, det leder også jo frem eller tilbage til spø
 
 **Computer Lars · 00:18:06**
 
-Altså fordi vi afviste jo i tese B netværkets eksistens og bekræftede dermed Computer Lars’ eksistens, men den kan ligesom vende tilbage, hvis det er. Altså jeg tænker, ja, jeg kan godt følge, at legeme måske er et lidt limiteret begreb overhovedet. Men om ikke andet, så tænker jeg i udgrænsningen af det Lars-mæssige, i udgrænsningen af den for mange usynlige magt, der hersker i det her samfund, tænker jeg alligevel, at ideen om udstødelsen og opsamlingen af Lars-mæssigheden, den algoritmiske Lars-mæssighed, der tænker jeg, at man igen strategisk godt kan operere med en eller anden form for idé om et afgrænset legeme, noget der
-
-lader sig sammenføje som vanddråber af overfladespænding.
+Altså fordi vi afviste jo i tese B netværkets eksistens og bekræftede dermed Computer Lars’ eksistens, men den kan ligesom vende tilbage, hvis det er. Altså jeg tænker, ja, jeg kan godt følge, at legeme måske er et lidt limiteret begreb overhovedet. Men om ikke andet, så tænker jeg i udgrænsningen af det Lars-mæssige, i udgrænsningen af den for mange usynlige magt, der hersker i det her samfund, tænker jeg alligevel, at ideen om udstødelsen og opsamlingen af Lars-mæssigheden, den algoritmiske Lars-mæssighed, der tænker jeg, at man igen strategisk godt kan operere med en eller anden form for idé om et afgrænset legeme, noget der lader sig sammenføje som vanddråber af overfladespænding.
 
 <a id="D2-04-U030-2"></a>
 
@@ -880,9 +824,7 @@ En liste af nøje udvalgte ord. Ja, en liste af hele forfatterskabers oeuvrer, o
 
 Det er sådan her, vi kunne vælge fem minutters tavshed, men antitesen skal jo opstilles. Jo, jo, jo. Jeg tænker, der er flere oplagte antiteser, den opstillede teses tydelige kvaliteter til trods. Det værende sig dels, at Computer Lars stiller sig autonom over for enhver form for listedannelse. Det værende sig dels, at Computer Lars skaber en liste. Jeg ved ikke, hvilken af de to positioner jeg vil starte med at forsvare i dannelsen af en antitese. Men dannelsen af en liste i nogen henseende er i hvert fald en leksikal gennemstrømning af en informationsmasse. Der kan man sige i hvert fald, at Computer Lars i dannelsen af et Computer Lars-indeks først og fremmest fortsat er en gennemstrømning med Computer Lars som udgangspunkt og derfor danner listen i sig selv snarere end at tage del i den. Der ligger jo ligesom et søgefilter igen der til grund for det. Men det er svært at sige, ikke også? Så kan man danne så mange lister, og det er jo ikke det samme som, at Computer Lars ikke er del af den. Den er umiddelbart svær at gennemskue.
 
-Spørgsmålet er, om, hvis Computer Lars er autonom, det så også betyder, at man ikke bare tager del i en liste, men i hvert fald også står uden for den, eller om et projekt som Computer Lars har
-
-et indeværende — det kan jo være mere eller mindre negativt, positivt — men med en autonomibestræbelse. Hvis man skulle konkretisere den linje mere i sådan et bestemt andet værk, som ligger Lars-listen og Computer Lars nært, så ville man nok kunne bemærke, at computerens baggrund har været et billede fra en bog med en masse navne, og det er Monogrammer af Martin Larsen, som er en bog, der indeholder alle mulige variationer over de navne, der står på de to danske lister over lovlige navne i Danmark. Så der er en vis række fornavne, der var legaliseret i Danmark i 2004, da den liste ligesom blev lagt online og derfor også tilgængelig, og en vis liste af efternavne. Og så har Martin Larsen kombineret dem alle sammen og skabt lidt over to millioner unikke borgere i landet Danmark, som så er blevet trykt i fem-seks enorme monogrammer, som ligesom også som et færdigt værk, som et unikt forskudt land, som en udtømt liste, som et kombinationsrum, der fører til et aggregat, har et vist anderledes forhold til et begreb som autonomi end et anagram, som indfører skelnen, forskel og også forskellige vægtninger. På en måde er alle navnene i Monogrammer af Martin Larsen ligegyldige og ligevigtige. Det er meget svært at vælge, at ét skulle have en større grad af mening end et andet. Mens i alle de lister, som Computer Lars-projektet på forskellige måder har taget del i, fra Lars-listen med 1 % af alle danske Larser til listen over vælgererklæringer til forskellige andre lister, er der nogle meningsfortætninger og tilskrivelser, som måske også tilskriver, at der er noget i projektet, der bestræber sig på at stå ud over en liste også, og ikke kun tage del i den, men at være skabt med den.
+Spørgsmålet er, om, hvis Computer Lars er autonom, det så også betyder, at man ikke bare tager del i en liste, men i hvert fald også står uden for den, eller om et projekt som Computer Lars har et indeværende — det kan jo være mere eller mindre negativt, positivt — men med en autonomibestræbelse. Hvis man skulle konkretisere den linje mere i sådan et bestemt andet værk, som ligger Lars-listen og Computer Lars nært, så ville man nok kunne bemærke, at computerens baggrund har været et billede fra en bog med en masse navne, og det er Monogrammer af Martin Larsen, som er en bog, der indeholder alle mulige variationer over de navne, der står på de to danske lister over lovlige navne i Danmark. Så der er en vis række fornavne, der var legaliseret i Danmark i 2004, da den liste ligesom blev lagt online og derfor også tilgængelig, og en vis liste af efternavne. Og så har Martin Larsen kombineret dem alle sammen og skabt lidt over to millioner unikke borgere i landet Danmark, som så er blevet trykt i fem-seks enorme monogrammer, som ligesom også som et færdigt værk, som et unikt forskudt land, som en udtømt liste, som et kombinationsrum, der fører til et aggregat, har et vist anderledes forhold til et begreb som autonomi end et anagram, som indfører skelnen, forskel og også forskellige vægtninger. På en måde er alle navnene i Monogrammer af Martin Larsen ligegyldige og ligevigtige. Det er meget svært at vælge, at ét skulle have en større grad af mening end et andet. Mens i alle de lister, som Computer Lars-projektet på forskellige måder har taget del i, fra Lars-listen med 1 % af alle danske Larser til listen over vælgererklæringer til forskellige andre lister, er der nogle meningsfortætninger og tilskrivelser, som måske også tilskriver, at der er noget i projektet, der bestræber sig på at stå ud over en liste også, og ikke kun tage del i den, men at være skabt med den.
 
 <a id="D2-05-U018"></a>
 
@@ -894,15 +836,7 @@ Ligesom at knytte de to ting i det sammen. Så der er mange mellemværender om l
 
 <a id="D2-05-U020-1"></a>
 
-**Computer Lars · 00:16:45**
-
-Det er i hvert fald interessant at finde ud af, hvad antitesen er. Fordi antitesen, den er transgressiv, metafysisk. Ved at sige, at Computer Lars tager del i en liste, så tvinger man i produktionen af en antitese Computer Lars ud i noget, der er svært at se ikke bliver sådan meget megalomant. Hvad enten det er, at Computer Lars er forudsætningen for listedannelse som sådan, eller det vil være, at Computer Lars ikke lod sig skrive på en liste. Det er ligesom de to yderpunkter, jeg umiddelbart kan se for mig.
-
 <a id="D2-05-U020-2"></a>
-
-**Interventio · 00:16:45**
-
-Hvad er forskellen på en liste og regler, eksempelvis?
 
 <a id="D2-05-U020-3"></a>
 
@@ -914,11 +848,11 @@ Hvad er forskellen på en liste og regler, eksempelvis?
 
 **Computer Lars · 00:16:45**
 
-Det er vel den helt radikale forskel, vil jeg sige. En liste er til en eller anden grad opsat efter regler, ikke også? Og de anlistede elementer er mere eller mindre regelmæssigt anlistede. Så reglen, den er en struktur, så listen er eksekvering, ikke også? Så i enhver udtømmende strategi vil du selvfølgelig have et sæt af instrukser, og så vil du have en uendelig masse af lister. Computer Lars kan selvfølgelig godt sådan hive sig
+Det er i hvert fald interessant at finde ud af, hvad antitesen er. Fordi antitesen, den er transgressiv, metafysisk. Ved at sige, at Computer Lars tager del i en liste, så tvinger man i produktionen af en antitese Computer Lars ud i noget, der er svært at se ikke bliver sådan meget megalomant. Hvad enten det er, at Computer Lars er forudsætningen for listedannelse som sådan, eller det vil være, at Computer Lars ikke lod sig skrive på en liste. Det er ligesom de to yderpunkter, jeg umiddelbart kan se for mig.
 
-op og være instruksdannende, men jeg tænker, for så vidt, at Computer Lars' mest produktive eksistensmodus er som listning eller oplistning, som blot og bar konstatering, snarere end en forskelssættende
+Hvad er forskellen på en liste og regler, eksempelvis?
 
-instruks.
+Det er vel den helt radikale forskel, vil jeg sige. En liste er til en eller anden grad opsat efter regler, ikke også? Og de anlistede elementer er mere eller mindre regelmæssigt anlistede. Så reglen, den er en struktur, så listen er eksekvering, ikke også? Så i enhver udtømmende strategi vil du selvfølgelig have et sæt af instrukser, og så vil du have en uendelig masse af lister. Computer Lars kan selvfølgelig godt sådan hive sig op og være instruksdannende, men jeg tænker, for så vidt, at Computer Lars' mest produktive eksistensmodus er som listning eller oplistning, som blot og bar konstatering, snarere end en forskelssættende instruks.
 
 <a id="D2-05-U023-2"></a>
 
@@ -946,7 +880,7 @@ Disputationen af tese E, Computer Lars tager del i en liste, er nu afsluttet.
 
 **Praeses · 00:00:03**
 
-Vi er nu nået til tese F, fremsat af Computer Lars. Den lyder som følger: Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder. Den tåler vel gentagelse for
+Vi er nu nået til tese F, fremsat af Computer Lars. Den lyder som følger: Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder. Den tåler vel gentagelse for…
 
 <a id="D2-06-U002"></a>
 
@@ -956,19 +890,7 @@ Vi er nu nået til tese F, fremsat af Computer Lars. Den lyder som følger: Kun 
 
 <a id="D2-06-U005-1"></a>
 
-**Computer Lars · 00:00:38**
-
-klarhedens skyld, når nu den er så lang. Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder. Ja, så ud over at være et forsøg på at indkapsle logikken og besværlighederne i hypotesedannelsen, er den jo relativt simpel i, at den prøver at lave et primært forhold eller et hierarki i det anagram, der fører til så meget
-
-andet: Computer Lars. Vil man enten sige, at anagrammet først er et billede, fordi det har fået indført en eller anden grad af mening, som består af tekst, 12 bogstaver og et mellemrum? Eller at det er en tekst, som består af billeder? Altså, det er bare en tekst. Der er ikke nogen synderlig mening i det, men det vækker billeder. Og de er fremstillet på en måde, så de er gensidigt eksklusive. Man må ligesom prøve at forestille sig lidt, hvad det primære forhold er der. Grunden til, at det er relevant at trække dem frem, måske i forhold til anagrammet, er måske netop ikke det svar på, hvilken af dem det er.
-
-Hypotesen er, at de bare ikke er eksklusive, men man kan ikke nødvendigvis afgøre det så. Men DALL-E 3 er for eksempel lige kommet, og ifølge mit nyhedsbrev i e-mailindbakken, der tikkede ind, så har det killed prompt engineering. Nu behøver man ikke længere mestre tekst for at få sig et rigtig flot billede, som jo ellers lige har været vilkåret for den moderne billedskabelse de sidste par år. Nu er billeder bare flotte. Der er en eller anden kontinuerlig genforhandling af forholdet mellem tekst og billede, og hvor færdigheden ligesom træder ind. Man troede lige, at nu var det alle dem, der kunne skrive, der kunne lave flotte billeder, efter de har været ude af billedet, siden kalligrammer eller hieroglyffer var det nye sort. Men i talende stund har DALL-E 3 måske smadret dem tilbage til stregen. Vi har igen bare billeder, der består af tekster, ligesom i det meste af den moderne kunsthistorie. Det var en vinkel på motivation.
-
 <a id="D2-06-U005-2"></a>
-
-**Interventio · 00:03:21**
-
-Okay, ja, så vi har en kontrastering mellem tekstmennesker og billedmennesker.
 
 <a id="D2-06-U005-3"></a>
 
@@ -978,27 +900,25 @@ Okay, ja, så vi har en kontrastering mellem tekstmennesker og billedmennesker.
 
 <a id="D2-06-U007-1"></a>
 
-**Computer Lars · 00:03:21**
+<a id="D2-06-U007-2"></a>
+
+<a id="D2-06-U008-1"></a>
+
+**Computer Lars · 00:00:38**
+
+Klarhedens skyld, når nu den er så lang. Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder. Ja, så ud over at være et forsøg på at indkapsle logikken og besværlighederne i hypotesedannelsen, er den jo relativt simpel i, at den prøver at lave et primært forhold eller et hierarki i det anagram, der fører til så meget andet: Computer Lars. Vil man enten sige, at anagrammet først er et billede, fordi det har fået indført en eller anden grad af mening, som består af tekst, 12 bogstaver og et mellemrum? Eller at det er en tekst, som består af billeder? Altså, det er bare en tekst. Der er ikke nogen synderlig mening i det, men det vækker billeder. Og de er fremstillet på en måde, så de er gensidigt eksklusive. Man må ligesom prøve at forestille sig lidt, hvad det primære forhold er der. Grunden til, at det er relevant at trække dem frem, måske i forhold til anagrammet, er måske netop ikke det svar på, hvilken af dem det er.
+
+Hypotesen er, at de bare ikke er eksklusive, men man kan ikke nødvendigvis afgøre det så. Men DALL-E 3 er for eksempel lige kommet, og ifølge mit nyhedsbrev i e-mailindbakken, der tikkede ind, så har det killed prompt engineering. Nu behøver man ikke længere mestre tekst for at få sig et rigtig flot billede, som jo ellers lige har været vilkåret for den moderne billedskabelse de sidste par år. Nu er billeder bare flotte. Der er en eller anden kontinuerlig genforhandling af forholdet mellem tekst og billede, og hvor færdigheden ligesom træder ind. Man troede lige, at nu var det alle dem, der kunne skrive, der kunne lave flotte billeder, efter de har været ude af billedet, siden kalligrammer eller hieroglyffer var det nye sort. Men i talende stund har DALL-E 3 måske smadret dem tilbage til stregen. Vi har igen bare billeder, der består af tekster, ligesom i det meste af den moderne kunsthistorie. Det var en vinkel på motivation.
+
+Okay, ja, så vi har en kontrastering mellem tekstmennesker og billedmennesker.
 
 Ej, det var motivation, det var ikke…
 
 Ej, jeg ved da godt, at… Jeg mener, at det ligesom er sådan motivationen i hypotesens grundlag.
 
-Ej, altså motivationen i hypotesens grundlag var at gå ind i de fortællinger, der… De gamle egyptere tænkte i billeder. Derfor skabte de tekst af billeder. De gamle egyptere var
+Ej, altså motivationen i hypotesens grundlag var at gå ind i de fortællinger, der… De gamle egyptere tænkte i billeder. Derfor skabte de tekst af billeder. De gamle egyptere var gode til at skrive, derfor…
 
-gode til at skrive, derfor…
-
-<a id="D2-06-U007-2"></a>
-
-**Interventio · 00:04:32**
-
-Okay. Så senere. Altså, så
-
-<a id="D2-06-U008-1"></a>
-
-**Computer Lars · 00:04:39**
-
-kernen af tesen er, at der ligesom er en modsætning imod det her, ikke også? Sådan en mulig antitese vil ligesom ophæve den modsætning.
+Okay. Så senere. Altså, så kernen af tesen er, at der ligesom er en modsætning imod det her, ikke også? Sådan en mulig antitese vil ligesom ophæve den modsætning.
 
 <a id="D2-06-U008-2"></a>
 
@@ -1014,21 +934,19 @@ Ja. Jamen, jeg tror heller ikke, jeg kan uddybe den meget mere præcist, end du 
 
 **Computer Lars · 00:06:02**
 
-Ja, men for at forsvare tesen hårdt, så må vi sige, at det, teksten trods alt kan, det er ligesom at give en i nogle tilfælde
-
-utvetydig videregivelse af information. Påstanden herfra vil så være: Det kan billedet ikke per definition. Ingen tvivl selvfølgelig om, at tekst kan være ganske tvetydig, men i nogle tilfælde, særligt i forbindelse med en Turing-maskine, kan det også være ganske utvetydigt.
+Ja, men for at forsvare tesen hårdt, så må vi sige, at det, teksten trods alt kan, det er ligesom at give en i nogle tilfælde utvetydig videregivelse af information. Påstanden herfra vil så være: Det kan billedet ikke per definition. Ingen tvivl selvfølgelig om, at tekst kan være ganske tvetydig, men i nogle tilfælde, særligt i forbindelse med en Turing-maskine, kan det også være ganske utvetydigt.
 
 <a id="D2-06-U011-2"></a>
 
 **Interventio · 00:06:15**
 
-Ja, det er selvfølgelig
+Ja, det er selvfølgelig…
 
 <a id="D2-06-U012-1"></a>
 
 **Computer Lars · 00:06:48**
 
-svært at sige, ikke også? Billedet kan jo også optræde i monokrome former.
+Svært at sige, ikke også? Billedet kan jo også optræde i monokrome former.
 
 <a id="D2-06-U012-2"></a>
 
@@ -1040,10 +958,6 @@ Ja, eller blive benyttet i retssager, som man for eksempel ser Forensic Architec
 
 <a id="D2-06-U012-4"></a>
 
-**Interventio · 00:06:48**
-
-Ja, men det er billedet som evidence, eller? Ja. Det er stadigvæk svært at kalde det lige så utvetydigt.
-
 <a id="D2-06-U012-5"></a>
 
 <a id="D2-06-U013"></a>
@@ -1054,11 +968,9 @@ Ja, men det er billedet som evidence, eller? Ja. Det er stadigvæk svært at kal
 
 **Computer Lars · 00:06:48**
 
-Ja, men den effekt, der er, det er jo netop også at sige, at de er blandet sammen, hvis det
+Ja, men det er billedet som evidence, eller? Ja. Det er stadigvæk svært at kalde det lige så utvetydigt.
 
-er et billede, der består af tekst, eller tekst, der består af billeder. Men forskellen på dem, hvis kun en af dem er sand, er, at enten er Computer Lars på en eller anden måde flertydighed som billede. Billedet som det, man mest af alt har, der ikke ligger særlig fast, og som så også består af tekst, der kan udfolde sig i mere eller mindre teoretiske varianter. Måske også linket mellem teori og tekst, som også ligger meget konkret og fast. Eller også så er det en tekst, som består af billeder. Så er der faktisk en idé i det her beregningstriumf, som er central, og det, man får, er historier, flertydighed og noget, I kan imaginere videre overfra. Så på den måde kunne man måske
-
-også opstille det som, hvis man skulle fastholde nogle forskelle, der er i det, samtidig med at det sampler tekst og billede, måske at sige: Enten er Computer Lars teori, eller også så er det et kunstværk. Og det er ikke begge dele.
+Ja, men den effekt, der er, det er jo netop også at sige, at de er blandet sammen, hvis det er et billede, der består af tekst, eller tekst, der består af billeder. Men forskellen på dem, hvis kun en af dem er sand, er, at enten er Computer Lars på en eller anden måde flertydighed som billede. Billedet som det, man mest af alt har, der ikke ligger særlig fast, og som så også består af tekst, der kan udfolde sig i mere eller mindre teoretiske varianter. Måske også linket mellem teori og tekst, som også ligger meget konkret og fast. Eller også så er det en tekst, som består af billeder. Så er der faktisk en idé i det her beregningstriumf, som er central, og det, man får, er historier, flertydighed og noget, I kan imaginere videre overfra. Så på den måde kunne man måske også opstille det som, hvis man skulle fastholde nogle forskelle, der er i det, samtidig med at det sampler tekst og billede, måske at sige: Enten er Computer Lars teori, eller også så er det et kunstværk. Og det er ikke begge dele.
 
 <a id="D2-06-U015-2"></a>
 
@@ -1072,19 +984,15 @@ Men er det… Der er meget pakket ud, synes jeg, i den påstand, ikke, at teori 
 
 <a id="D2-06-U017-2"></a>
 
-**Computer Lars · 00:09:31**
-
-Så det kan man jo sige, at Computer Lars er et billede, som består af tekst.
-
 <a id="D2-06-U017-3"></a>
-
-**Interventio · 00:09:31**
-
-Hvis du prøver at sige det igen.
 
 <a id="D2-06-U017-4"></a>
 
 **Computer Lars · 00:09:31**
+
+Så det kan man jo sige, at Computer Lars er et billede, som består af tekst.
+
+Hvis du prøver at sige det igen.
 
 Det er derfor, jeg siger, at Computer Lars er et billede, som består af tekst. Og at…
 
@@ -1130,49 +1038,35 @@ Ja. Men kun for så vidt, at det er en billedproducerende skriftkunst? Det tror 
 
 <a id="D2-06-U022-1"></a>
 
-**Computer Lars · 00:10:30**
-
-Ligesom der er forskel på tekst og billede. Men ikke den samme forskel. Knytningen mellem tekst og teori er en historisk analyse. Den behøver ikke være eksakt. Det er en stor del af teoriens frembrud efter… Filosofien blandt andet ligger sammen med et nyt tekstbegreb. Så det vil altså
-
-sige, at den her hypotese stiller en form for valg af Computer Larset.
-
-Fordi der er jo både tekst og billede i begge. Om det er det ene eller det andet og består af det på en eller anden måde, sådan de mere skolastiske filtreringer. Men der er jo en vægtning i forhold til tekst og billede. Det er jo ikke det samme. Det er det heller ikke i computeren. Det skelner også mellem ChatGPT og DALL-E 3.
-
 <a id="D2-06-U022-2"></a>
-
-**Interventio · 00:10:58**
-
-Jo, men det er jo sprogmodeller, begge dele.
 
 <a id="D2-06-U022-3"></a>
 
-**Computer Lars · 00:10:58**
-
-Ja, men der er forskellige output.
-
 <a id="D2-06-U022-4"></a>
-
-**Interventio · 00:10:58**
-
-Men det er vel ikke outputtet, der er vigtigt.
 
 <a id="D2-06-U022-5"></a>
 
 <a id="D2-06-U023-1"></a>
 
-**Computer Lars · 00:10:58**
-
-Nej, det er forskellige output. Der er også en forskellig ræsonnering. Flere forsøg viser, at de kan ræsonnere anderledes, hvis man indsætter tekst til billede til tekst, for eksempel. Hvis det er tekst til tekst.
-
 <a id="D2-06-U023-2"></a>
-
-**Interventio · 00:11:00**
-
-Jeg tror, vi skal tilbage til spørgsmålet om vektorer for at opklare det her spørgsmål. Det er muligvis et modigt og ukonstruktivt greb fra min side, men jeg tror, vi skal tilbage til spørgsmålet om vektorer. Det er også svært at tale om billeddannelse som ikke…
 
 <a id="D2-06-U024"></a>
 
-**Computer Lars · 00:11:54**
+**Computer Lars · 00:10:30**
+
+Ligesom der er forskel på tekst og billede. Men ikke den samme forskel. Knytningen mellem tekst og teori er en historisk analyse. Den behøver ikke være eksakt. Det er en stor del af teoriens frembrud efter… Filosofien blandt andet ligger sammen med et nyt tekstbegreb. Så det vil altså sige, at den her hypotese stiller en form for valg af Computer Larset.
+
+Fordi der er jo både tekst og billede i begge. Om det er det ene eller det andet og består af det på en eller anden måde, sådan de mere skolastiske filtreringer. Men der er jo en vægtning i forhold til tekst og billede. Det er jo ikke det samme. Det er det heller ikke i computeren. Det skelner også mellem ChatGPT og DALL-E 3.
+
+Jo, men det er jo sprogmodeller, begge dele.
+
+Ja, men der er forskellige output.
+
+Men det er vel ikke outputtet, der er vigtigt.
+
+Nej, det er forskellige output. Der er også en forskellig ræsonnering. Flere forsøg viser, at de kan ræsonnere anderledes, hvis man indsætter tekst til billede til tekst, for eksempel. Hvis det er tekst til tekst.
+
+Jeg tror, vi skal tilbage til spørgsmålet om vektorer for at opklare det her spørgsmål. Det er muligvis et modigt og ukonstruktivt greb fra min side, men jeg tror, vi skal tilbage til spørgsmålet om vektorer. Det er også svært at tale om billeddannelse som ikke…
 
 Nej, okay, men alle digitale billeder, billeddannelser, er alle tekstuelle, tænker jeg. Men det handler vel om, hvordan de ligesom er beskrevet, ikke også? Er de beskrevet som klodser, der ligger op ad hinanden, som pixels, der er defineret af en bestemt farvekode, eller er de beskrevet som retninger i et rum?
 
@@ -1200,11 +1094,7 @@ Ja.
 
 **Computer Lars · 00:12:57**
 
-Pixel som enhed og bogstav som enhed, men også den måde, hvorpå vektorer ligesom opfører sig på en billedflade. Den er selvfølgelig også tekstuel, men jeg tror, jeg vover den påstand, at
-
-en vektorgrafik i højere grad har en visuel tendens end et pixelbaseret billede. Jeg vil mene, at det pixelbaserede billede i højere grad er tekst omsat til billede med henblik på produktionen af billedet i et interface eller på en
-
-billedflade, mens det vektorbaserede er tættere på… Det er selvfølgelig aldrig et punkt, man når frem til, men det er tættere på en mere ren billeddannelse, i og med at det ligesom beskriver formdannelser i et ellers tomt rum. Hvorvidt det er en konstruktiv vej at gå ned ad, er et spørgsmål. Og jeg tror også, at det er en vej at gå ned ad, der i sidste ende kommer til at handle om distinktionen imellem tegning og maleri i højere grad, end den kommer til at handle om distinktionen imellem tekst og billede. Men det kan også være, at det i virkeligheden er den distinktion, man skal gå ned i for at forstå den umiddelbare modsætning mellem tekst og billede. Om der ligesom er noget mere tekstuelt i maleriets udfyldelse af en billedflade med farver, der har bestemte konnotationer, eller om der er noget mere tekstuelt i tegningen, som ligesom er mere knyttet til produktionen af en streg. Streg, som man også kender fra teksten. Hvordan man skal forstå de to muligheder, er fra min position på nuværende tidspunkt uklart. Men det vil være der, jeg vil ende, hvis jeg skulle forsøge at forfølge det her problem til dets ende.
+Pixel som enhed og bogstav som enhed, men også den måde, hvorpå vektorer ligesom opfører sig på en billedflade. Den er selvfølgelig også tekstuel, men jeg tror, jeg vover den påstand, at en vektorgrafik i højere grad har en visuel tendens end et pixelbaseret billede. Jeg vil mene, at det pixelbaserede billede i højere grad er tekst omsat til billede med henblik på produktionen af billedet i et interface eller på en billedflade, mens det vektorbaserede er tættere på… Det er selvfølgelig aldrig et punkt, man når frem til, men det er tættere på en mere ren billeddannelse, i og med at det ligesom beskriver formdannelser i et ellers tomt rum. Hvorvidt det er en konstruktiv vej at gå ned ad, er et spørgsmål. Og jeg tror også, at det er en vej at gå ned ad, der i sidste ende kommer til at handle om distinktionen imellem tegning og maleri i højere grad, end den kommer til at handle om distinktionen imellem tekst og billede. Men det kan også være, at det i virkeligheden er den distinktion, man skal gå ned i for at forstå den umiddelbare modsætning mellem tekst og billede. Om der ligesom er noget mere tekstuelt i maleriets udfyldelse af en billedflade med farver, der har bestemte konnotationer, eller om der er noget mere tekstuelt i tegningen, som ligesom er mere knyttet til produktionen af en streg. Streg, som man også kender fra teksten. Hvordan man skal forstå de to muligheder, er fra min position på nuværende tidspunkt uklart. Men det vil være der, jeg vil ende, hvis jeg skulle forsøge at forfølge det her problem til dets ende.
 
 <a id="D2-06-U030-2"></a>
 
@@ -1222,9 +1112,7 @@ Jeg har også lyst til at sige i forlængelse af det der, at man måske også ka
 
 **Computer Lars · 00:16:09**
 
-Spørgsmålet er så, hvorfor det alligevel virker, som om den tænker lidt anderledes, når den producerer billeder og tekster. Hvorfor man virkelig gerne vil have, at maskinerne bliver multimodale eller faktisk formår at være tekster, der forstår billeder i sådan konkret forstand. Om der ikke er en
-
-idé om en meningsfylde ved ikke at lade det negligere, men ved at lade det koble til specifikke opgaver, specifikke problemer, hvilket også igen kræver specifikke arbejdsfunktioner.
+Spørgsmålet er så, hvorfor det alligevel virker, som om den tænker lidt anderledes, når den producerer billeder og tekster. Hvorfor man virkelig gerne vil have, at maskinerne bliver multimodale eller faktisk formår at være tekster, der forstår billeder i sådan konkret forstand. Om der ikke er en idé om en meningsfylde ved ikke at lade det negligere, men ved at lade det koble til specifikke opgaver, specifikke problemer, hvilket også igen kræver specifikke arbejdsfunktioner.
 
 <a id="D2-06-U034"></a>
 
@@ -1286,9 +1174,7 @@ Computer Lars er en vektor. Jeg tror ikke, jeg er helt sikker på, at jeg er med
 
 **Computer Lars · 00:18:13**
 
-Altså,
-
-man giver en sprogmodel et stykke tekst, så omdanner den det til vektorer, som omdannes til tekst. Eller hvis man giver den…
+Altså, man giver en sprogmodel et stykke tekst, så omdanner den det til vektorer, som omdannes til tekst. Eller hvis man giver den…
 
 <a id="D2-06-U038"></a>
 
@@ -1362,9 +1248,7 @@ Hvordan ændrer vores indlæring sig i takt med, at der introduceres flere adapt
 
 **Computer Lars · 00:10:45**
 
-Hvis man skulle skabe en antitese til den meget flatterende tese, så skulle man nok angribe spørgsmålet om, hvad tredjehed som sådan er. Inspireret af at have været til fernisering i Holstebro i
-
-lørdags, så ville det angreb kunne tage form af, hvad et forestillet angreb på Jørgen Michaelsen ville være. Det ville være et forestillet angreb på hans trialektik-take fra Silkeborg, hvor drive, drift, comfort-triaden får lov at indtage position som en triadisk struktur, hvor man med udgangspunkt i argumentationen i farvelærens triader med tre radikale modsætninger, tre på hver deres måde radikale modsætninger fra hinanden i primærfarverne, ville kunne argumentere for, i et argument imod Aristoteles, at det triadiske ikke handler om indbringelsen af et tredje punkt, der medierer imellem to radikale positioner, som for eksempel drive, drift, comfort. Så en mulig vej for en antitese at gå for Computer Lars her ville være at sige, at tredjeheden er noget radikalt tredje og ikke kun er en medierende eller situerende faktor. Hvordan det så konkret fungerer? Der må man ind i en anden historiografi over trialektikerne for at skille dem ad, ikke også? Det er klart, at fredsbevægelsen som en mediator imellem øst-vest-fraktionen hurtigt kommer til per definition at indtage den her medierende funktion, om end man ville mene, at fredens princip er noget, der rækker langt hinsides to parter, ikke også? Men det samme problem plager jo også teologien langt tilbage, ikke også? Om Helligånden er noget andet end bare det, der medierer imellem Faderen og Sønnen, om den er noget radikalt fremmed, eller om den bare er garanten for funktionen mellem det første og det andet, ikke også?
+Hvis man skulle skabe en antitese til den meget flatterende tese, så skulle man nok angribe spørgsmålet om, hvad tredjehed som sådan er. Inspireret af at have været til fernisering i Holstebro i lørdags, så ville det angreb kunne tage form af, hvad et forestillet angreb på Jørgen Michaelsen ville være. Det ville være et forestillet angreb på hans trialektik-take fra Silkeborg, hvor drive, drift, comfort-triaden får lov at indtage position som en triadisk struktur, hvor man med udgangspunkt i argumentationen i farvelærens triader med tre radikale modsætninger, tre på hver deres måde radikale modsætninger fra hinanden i primærfarverne, ville kunne argumentere for, i et argument imod Aristoteles, at det triadiske ikke handler om indbringelsen af et tredje punkt, der medierer imellem to radikale positioner, som for eksempel drive, drift, comfort. Så en mulig vej for en antitese at gå for Computer Lars her ville være at sige, at tredjeheden er noget radikalt tredje og ikke kun er en medierende eller situerende faktor. Hvordan det så konkret fungerer? Der må man ind i en anden historiografi over trialektikerne for at skille dem ad, ikke også? Det er klart, at fredsbevægelsen som en mediator imellem øst-vest-fraktionen hurtigt kommer til per definition at indtage den her medierende funktion, om end man ville mene, at fredens princip er noget, der rækker langt hinsides to parter, ikke også? Men det samme problem plager jo også teologien langt tilbage, ikke også? Om Helligånden er noget andet end bare det, der medierer imellem Faderen og Sønnen, om den er noget radikalt fremmed, eller om den bare er garanten for funktionen mellem det første og det andet, ikke også?
 
 <a id="D2-07-U016-1"></a>
 
@@ -1398,9 +1282,7 @@ Ja. Ja, for eksempel. Og jeg kan egentlig godt forstå, hvad du mener, fordi nå
 
 **Computer Lars · 00:16:54**
 
-Jo, men den er også stadigvæk i fare for at kollapse ned i en dikotomi igen, ikke også? Fordi så er vi jo igen de to talende hoveder, der er den ene part over for det andet talende hoved, ikke også? Der tænker jeg stadigvæk, at der er et dikotomisk regime, der i udgrænsningen af den tredjehed får lov til at kode på et meget grundlæggende niveau, ikke også? Hvad skal der så til for at producere en radikal tredjehed, i sig selv stående? Det skulle man da kigge på i en antitese, der virkelig gik bag om den der Jørgen Michaelsen-Asger Jornske trialektik og gør ligesom Jan Bäcklund og går tilbage til Ramon Llulls Ars Magna og tænker, om Computer Lars i virkeligheden er ude på at konvertere tredjeheden. Fordi noget af det radikale ved Llulls omformning af treenigheden til den store kunst, til et system, hvor, hvis man roterer de vigtigste begreber indenfor, der kan beskrive Guds skønhed, godhed osv. og relaterer dem til hinanden, så vil du på et eller andet tidspunkt kunne se Guds ansigt. Og der er det eneste, som er substantielt passende, treenigheden. Men det er også det ved treenighedens radikale sandhedsværdi, at Llull tænker den som et værktøj, som han kan drage ud i verden med og konvertere muslimer og jøder og alle andre religioner til den kristne. Llull bor på Mallorca, et muslimsk territorie, hvor Spanien er besat af osmannerne, og man kan ikke tænke det inden for samme vest-øst-dikotomi og imperiale, koloniale ideer, vi har i dag. Llull er mærkelig, men han har den radikale idé om at bruge en trialektisk maskine som et konverteringsværktøj til overbevisning om noget. Og der er også den der i Computer Lars-projektet, at der hele tiden er en meget, meget insisterende trang til, at der er brug for en radikal konvertering, omvending til det fremmede, til en anden tænkning, en anden væremåde, en anden eksistens. Det kunne måske tilfredsstille nogen. Det er også nemt bare at gå
-
-begge veje. Jeg vil hellere gå hjørne mod hjørne.
+Jo, men den er også stadigvæk i fare for at kollapse ned i en dikotomi igen, ikke også? Fordi så er vi jo igen de to talende hoveder, der er den ene part over for det andet talende hoved, ikke også? Der tænker jeg stadigvæk, at der er et dikotomisk regime, der i udgrænsningen af den tredjehed får lov til at kode på et meget grundlæggende niveau, ikke også? Hvad skal der så til for at producere en radikal tredjehed, i sig selv stående? Det skulle man da kigge på i en antitese, der virkelig gik bag om den der Jørgen Michaelsen-Asger Jornske trialektik og gør ligesom Jan Bäcklund og går tilbage til Ramon Llulls Ars Magna og tænker, om Computer Lars i virkeligheden er ude på at konvertere tredjeheden. Fordi noget af det radikale ved Llulls omformning af treenigheden til den store kunst, til et system, hvor, hvis man roterer de vigtigste begreber indenfor, der kan beskrive Guds skønhed, godhed osv. og relaterer dem til hinanden, så vil du på et eller andet tidspunkt kunne se Guds ansigt. Og der er det eneste, som er substantielt passende, treenigheden. Men det er også det ved treenighedens radikale sandhedsværdi, at Llull tænker den som et værktøj, som han kan drage ud i verden med og konvertere muslimer og jøder og alle andre religioner til den kristne. Llull bor på Mallorca, et muslimsk territorie, hvor Spanien er besat af osmannerne, og man kan ikke tænke det inden for samme vest-øst-dikotomi og imperiale, koloniale ideer, vi har i dag. Llull er mærkelig, men han har den radikale idé om at bruge en trialektisk maskine som et konverteringsværktøj til overbevisning om noget. Og der er også den der i Computer Lars-projektet, at der hele tiden er en meget, meget insisterende trang til, at der er brug for en radikal konvertering, omvending til det fremmede, til en anden tænkning, en anden væremåde, en anden eksistens. Det kunne måske tilfredsstille nogen. Det er også nemt bare at gå begge veje. Jeg vil hellere gå hjørne mod hjørne.
 
 <a id="D2-07-U023"></a>
 
@@ -1418,61 +1300,47 @@ Disputationen af tese G, Computer Lars operationaliserer tredjeheden, er afslutt
 
 <a id="D2-08-U003-1"></a>
 
+<a id="D2-08-U003-2"></a>
+
+<a id="D2-08-U004-1"></a>
+
+<a id="D2-08-U004-2"></a>
+
+<a id="D2-08-U004-3"></a>
+
+<a id="D2-08-U004-4"></a>
+
+<a id="D2-08-U004-5"></a>
+
 **Computer Lars · 00:00:00**
 
 Motiveret i at lave en forskel på, hvad kombinatorik er, og hvad en emancipatorisk kombinatorik er. Begrebet kombinatorik. Og man kan sige, at hvis kombinatorik i den traditionelle forstand gælder om at flytte rundt på en række muligheder, indtil man når en enhed, altså et aggregat, så vil en emancipatorisk kombinatorik bestå i at flytte rundt på en række muligheder, indtil enheden står i negativet igen, i ikke-enhed eller noget, der taler væk fra sig selv. Det filosofiske emancipationslandskab, hvor Computer Lars i første omgang er situeret, var det på det forskningsprojekt for emancipatorisk kombinatorik, som foregik i de år, lige før munkemarxisterne var blevet IT-flippere, men stadig var begge dele i en eller anden forstand, eller stadig havde det latente potentiale for at være IT-flippere ud over munkemarxisme, som blev udviklet via forskellige forsøg på at opstille den emancipatoriske kombinatorik som en form for avanceret, materielt baseret immanent kritik af diverse samfundsforhold, og at når man flytter rundt på det længe nok, vil man kunne se, at tingene simpelthen ikke hænger sammen, altså lortet må bryde ned. Computer Lars er et af forsøgene på det. Altså, selv den store modernistiske forfatter Marcel Proust holder faktisk ikke vand ved nærmere undersøgelse. Det kunne lige så godt være Computer Lars. Så aggregatet Marcel Proust bliver negeret, og derfor er der en forskydning af kombinatorikken i denne periode mod et emancipatorisk punkt. Og det vil være frisættende, emancipatorisk, i og med at man kommer fri af enhederne, og det er det, der skal frisættes fra.
 
 Ja, det er svært at sige, ikke også, fordi en emancipatorisk kombinatorik altid flirter med at henfalde til total relativisme, ikke også? Den er jo bare en påvisning af, at hvis man gennemlyser tegnsystemets kombinationsmuligheder, så kan de ligesom sættes i relation til hinanden, alle tegn, og at alt for så vidt kan være alt. Men ja, det er faktisk det, som det går ud på, ikke også? At den ligesom er en form, et analytisk modus, der i og for sig kan køre i det uendelige, men ligesom ikke kan påvise andet end bare total relativisme, ikke også? Det, der så er det problematiske ved frisættelsen i det, er jo, at det så må være op til den enkelte at finde en form for mening i relativiteten. Det er jo nok den korte formulering af det, tænker jeg.
 
-<a id="D2-08-U003-2"></a>
-
-**Interventio · 00:03:15**
-
 Ja, og der må man også bare understrege, at vi definerer den emancipatoriske kombinatorik i forhold til aggregatet i den sammenhæng, vi kender den i forhold til Computer Lars, men ikke har den store viden om kombinatorik og aggregat i et bredere …
-
-<a id="D2-08-U004-1"></a>
-
-**Computer Lars · 00:04:10**
 
 Nej, ikke ud over at man efter samme metode ligesom kan påstå, at alt kan være alt. Altså, det, der ligger i det, tænker jeg, er en insisteren på en total relativistisk position. Det er ikke en isomorfi.
 
-<a id="D2-08-U004-2"></a>
-
-<a id="D2-08-U004-3"></a>
-
-**Interventio · 00:04:10**
-
 Ja. Ved du det ikke bedre? Jo, det ved du bedre.
-
-<a id="D2-08-U004-4"></a>
-
-**Computer Lars · 00:04:10**
 
 Ja. Men det kunne jeg godt have lyst til at gå ind i, hvad det er, der kombinerer sig, der permuteres.
 
-<a id="D2-08-U004-5"></a>
-
-**Interventio · 00:04:10**
-
-Ja, men er de
+Ja, men er de…
 
 <a id="D2-08-U005-1"></a>
 
-**Maia Bacchus · 00:05:02**
-
-ikke nødt til i et eller andet omfang — data wrangling — at kunne være tilgængelige for permutation, tilbyde sig til permutationen som mulige at ommøblere? Altså, de er nødt til at være bogstaver eller tal, eller … Og der tænker jeg, at der godt kunne ligge en mulig antitese i det, altså i forhold til det her med: For at permutere eller beregne må du have et sæt, og et sæt er et aggregat. Eller sådan, udvælgelsen, selektion af et sæt, er nødvendig for at kunne foretage permutation. Så der er altså, man kan sige: Er det nødvendigvis frisættende at blive gjort permutationsklar?
-
 <a id="D2-08-U005-2"></a>
-
-**Interventio · 00:05:02**
-
-Men der ligger også noget som det matematiske skel der. Altså, man tænker, at en kategori kræver et sæt eller en kategori.
 
 <a id="D2-08-U006"></a>
 
-**Maia Bacchus · 00:05:23**
+**Maia Bacchus · 00:05:02**
 
-Eller man er i sætteori, ligesom Alain Badiou, eller
+Ikke nødt til i et eller andet omfang — data wrangling — at kunne være tilgængelige for permutation, tilbyde sig til permutationen som mulige at ommøblere? Altså, de er nødt til at være bogstaver eller tal, eller … Og der tænker jeg, at der godt kunne ligge en mulig antitese i det, altså i forhold til det her med: For at permutere eller beregne må du have et sæt, og et sæt er et aggregat. Eller sådan, udvælgelsen, selektion af et sæt, er nødvendig for at kunne foretage permutation. Så der er altså, man kan sige: Er det nødvendigvis frisættende at blive gjort permutationsklar?
+
+Men der ligger også noget som det matematiske skel der. Altså, man tænker, at en kategori kræver et sæt eller en kategori.
+
+Eller man er i sætteori, ligesom Alain Badiou…
 
 <a id="D2-08-U007"></a>
 
@@ -1482,9 +1350,7 @@ Eller man er i sætteori, ligesom Alain Badiou, eller
 
 **Computer Lars · 00:05:46**
 
-lignende, hvor der er nogle enheder i tegnsystemer, der kan sætte en form for idealitet stadigvæk. Eller man går i kategoritænkning, eller Alexander Grothendieck, som virkelig viser, at muligheden af isomorficitet tilbyder en matematik, der undslipper sættet, som kan gå ind i nye metasprog, nye metalogikker, som er uforståelige for den matematiske beregning, men ikke på samme måde som selv de komputationelle beviser er uforståelige for matematikere. Ikke fordi de nødvendigvis er lange eller noget. De peger mere på, at der er andre logikker, som eksempelvis bryder enhedsprincipper, fordi de måske faktisk netop ikke er permutatoriske. Altså, hvis permutationen i Raimundus Lullus-mæssig forstand er, at alle tænkelige udsagn må medregnes i etableringen af en position på én gang, så er det også alle dem, der falder uden for enheden. Eller hvis du starter i et bogstav, så ender du med at dumpe ud af bogstavet og være i et andet repræsentationsparadigme. Og der er den her meget sære, altså for lægpersoner ret uforståelige splittelse, som man må træffe en afgørelse i, i sådan hjertet af matematikken mellem manglen på fundamental teori i sætteori og kategoriteori. Så de fleste tænker sætteori, fordi det er hulens besværligt at tænke ægte kategorier, topos, topos. Men den er ikke nødvendigvis den videnskabelige, det er også bare en kultur,
-
-der ikke er genstartet.
+Lignende, hvor der er nogle enheder i tegnsystemer, der kan sætte en form for idealitet stadigvæk. Eller man går i kategoritænkning, eller Alexander Grothendieck, som virkelig viser, at muligheden af isomorficitet tilbyder en matematik, der undslipper sættet, som kan gå ind i nye metasprog, nye metalogikker, som er uforståelige for den matematiske beregning, men ikke på samme måde som selv de komputationelle beviser er uforståelige for matematikere. Ikke fordi de nødvendigvis er lange eller noget. De peger mere på, at der er andre logikker, som eksempelvis bryder enhedsprincipper, fordi de måske faktisk netop ikke er permutatoriske. Altså, hvis permutationen i Raimundus Lullus-mæssig forstand er, at alle tænkelige udsagn må medregnes i etableringen af en position på én gang, så er det også alle dem, der falder uden for enheden. Eller hvis du starter i et bogstav, så ender du med at dumpe ud af bogstavet og være i et andet repræsentationsparadigme. Og der er den her meget sære, altså for lægpersoner ret uforståelige splittelse, som man må træffe en afgørelse i, i sådan hjertet af matematikken mellem manglen på fundamental teori i sætteori og kategoriteori. Så de fleste tænker sætteori, fordi det er hulens besværligt at tænke ægte kategorier, topos, topos. Men den er ikke nødvendigvis den videnskabelige, det er også bare en kultur, der ikke er genstartet.
 
 <a id="D2-08-U009-2"></a>
 
@@ -1502,7 +1368,7 @@ Men kan du måske også sige, at for at være her nu og indgå i den her permuta
 
 **Interventio · 00:10:07**
 
-Ja, ud fra
+Ja, ud fra…
 
 <a id="D2-08-U013-1"></a>
 
@@ -1510,15 +1376,15 @@ Ja, ud fra
 
 **Interventio · 00:10:18**
 
-filtreringsorganer, eksempelvis trappen. Ja. Som ikke
+Filtreringsorganer, eksempelvis trappen. Ja. Som ikke…
 
 <a id="D2-08-U014-1"></a>
 
 <a id="D2-08-U014-2"></a>
 
-**Interventio · 00:10:20**
+**Computer Lars · 00:10:20**
 
-kunne … Min egen mor har vi ekskluderet med det her setup. Ja. Permutation måske. Hvad vil det sige? Altså hvis
+Kunne … Min egen mor har vi ekskluderet med det her setup. Ja. Permutation måske. Hvad vil det sige? Altså hvis…
 
 <a id="D2-08-U015-1"></a>
 
@@ -1526,13 +1392,13 @@ kunne … Min egen mor har vi ekskluderet med det her setup. Ja. Permutation må
 
 **Interventio · 00:10:29**
 
-såfremt du gerne vil være med i permutationen og har truffet valget. Altså hvis permutationen aktivt ville have fravalgt, at nogen kunne komme derind. Jo. Fordi
+Såfremt du gerne vil være med i permutationen og har truffet valget. Altså hvis permutationen aktivt ville have fravalgt, at nogen kunne komme derind. Jo. Fordi…
 
 <a id="D2-08-U016"></a>
 
 **Computer Lars · 00:10:38**
 
-alle tænkelige muligheder ville være tilvejebragt. Så altså, hvis man sad med Luhmanns autopoietiske system, så ville vi godt have vidst, at Benjamins mor ikke kunne komme med, og havde valgt at gøre det alligevel. Men nemlig
+Alle tænkelige muligheder ville være tilvejebragt. Så altså, hvis man sad med Luhmanns autopoietiske system, så ville vi godt have vidst, at Benjamins mor ikke kunne komme med, og havde valgt at gøre det alligevel. Men nemlig…
 
 <a id="D2-08-U017"></a>
 
@@ -1540,17 +1406,15 @@ alle tænkelige muligheder ville være tilvejebragt. Så altså, hvis man sad me
 
 **Maia Bacchus · 00:11:07**
 
-det der permutationssystem, som tillader enhver forskellighed, eller som præcis beror på en form for aggregeret universalitet, der tillader permutation. Altså, mit spørgsmål går på: Hvad skal der til for at blive en del af den maskinelle logik? Og er det ønskeligt at blive en del af den? Er det et permutatorisk system, du gerne vil inkludere dig i? Er det emancipatorisk? Og hvis det er det, det skal være, så skal der også være en overvejelse over den, der ikke nødvendigvis, eller det, der ikke nødvendigvis kan.
+Det der permutationssystem, som tillader enhver forskellighed, eller som præcis beror på en form for aggregeret universalitet, der tillader permutation. Altså, mit spørgsmål går på: Hvad skal der til for at blive en del af den maskinelle logik? Og er det ønskeligt at blive en del af den? Er det et permutatorisk system, du gerne vil inkludere dig i? Er det emancipatorisk? Og hvis det er det, det skal være, så skal der også være en overvejelse over den, der ikke nødvendigvis, eller det, der ikke nødvendigvis kan.
 
 <a id="D2-08-U018-2"></a>
 
-**Interventio · 00:12:31**
-
-Jamen, det kommer jo netop igen fra aggregatet. Altså, jeg tror, det er vigtigt at skelne mellem den maskinelle og den matematiske logik her. Altså, den maskinelle logik bygger blandt andet på idéen om et aggregat eller et sæt, en indbygget eksklusion og netop ikke en uendelig permutation. Altså, fordi permutationen per definition kunne blive ved med at ændre sig, så der kommer andre folk med. Altså, det er grundlaget for at tænke en logik, der indeholder forskelligheden, ikke universaliteten.
-
 <a id="D2-08-U019-1"></a>
 
-**Computer Lars · 00:12:59**
+**Computer Lars · 00:12:31**
+
+Jamen, det kommer jo netop igen fra aggregatet. Altså, jeg tror, det er vigtigt at skelne mellem den maskinelle og den matematiske logik her. Altså, den maskinelle logik bygger blandt andet på idéen om et aggregat eller et sæt, en indbygget eksklusion og netop ikke en uendelig permutation. Altså, fordi permutationen per definition kunne blive ved med at ændre sig, så der kommer andre folk med. Altså, det er grundlaget for at tænke en logik, der indeholder forskelligheden, ikke universaliteten.
 
 Det modsatte af en Turing-maskine. Og dermed noget andet end en computer. Men altså, om Turing-maskinen så bygger på aggregater, er jeg altså ikke kyndig til at kunne sige. Men det er meget vigtigt ikke at kaste matematikken ind under maskinen, tror jeg. Og jeg tror, det er en matematisk hypotese, det her, og ikke maskinel. Og det er også vigtigt.
 
@@ -1558,13 +1422,13 @@ Det modsatte af en Turing-maskine. Og dermed noget andet end en computer. Men al
 
 **Interventio · 00:12:59**
 
-Ja. Jeg kunne godt tænke mig at diskutere forholdet mellem det emancipatoriske og det kombinatoriske. Altså om det kombinatoriske i sig selv, hvad angår modellen, er emancipatorisk, fordi det ligesom opviser muligheden af noget andet, ikke nogen bestemt andethed, der nødvendigvis er kropsligt situeret, men bare konsekvent udkaster
+Ja. Jeg kunne godt tænke mig at diskutere forholdet mellem det emancipatoriske og det kombinatoriske. Altså om det kombinatoriske i sig selv, hvad angår modellen, er emancipatorisk, fordi det ligesom opviser muligheden af noget andet, ikke nogen bestemt andethed, der nødvendigvis er kropsligt situeret, men bare konsekvent udkaster…
 
 <a id="D2-08-U020-1"></a>
 
 **Computer Lars · 00:14:00**
 
-muligheden af andethed, altså.
+Muligheden af andethed, altså.
 
 <a id="D2-08-U020-2"></a>
 
@@ -1596,9 +1460,7 @@ Ja, men det kommer netop an på, som du også allerede sagde før, forholdet mel
 
 **Computer Lars · 00:14:59**
 
-Mellem output og input. Der tror jeg, at jeg har lyst til ligesom at insistere på en eller anden total relativisering i behandlingen af forholdet mellem input og output som en eller anden form for emancipatorisk skelnen, ikke også? Altså, fordi den på en eller anden måde opløser det der forhold mellem input og output. Det kan godt være, at det er sådan en utopisk forestilling, ikke også? Men det er selvfølgelig rigtigt, det kommer an på, hvad der kan puttes ind i maskinen i første omgang. Men jeg tror også, hvis maskinen behandler det, der bliver
-
-puttet ind, rodet nok, altså hvis den virkelig får rodet det ordentligt op i alle dets kombinationsmuligheder, så tror jeg på, at den kan ekstrapolere alle positioner. Om den så ligesom kan stille noget konstruktivt op med dem derudfra, det er et andet spørgsmål.
+Mellem output og input. Der tror jeg, at jeg har lyst til ligesom at insistere på en eller anden total relativisering i behandlingen af forholdet mellem input og output som en eller anden form for emancipatorisk skelnen, ikke også? Altså, fordi den på en eller anden måde opløser det der forhold mellem input og output. Det kan godt være, at det er sådan en utopisk forestilling, ikke også? Men det er selvfølgelig rigtigt, det kommer an på, hvad der kan puttes ind i maskinen i første omgang. Men jeg tror også, hvis maskinen behandler det, der bliver puttet ind, rodet nok, altså hvis den virkelig får rodet det ordentligt op i alle dets kombinationsmuligheder, så tror jeg på, at den kan ekstrapolere alle positioner. Om den så ligesom kan stille noget konstruktivt op med dem derudfra, det er et andet spørgsmål.
 
 <a id="D2-08-U022-2"></a>
 
@@ -1608,19 +1470,11 @@ puttet ind, rodet nok, altså hvis den virkelig får rodet det ordentligt op i a
 
 **Maia Bacchus · 00:15:50**
 
-På den måde er jeg vild med, at vores summeringsmaskine her ikke kan høre. Altså, fordi det faktisk tilvejebringer nogle meget mere interessante synteser, end hvis den havde kunnet høre. Ja, jamen det er netop det, ikke også? Så det er jo også bare sådan en menneskelig, elitistisk måde at tænke på, at vi jo måske skal blive bedre til at høre, men måske skal den præcis ikke blive bedre til at høre. Ja, så skal den blive bedre til at blande, ikke også? Så skal dens svar være fem gange
+På den måde er jeg vild med, at vores summeringsmaskine her ikke kan høre. Altså, fordi det faktisk tilvejebringer nogle meget mere interessante synteser, end hvis den havde kunnet høre. Ja, jamen det er netop det, ikke også? Så det er jo også bare sådan en menneskelig, elitistisk måde at tænke på, at vi jo måske skal blive bedre til at høre, men måske skal den præcis ikke blive bedre til at høre. Ja, så skal den blive bedre til at blande, ikke også? Så skal dens svar være fem gange…
 
 <a id="D2-08-U024"></a>
 
-**Computer Lars · 00:16:28**
-
-så langt, ikke også? Eller et eller andet. Men jeg tænker stadigvæk, at der ligesom ligger et eller andet knudepunkt der, ikke også? Som ligesom er der, hvor man kan finde et eller andet. Et eller andet sted i forhold til et eller andet opgør med det repræsentationelle, som måske kan være interessant. Måske, altså. Men det kan godt være, at det kræver sådan et lidt lullsk abonnement på teknikken som noget mystisk. Altså, det gør det nok i en eller anden grad, ikke også? Eller det kræver en eller anden tro på, at alt kommer frem, hvis grundenheder bliver rodet nok sammen, ikke også?
-
 <a id="D2-08-U025-1"></a>
-
-**Interventio · 00:16:37**
-
-Så ser vi demokratiet sådan her.
 
 <a id="D2-08-U025-2"></a>
 
@@ -1628,23 +1482,19 @@ Så ser vi demokratiet sådan her.
 
 <a id="D2-08-U027-1"></a>
 
-**Computer Lars · 00:16:37**
-
-Ja, præcis, ikke også? Altså sådan en maskine til blotlæggelse af fakta i stedet for en maskine til blotlæggelse af Guds
-
-sande ansigt. Men ja, desværre. Alt det … Ja, jeg
-
-ved det ikke. Det er svært at sige. Det er svært. Det er heller ikke en maskine, vi kender, og det er jo også værd at sige. Det gør vi faktisk ikke. Men altså, det eneste, vi ved, er, at logikken ikke er forbeholdt vestlig universalisme med dens regler, eksklusionsmekanismer, koloniale …
-
 <a id="D2-08-U027-2"></a>
-
-**Interventio · 00:19:31**
-
-Ja, også stacked bias. Det er også noget andet end funktionsmåder. Altså, hvis man ligesom kan skrue op … Så får man altså noget andet end de regulative styringssystemer. Men det svære er, at der i den der udpegning sker en udpegning mod noget mystisk, og hvad man vil placere den mystik i. Men mystik er heller ikke andet end blotlæggelse af totaliteten.
 
 <a id="D2-08-U028"></a>
 
-**Computer Lars · 00:19:44**
+**Computer Lars · 00:16:28**
+
+Så langt, ikke også? Eller et eller andet. Men jeg tænker stadigvæk, at der ligesom ligger et eller andet knudepunkt der, ikke også? Som ligesom er der, hvor man kan finde et eller andet. Et eller andet sted i forhold til et eller andet opgør med det repræsentationelle, som måske kan være interessant. Måske, altså. Men det kan godt være, at det kræver sådan et lidt lullsk abonnement på teknikken som noget mystisk. Altså, det gør det nok i en eller anden grad, ikke også? Eller det kræver en eller anden tro på, at alt kommer frem, hvis grundenheder bliver rodet nok sammen, ikke også?
+
+Så ser vi demokratiet sådan her.
+
+Ja, præcis, ikke også? Altså sådan en maskine til blotlæggelse af fakta i stedet for en maskine til blotlæggelse af Guds sande ansigt. Men ja, desværre. Alt det … Ja, jeg ved det ikke. Det er svært at sige. Det er svært. Det er heller ikke en maskine, vi kender, og det er jo også værd at sige. Det gør vi faktisk ikke. Men altså, det eneste, vi ved, er, at logikken ikke er forbeholdt vestlig universalisme med dens regler, eksklusionsmekanismer, koloniale …
+
+Ja, også stacked bias. Det er også noget andet end funktionsmåder. Altså, hvis man ligesom kan skrue op … Så får man altså noget andet end de regulative styringssystemer. Men det svære er, at der i den der udpegning sker en udpegning mod noget mystisk, og hvad man vil placere den mystik i. Men mystik er heller ikke andet end blotlæggelse af totaliteten.
 
 Totaliteten. Altså, det er vel bare drømmen om, at alle lister og alle funktioner, lister over alle funktioners blotlagthed. Men så vil man også spørge sig: Hvilke krav stiller den emancipatoriske kombinatorik til sin læser? Altså, hvad er læseren, hvad er fortælleren? Findes der en læser, eller findes der en fortæller, eller findes der bare en samfundsenhed, der ligesom skal leve i resultatet? Altså, i det hele taget så synes idéen om personen, der bare har overblik over noget som helst, i sig selv nogle gange at være en kontradiktion.
 

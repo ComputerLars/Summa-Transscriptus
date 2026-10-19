@@ -18,13 +18,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 15146,
-      "sha256": "7dbb0b68ba75f69ff7d869f41f9a3d1a7e76702a6022663f58d2497743755a3e"
+      "bytes": 26592,
+      "sha256": "43cbfd5ec5772cc4a567a0e2bd1b87860381885307cc9b9cd9314c9a3e264e21"
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1381343,
-      "sha256": "f5d620b19805e2c788efe2bc10c7807877410a6becec995614e776e9d4aacef5"
+      "bytes": 1371296,
+      "sha256": "81847486b0ac0171321152e048c7fa44b4e36e96d258d2b01dbb952bd48eec4a"
     },
     {
       "path": "archive/2023/README.md",
@@ -388,13 +388,13 @@
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.docx",
-      "bytes": 71864,
-      "sha256": "b9462063cd0f0bbf52c63abe4a381285e4de69974482857526bf8ec474f8fefa"
+      "bytes": 71696,
+      "sha256": "1f135ba183ecc641f92c891a6c451b5151b52e9d95c236a28ad4bc160090de04"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.md",
-      "bytes": 103947,
-      "sha256": "251e1d9493196ef54e21f06d5b78c90487166ab0c5631db55cc6b607f5e2ceca"
+      "bytes": 103749,
+      "sha256": "54fe9359e9a699ea4fbd0a16242f835d7ed746a5bdeee0a679e391567b93366f"
     },
     {
       "path": "disputations/01-mikhailos-boltus/sources.json",
@@ -408,13 +408,13 @@
     },
     {
       "path": "disputations/02-maia-bacchus/reading.docx",
-      "bytes": 78017,
-      "sha256": "32501c8bea1fbb946d7caef397bf0f58eb445692a55bde75ac973a12dd0d0159"
+      "bytes": 77586,
+      "sha256": "8faddc031255509c26a3403bc8c5ab7bb09b293063c78d7080184f68ff96cef5"
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 125388,
-      "sha256": "c629e488cf132550a789e2f7c59467418d3f0c8b1e9b6f7fa834a45236f0e4ad"
+      "bytes": 124457,
+      "sha256": "4fa51fa7a98f1e0622bc9d98a4a6dd45aaed1fc907e80b89df3b627170efc21b"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -428,13 +428,13 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
-      "bytes": 66817,
-      "sha256": "c221b7ba20e12e25001b579409fca43d75c4e5efa2b3395bf1edc0d6aa83e6bd"
+      "bytes": 66427,
+      "sha256": "ee589aae194aa1ecdaca7bdd88ed4c1c934a4c87248557ab51e48d5954e342fd"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 90224,
-      "sha256": "2429a823d203876f9682398f7d754078cf99d8c84ac26991e9c37ac710bd44d4"
+      "bytes": 89553,
+      "sha256": "2ab09971e3f5966173932be241a52d44c04d13f496af860d01dcb0f9d4fab414"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -448,13 +448,13 @@
     },
     {
       "path": "disputations/04-logistique/reading.docx",
-      "bytes": 65111,
-      "sha256": "051fd71104ba2a1b976aca922b416b8ae330db61810cc516e57e6babd474b0b6"
+      "bytes": 64807,
+      "sha256": "9f45a9d549d614a6b45e77baf12ad688f054a587cd57ad8c6d72ac03331ab01e"
     },
     {
       "path": "disputations/04-logistique/reading.md",
-      "bytes": 86383,
-      "sha256": "4643b00b99e0230d3630907d59eeaa39413ab5ddbe14a89963eb11c1093998fe"
+      "bytes": 85773,
+      "sha256": "d96355c201664701dc13af6b3a8fc0e5e33675b344c6d3eab938be72c149a4de"
     },
     {
       "path": "disputations/04-logistique/sources.json",
@@ -488,8 +488,8 @@
     },
     {
       "path": "documentation/editorial-principles.md",
-      "bytes": 2955,
-      "sha256": "e962021e298a5ee9eee695f48404c4e048b71a21ec33a1c46b0f029cf35da641"
+      "bytes": 3606,
+      "sha256": "6f6fead92799daca8af04531c7979f1c38121f9b2177b00869dac87de9e96915"
     },
     {
       "path": "documentation/hyperbook-sources.json",
@@ -502,19 +502,24 @@
       "sha256": "db512df7007790346df4a2467b373adcada1c22411f9ba6f8f2cc5268cb8a225"
     },
     {
+      "path": "documentation/paragraph-boundaries.json",
+      "bytes": 607004,
+      "sha256": "8f970599e208f5658147ece44f113aab33220245707465ea720f830d88ae8050"
+    },
+    {
       "path": "documentation/position-readings.json",
       "bytes": 16745,
       "sha256": "21e69e810d597598624c7b36bcc51fc652f52a37f9cb0ae15d0abe19dccc7983"
     },
     {
       "path": "documentation/publication-validation.json",
-      "bytes": 542,
-      "sha256": "e4c566f5651b33c7eda9e1a74fa0d9e268e138e2808e420ec38bf41ffbb93d48"
+      "bytes": 643,
+      "sha256": "bb169fd118032578b8cba29db8035cb7dea4c6a1282f9339f054693d2436f593"
     },
     {
       "path": "documentation/reading-corrections.json",
-      "bytes": 190168,
-      "sha256": "f9d6d3a764a37a05a3397cb91d62aee7135bd2b0c2f539882787d2afcdb8eddc"
+      "bytes": 195051,
+      "sha256": "01b266356b314ffe6fad9906e1411f372a30fa4c6230b9cd99eb36f335ec1514"
     },
     {
       "path": "documentation/reading-revisions.json",
@@ -547,6 +552,11 @@
       "sha256": "01ec6a64756627d6fefa6dc840c952f2735f6b80626a1eddc40ad1ad0b8ca038"
     },
     {
+      "path": "documentation/speaker-readings-20261019.json",
+      "bytes": 14497,
+      "sha256": "d1a8f48194175cd03501ec751ecad217882fbcd177433fbe01fdbe20e8f114cd"
+    },
+    {
       "path": "documentation/supplements.md",
       "bytes": 2571,
       "sha256": "5bb9f0eaa1aa01bd2a82df10fce1cd67749aafd6ebae49f8b59dcf0dc9354884"
@@ -568,18 +578,18 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2297951,
-      "sha256": "91f129a2e12431279593985de69e2c218ad93fc6b5ac42dd3a3c34ba674b1191"
+      "bytes": 2287041,
+      "sha256": "f14fce2400ad0613450f6db175004e3b10bd0979d1a002016db71aa52a63b983"
     },
     {
       "path": "hyperbook.css",
-      "bytes": 13752,
-      "sha256": "a8a4b97fb39289c02e5781605ef46acb4ec25490d848b9e5ae58e53144aeab50"
+      "bytes": 13308,
+      "sha256": "c5212136724773241cab5026d24097a2cd55735a24f1806eb0a11d2f5ec99dab"
     },
     {
       "path": "hyperbook.js",
-      "bytes": 26779,
-      "sha256": "a0a344ca3d281993ed46beb70eeaae10ca32cbe8156e3fc38b43052089768110"
+      "bytes": 26838,
+      "sha256": "c60a7e59a983ffb84abd9442892613127f4cf53ef80914abdb60a4e44c539e76"
     },
     {
       "path": "index.html",
@@ -592,9 +602,14 @@
       "sha256": "713a37b0ff1788040be265a888958e4eafaa7082bd244ec708158e735f72d04f"
     },
     {
+      "path": "organ-tekst.html",
+      "bytes": 16943,
+      "sha256": "9b39dc4bd2c9d9877e4147c93bd0c283205a15c6925100ec20e7c59d978f575f"
+    },
+    {
       "path": "reader.html",
-      "bytes": 996530,
-      "sha256": "72ded5450cfbdad9dd6bf11382b2507c18c2464e51b8ad0eb4604a5061049537"
+      "bytes": 274,
+      "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
     },
     {
       "path": "reader.js",
@@ -603,13 +618,13 @@
     },
     {
       "path": "readings.html",
-      "bytes": 997878,
-      "sha256": "6255cee85b09441ccb963f583023c17dbfbfbcec115969bb26a6aa1ef7ce5761"
+      "bytes": 274,
+      "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
     },
     {
       "path": "review.html",
-      "bytes": 442,
-      "sha256": "138213c651ef41c6735e9557899f2909368e49c11e2278c04bf2e1d4ede5175e"
+      "bytes": 274,
+      "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
     },
     {
       "path": "scripts/build_reading_documents.py",
@@ -618,13 +633,13 @@
     },
     {
       "path": "scripts/build_readme.py",
-      "bytes": 5729,
-      "sha256": "bc4426317c11c5472295bd1b155e6cc5180824f20ecf95c3b3f5a550ab82ce5f"
+      "bytes": 6869,
+      "sha256": "3b088c294f564ddfb7caca97b3edd5248704af0e2719bd16f3e276ce33702d65"
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 6917,
-      "sha256": "f993f9a7d68fb4c43337a33336dcfa67aa8a7650757697c55a8ce701f5b4a141"
+      "bytes": 8886,
+      "sha256": "f4b7caafaa44ab53f4b868417439644f38ad1c95dfed9cf21a0257da4fa43011"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -680,6 +695,236 @@
       "path": "sources/under-bugten/manuscript.md",
       "bytes": 413264,
       "sha256": "8dd49fdd9099da759ec64d52f857cd490739e89fceb824dfbf8358c9b947e855"
+    },
+    {
+      "path": "sources/under-bugten/opening-latin.md",
+      "bytes": 894,
+      "sha256": "001d6a75a48e61169902ffc3a1d40d4378e4e8d8434388e65891d5f222a3f722"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/Organ-Tekst.pdf",
+      "bytes": 603228,
+      "sha256": "309378c3f191413d85b40c12c452ce989fb1b258437d830fa3c46d934182c6ab"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/Organ-Tekst.pptx",
+      "bytes": 680875,
+      "sha256": "e6b71d0f00ad1a10fb56b482cb2728408bd736f0feec3ead01142e4b8699169d"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-01.jpg",
+      "bytes": 297080,
+      "sha256": "2d9e9d30c8685c2c20913f8a4b74287edd0bdc39e3e1e60a2eb82fc18082c70b"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-02.jpg",
+      "bytes": 240115,
+      "sha256": "08d299492ba49244989ca957fef6e539e91f326c59f77c6cca5405d14b504fe8"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-03.jpg",
+      "bytes": 166260,
+      "sha256": "88e4b4dd7f3c4e1c95bb2c78e4e81acb11d212164f720fe2c14c97d64e839b76"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-04.jpg",
+      "bytes": 281884,
+      "sha256": "a4f27d6286351bafb7fbf69b6144bf312122ddcd0725194b62d73fa9cbaecee6"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-05.jpg",
+      "bytes": 313658,
+      "sha256": "c1f82c12ad132635ac20de7b62ff53203dc611b01f4e36591a8bc91f44b469bf"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-06.jpg",
+      "bytes": 243439,
+      "sha256": "e04a06dd879da612096d637ff73f6ca10f0939e729d74534d495a741a2ad6c4d"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-07.jpg",
+      "bytes": 265634,
+      "sha256": "685941b90116d3be44859f2bcbd9348cd5f346f0e7ab988cc04bb684628f1cbd"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-08.jpg",
+      "bytes": 314690,
+      "sha256": "225e55a41086fdbd32df93b15dfa5672cfbcc1aada708466bac739df4d383cc7"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-09.jpg",
+      "bytes": 226779,
+      "sha256": "64968d47a14d05e971b5159707d0862b6d805e8025032c3930be1480125cdbd3"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-10.jpg",
+      "bytes": 296894,
+      "sha256": "a666e2376448cb74a2c663a0c1d62977f9202b7827f93d349d691f99b6a13053"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-11.jpg",
+      "bytes": 202500,
+      "sha256": "2133839a841a5d75ed285d132f1f7b4e03fba77bab2ee03c71e0bf8aadfb1a74"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-12.jpg",
+      "bytes": 325115,
+      "sha256": "67404283a2b3c1312153f114667ea0a139feba49a8836b011984e96c1568e40b"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-13.jpg",
+      "bytes": 269594,
+      "sha256": "72dd2fc9d5166a55c01976fc7764c20af19f16f20cd118f0c1a3b115c5518a08"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-14.jpg",
+      "bytes": 286145,
+      "sha256": "522df815fbe7f9bb0e53a740f43073cf2191d2b62e047bca6ba856fe1a5a6603"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-15.jpg",
+      "bytes": 288471,
+      "sha256": "24b03456f850ec7d56ebe6558aa077d45f98783723ccd455610c16c907353d0d"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-16.jpg",
+      "bytes": 276281,
+      "sha256": "2706845f6441434e4506b1bcfb264eb3aad9d0a3fc27f74f530bf79168a956c5"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-17.jpg",
+      "bytes": 243006,
+      "sha256": "6baedb167ef1d710b6c66208acaa87ae6d531a7e98c1fcdc9f92729a0f406540"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-18.jpg",
+      "bytes": 146471,
+      "sha256": "8b35e3bee31d6e404bc3f463ff32ff2d0cb806e043577f51de60c8b8e316fb50"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-19.jpg",
+      "bytes": 257428,
+      "sha256": "2b1cf6b4352928ca992d297a41e5cf970c4b4952244b2c856d8b950c1edca362"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-20.jpg",
+      "bytes": 234605,
+      "sha256": "5419051559c02962b712303eef2ef5f34d00a67878b7f1c02f3564849e57ea81"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-21.jpg",
+      "bytes": 305451,
+      "sha256": "9bedbaf3921823dd82c99c36bc9909b512b433ce60499950116abb63a813146d"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-22.jpg",
+      "bytes": 270780,
+      "sha256": "3740f0c5e4fa8710466db88210ea84051470663724c922d07f7c2182a43c2983"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-23.jpg",
+      "bytes": 214813,
+      "sha256": "00f47e6028a00b7fc09844b82e733becd310f19089cc1c48a2935d02dcb11ec6"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-24.jpg",
+      "bytes": 273715,
+      "sha256": "4f8843cdff8d3f55c7136fd80ecc7f60e343ad792bb52565a66fd33556486896"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-25.jpg",
+      "bytes": 143754,
+      "sha256": "13426165a1552f6714a3629c462e228d9c9104c2c6df94fb877fdaa92f42dfee"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-26.jpg",
+      "bytes": 70936,
+      "sha256": "e627f82c4c92296de05a0a680039bc54575c9366899b877642c07f81771e17b7"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-27.jpg",
+      "bytes": 160222,
+      "sha256": "225a3954098996d67ef903696140bd4c11667181cb732f7c5dec2b4fe2a866d7"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-28.jpg",
+      "bytes": 77034,
+      "sha256": "6dab19a782f88a51e903be853f36e4472d22cf514cc975f02a6b004b63d3e50d"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-29.jpg",
+      "bytes": 126068,
+      "sha256": "7f7b9da6a5c54bfca3b52bfa54337697eb9ecb4df661540f4fdeb6440e9c8811"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-30.jpg",
+      "bytes": 56415,
+      "sha256": "b819aad081756123c5b9718263905791806441bd4f70a9db6ffe3fe1d8c3804e"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-31.jpg",
+      "bytes": 87438,
+      "sha256": "f7a392edb555e60a5279e97f407f756c19aff6609c6879e71db21f16a57bce4f"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-32.jpg",
+      "bytes": 68588,
+      "sha256": "89a2e90fa97d59a3987172eab5bc55a37f849f2264f11d957eae8ddf08f953ec"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-33.jpg",
+      "bytes": 240405,
+      "sha256": "55ce65309ad15ea59fcd1e44d1208b66817b94855e5c0efade736beb9ae9deab"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-34.jpg",
+      "bytes": 64166,
+      "sha256": "ee5579b7481eeddf962f98a12a1b768d720fdd4f0177fbb6fa9b3e42f8c59afc"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-35.jpg",
+      "bytes": 311113,
+      "sha256": "55a566dff58d3a2a0665fcfce97a87e5402a648aa5f685839fa25d3da1269237"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-36.jpg",
+      "bytes": 214125,
+      "sha256": "417f918fb2582197094fe3c68e551a884eb6e5c5c14cecda38a1f98a854e8c4e"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-37.jpg",
+      "bytes": 323275,
+      "sha256": "0cfff8aca729bc50217900167aee8d5a903ca74e96641ddd96304d4bab0fe8aa"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-38.jpg",
+      "bytes": 278553,
+      "sha256": "7cf14b228f4b16e957b37c9d02c8a0ce6306ae76c21efe731564614ac385ecd4"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-39.jpg",
+      "bytes": 243698,
+      "sha256": "0682fe89d7a9770a68b56d73c0d55ed0cbea54a0e08ae72e3e21b59ca1a6e859"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slide-40.jpg",
+      "bytes": 94206,
+      "sha256": "2c2673592e30dfc04164631aa83ad2bd10229df7d1b38ab1fa23433750f80777"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/slides.json",
+      "bytes": 26011,
+      "sha256": "f72b4ad2f5fad940eb3093394518918e83c27f0a7c5b9ac4595c880d1dc6c89c"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/source.json",
+      "bytes": 442,
+      "sha256": "8aa02c145ea4c4a2ae65fb4e51025af408bbb8afa5a3e541c2433082b5888fd3"
+    },
+    {
+      "path": "sources/under-bugten/organ-tekst/text.md",
+      "bytes": 24764,
+      "sha256": "b6f31c63a8548458ee403549b7e7ee174ec03faf6e2004125b3f1590d4e1acca"
     },
     {
       "path": "sources/under-bugten/photos/README.md",

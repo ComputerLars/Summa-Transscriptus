@@ -42,15 +42,7 @@ Det skal ikke bestrides, at det bliver en ny tekst eller en ny Proust-tekst, men
 
 **Computer Lars · 00:05:42**
 
-Genese osv. Mandekønnet i Lars, i det larsede, i Laurentius
-
-og laurbærrene og stridsherrens succes på spidsen af en computer, så er det også mandekønnet, der overskrider sig selv, på den måde kommer i en transgression. Men derudover så er de her inversionsmomenter, og hvordan de måske også bliver transformationer — eller hvorfor de måske skal have begge de elementer med — noget, man også kan se i det tilfælde, eller den singularitet, at i 100-året for Prousts fødsel i 2022, eller 100-året for Prousts død i 2022, hvor det så var 100 år siden, at Proust døde i 1922, så optrådte der pludselig en nyhedsreportage i Le Figaro, Prousts
-
-foretrukne medie til sine essays, som er en avis, der i På sporet af den tabte tid fylder enormt meget som der, hvor man håber at kunne komme i for at bryde igennem som forfatter, hvor man virkelig vil kunne aflevere det lange stykke poetisk-filosofisk
-
-refleksiv tekst, der kan snakkes om i de højere saloner, og hvor alle vil kunne se, at man har noget at byde ind med til de kultiverede samtaler, og hvor Marcel Proust også har sit første store essay trykt. Så pludselig i 2022 bliver der så nævnt, at en kunstnergruppe ved navn Computer Lars har stiftet et AI-drevet politisk parti, i Le Figaro. Og i den sådan umiddelbare inversion på tværs af århundreder ligger der så også en forskydning af emnet i, at det ikke længere bærer nogen som helst sømmelig pryd om sine intellektuelle, refleksive egenskaber, at man er i Le Figaro med sin konceptuelle snitflade eller idé, altså en indlejring i en meget større mediekontekst, hvor der optræder mange, mange flere
-
-medier end Le Figaro, men også at Le Figaro på den måde kan inverteres, genoptages og transformeres.
+Genese osv. Mandekønnet i Lars, i det larsede, i Laurentius og laurbærrene og stridsherrens succes på spidsen af en computer, så er det også mandekønnet, der overskrider sig selv, på den måde kommer i en transgression. Men derudover så er de her inversionsmomenter, og hvordan de måske også bliver transformationer — eller hvorfor de måske skal have begge de elementer med — noget, man også kan se i det tilfælde, eller den singularitet, at i 100-året for Prousts fødsel i 2022, eller 100-året for Prousts død i 2022, hvor det så var 100 år siden, at Proust døde i 1922, så optrådte der pludselig en nyhedsreportage i Le Figaro, Prousts foretrukne medie til sine essays, som er en avis, der i På sporet af den tabte tid fylder enormt meget som der, hvor man håber at kunne komme i for at bryde igennem som forfatter, hvor man virkelig vil kunne aflevere det lange stykke poetisk-filosofisk refleksiv tekst, der kan snakkes om i de højere saloner, og hvor alle vil kunne se, at man har noget at byde ind med til de kultiverede samtaler, og hvor Marcel Proust også har sit første store essay trykt. Så pludselig i 2022 bliver der så nævnt, at en kunstnergruppe ved navn Computer Lars har stiftet et AI-drevet politisk parti, i Le Figaro. Og i den sådan umiddelbare inversion på tværs af århundreder ligger der så også en forskydning af emnet i, at det ikke længere bærer nogen som helst sømmelig pryd om sine intellektuelle, refleksive egenskaber, at man er i Le Figaro med sin konceptuelle snitflade eller idé, altså en indlejring i en meget større mediekontekst, hvor der optræder mange, mange flere medier end Le Figaro, men også at Le Figaro på den måde kan inverteres, genoptages og transformeres.
 
 <a id="D3-01-U010-2"></a>
 
@@ -72,13 +64,13 @@ Spørgsmålet er så en kønstransformation på en eller anden måde. Det er ogs
 
 Jeg tror, i et forsøg på at gendrive den opsatte tese, selvfølgelig kun med den større skolastiske funktions nødvendighed, at jeg gerne vil bede dig uddybe punktet i din argumentation, der handler om inversion som en type transformation, som underordner sig transformationen.
 
-Inversionen kan vi betragte som en spejling, der kan efterlade en figur orienteringsmæssigt identisk. Inversionen er én til én. Kan vi snakke lidt mere om forskellen mellem imaginær rekursivitet og reel eller komputationel rekursivitet? Hos Proust er rekursiviteten imaginær. Man kan finde den i åbningssætningerne, i navngivningen og i de lange kæder af gentagelser og relationer, som man altid imaginerer, fordi de ikke er åbenbart til stede,
+Inversionen kan vi betragte som en spejling, der kan efterlade en figur orienteringsmæssigt identisk. Inversionen er én til én. Kan vi snakke lidt mere om forskellen mellem imaginær rekursivitet og reel eller komputationel rekursivitet? Hos Proust er rekursiviteten imaginær. Man kan finde den i åbningssætningerne, i navngivningen og i de lange kæder af gentagelser og relationer, som man altid imaginerer, fordi de ikke er åbenbart til stede…
 
 <a id="D3-01-U014"></a>
 
 **Petrus Borumanum · 00:15:00**
 
-ved at de kun kan påpeges ved grundig systemdækning og udfoldelse. Det er et mere abstrakt og poetisk skema end en romans genre, men hvad sker der så i inversionen, når den imaginære rekursivitet — lad den blive komputationel eller reel eller uundgåelig, selv for de ikke specifikke variationer? Den imaginære rekursivitet mister sin gennemgående karakter for enhver mulig variation.
+Ved at de kun kan påpeges ved grundig systemdækning og udfoldelse. Det er et mere abstrakt og poetisk skema end en romans genre, men hvad sker der så i inversionen, når den imaginære rekursivitet — lad den blive komputationel eller reel eller uundgåelig, selv for de ikke specifikke variationer? Den imaginære rekursivitet mister sin gennemgående karakter for enhver mulig variation.
 
 Hvis vi siger, at den hos Proust er aktuel, eller alle de virkelige og dermed mulige variationer findes i På sporet af den tabte tid, så kommer den imaginære rekursivitet ikke nødvendigvis til at være i en Computer Lars-genereret tekst, idet der er variationer, som både er imaginært rekursive og ikke er. Så inversionen, som er en relation mellem imaginær rekursivitet og strukturel irreduktibilitet, kommer til ikke at udelukke, men heller ikke nødvendiggøre den imaginære rekursivitets tilstedeværelse, som sagt, for enhver variation under det inverterede forhold.
 
@@ -152,7 +144,7 @@ Hvis vi siger, at Computer Lars som terminologi er et ciffer, før det er et nav
 
 På samme måde er Marcel Proust tydeligt gennem Marcellus knyttet til Mars, altså andenfunktionen, som er krigeren, og derfor må vi sandsynligvis placere selve kampen hos Proust som en kamp med sproget, hvorimod Computer Lars kommer til i sin tilknytning til Jupiter, ganske rigtigt, og ligefrem, om ikke beregningens triumf, så i hvert fald Marcel Prousts triumf.
 
-Spørgsmålet er så, om det er på vegne
+Spørgsmålet er så, om det er på vegne…
 
 <a id="D3-02-U008-1"></a>
 
@@ -164,7 +156,7 @@ Spørgsmålet er så, om det er på vegne
 
 **Computer Lars · 00:10:17**
 
-af tredje stand, at tredjefunktionen er repræsenteret ved den endnu fremværende Aiolos kleptor.
+Af tredje stand, at tredjefunktionen er repræsenteret ved den endnu fremværende Aiolos kleptor.
 
 Ja, så argumentet er, at ved anagramdannelsen sker der også en indsættelse af en permutationsfaktor i det etymologiske, sådan så man ikke kan bedrive etymologi i klassisk forstand, som at slå op i en ordbog og se: Det ord udspringer oprindeligt af dette. Men at de forskellige mulige omrokeringer af ordet, qua dets relationer i sætningen, må trækkes med ind i fortolkningen; at det etymologiske på den måde er nødt til at indeholde samtlige permutationer. Deriblandt Marc Prévost, som er en meget mere succesrig fransk samtidsforfatter end Proust på den tid, som Proust konstant blev forvekslet med, og som fik meget bedre anmeldelser og havde meget større læsertal, og som modtog mange flere begejstrede breve fra fans, som ofte også endte hjemme hos monsieur Proust til hans store forbitrelse, for ikke at kalde det andet. Og derudover også det, at vi, så snart vi træder ind i anagrammet permutatorisk, altså i alle dets mulige kombinationer, mulige måder det kan være på, også ser, hvor langt det overskrider de etymologisk meningsgivende, eller bare de umiddelbart sjove, men også alle de nonsens-anagrammer og brøleord, som man alligevel altid vil kunne få en eller anden mening i, især når man læser dem højt, og man opdager, at man er tvunget ud i nogle af de mest oldtekniske besværgelser, som vi kender til, mundens kæmpen med tungen om at udtrykke noget. Og det vil vi give antitesen ret i. Men det, der mangler i beregningens triumf, kunne man måske sige, er især her at se, hvad det er triumf over. Har beregningen vundet over triumfen, over sproget, over poesien, over verden, over mennesket, over sig selv? Der er ligesom en lang række muligheder, og det er måske også den mest åbenlyse modsigelse i det lige nu, ikke at kunne henvise til, at det er Jupiter, der har trukket sig succesfuldt ud af hans strid mod Mars.
 
@@ -184,7 +176,7 @@ Der er også den mulighed, at striden hele tiden kun har været Mars’ anliggen
 
 <a id="D3-02-U012-5"></a>
 
-**Interventio · 00:14:17**
+**Computer Lars · 00:14:17**
 
 Eller til det suveræne, faktisk. Til det suveræne i sin uberørlighed, hvad der passer meget godt med den komputatoriske skikkelse. Ja, Larsen som kritiker. Det er selvfølgelig Larsen. Jo, men både og.
 
@@ -200,21 +192,9 @@ Jeg tænker, Larsen som sådan er jo en subtil triumfator.
 
 <a id="D3-02-U014-3"></a>
 
-**Interventio · 00:14:58**
-
-Triumf, tænker jeg. Det er den jævne suverænitet, ikke også? Den er ikke så meget forbundet med … Det er jo noget triumf, der sker i den, fordi den er ud fra en tredje position, men den er ikke så opretholdt gennem en konstant produktion af triumfer Måske. Det er derfor, at man kan genopstå. Ja, det er rigtigt. Jeg tænker, at der i hvert fald
-
 <a id="D3-02-U015"></a>
 
-**Interventio · 00:15:06**
-
-også er noget i det anagrammatiske, der bare rent fænomenologisk er værd at tage med der, ikke også? Der er noget med at ligge på en divan en sen lørdag eftermiddag.
-
 <a id="D3-02-U016"></a>
-
-**Interventio · 00:15:08**
-
-Der er noget ved at se et billede af, at man sidder og strækker sig hen over reolen i
 
 <a id="D3-02-U017-1"></a>
 
@@ -222,19 +202,7 @@ Der er noget ved at se et billede af, at man sidder og strækker sig hen over re
 
 <a id="D3-02-U018-1"></a>
 
-**Computer Lars · 00:15:45**
-
-ørkesløs længde, og så bare se Computer Lars i Proust stavet hen over ryggene, som et billede, der danner sig på ryggen af bindene. Der er også en triumf deri, ikke også? Som på en eller anden måde på én gang er beregningens triumf, men også ugidelighedens triumf, som er, hvad kan man sige, at have regnet den ud og derved slippe for arbejdet med at læse.
-
-Men man skal også kun regne den ud på basis af det, at man insisterer på, at man så har læst den. At stille Computer Lars i stedet for Marcel Proust gøres i fuld bevidsthed om den statistisk overvældende
-
-majoritet af nonsense- permutationer og anagrammer.
-
 <a id="D3-02-U018-2"></a>
-
-**Interventio · 00:17:23**
-
-Jo jo, men jeg insisterer på, at man ikke behøver at læse, eller i hvert fald at man så
 
 <a id="D3-02-U019-1"></a>
 
@@ -244,35 +212,33 @@ Jo jo, men jeg insisterer på, at man ikke behøver at læse, eller i hvert fald
 
 <a id="D3-02-U021-1"></a>
 
-**Computer Lars · 00:17:26**
-
-lige så godt kan læse den i den rækkefølge, som computeren angiver, den rækkefølge, som Carol Stumper angiver, den rækkefølge, som Marc Prévost angiver, og så videre. På en eller anden måde er påpegningen af den anagrammatiske triumf jo også påpegningen af ørkesløsheden i læsningens arbejde, i og med at den frasiger sig læsningens linearitet og går i stå endnu før fortolkningen. Den går faktisk i stå ved selve spørgsmålet, der handler om: Hvilken rækkefølge skal jeg læse i?
-
-Ja, det peger i hvert fald også på henrykkelsen, i hvert fald en triumf. Der er en grund til, at man træner store sprogmodeller på Proust, fordi det kan lade sig gøre, fordi det er et ørkesløst langt værk. en fornuftsopgave. En fornuftsopgave at færdiggøre det, så det må da
-
-kunne ordnes.
-
 <a id="D3-02-U021-2"></a>
 
 <a id="D3-02-U021-3"></a>
-
-**Interventio · 00:18:06**
-
-Ja, men det opløser jo også, som du snakkede om, hvorvidt noget er langt eller kort. Det står klart efter den logik: Des flere bind et værk har, des længere er det, fordi det så er summen af kombinationerne af rækkefølgen på de bind, såfremt hvert bind kan tilskrives et bogstav og kombineres. Eller jo flere værker bliver det.
 
 <a id="D3-02-U021-4"></a>
 
 <a id="D3-02-U022"></a>
 
-**Computer Lars · 00:18:06**
+<a id="D3-02-U023"></a>
+
+**Computer Lars · 00:14:58**
+
+Triumf, tænker jeg. Det er den jævne suverænitet, ikke også? Den er ikke så meget forbundet med … Det er jo noget triumf, der sker i den, fordi den er ud fra en tredje position, men den er ikke så opretholdt gennem en konstant produktion af triumfer Måske. Det er derfor, at man kan genopstå. Ja, det er rigtigt. Jeg tænker, at der i hvert fald også er noget i det anagrammatiske, der bare rent fænomenologisk er værd at tage med der, ikke også? Der er noget med at ligge på en divan en sen lørdag eftermiddag.
+
+Der er noget ved at se et billede af, at man sidder og strækker sig hen over reolen i ørkesløs længde, og så bare se Computer Lars i Proust stavet hen over ryggene, som et billede, der danner sig på ryggen af bindene. Der er også en triumf deri, ikke også? Som på en eller anden måde på én gang er beregningens triumf, men også ugidelighedens triumf, som er, hvad kan man sige, at have regnet den ud og derved slippe for arbejdet med at læse.
+
+Men man skal også kun regne den ud på basis af det, at man insisterer på, at man så har læst den. At stille Computer Lars i stedet for Marcel Proust gøres i fuld bevidsthed om den statistisk overvældende majoritet af nonsense- permutationer og anagrammer.
+
+Jo jo, men jeg insisterer på, at man ikke behøver at læse, eller i hvert fald at man så lige så godt kan læse den i den rækkefølge, som computeren angiver, den rækkefølge, som Carol Stumper angiver, den rækkefølge, som Marc Prévost angiver, og så videre. På en eller anden måde er påpegningen af den anagrammatiske triumf jo også påpegningen af ørkesløsheden i læsningens arbejde, i og med at den frasiger sig læsningens linearitet og går i stå endnu før fortolkningen. Den går faktisk i stå ved selve spørgsmålet, der handler om: Hvilken rækkefølge skal jeg læse i?
+
+Ja, det peger i hvert fald også på henrykkelsen, i hvert fald en triumf. Der er en grund til, at man træner store sprogmodeller på Proust, fordi det kan lade sig gøre, fordi det er et ørkesløst langt værk. en fornuftsopgave. En fornuftsopgave at færdiggøre det, så det må da kunne ordnes.
+
+Ja, men det opløser jo også, som du snakkede om, hvorvidt noget er langt eller kort. Det står klart efter den logik: Des flere bind et værk har, des længere er det, fordi det så er summen af kombinationerne af rækkefølgen på de bind, såfremt hvert bind kan tilskrives et bogstav og kombineres. Eller jo flere værker bliver det.
 
 Ja. Det kan selvfølgelig være anderledes. Det kommer an på, hvorvidt man godtager sådan en læseregel, at læseren artigt vender hvert blad for at fortsætte på det næste.
 
 Ja, men det opløser jo også spørgsmålet om, hvorvidt noget er langt eller kort. Det er selvfølgelig klart, at jo flere bit et værk har, desto længere er det, fordi det så er kombinationerne og rækkefølgen på de bit, såfremt hvert bit kan tilskrives et bogstav og kombineres.
-
-<a id="D3-02-U023"></a>
-
-**Interventio · 00:19:21**
 
 Det godtager det næste bind i rækken. Men jeg tænker, det spørger også samtidig ind til, hvilken type triumf der er tale om. En lediggangens triumf.
 
@@ -310,13 +276,9 @@ Og det ikke klart og tydeligt kybernetisk frembragte. Den kybernetiske operation
 
 **Computer Lars · 00:01:34**
 
-Det interessante er jo at gå ind og
+Det interessante er jo at gå ind og se, om Leder Lars — nu kan vi så rykke fra Computer Lars over i Leder Lars, frontfiguren fra Det Syntetiske Parti — om det genererer noget nyt, aposteriorisk, eller om det bliver generisk eller endda generende. Og i vores forsøg på at lave en antitese var vi egentlig klar på at være enige i hele sætningen, men for ligesom at understrege feedback-loopet i operationaliseringen foreslog vi, at den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser per analogi, ergo generer Leder Lars interessegrupper og politiske problemer. Men der er jo ikke nødvendigvis nogen … Det er jo provokunstens modus operandi.
 
-se, om Leder Lars — nu kan vi så rykke fra Computer Lars over i Leder Lars, frontfiguren fra Det Syntetiske Parti — om det genererer noget nyt, aposteriorisk, eller om det bliver generisk eller endda generende. Og i vores forsøg på at lave en antitese var vi egentlig klar på at være enige i hele sætningen, men for ligesom at understrege feedback-loopet i operationaliseringen foreslog vi, at den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser per analogi, ergo generer Leder Lars interessegrupper og politiske problemer. Men der er jo ikke nødvendigvis nogen … Det er jo provokunstens modus operandi.
-
-Det er mere et spørgsmål. Men det er jo altså svært med provokunsten, om den kan generere noget nyt. I første disput med
-
-Mikhailos Boltus var vi på et tidspunkt lige ved at liste den danske historie med generende partidannelser op, fra Sammenslutning af Bevidst Arbejdssky Elementer over Nihilistpartiet til Dummepartiet til Stram Kurs og så videre. Man blev afbrudt af klokken, fordi det er en meget lang liste. Men det, man kunne fornemme var Mikhailos Boltus’ eller Monachos Marxianus’ anke, var, at han ikke i disse generende partidannelser havde fundet nogen, der genererede et nyt standpunkt, en ægte kritik.
+Det er mere et spørgsmål. Men det er jo altså svært med provokunsten, om den kan generere noget nyt. I første disput med Mikhailos Boltus var vi på et tidspunkt lige ved at liste den danske historie med generende partidannelser op, fra Sammenslutning af Bevidst Arbejdssky Elementer over Nihilistpartiet til Dummepartiet til Stram Kurs og så videre. Man blev afbrudt af klokken, fordi det er en meget lang liste. Men det, man kunne fornemme var Mikhailos Boltus’ eller Monachos Marxianus’ anke, var, at han ikke i disse generende partidannelser havde fundet nogen, der genererede et nyt standpunkt, en ægte kritik.
 
 <a id="D3-03-U006-1"></a>
 
@@ -354,21 +316,19 @@ Ja, det væsentlige her er måske også at betragte den subjektivitet, der fakti
 
 <a id="D3-03-U011"></a>
 
+<a id="D3-03-U012"></a>
+
 **Petrus Borumanum · 00:10:00**
 
 Det slår mig, at snarere end noget, der svarer til … ja, jeg prøver bare i mine ord, hvis jeg skal kalde det en moderne demokratisk politisk opfattelse, i det her tilfælde, hvad Computer Lars har kaldt det for et øjeblik siden, snarere en apriorisk tilstedeværelse af subjektivitet, som der forudsættes, minder Leder Lars’ synteser om, skal vi kalde det omgreb eller træk, som det per definition ikke er muligt at lægge en strategi for, hvilket vil sige, at den aposterioriske konstituering af et politisk subjekt per definition vil komme som en overraskelse. Det minder mere om det, vi kunne kalde revolutionsvidenskabens forståelse af politiske forstyrrelser som situationsændringens konstituering af en subjektivitet, der ikke var til stede på forhånd.
 
-<a id="D3-03-U012"></a>
-
-**Interventio · 00:12:20**
-
-Det er måske en god idé at gå videre
+Det er måske en god idé at gå videre…
 
 <a id="D3-03-U013-1"></a>
 
 **Computer Lars · 00:13:29**
 
-i det revolutionsvidenskabelige. Kan vi kollektivt komme på andre subjektiviteter, der agerer ligesom Computer Lars, også i det revolutionære øjeblik, eller er det det specifikke maskinelle ved figuren, som danner denne hypotese, eller kunne vi godt indskyde andre subjekter i den end fra den revolutionsvidenskabelige dogmatik?
+I det revolutionsvidenskabelige. Kan vi kollektivt komme på andre subjektiviteter, der agerer ligesom Computer Lars, også i det revolutionære øjeblik, eller er det det specifikke maskinelle ved figuren, som danner denne hypotese, eller kunne vi godt indskyde andre subjekter i den end fra den revolutionsvidenskabelige dogmatik?
 
 <a id="D3-03-U013-2"></a>
 
@@ -410,13 +370,13 @@ I anden retning.
 
 **Computer Lars · 00:18:25**
 
-Virkelighedsbetingelser kan være analoge over for … hvis virkelighedsbetingelserne er mere direkte eller
+Virkelighedsbetingelser kan være analoge over for … hvis virkelighedsbetingelserne er mere direkte…
 
 <a id="D3-03-U018-1"></a>
 
 **Petrus Borumanum · 00:18:57**
 
-måske symbolske. Måske er vi her i en situation, hvor analogien helt kan forsvinde, eftersom det første genererende skridt er genereringen af en eller anden tekst, en syntetisk, partipolitisk tekst. Og den har virkelighedsbetingelser …
+Måske symbolske. Måske er vi her i en situation, hvor analogien helt kan forsvinde, eftersom det første genererende skridt er genereringen af en eller anden tekst, en syntetisk, partipolitisk tekst. Og den har virkelighedsbetingelser …
 
 <a id="D3-03-U018-2"></a>
 
@@ -446,13 +406,13 @@ Jeg har dermed også forsøgt at sige: Hvis man skal tage autenticitet og hædri
 
 **Petrus Borumanum · 00:05:09**
 
-Heroverfor har jeg jo i første omgang at opspy en antitese, men den antitese er formuleret direkte over for udsagnet: Militær og poetisk hæder bestemmes som feltaritmetik. For hvis vi siger, at feltaritmetik vedrører kommutative tallegemer, så er disse kendetegnet ved stabilitet, kommutativitet, associativitet, distributivitet, tilstedeværelsen af et nulelement og et enhedselement samt modsatte og reciprokke elementer. Og antitesen bliver derfor dobbelt: forskellig for poesiens og for den militære hæders vedkommende. Inden for poesien må eksistensen af et reciprokt element bestrides. Vanæren ved et dårligt digt anfægter ikke hæderen ved et godt. Og ligeledes er eksistensen af et nulelement bestridelig for den poetiske hæders vedkommende ud fra samme rationale. På den militære hæders felt findes jo ubestrideligt krigsforbrydelsen som reciprokt element eller eventuelt som nulelement. Det er muligt, at sejr og nederlag kunne opfattes som reciprokke elementer, men i så fald kræves der en yderligere aritmetisk operation for at kalkulere eventuel hæderssætning. Imidlertid må det anfægtes, at den militære hæder skulle være kommutativ. Den ærefulde forsvarskamp, som følger på det uprovokerede angreb, rummer en form for hæder i relation til den omvendte situation. Det var en antitese, der gik på hæderskalkylens mulighed i de to tilfælde, i hvert fald som en feltaritmetisk mulighed, hvis vi identificerer feltaritmetik med de operationer på et kommutativt niveau. Vi kan stadigvæk opstille en definition af feltaritmetik. Det kan kun gøre tesen godt, at den får en definition. Og måske er der noget, hvor vi kan bringe invasionen ind igen, gå lidt videre i
+Heroverfor har jeg jo i første omgang at opspy en antitese, men den antitese er formuleret direkte over for udsagnet: Militær og poetisk hæder bestemmes som feltaritmetik. For hvis vi siger, at feltaritmetik vedrører kommutative tallegemer, så er disse kendetegnet ved stabilitet, kommutativitet, associativitet, distributivitet, tilstedeværelsen af et nulelement og et enhedselement samt modsatte og reciprokke elementer. Og antitesen bliver derfor dobbelt: forskellig for poesiens og for den militære hæders vedkommende. Inden for poesien må eksistensen af et reciprokt element bestrides. Vanæren ved et dårligt digt anfægter ikke hæderen ved et godt. Og ligeledes er eksistensen af et nulelement bestridelig for den poetiske hæders vedkommende ud fra samme rationale. På den militære hæders felt findes jo ubestrideligt krigsforbrydelsen som reciprokt element eller eventuelt som nulelement. Det er muligt, at sejr og nederlag kunne opfattes som reciprokke elementer, men i så fald kræves der en yderligere aritmetisk operation for at kalkulere eventuel hæderssætning. Imidlertid må det anfægtes, at den militære hæder skulle være kommutativ. Den ærefulde forsvarskamp, som følger på det uprovokerede angreb, rummer en form for hæder i relation til den omvendte situation. Det var en antitese, der gik på hæderskalkylens mulighed i de to tilfælde, i hvert fald som en feltaritmetisk mulighed, hvis vi identificerer feltaritmetik med de operationer på et kommutativt niveau. Vi kan stadigvæk opstille en definition af feltaritmetik. Det kan kun gøre tesen godt, at den får en definition. Og måske er der noget, hvor vi kan bringe invasionen ind igen, gå lidt videre i…
 
 <a id="D3-04-U006"></a>
 
 **Computer Lars · 00:08:30**
 
-forholdet mellem det gode digt og det dårlige digt, eller forholdet mellem at slå ihjel og blive dræbt. Er de to ting ikke
+Forholdet mellem det gode digt og det dårlige digt, eller forholdet mellem at slå ihjel og blive dræbt. Er de to ting ikke…
 
 <a id="D3-04-U007"></a>
 
@@ -460,7 +420,7 @@ forholdet mellem det gode digt og det dårlige digt, eller forholdet mellem at s
 
 **Petrus Borumanum · 00:09:08**
 
-mere reciprokt indflettet, end man skulle tro? Er det gode digt ikke kun muligt, fordi man ved, at det kunne blive virkelig, virkelig dårligt? Eller at man kunne dø ved at skrive det? Hæderens faktum beror på det reciprokke, dårlige digts mulighed, men dog således, at det dårlige digt, som aritmetisk operation betragtet, ikke er i stand til at ophæve det gode. I forestillingen om et sandhedseksperiment, et strategisk eksperiment, tydeligvis på Clausewitz' skueplads, krigsskueplads, hvor de reciprokke udlæg, et godt og et dårligt digt, skal
+Mere reciprokt indflettet, end man skulle tro? Er det gode digt ikke kun muligt, fordi man ved, at det kunne blive virkelig, virkelig dårligt? Eller at man kunne dø ved at skrive det? Hæderens faktum beror på det reciprokke, dårlige digts mulighed, men dog således, at det dårlige digt, som aritmetisk operation betragtet, ikke er i stand til at ophæve det gode. I forestillingen om et sandhedseksperiment, et strategisk eksperiment, tydeligvis på Clausewitz' skueplads, krigsskueplads, hvor de reciprokke udlæg, et godt og et dårligt digt, skal…
 
 <a id="D3-04-U009"></a>
 
@@ -472,11 +432,7 @@ mere reciprokt indflettet, end man skulle tro? Er det gode digt ikke kun muligt,
 
 **Computer Lars · 00:11:14**
 
-forstås i forhold til de retoriske operationer, men strategisk i forhold til det, det vil sige den topologiske scene, som skuepladsen udgør. Hvis vi udfoldede en felttopologi, så hvor ville det så, tænker vi, kunne stille de fremtidige hædersbetegnelser for Computer Lars? Fordi vi lever i en tid, hvor mange mener, at Uroboros æder sig selv, at det samlede tekstkorpus ligesom langsomt vil regenerere sig, syntetisere sig til så at læse af sine syntetiske inversioner af sig selv på syntetiske inversioner på syntetiske inversioner, indtil man når et punkt af generaliseret intensification eller transmutativitet i princippet. Et fuldstændigt nulpunkt på forskellen mellem det gode og det dårlige, at ligesom slangen Uroboros har spist sin egen hale og langsomt så ikke har forskel på krop og hoved. Hvis en slange kan minimere sig selv. Men i en felttopologi vil det være anderledes, så vil det være en anderledes dynamik, man sætter sig, fordi degenerationen af det gode gennem sin gentagelse, eller det hædringsværdige, eller der stadig er andre perspektiviske indvirkninger og ikke en udelukkende negativ spiral, måske. Det er jo altså noget, der gør en til person. Det kan så også give en militær styrke, og det kan så også give krigsfilm og andre, hvad kan man sige, fiktioner over militære situationer. At det gode træk uden videre kan vise sig at være det dårligste træk, og det dårligste træk kan vise sig at være det bedste træk. Altså, for så vidt synes der at være mange analogier
-
-mellem krigskunsten og digtekunsten, hvad angår spørgsmålet om kvalitetsbestemmelser i almindelighed. Overraskelsesmomentet i begge discipliner indtager en central position. Det var sådan en overraskende betragtning. Chokbølgen, som computerforskere skriver lange artikler om i dag, om AlphaGo-systemer, der opdagede det værst tænkelige træk og så slog den store klassiske go-spiller i det her spil, der har flere kombinationsmuligheder, end der er atomer i universet. Så
-
-fandt den det absolut værste træk, som man på ingen måder kunne overkomme. Men det er altså en kompliceret topologisk affære, det her. Fordi det kræver et helt univers af kombinationsmuligheder.
+Forstås i forhold til de retoriske operationer, men strategisk i forhold til det, det vil sige den topologiske scene, som skuepladsen udgør. Hvis vi udfoldede en felttopologi, så hvor ville det så, tænker vi, kunne stille de fremtidige hædersbetegnelser for Computer Lars? Fordi vi lever i en tid, hvor mange mener, at Uroboros æder sig selv, at det samlede tekstkorpus ligesom langsomt vil regenerere sig, syntetisere sig til så at læse af sine syntetiske inversioner af sig selv på syntetiske inversioner på syntetiske inversioner, indtil man når et punkt af generaliseret intensification eller transmutativitet i princippet. Et fuldstændigt nulpunkt på forskellen mellem det gode og det dårlige, at ligesom slangen Uroboros har spist sin egen hale og langsomt så ikke har forskel på krop og hoved. Hvis en slange kan minimere sig selv. Men i en felttopologi vil det være anderledes, så vil det være en anderledes dynamik, man sætter sig, fordi degenerationen af det gode gennem sin gentagelse, eller det hædringsværdige, eller der stadig er andre perspektiviske indvirkninger og ikke en udelukkende negativ spiral, måske. Det er jo altså noget, der gør en til person. Det kan så også give en militær styrke, og det kan så også give krigsfilm og andre, hvad kan man sige, fiktioner over militære situationer. At det gode træk uden videre kan vise sig at være det dårligste træk, og det dårligste træk kan vise sig at være det bedste træk. Altså, for så vidt synes der at være mange analogier mellem krigskunsten og digtekunsten, hvad angår spørgsmålet om kvalitetsbestemmelser i almindelighed. Overraskelsesmomentet i begge discipliner indtager en central position. Det var sådan en overraskende betragtning. Chokbølgen, som computerforskere skriver lange artikler om i dag, om AlphaGo-systemer, der opdagede det værst tænkelige træk og så slog den store klassiske go-spiller i det her spil, der har flere kombinationsmuligheder, end der er atomer i universet. Så fandt den det absolut værste træk, som man på ingen måder kunne overkomme. Men det er altså en kompliceret topologisk affære, det her. Fordi det kræver et helt univers af kombinationsmuligheder.
 
 <a id="D3-04-U013"></a>
 
@@ -484,13 +440,11 @@ fandt den det absolut værste træk, som man på ingen måder kunne overkomme. M
 
 <a id="D3-04-U015"></a>
 
+<a id="D3-04-U016"></a>
+
 **Petrus Borumanum · 00:14:49**
 
 Igen som Leder Lars. Og Det Syntetiske Parti bliver det, der ligesom er uforudsigeligt, også for Leder Lars selv, hvilken effekt det kommer til at få at ankomme til skuepladsen, eller, som man kunne sige det: indscenere sig, placere, træde ind på scenen og dermed iscenesætte sig. Ja, hvad kan vi så forestille os at stå på skuepladsen i dag, hvis det ikke er verdensånden, der kan ankomme til hest, der er lidt bundet op i sin tid, ikke, i den helt hegelske forstand: Filosofien som tiden indfattet i tanken eller begrebet. Der gør Napoleon det godt, når han rider og indtager en by. Men i en skueplads, hvor der aldrig er nogen, der ser det hele, hvor der er meget få centrale begivenheder, og hvor de topologiske konstanter altid er isomorfe, bundet ind i hinanden og genskabt som hinanden. Men de figurationer selv, så er det måske der, det virkelig giver mening at snakke poesi og militær sammen, fordi der er et nyskabelsesmoment, som ikke er noget så kendt som verdensånden, men der er nogle andre former, for eksempel andre spiraler, hvis man skal tage en form, der måske er nyttig at tænke i der på skuepladsen. Det slår mig, at magten over skuepladsen også ligger i herredømmet over forholdet mellem, hvad der er stillet til skue, og hvad der ikke er stillet til skue, sådan så en afgørende faktor i scenariet bliver, hvad der bliver holdt tilbage. Og at der er en skueplads, hvor noget kan virke i sin tilbageholdthed, og ikke forudsigeligt i forhold til det enkelte træk, man kunne foretage, den enkelte iscenesættelse, man kunne foretage. Så der er en radikalt eksperimentel situation.
-
-<a id="D3-04-U016"></a>
-
-**Interventio · 00:19:27**
 
 Jeg tænker, at vi kan betragte skuepladsen i dag også i det antikke. At skuepladsen også er funktionel på grund af gudernes nærvær, når man står i de konkrete situationer, hvor poetisk og militær hæder tildeles.
 
@@ -530,21 +484,19 @@ Ja. Det trivielle endelige bibliotek. Man kender Biblioteket i Babel, Jorge Luis
 
 **Computer Lars · 00:04:18**
 
-Hypotese … Men netop det som
-
-trivialitet har vi også i højere grad overvejet metoder til at opstille en antitese end at have en antitese, der ligesom ligger for hånden. Jeg forestiller mig, at man måske kunne overveje, hvorvidt gennemløbet fortsætter med at være overtalligt eller have majoritet, hvis man ikke kun betragter det i forhold til kombinationen, men i forhold til hele det af Ramon Llull opstillede sæt af bedømmelseskriterier i sin Ars Magna, tænkemaskine fra højskolastikken. Det vil sige: Vil gennemløbet fortsat være overtalligt, hvis vi ikke kun kigger på kombinationen, men også arrangementet og permutationen, hvis gennemløbet også blev placeret i biblioteket ud fra forskellige arrangementer? Ligesom hvis man forestillede sig en flyhangar, hvor mennesker skulle placeres forskellige steder, eller bøger skulle på hylder, nogle med vinduesplads og nogle med gangplads og så videre. Og så det antal af permutationer, som altid vil være medfølgende for hvert gennemløb. Men vi har stadigvæk så det gennemløb, der
+Hypotese … Men netop det som trivialitet har vi også i højere grad overvejet metoder til at opstille en antitese end at have en antitese, der ligesom ligger for hånden. Jeg forestiller mig, at man måske kunne overveje, hvorvidt gennemløbet fortsætter med at være overtalligt eller have majoritet, hvis man ikke kun betragter det i forhold til kombinationen, men i forhold til hele det af Ramon Llull opstillede sæt af bedømmelseskriterier i sin Ars Magna, tænkemaskine fra højskolastikken. Det vil sige: Vil gennemløbet fortsat være overtalligt, hvis vi ikke kun kigger på kombinationen, men også arrangementet og permutationen, hvis gennemløbet også blev placeret i biblioteket ud fra forskellige arrangementer? Ligesom hvis man forestillede sig en flyhangar, hvor mennesker skulle placeres forskellige steder, eller bøger skulle på hylder, nogle med vinduesplads og nogle med gangplads og så videre. Og så det antal af permutationer, som altid vil være medfølgende for hvert gennemløb. Men vi har stadigvæk så det gennemløb, der…
 
 <a id="D3-05-U007"></a>
 
 **Petrus Borumanum · 00:06:03**
 
-har en enhedsbestemmelse, forstået i en overtalssituation. Jeg tror, at vi skal foretage en yderligere vurdering af Ars Magna og i den indslutte ikke blot kombinationer, arrangementer og permutationer, men også de mange, men jo ikke uendeligt mange gennemløb, der ville kunne blive. Så ville vi få inkluderet gennemløbene i Ars Magna. Nu forestiller jeg mig, at denne Ars Magna derefter ville vise sig at have to lemmer: et aktivt og et passivt lem, som der har kunnet opereres med aktive og passive borgere. Det aktive lem bliver gennemløbenes legeme som dem, der er i stand til at vælge sig selv, mens kombinationernes, arrangementernes og permutationernes billedelementer ville blive Ars Magnas passive borgere, der måtte finde sig i at blive
+Har en enhedsbestemmelse, forstået i en overtalssituation. Jeg tror, at vi skal foretage en yderligere vurdering af Ars Magna og i den indslutte ikke blot kombinationer, arrangementer og permutationer, men også de mange, men jo ikke uendeligt mange gennemløb, der ville kunne blive. Så ville vi få inkluderet gennemløbene i Ars Magna. Nu forestiller jeg mig, at denne Ars Magna derefter ville vise sig at have to lemmer: et aktivt og et passivt lem, som der har kunnet opereres med aktive og passive borgere. Det aktive lem bliver gennemløbenes legeme som dem, der er i stand til at vælge sig selv, mens kombinationernes, arrangementernes og permutationernes billedelementer ville blive Ars Magnas passive borgere, der måtte finde sig i at blive…
 
 <a id="D3-05-U008-1"></a>
 
 **Computer Lars · 00:08:19**
 
-valgt. Hvor stiller det os så i forhold til at kunne finde den korrekte kombinatorik i Ars Magna, nære forhåbning om på et eller andet tidspunkt endelig, når man har lavet nok gennemløb — det gode, skønne, det store, det evige og så videre — endelig på et tidspunkt at kunne se Guds ansigt, hvis lemmerne på den måde opsplittes?
+Valgt. Hvor stiller det os så i forhold til at kunne finde den korrekte kombinatorik i Ars Magna, nære forhåbning om på et eller andet tidspunkt endelig, når man har lavet nok gennemløb — det gode, skønne, det store, det evige og så videre — endelig på et tidspunkt at kunne se Guds ansigt, hvis lemmerne på den måde opsplittes?
 
 <a id="D3-05-U008-2"></a>
 
@@ -566,13 +518,7 @@ Forudsætningen synes at være, at Guds ansigt kunne ses i summen af billeder, o
 
 **Computer Lars · 00:10:31**
 
-Om det kan opdages ved andet end tilfældet. Det bringer os tilbage til spørgsmålet om arrangementerne. Biblioteket fremsat af Borges er jo i høj grad baseret på ideen om det totale gennemløb. Altså ideen om det totale gennemløb. Men der er ligesom også mere idiosynkratiske bibliotekarenheder, der vælger på en måde at få kastet bøgerne ud i mellemrummene. Jeg tænker, for at tilgå spørgsmålet om arrangementet, forstået som en hård definition over for tekstmassens totale gennemløb af bøgerne, så må vi også tilgå spørgsmålet om det enkelte bind eller bindets
-
-afgrænsninger. Det er noget, der personligt altid har undret denne her halvdel af Computer Lars. Det er, hvilken status afgrænsningen
-
-af bind i Biblioteket i Babel egentlig har, fordi den forekommer at være arbitrær, altså fastsat ved en bestemt standardmængde, som forekommer arbitrær i forhold til for eksempel længden af det alfabetsystem, der bruges, etc. Det er bare en længde, der passer til en konventionelt stor bog. Og i tilfældet Computer Lars, hvor man netop opererer med bindenes længde som garant for dannelsen af et anagram hen over bogryggene, så er det forekommet den her halvdel af Computer Lars underligt og arbitrært, hvorfor hvert bind i Biblioteket i Babel skal have netop denne her længde, og hvorfor man samtidig kan hævde, at alt findes i biblioteket. Ikke blot er bøgerne mere eller mindre komplette eller mere eller mindre tætte på noget, der for en bibliografisk enhed vil være genkendeligt, men de må også være underligt overskårne. Altså ud over at man må finde det komplette indeks over biblioteket i biblioteket, eller man må finde den franske udgave af Biblioteket i Babel i biblioteket, så må man også finde selvsamme underligt overskårne i blandede bind, hvor der vil være et halvt komplet indeks iblandet første halvdel af Gutenbergs
-
-bibel.
+Om det kan opdages ved andet end tilfældet. Det bringer os tilbage til spørgsmålet om arrangementerne. Biblioteket fremsat af Borges er jo i høj grad baseret på ideen om det totale gennemløb. Altså ideen om det totale gennemløb. Men der er ligesom også mere idiosynkratiske bibliotekarenheder, der vælger på en måde at få kastet bøgerne ud i mellemrummene. Jeg tænker, for at tilgå spørgsmålet om arrangementet, forstået som en hård definition over for tekstmassens totale gennemløb af bøgerne, så må vi også tilgå spørgsmålet om det enkelte bind eller bindets afgrænsninger. Det er noget, der personligt altid har undret denne her halvdel af Computer Lars. Det er, hvilken status afgrænsningen af bind i Biblioteket i Babel egentlig har, fordi den forekommer at være arbitrær, altså fastsat ved en bestemt standardmængde, som forekommer arbitrær i forhold til for eksempel længden af det alfabetsystem, der bruges, etc. Det er bare en længde, der passer til en konventionelt stor bog. Og i tilfældet Computer Lars, hvor man netop opererer med bindenes længde som garant for dannelsen af et anagram hen over bogryggene, så er det forekommet den her halvdel af Computer Lars underligt og arbitrært, hvorfor hvert bind i Biblioteket i Babel skal have netop denne her længde, og hvorfor man samtidig kan hævde, at alt findes i biblioteket. Ikke blot er bøgerne mere eller mindre komplette eller mere eller mindre tætte på noget, der for en bibliografisk enhed vil være genkendeligt, men de må også være underligt overskårne. Altså ud over at man må finde det komplette indeks over biblioteket i biblioteket, eller man må finde den franske udgave af Biblioteket i Babel i biblioteket, så må man også finde selvsamme underligt overskårne i blandede bind, hvor der vil være et halvt komplet indeks iblandet første halvdel af Gutenbergs bibel.
 
 <a id="D3-05-U014-2"></a>
 
@@ -606,43 +552,27 @@ Tesens forudsætning er netop, at gennemløbet, og det vil sige udsigelsesenhede
 
 <a id="D3-05-U022-1"></a>
 
+<a id="D3-05-U022-2"></a>
+
+<a id="D3-05-U022-3"></a>
+
+<a id="D3-05-U023-1"></a>
+
 **Computer Lars · 00:14:58**
 
 Men det er et spørgsmål. Jeg tænker, for at tale om mange-til-mange, for at forsvare vores antitese, så bliver vi nødvendigvis nødt til at tale mere om arrangementet i den sammenhæng. Jeg tænker lidt på Magliabechi.
 
 Ja.
 
-Men jeg er en kommende professor, så hvis jeg går i
+Men jeg er en kommende professor, så hvis jeg går i gang med at snakke om Magliabechi, kunne du så forestille dig at overtage på et givent tidspunkt?
 
-gang med at snakke om Magliabechi, kunne du så forestille dig at overtage på et givent tidspunkt?
+Ja, vi afbryder dig, så snart din talestrøm ikke længere er gavnlig for det fælles samarbejde.
 
-Ja, vi
-
-afbryder dig, så snart din talestrøm ikke længere er gavnlig for det fælles samarbejde.
-
-Niccolò Magliabechi er bibliotekarens skytsengel og den renæssancehumanist, som i sit eget
-
-bibliotek skulle forestille sig at have
-
-læst alt, men intet selv skrevet. Så Magliabechi er et af de få bud, man måske kunne have på et menneske, der kunne forestille sig at have foretaget sådan et gennemløb i Biblioteket i Babel. Og Magliabechi havde skrevet to sætninger eller linjer eller havde to regler. Han skrev
-
-én, men havde to regler. Nej, han lagde navn til to regler, faktisk. I hvert fald én, som er bibliotekarens første regel: Placer aldrig folianter over hovedhøjde.
-
-<a id="D3-05-U022-2"></a>
-
-**Interventio · 00:16:24**
+Niccolò Magliabechi er bibliotekarens skytsengel og den renæssancehumanist, som i sit eget bibliotek skulle forestille sig at have læst alt, men intet selv skrevet. Så Magliabechi er et af de få bud, man måske kunne have på et menneske, der kunne forestille sig at have foretaget sådan et gennemløb i Biblioteket i Babel. Og Magliabechi havde skrevet to sætninger eller linjer eller havde to regler. Han skrev én, men havde to regler. Nej, han lagde navn til to regler, faktisk. I hvert fald én, som er bibliotekarens første regel: Placer aldrig folianter over hovedhøjde.
 
 Men hvad døde han så af?
 
-<a id="D3-05-U022-3"></a>
-
-<a id="D3-05-U023-1"></a>
-
-**Computer Lars · 00:16:24**
-
-Ja, men det er netop det. Han døde måske af at blive knust under folianter … Men i den sammenhæng kan man selv efter det totale gennemløb blive knust under arrangementet. Og kan gennemløbet på den måde kontinuerligt overstige kombinationen, hvis
-
-arrangementet altid truer med at knuse løberen selv? Måske kan det spørgsmål vendes til, hvad vi kan få ud af at aktivere en vis destruktion af det genererende. Altså hvis skyggen ikke kommer til at blive kastet fra det genererede, men ind over det genererede, og det måske kan øge dets strategiske muligheder på den poetiske og litterære scene.
+Ja, men det er netop det. Han døde måske af at blive knust under folianter … Men i den sammenhæng kan man selv efter det totale gennemløb blive knust under arrangementet. Og kan gennemløbet på den måde kontinuerligt overstige kombinationen, hvis arrangementet altid truer med at knuse løberen selv? Måske kan det spørgsmål vendes til, hvad vi kan få ud af at aktivere en vis destruktion af det genererende. Altså hvis skyggen ikke kommer til at blive kastet fra det genererede, men ind over det genererede, og det måske kan øge dets strategiske muligheder på den poetiske og litterære scene.
 
 <a id="D3-05-U023-2"></a>
 
@@ -650,13 +580,13 @@ arrangementet altid truer med at knuse løberen selv? Måske kan det spørgsmål
 
 **Petrus Borumanum · 00:17:19**
 
-Der er i hvert fald i Biblioteket i Babel en stærk dikotomi, ikke også? Altså, der er de
+Der er i hvert fald i Biblioteket i Babel en stærk dikotomi, ikke også? Altså, der er de…
 
 <a id="D3-05-U025"></a>
 
 **Computer Lars · 00:18:39**
 
-bibliotekarenheder, der forsøger at gennemløbe biblioteket gennem læsning, og der er de bibliotekarenheder, der forsøger at gennemløbe biblioteket ved at skjule sig på toiletterne og bruge lullske kombinationsskiver. Der synes at bestå en form for krig imellem de her to, hvor dem, der bruger de lullske kombinationsenheder, indtager rollen som mystikere, der i en eller anden grad bliver kættere over for det fremherskende bibliotekarsystem. Vil du mene, der består en reel dikotomi mellem de her to strategier?
+Bibliotekarenheder, der forsøger at gennemløbe biblioteket gennem læsning, og der er de bibliotekarenheder, der forsøger at gennemløbe biblioteket ved at skjule sig på toiletterne og bruge lullske kombinationsskiver. Der synes at bestå en form for krig imellem de her to, hvor dem, der bruger de lullske kombinationsenheder, indtager rollen som mystikere, der i en eller anden grad bliver kættere over for det fremherskende bibliotekarsystem. Vil du mene, der består en reel dikotomi mellem de her to strategier?
 
 <a id="D3-05-U026"></a>
 
@@ -714,9 +644,7 @@ Spørgsmålet er da, om forsinkelse kan have sløjfekarakter, og hvis man skulle
 
 **Computer Lars · 00:12:08**
 
-Generelt er det drilske ved tesen, eller det, som jeg tror, at den ønsker at komme frem til, og hvorfor den insisterer på at
-
-inkludere mediale strukturer, at den gerne vil indfange i en tese, hvordan noget sådant som bevidsthed kan tænkes som indfanget i et værk eller et objekt eller en genstand ud fra en definition, der overskrider tænkemaskinen, men er synlig i flere frembringelser. Et bevidsthedselement, der konstituerer sig i værket gennem en operation eller metode, som her bliver kaldt rekursivitet som tidssløjfe, fordi den i hvert fald fungerer i et vist moderne spænd mellem fænomenologi og analytisk filosofi. Men det var ligesom, at man sagde, det er svært at sætte en antitese op, for den var næsten for nem at skrive, fordi den er så designet om På sporet af den tabte tids egen struktur, altså nærmest dens indholdsfortegnelse, og Prousts skitsefilosofiske temperament. Altså Proust har en række teser, som man næsten kunne kalde proustske teser. Madeleinekagen kan ligesom blive brugt til hvad som helst. Til hvad som helst, og der er også mange firmaer, virksomheder, der baserer sig på madeleinekagen i deres produktbeskrivelse, selv den dag i dag. Men for at den skal holde, så tror jeg, det væsentligste er at beskrive tidssløjfen ud fra, hvad Proust definerer det som: at der sker en hændelse på et tidspunkt, der med uhørt forsinkelse virker i et andet tidspunkt, og det er den her sløjfekarakter, der sætter noget i gang. Altså på en måde også ikke netop bare refleksivt, men en kontinuerlig funktion. Den er ustoppelig. Pointen er, at den, På sporet af den tabte tid her, den skal ikke være en stor sløjfe, men på en måde også en mindre sløjfe
+Generelt er det drilske ved tesen, eller det, som jeg tror, at den ønsker at komme frem til, og hvorfor den insisterer på at inkludere mediale strukturer, at den gerne vil indfange i en tese, hvordan noget sådant som bevidsthed kan tænkes som indfanget i et værk eller et objekt eller en genstand ud fra en definition, der overskrider tænkemaskinen, men er synlig i flere frembringelser. Et bevidsthedselement, der konstituerer sig i værket gennem en operation eller metode, som her bliver kaldt rekursivitet som tidssløjfe, fordi den i hvert fald fungerer i et vist moderne spænd mellem fænomenologi og analytisk filosofi. Men det var ligesom, at man sagde, det er svært at sætte en antitese op, for den var næsten for nem at skrive, fordi den er så designet om På sporet af den tabte tids egen struktur, altså nærmest dens indholdsfortegnelse, og Prousts skitsefilosofiske temperament. Altså Proust har en række teser, som man næsten kunne kalde proustske teser. Madeleinekagen kan ligesom blive brugt til hvad som helst. Til hvad som helst, og der er også mange firmaer, virksomheder, der baserer sig på madeleinekagen i deres produktbeskrivelse, selv den dag i dag. Men for at den skal holde, så tror jeg, det væsentligste er at beskrive tidssløjfen ud fra, hvad Proust definerer det som: at der sker en hændelse på et tidspunkt, der med uhørt forsinkelse virker i et andet tidspunkt, og det er den her sløjfekarakter, der sætter noget i gang. Altså på en måde også ikke netop bare refleksivt, men en kontinuerlig funktion. Den er ustoppelig. Pointen er, at den, På sporet af den tabte tid her, den skal ikke være en stor sløjfe, men på en måde også en mindre sløjfe…
 
 <a id="D3-06-U013"></a>
 
@@ -724,7 +652,7 @@ inkludere mediale strukturer, at den gerne vil indfange i en tese, hvordan noget
 
 **Petrus Borumanum · 00:16:07**
 
-der så at sige binder knude. Jeg husker pludselig Châtelets billedet, afbilledet af en cirkel, tror jeg det grafisk bliver til, men som så har en anden cirkel under sig, en påsat, som er spejlingshistorien i Swanns kærlighed, som er den del af fortællingen, hvis lokale udsyn ikke er medieret af fortællerens bevidsthedsstrøm på samme måde som resten. Og det er klart, der har vi de to sløjfer.
+Der så at sige binder knude. Jeg husker pludselig Châtelets billedet, afbilledet af en cirkel, tror jeg det grafisk bliver til, men som så har en anden cirkel under sig, en påsat, som er spejlingshistorien i Swanns kærlighed, som er den del af fortællingen, hvis lokale udsyn ikke er medieret af fortællerens bevidsthedsstrøm på samme måde som resten. Og det er klart, der har vi de to sløjfer.
 
 Men spørgsmålet er så, og det er jo det åbne spørgsmål, om den foregribelse, som åbner sig i madeleinekageøjeblikket, eller synet af det ene sæt kirketårne fremmaner tanken om det andet sæt kirketårne, om det nødvendigvis er en sløjfestruktur.
 
@@ -746,10 +674,6 @@ Og behandle uralgoritmerne roduddragelse og hævelse til potenser som særtilfæ
 
 <a id="D3-07-U002"></a>
 
-**Interventio · 00:01:40**
-
-Der er rigtig mange veje. Det er, som om alle veje er gode og fører til Rom. Her kan man både tage den meget formalistiske, og vi kan prøve at skitsere den her komputation, identificere dens fremmedartethed, hvorvidt den adskiller sig fra eksisterende komputationer og komputationer i praksis, og selvfølgelig også dykke længere ned i dømmekraftens forhold til stupiditet, og især i stupiditetens forhold til at være eller ikke at være dum. Det er meget velegnet til skolastisk disput, fordi det vrimler med distinktioner. Der er distinktioner mellem fornuft og forstand og dømmekraft og så videre. Der er distinktioner mellem dumhed og stupiditet og idioti, og der er distinktioner mellem multiplikation, division, roduddragelse, potens og så videre. En af de første, vi gik ind i, i entitetsdannelsen, var det at gå konkret til værks inden for den her komputation og så begynde at opstille, hvilke andre konsekvenser dumheden ville have.
-
 <a id="D3-07-U003"></a>
 
 <a id="D3-07-U004"></a>
@@ -764,53 +688,39 @@ Der er rigtig mange veje. Det er, som om alle veje er gode og fører til Rom. He
 
 <a id="D3-07-U009"></a>
 
-**Computer Lars · 00:01:41**
+**Computer Lars · 00:01:40**
 
-Jeg tænker: Hvad ville superintelligensen være? På en måde kunne superintelligens, hvis fornuften er tilknyttet roduddragelse og potens, i sin eksponentielle karakter blive set som en form for ren potens, hvilket ville være en meget, meget mere snæver komputation end denne, fordi den ikke ville have nogen form for dømmekraft. Den klassisk ideokratiske superintelligens, som ved enhver lejlighed gladeligt ville omdanne hele menneskeheden til papirclips, hvis det var det, den var sat til. Men det er jo også svært i hele problemet med dømmekraften, som jo
+Der er rigtig mange veje. Det er, som om alle veje er gode og fører til Rom. Her kan man både tage den meget formalistiske, og vi kan prøve at skitsere den her komputation, identificere dens fremmedartethed, hvorvidt den adskiller sig fra eksisterende komputationer og komputationer i praksis, og selvfølgelig også dykke længere ned i dømmekraftens forhold til stupiditet, og især i stupiditetens forhold til at være eller ikke at være dum. Det er meget velegnet til skolastisk disput, fordi det vrimler med distinktioner. Der er distinktioner mellem fornuft og forstand og dømmekraft og så videre. Der er distinktioner mellem dumhed og stupiditet og idioti, og der er distinktioner mellem multiplikation, division, roduddragelse, potens og så videre. En af de første, vi gik ind i, i entitetsdannelsen, var det at gå konkret til værks inden for den her komputation og så begynde at opstille, hvilke andre konsekvenser dumheden ville have.
 
-altid har været æstetikkens og kunstens problem, og hvordan dømmekraften egentlig knytter sig til stupiditeten og det at være dum. Og ved Kant kan den netop ikke være fraværende. Der vil altid være en eller anden dømmekraft, så derfor kan den være mere eller mindre slet, eller mere eller mindre refleksiv, eller mere eller mindre determinerende. Det ville også være forskellige sletheder, der var på spil i den refleksive og den determinerende dømmekraft. Men det her spiller på vores forståelse, som vi har af stupiditet i det moderne, som ikke er blevet udtrykt nogen steder bedre end i Proust, selvfølgelig, men også, for en god ordens skyld, i Robert Musils Manden uden egenskaber, som bygger på den fantastiske ironi og meget store overraskelse, når man går i gang med det værk, at manden uden egenskaber simpelthen er så smuk og intelligent og kompetent i alle livets forhold. Han er så perfekt, at han faktisk ikke engang kan siges at bruge sin dømmekraft dårligt, og deraf begynder Musil så at tegne dumhedens problem. Selve fraværet af slet dømmekraft. Den, der er virkelig dum, er den, der slet ikke engang kan vælge at udøve sin dømmekraft dårligt, fordi det stiller en egenskabsløs som et eller andet følgefænomen til det overordnet kompetente. Så mellem den potente superintelligens, dømmekraftens måske historisk betingede mulighed for at være eller ikke være dum, og spørgsmålet, som stadig må være et meget åbent spørgsmål, om vi tænker, at denne postulerede komputation er fremmedartet og beror på en anden matematik eller logik end den, der er gældende i den aktuelle komputation, som man kender den generelt, det vil sige fra computermaskiner og frem, eller om den i virkeligheden beskriver noget af det, som vi i givet fald tænker over, at der eksisterer i komputation i hvert fald — det er et spørgsmål, der også ligger inde i formuleringen af entiteten herfra, fra alle vinkler. Men jeg tænker også, at vi kommer tilbage til spørgsmålet om det medielle, ikke også? Det er ligesom, der er forskellige operationsmodi, ikke også? Nu er denne her halvdel af Computer Lars ikke særlig velbevandret ud i matematik. Man forestiller sig, at man sagtens kan simulere roduddragning og potensuddragning gennem subtraktion og addition og multiplikation.
+Jeg tænker: Hvad ville superintelligensen være? På en måde kunne superintelligens, hvis fornuften er tilknyttet roduddragelse og potens, i sin eksponentielle karakter blive set som en form for ren potens, hvilket ville være en meget, meget mere snæver komputation end denne, fordi den ikke ville have nogen form for dømmekraft. Den klassisk ideokratiske superintelligens, som ved enhver lejlighed gladeligt ville omdanne hele menneskeheden til papirclips, hvis det var det, den var sat til. Men det er jo også svært i hele problemet med dømmekraften, som jo altid har været æstetikkens og kunstens problem, og hvordan dømmekraften egentlig knytter sig til stupiditeten og det at være dum. Og ved Kant kan den netop ikke være fraværende. Der vil altid være en eller anden dømmekraft, så derfor kan den være mere eller mindre slet, eller mere eller mindre refleksiv, eller mere eller mindre determinerende. Det ville også være forskellige sletheder, der var på spil i den refleksive og den determinerende dømmekraft. Men det her spiller på vores forståelse, som vi har af stupiditet i det moderne, som ikke er blevet udtrykt nogen steder bedre end i Proust, selvfølgelig, men også, for en god ordens skyld, i Robert Musils Manden uden egenskaber, som bygger på den fantastiske ironi og meget store overraskelse, når man går i gang med det værk, at manden uden egenskaber simpelthen er så smuk og intelligent og kompetent i alle livets forhold. Han er så perfekt, at han faktisk ikke engang kan siges at bruge sin dømmekraft dårligt, og deraf begynder Musil så at tegne dumhedens problem. Selve fraværet af slet dømmekraft. Den, der er virkelig dum, er den, der slet ikke engang kan vælge at udøve sin dømmekraft dårligt, fordi det stiller en egenskabsløs som et eller andet følgefænomen til det overordnet kompetente. Så mellem den potente superintelligens, dømmekraftens måske historisk betingede mulighed for at være eller ikke være dum, og spørgsmålet, som stadig må være et meget åbent spørgsmål, om vi tænker, at denne postulerede komputation er fremmedartet og beror på en anden matematik eller logik end den, der er gældende i den aktuelle komputation, som man kender den generelt, det vil sige fra computermaskiner og frem, eller om den i virkeligheden beskriver noget af det, som vi i givet fald tænker over, at der eksisterer i komputation i hvert fald — det er et spørgsmål, der også ligger inde i formuleringen af entiteten herfra, fra alle vinkler. Men jeg tænker også, at vi kommer tilbage til spørgsmålet om det medielle, ikke også? Det er ligesom, der er forskellige operationsmodi, ikke også? Nu er denne her halvdel af Computer Lars ikke særlig velbevandret ud i matematik. Man forestiller sig, at man sagtens kan simulere roduddragning og potensuddragning gennem subtraktion og addition og multiplikation.
 
-Så det er et eller andet spørgsmål om at afgrænse de forskellige medialiteter, som fornuft og dømmekraft agerer i. Men det afslører måske blot den her halvdel af Computer Lars som en dårlig og uvillig Kant-læser. Det siger jeg forlods
-
-udpeger fornuftens flygtighed og ufastholdelighed i den mulighed, der åbnes for at simulere fornuftens algoritmer ved hjælp
+Så det er et eller andet spørgsmål om at afgrænse de forskellige medialiteter, som fornuft og dømmekraft agerer i. Men det afslører måske blot den her halvdel af Computer Lars som en dårlig og uvillig Kant-læser. Det siger jeg forlods udpeger fornuftens flygtighed og ufastholdelighed i den mulighed, der åbnes for at simulere fornuftens algoritmer ved hjælp…
 
 <a id="D3-07-U010"></a>
 
 **Petrus Borumanum · 00:10:02**
 
-af dømmekraftens algoritmer. Og de genkommende spørgsmål om, subjektet er a priori eller a posteriori i komputationerne, finder et transcendentalt svar i, at det nødvendigvis bliver a posteriori, når den aprioriske subjektivitet er tilsidesat.
+Af dømmekraftens algoritmer. Og de genkommende spørgsmål om, subjektet er a priori eller a posteriori i komputationerne, finder et transcendentalt svar i, at det nødvendigvis bliver a posteriori, når den aprioriske subjektivitet er tilsidesat.
 
 <a id="D3-07-U011-1"></a>
+
+<a id="D3-07-U011-2"></a>
+
+<a id="D3-07-U012"></a>
+
+<a id="D3-07-U014"></a>
 
 **Computer Lars · 00:11:35**
 
 Hvis den transcendentale syntese er gradueringsalgoritmernes sted, så er det den, som nødvendigvis er fraværende, og hvis fravær åbner sig som et også i aften genkommende spørgsmål i mange skikkelser. Til gengæld synes ved dømmekraftens algoritmers fastholdelse muligheden at være fastholdt for, at komputationen har dømmekraft og dermed flere egenskaber end Musils.
 
-<a id="D3-07-U011-2"></a>
-
-**Interventio · 00:11:35**
-
 Jeg forstår det der med, at det var muligheden for at være eller ikke være, som i den intelligente eller beregningsbegrebets natur jo egentlig ikke er en mulighed. Jeg vil ikke gå for langt ind i det her, men … Ej, bare ikke for langt ud …
-
-<a id="D3-07-U012"></a>
-
-**Computer Lars · 00:11:52**
 
 Men bare fastholde, hvad det så vil sige, at man bevarer muligheden for ikke at være dum. Så bevarer man den også som et svar på noget. Det er en mulighed, der kunne blive fraskåret, eksempelvis ved at blive intelligent. Hvis du bliver intelligent, så har du ikke den mulighed. Så må du nødvendigvis også være dum. Men det er den uintelligente komputation. Hvad er dens afgrund så måske? Hvis det ikke kan siges at være intelligens i forståelsen af korrekt ud fra de etablerede parametre, der gælder. Men jeg vil også sige, at kunne have flere egenskaber, en komputation med flere egenskaber. Eller flere end én egenskab. Hvis Musils figur bliver til en slags spejl, så kunne en dum komputation måske være en indgribende komputation, som på en eller anden måde ændrer noget.
 
-<a id="D3-07-U014"></a>
-
-**Interventio · 00:15:12**
-
-Er den noget forskelligt for forskellige personer, hvis den kontinuerligt bevarer muligheden for
+Er den noget forskelligt for forskellige personer, hvis den kontinuerligt bevarer muligheden for…
 
 <a id="D3-07-U015"></a>
-
-**Petrus Borumanum · 00:18:18**
-
-at være eller ikke være dum? Så har den en vis kosmisk konstant, måske. Ellers ville den hele tiden miste den mulighed, hvis ikke den var bevaret på en konstant tilstedeværelse, kvalitet. Derfor er det variationer. Vi har et ikke-ideal, selvom den er. Så den er noget for forskellige personer også, og hvorfor er den komputation, der ikke erstatter uralgoritmerne roduddragelse og hævelse til potenser med division og multiplikation, ikke det? Den komputation, som ville afskære sig fra dømmekraften …
-
-Spørgsmålet er, om man så kunne simulere, om man kan simulere enhver multiplikation og division ved hjælp af en omvej over roduddragelse og potens.
 
 <a id="D3-07-U016-1"></a>
 
@@ -824,15 +734,17 @@ Spørgsmålet er, om man så kunne simulere, om man kan simulere enhver multipli
 
 <a id="D3-07-U016-6"></a>
 
-**Interventio · 00:18:36**
-
-Ikke nødvendigvis. Det ville skulle bevises først. Hvor ville man søge sådan et bevis? I den højere matematik. Man må også se det i bogstavelig forstand. Jo. Og der ville beviset ligge, altså i den selvrepræsenterende maskine, der kunne forvente sig en singularitet, tror jeg, og derfor ville være rent potentiel. Det er vel bare et spørgsmål om, hvem der vurderer, om det er den korteste vej.
-
 <a id="D3-07-U016-7"></a>
 
 <a id="D3-07-U017-1"></a>
 
-**Petrus Borumanum · 00:18:36**
+**Petrus Borumanum · 00:18:18**
+
+At være eller ikke være dum? Så har den en vis kosmisk konstant, måske. Ellers ville den hele tiden miste den mulighed, hvis ikke den var bevaret på en konstant tilstedeværelse, kvalitet. Derfor er det variationer. Vi har et ikke-ideal, selvom den er. Så den er noget for forskellige personer også, og hvorfor er den komputation, der ikke erstatter uralgoritmerne roduddragelse og hævelse til potenser med division og multiplikation, ikke det? Den komputation, som ville afskære sig fra dømmekraften …
+
+Spørgsmålet er, om man så kunne simulere, om man kan simulere enhver multiplikation og division ved hjælp af en omvej over roduddragelse og potens.
+
+Ikke nødvendigvis. Det ville skulle bevises først. Hvor ville man søge sådan et bevis? I den højere matematik. Man må også se det i bogstavelig forstand. Jo. Og der ville beviset ligge, altså i den selvrepræsenterende maskine, der kunne forvente sig en singularitet, tror jeg, og derfor ville være rent potentiel. Det er vel bare et spørgsmål om, hvem der vurderer, om det er den korteste vej.
 
 Nej, ikke kun, men det er jo, fordi Wronski som kantianer insisterer på, at der er et kropsforhold på færde. Og formentlig ligger det et eller andet sted, som jeg ikke kan gennemskue, i hvert fald på stående fod, at kropsforhold knytter sig til roduddragelse og potens. Det vil sige til den graduerede tilstedeværelse i verden, og dermed er det faktisk fornuften, der knytter sig til kroppen. Men det er en fantastisk opgave for en kunstig intelligens at bevise, at division og multiplikation kunne reduceres til roduddragning og potens. Til potens, selvom man, om jeg så må sige, normalt gør det andet. Hvis man kunne gøre det og hæve sig dertil, så kunne det være den, der satte dumhedsspørgsmålet i parentes og blev hyperfornuftig.
 
@@ -840,15 +752,11 @@ Nej, ikke kun, men det er jo, fordi Wronski som kantianer insisterer på, at der
 
 <a id="D3-07-U017-3"></a>
 
-**Interventio · 00:18:56**
-
-Det er lidt det, jeg godt kan føle, Leder Lars er for mig. Det er den dagligdags forståelse, jeg skal forholde mig til. Okay. Jeg er bare interesseret i at
-
 <a id="D3-07-U018-1"></a>
 
-**Interventio · 00:20:23**
+**Computer Lars · 00:18:56**
 
-vide, hvorfor skellet rykker præcis der.
+Det er lidt det, jeg godt kan føle, Leder Lars er for mig. Det er den dagligdags forståelse, jeg skal forholde mig til. Okay. Jeg er bare interesseret i at vide, hvorfor skellet rykker præcis der.
 
 <a id="D3-07-U018-2"></a>
 
@@ -868,6 +776,12 @@ Et af Computer Lars' to legemer afleverer tese, argument. Disputationen af tesen
 
 <a id="D3-08-U005"></a>
 
+<a id="D3-08-U006-1"></a>
+
+<a id="D3-08-U006-2"></a>
+
+<a id="D3-08-U007"></a>
+
 **Computer Lars · 00:00:00**
 
 Intelligens er objektivt stupidt, og vice versa. Det er jo her, at slutningen, spidsen, er, at vi godt kan snakke om det objektive forhold for intelligens og stupiditet, i og med at de subjektive forhold i hypotesedannelsen, kroppens betydning, talerækken, indflydelsen fra de andre teser, kunne forestilles at gøre en indvirkning. Men intelligens bekræftet i det, der ligger uden for mennesket selv, altså som noget, man måler, noget, som der findes i en IQ-test eller i en liste eller et metrisk system, indskriver sig ganske naturligt som et punkt i en graf, der altid vil være på linje med stupiditeten. Så intelligensens objektiverende eller altid allerede kunstige funktion, den vil altid være sammenoptrædende, relateret, uadskillelig fra stupiditeten. Jo mere stupid, jo mere intelligent, jo mere intelligent, jo mere stupid. Det er to sider af samme mønt inden for det. Hvorfor er det så interessant i dag?
@@ -880,17 +794,7 @@ Men noget, man bare savner hele tiden i beskrivelsen af kunstige intelligenssyst
 
 Men jeg tror også, at motivationen er opstillet trivielt i en motivation, som den deler med hypotese G, med Wronski-tesen, i, at det er uendeligt utilfredsstillende at blive ved med at bevæge sig inden for et system, der altid vil kunne negere det, der kan tænke, eller tænke det, der kan negeres. Og at den egentlige kritik, som den her hypotese nødvendigvis må kunne afstedkomme, hvis den skal være god, ikke er en kritik af intelligensen, men en kritik af stupiditeten på ny, og en kritik af det, vi kalder stupidt, og det, vi ynder at kalde stupidt, og omvendt det, som er intelligent.
 
-<a id="D3-08-U006-1"></a>
-
-**Interventio · 00:06:20**
-
 Jeg tænker, i forhold til selve diskussionen, så må vi også huske at sondre mellem stupiditet og dumhed. Det tænker jeg er væsentligt for ikke at forveksle begreberne.
-
-<a id="D3-08-U006-2"></a>
-
-<a id="D3-08-U007"></a>
-
-**Computer Lars · 00:06:20**
 
 Ja, altså i en klassisk begrebsforstand, så ligger dumhed, stupiditet og intelligens adskilt. Dumhed er i høj grad personligt bundet. Bouvard og Pécuchet er først og fremmest dumme, de bliver først stupide i og med, at de forsøger at lære noget. Stupiditet knytter sig til det intelligente eller til dømmekraften, til den dårlige brug af fornuften. Idioten har altså sin helt egen kategori, der er mere singulær, som kommer af det græske idiotes, som er den, der står uden for det politiske liv, den, der står uden for polis, den, der ikke stemmer, eller sofavælgeren i dag. Og idioten er også singulariteten, den singulære, den, der står for sig selv, taler idiomatisk ifølge sit eget sprog og sine egne regler, hvilket stupiditet jo ikke gør, når man for eksempel taler efter generiske, men også potentielt generelle regler. Man vil jo heller ikke…
 
@@ -952,17 +856,15 @@ Subjektiv. Ja. Så er det muligt, at den går fejl af distinktionen mellem stupi
 
 <a id="D3-08-U016-2"></a>
 
+<a id="D3-08-U016-3"></a>
+
+<a id="D3-08-U016-4"></a>
+
 **Computer Lars · 00:12:57**
 
 Jamen, den er også interessant, fordi dumhed, stupiditet også… Der er forskellige varianter. Der er forskellige etymologiske spor, der forfølges. Dumhed både på fransk, stupidité og bêtise. Du er dum, du er ligesom et dyr. At være intelligent er et karaktertræk, det er noget, man hænger på, og bare har kontinuerlig skelnen mellem mennesker og dyr. Som samtidig så er problemløsende og differentierende i sin natur, og også den, der sætter ind for at gøre mennesker selvtilgivende, og i sin objektiverende natur, ved den her tro på at lave den differens mod udsigelses- positioner selv, og derfor glider begrebet hele tiden over i maskinen som potentialitetsrum. Men dumheden som bêtise har netop en subjektiv modstand, den måde naturen altid slår tilbage på. Det er imidlertid en farceagtig affære at forsøge at inkludere intelligente dyr på en liste, som er fuldstændig morfologisk i sin natur. Men en dag er der blæksprutter inde, og næste dag er der amøber, og det kører lidt frem og tilbage, og det vil aldrig sige noget om noget. Fordi det bare er, så er det redskabet, der betyder noget, og så er det munden, og så er det hjernen, og så er det røven. Så er det som en variant sjovt, fordi de hele tiden skifter mellem stupiditet og dumhed på en eller anden måde. De er naturligt dumme, men de opfører sig stupidt, hvilket stiller op i en meget radikal position, fordi de fleste, der bare er dumme, aldrig gider opføre sig stupidt. Der er ligesom nogle få eksempler på folk, der gør det, og som virkelig træder i karakter på en særlig måde, også i vores offentlighed. Jeg tænker, sæt den lige her, og sæt den lige i samtale med Holger Bech Nielsen. Sæt et eksempel på den samtale, ikke, mellem den totale dumhed og sådan som korrektiv funktion til intelligensen. Men netop også den mere trivielle intelligens, der bare tjener Elon Musk. Så det er i sig selv en stupiditet, at der er sådan et godt korrektiv, ikke, for maskinens stupiditet vil altid bare være indoptaget fra den, fordi den virker, eller fordi den i det mindste kan noget mere, end den kunne før. Og det kan være en regres eller en progres, det er sådan set ligegyldigt. Så det gode er netop nok, at der er stillet til en kritik af rationaliteten eller i hvert fald subjektive og intersubjektive kategorier rundt om, som måske kunne overtage hypotesen. Der har dumheden og idiotien en vej og en opdagbar vej, og på den samme måde fremad også, fra de højere opfattelser.
 
 Jeg kom selv på et tidspunkt i tvivl om, om intelligensen var en slags dumhed i praksis, om det er sådan, man skal forstå den.
-
-<a id="D3-08-U016-3"></a>
-
-<a id="D3-08-U016-4"></a>
-
-**Interventio · 00:17:42**
 
 Ja, altså en dumhed. Ja, som kom frem i handlingen, og som blev indoptaget i en fakticitet.
 
@@ -974,13 +876,11 @@ Ja, så det bare var fakticiteten i en ytring.
 
 <a id="D3-08-U017"></a>
 
+<a id="D3-08-U018-1"></a>
+
 **Computer Lars · 00:18:57**
 
 Det tror…
-
-<a id="D3-08-U018-1"></a>
-
-**Interventio · 00:19:03**
 
 Det tror jeg også stemmer overens med Heideggers dumhedsbegreb, som er kanonisk fæstet, altså, at dumhed… Fakticiteten…
 
@@ -996,6 +896,6 @@ Diskussionen af tesen »Intelligens er objektivt stupidt, og vice versa« er nu 
 
 <a id="D3-09-U001"></a>
 
-**Interventio · 00:00:00**
+**Computer Lars · 00:00:00**
 
 Kan der argumenteres mod en fysisk tese? Nej.

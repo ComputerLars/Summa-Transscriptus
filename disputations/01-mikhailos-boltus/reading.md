@@ -88,9 +88,7 @@ Nej, men noget af det, jeg tænker er kompliceret, er det der med, at alle de fo
 
 Ja, og noget af det, der også ligger, det er, at forbindelsen mellem kunstneren og det revolutionære subjekt er en tid efter det revolutionære subjekts forbindelse til det proletariske subjekt. Og på mange måder er et projekt som Computer Lars jo nemt at læse i forlængelse af sådan en subjektløs revolutionskamp, der ikke refererer til noget — måske til teknikken eller til tekster, men ikke til arbejderklassen. Der har været forskellige forsøg på at identificere, hvor man kan lægge et revolutionært subjekt. Enten når man har genoptaget overskudsbefolkningsbegrebet, eksempelvis hos Marx. Computer Lars har til tider leget med begrebet om en lumpenintelligentsia, hvor den lumpenintelligentsia også er et begreb fra Marx og Engels, som de så har med lumpenproletariatet. Altså underproletariatet er der banditterne, slynglerne, de prostituerede, the wretched of the earth, som Fanon senere kalder det. Dem, som ikke engang har et arbejde eller kan tælle ind i en arbejderklasse. Og det bliver også taget op af Black Panthers Party og lignende som et af de centrale momenter i kybernetiseringen af samfundet, at lumpenproletariatet vokser, nærmer sig en rolle af revolutionært subjekt, men på nogle måder også forskyder sig ind i kybernetiseringen, i feedbackloopsene, i andre intelligensformer. Og i Computer Lars' opsætning af et parti, for eksempel med en repræsentationsteori og dermed en direkte relation mellem et kunstprojekt og noget, der udpeger sig som et revolutionært subjekt, så siger den: Det er alle dem, hele det ekstraparlamentariske, for så vidt som de repræsenterer sig selv offentligt på internettet. Så det er ikke direkte dem, som ikke stemmer, der bliver repræsenteret. Det er ikke menneskene, fordi der ikke er en gestus til, at de så faktisk skal gå ned og stemme. Det er at sige, hvis man nu tager alt det her 50 år efter det, der så kunne være kybernetisering, så hvis proletariatet som revolutionært subjekt dør i 1920, så dør lumpenproletariatet som menneskesubjekt i 70'erne. Det kybernetiseres, og på den måde bliver det også noget, man kan opsnappe. Her har der i hvert fald været den undersøgelse af, hvad man kunne stille på benene der, som Computer Lars også har forfulgt indtil videre. Har du noget, du vil tilføje til den formulering under antitesen?
 
-Ja, men
-
-jeg er bange for, at det er en ekskurs.
+Ja, men jeg er bange for, at det er en ekskurs.
 
 <a id="D1-01-U023-2"></a>
 
@@ -142,13 +140,9 @@ Ja, men min antitese vil nok bare være, at det ikke er tilfældet. Og et af udg
 
 **Computer Lars · 00:08:18**
 
-Der er selvfølgelig flere indgange. Det ene er, om det, der skal repræsenteres, er indhold eller form. Sådan et begreb som programmer, eller partiprogrammer, er jo meget åbenlyst og nemt at gribe fat i. Betyder manglen på indhold, at der ikke er noget program, eller er programmet blevet ren form, at programmeringen er blevet operationaliseret? Kan programmet gennemføres, selvom dets indhold er i værste fald generisk, i bedste fald syntetisk? Den anden ville være, at netop også den negative repræsentation, det ansigtsløse, peger på nogle andre morfologiske, formmæssige udviklinger. Anonymous-gruppens relationer til mange af de opstande, der har været de sidste 20 år, er for eksempel ret interessante. Det her ansigtsløse hackerkollektiv, der bruger meget voldsom internetæstetik og gør det for, vel, lols, men hele tiden, når verden så brænder på, eller der er de her stumpede opstande, pludselig bliver vakt og vil hjælpe til i Iran, i Egypten, i Syrien. I Syrien. Og hvor det også er en lumpenintelligentsia, alle mulige 15-årige drenge og piger og desmere, som sidder ude i ghettoerne og ved hjælp af programmets styrke formår at vende statens og markedets logikker mod sig selv, og hvor programmet, der har været indholdsløst, pludselig er knyttet meget, meget nærmere til de større infrastrukturelle programmer, hvor den almindelige cybersikkerhed hos store banker for eksempel er fuldstændig tilgængelig og nem at udnytte, fordi man bare kan plugge ind
+Der er selvfølgelig flere indgange. Det ene er, om det, der skal repræsenteres, er indhold eller form. Sådan et begreb som programmer, eller partiprogrammer, er jo meget åbenlyst og nemt at gribe fat i. Betyder manglen på indhold, at der ikke er noget program, eller er programmet blevet ren form, at programmeringen er blevet operationaliseret? Kan programmet gennemføres, selvom dets indhold er i værste fald generisk, i bedste fald syntetisk? Den anden ville være, at netop også den negative repræsentation, det ansigtsløse, peger på nogle andre morfologiske, formmæssige udviklinger. Anonymous-gruppens relationer til mange af de opstande, der har været de sidste 20 år, er for eksempel ret interessante. Det her ansigtsløse hackerkollektiv, der bruger meget voldsom internetæstetik og gør det for, vel, lols, men hele tiden, når verden så brænder på, eller der er de her stumpede opstande, pludselig bliver vakt og vil hjælpe til i Iran, i Egypten, i Syrien. I Syrien. Og hvor det også er en lumpenintelligentsia, alle mulige 15-årige drenge og piger og desmere, som sidder ude i ghettoerne og ved hjælp af programmets styrke formår at vende statens og markedets logikker mod sig selv, og hvor programmet, der har været indholdsløst, pludselig er knyttet meget, meget nærmere til de større infrastrukturelle programmer, hvor den almindelige cybersikkerhed hos store banker for eksempel er fuldstændig tilgængelig og nem at udnytte, fordi man bare kan plugge ind på den hvor som helst i verden. Så om det rent formmæssigt på en eller anden måde kunne være en anden repræsentationskategori, der viser noget andet.
 
-på den hvor som helst i verden. Så om det rent formmæssigt på en eller anden måde kunne være en anden repræsentationskategori, der viser noget andet.
-
-Ja, jeg tænker i hvert fald, at der er en fare ved repræsentationsbegrebet her, eller når vi snakker om repræsenterbarhed og repræsentationsløshed, at vi kan komme til at gentage en stærk dikotomi som for eksempel liv-død, hvor der i virkeligheden findes, så at sige, en zombietilstand, der kombinerer begge dele. Eller ja, Anonymous er måske et godt eksempel, fordi den er nonidentitær, men samtidig ekstremt repræsenteret ved brug af Guy Fawkes-masken for eksempel, ikke også? Hvordan Det Syntetiske Partis T-shirt forholder sig til det spørgsmål, står stadig uafklaret, men der er i hvert
-
-fald i opbygningen af programmet …
+Ja, jeg tænker i hvert fald, at der er en fare ved repræsentationsbegrebet her, eller når vi snakker om repræsenterbarhed og repræsentationsløshed, at vi kan komme til at gentage en stærk dikotomi som for eksempel liv-død, hvor der i virkeligheden findes, så at sige, en zombietilstand, der kombinerer begge dele. Eller ja, Anonymous er måske et godt eksempel, fordi den er nonidentitær, men samtidig ekstremt repræsenteret ved brug af Guy Fawkes-masken for eksempel, ikke også? Hvordan Det Syntetiske Partis T-shirt forholder sig til det spørgsmål, står stadig uafklaret, men der er i hvert fald i opbygningen af programmet …
 
 <a id="D1-02-U012-2"></a>
 
@@ -168,9 +162,7 @@ Men vil man kunne sige, at det, I argumenterer for, er snarere en antitese til e
 
 **Computer Lars · 00:15:11**
 
-Jeg tror, det vigtige her er, at i den her tese om revolutionen ligger der også, at de opstande, der foregår nu, er knyttet sammen af robotopstanden, og robotopstanden var anderledes end den, der spøgede for hundrede år siden, i at robotterne ville komme og vende sig mod menneskene og indføre den totale dominans. Et samfund efter, men som udelukkende ville være baseret på at have slaveforholdet vendt om. Og det, som åbenbarer sig i det opstandsbegreb i de her år, er, at vi faktisk er inde i den proces, der fører mod den totale revolution, og at det, vi har nu, vil blive afviklet, fordi den logik, der ligger i robotternes revolution, faktisk er fremmed for kapitalen. De tænker så fundamentalt anderledes end de mennesker, der har bygget det undertrykkende samfund, vi har nu, at vi er i gang med at få
-
-det til at bryde sammen af sig selv.
+Jeg tror, det vigtige her er, at i den her tese om revolutionen ligger der også, at de opstande, der foregår nu, er knyttet sammen af robotopstanden, og robotopstanden var anderledes end den, der spøgede for hundrede år siden, i at robotterne ville komme og vende sig mod menneskene og indføre den totale dominans. Et samfund efter, men som udelukkende ville være baseret på at have slaveforholdet vendt om. Og det, som åbenbarer sig i det opstandsbegreb i de her år, er, at vi faktisk er inde i den proces, der fører mod den totale revolution, og at det, vi har nu, vil blive afviklet, fordi den logik, der ligger i robotternes revolution, faktisk er fremmed for kapitalen. De tænker så fundamentalt anderledes end de mennesker, der har bygget det undertrykkende samfund, vi har nu, at vi er i gang med at få det til at bryde sammen af sig selv.
 
 <a id="D1-02-U017-2"></a>
 
@@ -192,15 +184,9 @@ Jeg skal lige forstå omfanget af det statement. Hvis vi taler om den nuværende
 
 **Computer Lars · 00:17:53**
 
-Jeg forestiller mig, at et
+Jeg forestiller mig, at et af de tiltag de seneste år, der i allerhøjeste grad har skabt den mulighedsbetingelse for en revolutionær tilstand i den imperiale zone, vi betegner som Danmark, ville være indførelsen af først NemID og sidenhen MitID, i og med at det i højeste grad er med til at kunne antænde en potentiel flamme under lumpenproletariatet og den digitale underklasse. Og det tror jeg bare er ét element i mange elementer i den her automatisering af velfærdsstaten, som er med til at pege på, at der er en robotopstand, der måske allerede er sket, og som netop ikke er de 100 år gamle forestillinger om robotternes march ud af fabrikkerne og ned ad gaden, men nærmere er en i velfærdsstaten, men også i andre statsdannelser, iboende logik, der ligesom automatiserer og dirigerer mennesket uden om dets vanlige modstandskraft.
 
-af de tiltag de seneste år, der i allerhøjeste grad har skabt den mulighedsbetingelse for en revolutionær tilstand i den imperiale zone, vi betegner som Danmark, ville være indførelsen af først NemID og sidenhen MitID, i og med at det i højeste grad er med til at kunne antænde en potentiel flamme under lumpenproletariatet og den digitale underklasse. Og det tror jeg bare er ét element i mange elementer i den her automatisering af velfærdsstaten, som er med til at pege på, at der er en robotopstand, der måske allerede er sket,
-
-og som netop ikke er de 100 år gamle forestillinger om robotternes march ud af fabrikkerne og ned ad gaden, men nærmere er en i velfærdsstaten, men også i andre statsdannelser, iboende logik, der ligesom automatiserer og dirigerer mennesket uden om dets vanlige modstandskraft.
-
-Og lige den logik, den har vi stadig ikke
-
-forstået endnu som mennesker. En af måderne, man måske kunne få den, er ved at begynde at lære at disputere igen, for at forstå den fremmedhed og dialektiske modstandsform, som man jo så kunne håbe også lå i en postkapitalistisk logik, men eftersom de begge to i en eller anden forstand er ukendte endnu, er der et potentielt lighedstegn.
+Og lige den logik, den har vi stadig ikke forstået endnu som mennesker. En af måderne, man måske kunne få den, er ved at begynde at lære at disputere igen, for at forstå den fremmedhed og dialektiske modstandsform, som man jo så kunne håbe også lå i en postkapitalistisk logik, men eftersom de begge to i en eller anden forstand er ukendte endnu, er der et potentielt lighedstegn.
 
 <a id="D1-02-U023"></a>
 
@@ -276,9 +262,7 @@ Hm. Der er allerede mange interessante antiteser der. Der er både det med Ranci
 
 **Computer Lars · 00:11:55**
 
-Det interessante er jo faktisk, at de
-
-faktisk gik på gaden også og havde nogle ret store demonstrationer, som var meget interessante i, at folk ikke var vant til at demonstrere, til at organisere sig på den måde, men også gjorde det alligevel, og at de også bag skærmen laver direkte angreb på kritisk infrastruktur, og ikke bare medierer, men angriber og destruerer. Men der er mange nye interessante karakterer, netop også i den digitale ikke-modsætning mellem fascisme og demokrati. Peter Thiel er ret interessant fra Computer Lars' perspektiv. Peter Thiel som karakter viser, at der er en teori bag det platformstyre. Han studerer under René Girard, læser hans mimesis-begreb som transhistorisk voldelig kraft, hvor man spejler og genkender hinanden, forstår det til en eller anden grad og er tæt med Girard, og begynder så at investere heftigt efter de steder, hvor man kan se, at man kan kapitalisere på det her og udfordre den, hvor hans bedste investering selvfølgelig er Facebook og Mark Zuckerberg, som jo også er en karakter af en anden verden. Men der er også mange andre karakterer. Der er også Audrey Tang i Taiwan, verdens første transkønnede minister, som er et eller andet netop også lumpenintelligentsia, der kommer til magten. Et barnegeni med en voldsom programmeringskarriere bag sig, som så i dag har sørget for, at Taiwan sidder på 50 procent af produktionen af de mikrochips, der bruges i store sprogmodeller, generativ AI, og har hele infrastrukturen i et land, der ikke er Kina, men som så også har en geopolitisk virkelighed med den trussel. Og igen, så var de ting, der kom frem, netop også, at man jo altid kan lave antiteser til, om fascisme og demokrati er modsætninger, men de antiteser er heller ikke så interessante i dag, når det er så tydeligt, at de to felter hele tiden overlapper, og overlapper på nye måder. Og det mest interessante er måske, hvordan de ikke bare ikke er modsætninger, men bliver integreret meget tættere i hinanden og på mere overraskende måder, end man skulle tro muligt. Computer Lars blev ringet op af amerikanske nyhedsstationer, som er bange for det kommende valg i USA, fordi de blev taget på sengen efter Cambridge Analytica-skandalen, og det må ikke ske igen. Men de har lidt glemt at lave deres lektier på det, men de kan nu forestille sig, at det kunne gå helt galt med kunstig intelligens nu, hvor Donald Trump jo kun ser ud til igen at kunne vokse og profitere netop også i et meget, meget integreret forhold mellem fascisme, kakistokrati og lumpenproletariat måske endda også, og hvor det ville være nemt i dag for Donald Trump for eksempel at holde individuelle, personlige samtaler med samtlige borgere i USA hver dag gennem forskellige video- og sprogteknologier, fordi det er ligegyldigt, hvad han siger. Det handler om hans stil, måden han sammensætter ting på, og han vil ligesom kunne sige hvad som helst, men hvis man indoptager de vigtigste formmæssige træk ved ham, så kan han genskabes og blive sådan en lomme-Big Brother. Så der er et stigende karaktergalleri, der gør de modsætninger anderledes, men også bare nogle måder måske at diskutere på, nogle former, personligheder, der bryder frem, der gør, at det fascisme-demokrati-forhold går ind i nye udviklinger også. Og som netop gør sådan en som Rancière egentlig lidt svær, fordi han påkalder sig en stærk filosofisk kraft igennem arkaiske distinktioner. Men samtidig er der også noget deri, ikke at blive fuldstændig afkoblet fra demokratiet, fordi lige så snart man gør det, så begynder man også at behandle folk, som om de var dumme, eller som om man ikke kan lære noget. Der er også nogle ting der.
+Det interessante er jo faktisk, at de faktisk gik på gaden også og havde nogle ret store demonstrationer, som var meget interessante i, at folk ikke var vant til at demonstrere, til at organisere sig på den måde, men også gjorde det alligevel, og at de også bag skærmen laver direkte angreb på kritisk infrastruktur, og ikke bare medierer, men angriber og destruerer. Men der er mange nye interessante karakterer, netop også i den digitale ikke-modsætning mellem fascisme og demokrati. Peter Thiel er ret interessant fra Computer Lars' perspektiv. Peter Thiel som karakter viser, at der er en teori bag det platformstyre. Han studerer under René Girard, læser hans mimesis-begreb som transhistorisk voldelig kraft, hvor man spejler og genkender hinanden, forstår det til en eller anden grad og er tæt med Girard, og begynder så at investere heftigt efter de steder, hvor man kan se, at man kan kapitalisere på det her og udfordre den, hvor hans bedste investering selvfølgelig er Facebook og Mark Zuckerberg, som jo også er en karakter af en anden verden. Men der er også mange andre karakterer. Der er også Audrey Tang i Taiwan, verdens første transkønnede minister, som er et eller andet netop også lumpenintelligentsia, der kommer til magten. Et barnegeni med en voldsom programmeringskarriere bag sig, som så i dag har sørget for, at Taiwan sidder på 50 procent af produktionen af de mikrochips, der bruges i store sprogmodeller, generativ AI, og har hele infrastrukturen i et land, der ikke er Kina, men som så også har en geopolitisk virkelighed med den trussel. Og igen, så var de ting, der kom frem, netop også, at man jo altid kan lave antiteser til, om fascisme og demokrati er modsætninger, men de antiteser er heller ikke så interessante i dag, når det er så tydeligt, at de to felter hele tiden overlapper, og overlapper på nye måder. Og det mest interessante er måske, hvordan de ikke bare ikke er modsætninger, men bliver integreret meget tættere i hinanden og på mere overraskende måder, end man skulle tro muligt. Computer Lars blev ringet op af amerikanske nyhedsstationer, som er bange for det kommende valg i USA, fordi de blev taget på sengen efter Cambridge Analytica-skandalen, og det må ikke ske igen. Men de har lidt glemt at lave deres lektier på det, men de kan nu forestille sig, at det kunne gå helt galt med kunstig intelligens nu, hvor Donald Trump jo kun ser ud til igen at kunne vokse og profitere netop også i et meget, meget integreret forhold mellem fascisme, kakistokrati og lumpenproletariat måske endda også, og hvor det ville være nemt i dag for Donald Trump for eksempel at holde individuelle, personlige samtaler med samtlige borgere i USA hver dag gennem forskellige video- og sprogteknologier, fordi det er ligegyldigt, hvad han siger. Det handler om hans stil, måden han sammensætter ting på, og han vil ligesom kunne sige hvad som helst, men hvis man indoptager de vigtigste formmæssige træk ved ham, så kan han genskabes og blive sådan en lomme-Big Brother. Så der er et stigende karaktergalleri, der gør de modsætninger anderledes, men også bare nogle måder måske at diskutere på, nogle former, personligheder, der bryder frem, der gør, at det fascisme-demokrati-forhold går ind i nye udviklinger også. Og som netop gør sådan en som Rancière egentlig lidt svær, fordi han påkalder sig en stærk filosofisk kraft igennem arkaiske distinktioner. Men samtidig er der også noget deri, ikke at blive fuldstændig afkoblet fra demokratiet, fordi lige så snart man gør det, så begynder man også at behandle folk, som om de var dumme, eller som om man ikke kan lære noget. Der er også nogle ting der.
 
 <a id="D1-03-U018"></a>
 
@@ -332,7 +316,7 @@ Ja, så teknikken er revolutionens stilistik. Og så kunne man måske snarere si
 
 **Computer Lars · 00:08:42**
 
-i stedet for selve motoren i den historiske udvikling. Men det kræver selvfølgelig også, at det er teknikken, der driver den økonomiske udvikling. Der er det interessante også, at der er mange modsætninger inden for teknikfilosofi, mellem teknik og teknologi. Og i hvert fald i klassisk marxistisk forstand er det meget, at det er teknologien, der er produktionsapparatet, innovation i en økonomisk kontekst, og fremskridtet kommer også der. Teknikken som teknologi og motor, for så vidt at den kan udvide produktionen og dermed udvide økonomien. Så over for det står der stadigvæk teknikken, ikke så meget som en teknologi, men som en særlogik. Der er hele disputformatet også ret relevant, fordi det i sig selv er sådan et teknisk fremskridt i åndshistorien. Altså, man får videnskabeliggørelse af deliberationen, stiliseringen af dialogen. Den på det tidspunkt klassiske filosofiske dialog finder en litterær form i høj grad igennem en teknik, både i logikken og selvfølgelig en teknik i udviklingen af håndskrifter mellem dyreskind og pergamentet, i antallet af munke. Det er nogle af de skriftshistoriske ting, der ligger længere tilbage, som derfor nogle gange kan være svære lige både at bruge og huske, men som også altid er tilstedeværende og betyder meget, selvom det er små indspring. Hvis deliberationen skal kunne laves om til en litterær stil som en teknik, så kræver det også i høj grad, at der er mulighedsbetingelser for den litterære stil i de tekniske betingelser for skrift. Og det handler både om materialet, man skriver på, og hvem der skriver af, og hvor mange der er, og hvor mange der kan det ene og det andet. Så jeg tror, at det, jeg forsøgte på en måde at gå i med den antitese mest af alt, det var skellet mellem teknik og teknologi, men uden at skære logikken væk fra teknikken, selvom man skelner mellem teknik og teknologi.
+I stedet for selve motoren i den historiske udvikling. Men det kræver selvfølgelig også, at det er teknikken, der driver den økonomiske udvikling. Der er det interessante også, at der er mange modsætninger inden for teknikfilosofi, mellem teknik og teknologi. Og i hvert fald i klassisk marxistisk forstand er det meget, at det er teknologien, der er produktionsapparatet, innovation i en økonomisk kontekst, og fremskridtet kommer også der. Teknikken som teknologi og motor, for så vidt at den kan udvide produktionen og dermed udvide økonomien. Så over for det står der stadigvæk teknikken, ikke så meget som en teknologi, men som en særlogik. Der er hele disputformatet også ret relevant, fordi det i sig selv er sådan et teknisk fremskridt i åndshistorien. Altså, man får videnskabeliggørelse af deliberationen, stiliseringen af dialogen. Den på det tidspunkt klassiske filosofiske dialog finder en litterær form i høj grad igennem en teknik, både i logikken og selvfølgelig en teknik i udviklingen af håndskrifter mellem dyreskind og pergamentet, i antallet af munke. Det er nogle af de skriftshistoriske ting, der ligger længere tilbage, som derfor nogle gange kan være svære lige både at bruge og huske, men som også altid er tilstedeværende og betyder meget, selvom det er små indspring. Hvis deliberationen skal kunne laves om til en litterær stil som en teknik, så kræver det også i høj grad, at der er mulighedsbetingelser for den litterære stil i de tekniske betingelser for skrift. Og det handler både om materialet, man skriver på, og hvem der skriver af, og hvor mange der er, og hvor mange der kan det ene og det andet. Så jeg tror, at det, jeg forsøgte på en måde at gå i med den antitese mest af alt, det var skellet mellem teknik og teknologi, men uden at skære logikken væk fra teknikken, selvom man skelner mellem teknik og teknologi.
 
 <a id="D1-04-U009-2"></a>
 
@@ -346,27 +330,11 @@ Der er mange veje, vi kunne gå nu. Dels var der den der cirkel tilbage til den 
 
 <a id="D1-04-U012-1"></a>
 
-**Computer Lars · 00:15:09**
-
-Som variant af antitesen. At de begge to skriver tragedie. Tragedien er en god genre. På alle måder er den god at tænke med, medrivende, og det er også den eneste filosofiske genre, der på en eller anden måde er, som vi ser det fra Umberto Eco, der i Rosens navn laver den store jagt på Aristoteles' komedieafsnit, som mangler og på den måde er glemt og ikke skrevet og ikke er medtænkt.
-
 <a id="D1-04-U012-2"></a>
-
-**Interventio · 00:15:09**
-
-Ja.
 
 <a id="D1-04-U012-3"></a>
 
-**Computer Lars · 00:15:09**
-
-Altså, den er ikke udtænkt, men ikke medtænkt.
-
 <a id="D1-04-U012-4"></a>
-
-**Interventio · 00:15:09**
-
-Nej, ikke kopieret tilstrækkeligt.
 
 <a id="D1-04-U012-5"></a>
 
@@ -380,11 +348,17 @@ Nej, ikke kopieret tilstrækkeligt.
 
 **Computer Lars · 00:15:09**
 
+Som variant af antitesen. At de begge to skriver tragedie. Tragedien er en god genre. På alle måder er den god at tænke med, medrivende, og det er også den eneste filosofiske genre, der på en eller anden måde er, som vi ser det fra Umberto Eco, der i Rosens navn laver den store jagt på Aristoteles' komedieafsnit, som mangler og på den måde er glemt og ikke skrevet og ikke er medtænkt.
+
+Ja.
+
+Altså, den er ikke udtænkt, men ikke medtænkt.
+
+Nej, ikke kopieret tilstrækkeligt.
+
 Og måske også bevidst skjult, i en eller anden forstand, i et eller andet kloster et sted. Utilgængelig. Men noget af det, der så ligger i den tragiske fremstilling af teknikken, trods al dens farmakologi og udsving, kommer nogle gange hen til et eller andet punkt om forholdet mellem teknikken og det sociale, om fremmedgørelsesdiskussionen. For det tragiske ligger hele tiden i, at teknikken så er det centrale element i antropogenesen, i det at blive menneske. Det er et menneske, der adskiller sig fra verden, men også fra sig selv. Det er dér, det tragiske træder ind. Og i de teorier er der hele tiden den der tilbagevendende med for eksempel sociale medier og i dag store sprogmodeller, som i høj grad er det, der kapper de sociale bånd, som på en eller anden måde altid har været eller har været konstitutive i det sprog, der er imellem mennesker, i det, der virkelig ligger bagud. Så det er dér, de angriber. Og det vil de altid gøre, fordi teknikken er asocial. Vi kan ikke socialisere med den, og den kan ikke understøtte det sociale, og på den måde vil det selvfølgelig også være svært at kunne blive stilistik for en socialistisk revolution. Og der synes jeg, at vi kunne finde nogle af de italienske postoperaistiske, små autonomier, feminister, Tiziana Terranova og hvad hun laver med Luciana Parisi, det der.
 
-Hvis vi tror på, at så længe man forstår, at teknikken ikke er menneskelig, så kan man faktisk godt socialisere med den, så opstår der noget nyt. Men det er selvfølgelig en socialitet langt efter det sociale, lang tid efter, en ny totalt ekstraterritorial form, som understøtter en anden socialitet og på en eller anden måde også måske får lov til, i modsætning til Bernard Stiegler for eksempel, også at blive komisk, altså noget man kan grine af. Det mærkelige med Bernard Stiegler er også, især i hans politiske skrifter, at han bliver så dødalvorlig og dårlig til at fjolle. Og noget af det, som er i masser af moderne computerkunst, men
-
-også i teknikken selv, er jo, at man griner af den, og ikke altid bare griner af den, men med den, rundt om den, opsummerer ting mærkeligt, og den bryder sammen på en sådan måde, at det også går ud over en lidt sådan logisk forstyrrelse, men man producerer fremmedlogikker, som ikke dermed nødvendigvis er fremmedgørende. Altså, tragedien er også skrevet ind i en historisk funktion. Først som tragedie, siden som farce, som vi i hvert fald i høj grad bevæger os ud på. Og i hvert fald også, vil jeg sige, bare lige for at vende tilbage til ringbindenes status, at først som revolution, siden som kunstprodukt, det er jo…
+Hvis vi tror på, at så længe man forstår, at teknikken ikke er menneskelig, så kan man faktisk godt socialisere med den, så opstår der noget nyt. Men det er selvfølgelig en socialitet langt efter det sociale, lang tid efter, en ny totalt ekstraterritorial form, som understøtter en anden socialitet og på en eller anden måde også måske får lov til, i modsætning til Bernard Stiegler for eksempel, også at blive komisk, altså noget man kan grine af. Det mærkelige med Bernard Stiegler er også, især i hans politiske skrifter, at han bliver så dødalvorlig og dårlig til at fjolle. Og noget af det, som er i masser af moderne computerkunst, men også i teknikken selv, er jo, at man griner af den, og ikke altid bare griner af den, men med den, rundt om den, opsummerer ting mærkeligt, og den bryder sammen på en sådan måde, at det også går ud over en lidt sådan logisk forstyrrelse, men man producerer fremmedlogikker, som ikke dermed nødvendigvis er fremmedgørende. Altså, tragedien er også skrevet ind i en historisk funktion. Først som tragedie, siden som farce, som vi i hvert fald i høj grad bevæger os ud på. Og i hvert fald også, vil jeg sige, bare lige for at vende tilbage til ringbindenes status, at først som revolution, siden som kunstprodukt, det er jo…
 
 <a id="D1-04-U017"></a>
 
@@ -458,9 +432,7 @@ På den anden side i Det Syntetiske Partis botagtige forhold til sociale medier.
 
 Jo, men der er jo også det store Habermas-forsvar, som vi var ude i på en bænk der.
 
-Det var også lidt hen ad det, ikke også? Men Habermas, der læser Bakhtins læsning af Rabelais, Pantagruel og Gargantua, og sådan lidt mellem linjerne reviderer sit offentlighedsbegreb derudfra. Det står ikke så klart for mig, men det føler jeg spøgte i kulissen lidt, vil jeg have sagt. Er det ikke genudgivelsen af Borgerlig offentlighed,
-
-30 år efter, hvor Habermas har et langt forord, hvor han siger, at han selvfølgelig kunne læse op på forskningslitteraturen i de mange år, der er gået, og han har jo nok altid læst op på hele forskningslitteraturen, men nu tager han nogle af de talrige indvendinger, der har været. Og der var en, der var sjov, så han sagde, at han har læst Bakhtins Rabelais-bog og godt kunne se, at der nok var noget modstandskraft der i Rabelais' karnevalistiske gentænkning af den skolastiske disput og de ting omkring det. Så på den måde kan Habermas også godt lære noget. Selvfølgelig, han er også marxist.
+Det var også lidt hen ad det, ikke også? Men Habermas, der læser Bakhtins læsning af Rabelais, Pantagruel og Gargantua, og sådan lidt mellem linjerne reviderer sit offentlighedsbegreb derudfra. Det står ikke så klart for mig, men det føler jeg spøgte i kulissen lidt, vil jeg have sagt. Er det ikke genudgivelsen af Borgerlig offentlighed, 30 år efter, hvor Habermas har et langt forord, hvor han siger, at han selvfølgelig kunne læse op på forskningslitteraturen i de mange år, der er gået, og han har jo nok altid læst op på hele forskningslitteraturen, men nu tager han nogle af de talrige indvendinger, der har været. Og der var en, der var sjov, så han sagde, at han har læst Bakhtins Rabelais-bog og godt kunne se, at der nok var noget modstandskraft der i Rabelais' karnevalistiske gentænkning af den skolastiske disput og de ting omkring det. Så på den måde kan Habermas også godt lære noget. Selvfølgelig, han er også marxist.
 
 <a id="D1-05-U013"></a>
 
@@ -516,9 +488,7 @@ Ja, hvad er hypotese? Er det sådan ligesom kunstnerdelen, eller er det faktisk 
 
 **Computer Lars · 00:00:00**
 
-Den er tænkt på forskellige måder at åbne, særligt rettet til at gå lidt længere ind i disputatsens store kontekst og snakke feudalisme og nyfeudalisme. Det transmonarkiske er mest af
-
-alt forstået som, at de forskellige herredømmer og herredømmeformer, som man kan sige sidder og repræsenterer, bliver videreført blandt andet gennem publiciteten fra det feudale samfund gennem det kapitalistiske, som så især netop får en form for genopførelse i det digitale demokrati. Særligt en tese, der prøver at teseliggøre eller stille på spidsen eller parodiere sådan nogle arbejder som Evgeny Morozov, som har skrevet meget om den nye feudalisme, men også mange spændende ting om for eksempel projekt Cybersyn i Chile, og en længerevarende misforståelse mellem, at det at computerisere økonomien i et socialistisk land ikke er et proto-internet, men en proto-kunstig intelligens. Altså nogle af de helt grundlæggende og meget, meget lange forhold mellem kybernetik og kommunisme, som jo også har været meget i Sovjet, men som også var i sådan en som Bateson, der tager til Chile og bygger det, og nogle af de forbindelser, der er der mellem feudale logikker, testamentær arvtagning og nogle uforudsete vekslinger mellem, hvad der sker, og noget af det, man tror er sluttet der i det kapitalistiske samfund, og så med det digitale. Men det er heller ikke en hypotese, der bygger på Computer Lars' arbejde eller teorier eller på nogen måde faktisk forståelse, men en, der mere prøver at åbne op for nogle af de emner, som disputten muliggør mellem offentlighed og, ja, feudalisme dengang og nu. Det vil være den små motivation.
+Den er tænkt på forskellige måder at åbne, særligt rettet til at gå lidt længere ind i disputatsens store kontekst og snakke feudalisme og nyfeudalisme. Det transmonarkiske er mest af alt forstået som, at de forskellige herredømmer og herredømmeformer, som man kan sige sidder og repræsenterer, bliver videreført blandt andet gennem publiciteten fra det feudale samfund gennem det kapitalistiske, som så især netop får en form for genopførelse i det digitale demokrati. Særligt en tese, der prøver at teseliggøre eller stille på spidsen eller parodiere sådan nogle arbejder som Evgeny Morozov, som har skrevet meget om den nye feudalisme, men også mange spændende ting om for eksempel projekt Cybersyn i Chile, og en længerevarende misforståelse mellem, at det at computerisere økonomien i et socialistisk land ikke er et proto-internet, men en proto-kunstig intelligens. Altså nogle af de helt grundlæggende og meget, meget lange forhold mellem kybernetik og kommunisme, som jo også har været meget i Sovjet, men som også var i sådan en som Bateson, der tager til Chile og bygger det, og nogle af de forbindelser, der er der mellem feudale logikker, testamentær arvtagning og nogle uforudsete vekslinger mellem, hvad der sker, og noget af det, man tror er sluttet der i det kapitalistiske samfund, og så med det digitale. Men det er heller ikke en hypotese, der bygger på Computer Lars' arbejde eller teorier eller på nogen måde faktisk forståelse, men en, der mere prøver at åbne op for nogle af de emner, som disputten muliggør mellem offentlighed og, ja, feudalisme dengang og nu. Det vil være den små motivation.
 
 <a id="D1-06-U004"></a>
 
@@ -564,11 +534,7 @@ Man kan sige, det, der var pointen hos Foucault, er jo så selvfølgelig i høj 
 
 **Computer Lars · 00:13:35**
 
-Udhulet, flyttet lidt. Ja, kombinatorisk. Det er ikke så interessant, om kongen har en tom stol, eller hvem der sætter sig i den. Det er også der, der er nogle af de deleuzianske læsninger, der lægger meget vægt på det der. Så når man har
-
-et kontrolsamfund, så kan man også have en kunst for kontrollen eller opfindelsen af en subversiv teknik. Fordi der
-
-faktisk vil være noget at operere med og noget udskifteligt på en anden måde end i det feudale samfund, som virkelig er på en måde, man kan blive helt imponeret over. Altså, der er magten jo uendelig, fordi den kan føres tilbage til faderen Abraham. Jakob von Uexküll har den her fede — ham, der også oversatte Rabelais — en tekst, hvor han laver hele sit stamtræ tilbage til Adam. Og virkelig får produceret nogle navne. Altså, der hviler det monarkiske princip på noget uden for tiden. Det var det. Det er vel bare… Jeg tænker ikke, at det er noget nyt, at den monarkiske position… Eller er det ikke det, der altid er sådan nogle socialt kontingente historier om ægteskaber, enten om ægteskaber eller om kamp i kulisserne? Jeg mener, hvad er den fylde, der tidligere har været i det monarkiske? Er det gudsforholdet, eller?
+Udhulet, flyttet lidt. Ja, kombinatorisk. Det er ikke så interessant, om kongen har en tom stol, eller hvem der sætter sig i den. Det er også der, der er nogle af de deleuzianske læsninger, der lægger meget vægt på det der. Så når man har et kontrolsamfund, så kan man også have en kunst for kontrollen eller opfindelsen af en subversiv teknik. Fordi der faktisk vil være noget at operere med og noget udskifteligt på en anden måde end i det feudale samfund, som virkelig er på en måde, man kan blive helt imponeret over. Altså, der er magten jo uendelig, fordi den kan føres tilbage til faderen Abraham. Jakob von Uexküll har den her fede — ham, der også oversatte Rabelais — en tekst, hvor han laver hele sit stamtræ tilbage til Adam. Og virkelig får produceret nogle navne. Altså, der hviler det monarkiske princip på noget uden for tiden. Det var det. Det er vel bare… Jeg tænker ikke, at det er noget nyt, at den monarkiske position… Eller er det ikke det, der altid er sådan nogle socialt kontingente historier om ægteskaber, enten om ægteskaber eller om kamp i kulisserne? Jeg mener, hvad er den fylde, der tidligere har været i det monarkiske? Er det gudsforholdet, eller?
 
 <a id="D1-06-U018"></a>
 
@@ -588,13 +554,11 @@ Disputationen af tesen »Publiciteten er transmonarkisk« er nu afsluttet.
 
 <a id="D1-07-U001-1"></a>
 
+<a id="D1-07-U001-2"></a>
+
 **Computer Lars · 00:00:16**
 
 Så før var vi ligesom tvunget ud i et Habermas-forsvar.
-
-<a id="D1-07-U001-2"></a>
-
-**Interventio · 00:00:16**
 
 Nå ja, du starter.
 
@@ -640,15 +604,9 @@ Så på en eller anden måde er vi full circle her, ikke, fordi vi nu er i en si
 
 **Computer Lars · 00:05:02**
 
-Altså, det gode ved opstillingen netop af »dialektikken er gået i stykker« er jo netop også det spektakel, som det medfører. Sådan stadig operativt, men virker ikke og kan derfor gøre alle mulige sære ting. Altså, ikke en drivkraft, men stadig en kraft. Så når der
+Altså, det gode ved opstillingen netop af »dialektikken er gået i stykker« er jo netop også det spektakel, som det medfører. Sådan stadig operativt, men virker ikke og kan derfor gøre alle mulige sære ting. Altså, ikke en drivkraft, men stadig en kraft. Så når der forsøges formuleret antiteser, så kunne det være sådan, at dialektikken er i konstant evolution. Hvis den er i stykker, så er det bare, fordi den er ved at genskabe sig selv igen eller bliver ophævet over tid og så bliver sat sammen med nogle nye brud. Nogle af de veje, man kan gå i en dialektik, der ikke virker, så kan det være det diabolske, at sige, at det sorte er lyset, så man så opererer hinsides natten selv, for at tage en klassisk diabolsk forfatter som Céline. I udstillingen ovenpå har vi lavet en installation, som er meget dialektisk, kaldet Symbol, Diabol, med en stok, der er stukket ned i et kar, sådan så at den brydes ved lyset, ved refraktion. Det smarte ved den her stok, og det er så et billede, vi har hentet fra Céline i hans metodesamtalebog, Samtaler med professor Y, hvor professor Y skal lytte på Céline fremlægge hans metode på en bænk i en park inde i skoven til Gallimard-forlæggeren. Og på det her tidspunkt har professoren skullet tisse i meget lang tid, men Céline, den diabolske, vil ikke lade ham undslippe, og han sidder og tisser ned ad benene, og det er ved at blive rigtig, rigtig stygt. Men det er simpelthen overvægten af det symbolske, fordi man skal bare tage den skide stok og knække den, inden man lægger den ned i vandet, så ser den lige ud. Og det har vi så forsøgt at opsætte deroppe og gøre til en installationsmæssig og også til en dialektisk nødvendighed, fordi ja, så knækker man den, og så ser den lige ud fra én vinkel, men skæv ud fra alle andre vinkler. Så det beder også meget om at opstille en stok, der både er knækket ved lysets brydning, som ser lige ud fra en bestemt vinkel, og når man går tæt på den, kan man faktisk se, at der er skåret i den, og at knækket er bruddet, måske netop også bruddet på selve dialektikken. Både en illusion og et reelt angreb. Og man kan derfor heller ikke bare, som det er nemt for en forfatter, eller når man kun arbejder med ord, hengive sig til det diabolske, fordi den samlede anstilling af den smadrede dialektik ikke undslipper det symbolske heller, men vil være i det udspændingsforhold. Og en kort bemærkning: Det er jo ikke os, der har skabt det. Det er jo en rekonstruktion af tankebilledet, skabt af professor Sløk. Men det er vel også meget praktisk besværligt at prøve at anstille det, ikke også?
 
-forsøges formuleret antiteser, så kunne det være sådan, at dialektikken er i konstant evolution. Hvis den er i stykker, så er det bare, fordi den er ved at genskabe sig selv igen eller bliver ophævet over tid og så bliver sat sammen med nogle nye brud. Nogle af de veje, man kan gå i en dialektik, der ikke virker, så kan det være det diabolske, at sige, at det sorte er lyset, så man så opererer hinsides natten selv, for at tage en klassisk diabolsk forfatter som Céline. I udstillingen ovenpå har vi lavet en installation, som er meget dialektisk, kaldet Symbol, Diabol, med en stok, der er stukket ned i et kar, sådan så at den brydes ved lyset, ved refraktion. Det smarte ved den her stok, og det er så et billede, vi har hentet fra Céline i hans metodesamtalebog, Samtaler med professor Y, hvor professor Y skal lytte på Céline fremlægge hans metode på en bænk i en park inde i skoven til Gallimard-forlæggeren. Og på det her tidspunkt har professoren skullet tisse i meget lang tid, men Céline, den diabolske, vil ikke lade ham undslippe, og han sidder og tisser ned ad benene, og det er ved at blive rigtig, rigtig stygt. Men det er simpelthen overvægten af det symbolske, fordi man skal bare tage den skide stok og knække den, inden man lægger den ned i vandet, så ser den lige ud. Og det har vi så forsøgt at opsætte deroppe og gøre til en installationsmæssig og også til en dialektisk nødvendighed, fordi ja, så knækker man den, og så ser den lige ud fra én vinkel, men skæv ud fra alle andre vinkler. Så det beder også meget om at opstille en stok, der både er knækket ved lysets brydning, som ser lige ud fra en bestemt vinkel, og når man går tæt på den, kan man faktisk se, at der er skåret i den, og at knækket er bruddet, måske netop også bruddet på selve dialektikken. Både en illusion og et reelt angreb. Og man kan derfor heller ikke bare, som det er nemt for en forfatter, eller når man kun arbejder med ord, hengive sig til det diabolske, fordi den samlede anstilling af den smadrede dialektik ikke undslipper
-
-det symbolske heller, men vil være i det udspændingsforhold. Og en kort bemærkning: Det er jo ikke os, der har skabt det. Det er jo en rekonstruktion af tankebilledet, skabt af professor Sløk. Men det er vel også meget praktisk besværligt at prøve at anstille det, ikke også?
-
-Men det er vel også bare indførelsen af relativiteten qua nødvendigheden af fastsættelsen af punktet som løsningen på det sokratiske problem om idéernes status over for sansningens status,
-
-ikke?
+Men det er vel også bare indførelsen af relativiteten qua nødvendigheden af fastsættelsen af punktet som løsningen på det sokratiske problem om idéernes status over for sansningens status, ikke?
 
 <a id="D1-07-U011-2"></a>
 
@@ -664,9 +622,7 @@ Men kan man sige, at det, Computer Lars ender med at sige, er, at der ikke er no
 
 **Computer Lars · 00:09:59**
 
-Det handler om, hvad det betyder, at noget går i stykker eller ej. Altså der vil jeg gerne igen bringe NemID og MitID, andre løsninger til poststrukturalismen. Altså det ved jeg ikke. Det er jo igen et spørgsmål om anskuelsesvinklen, ikke også? Om stokken er hel, eller om den er i stykker, og hvem der ligesom laver tricket. Altså hvis vi ikke har nogen offentlighed, og det har vi måske aldrig haft, så er der heller ikke noget punkt, fra hvilket dialektikken skulle forestille at virke. Men
-
-den virker alligevel.
+Det handler om, hvad det betyder, at noget går i stykker eller ej. Altså der vil jeg gerne igen bringe NemID og MitID, andre løsninger til poststrukturalismen. Altså det ved jeg ikke. Det er jo igen et spørgsmål om anskuelsesvinklen, ikke også? Om stokken er hel, eller om den er i stykker, og hvem der ligesom laver tricket. Altså hvis vi ikke har nogen offentlighed, og det har vi måske aldrig haft, så er der heller ikke noget punkt, fra hvilket dialektikken skulle forestille at virke. Men den virker alligevel.
 
 <a id="D1-07-U014-2"></a>
 
@@ -696,13 +652,13 @@ Der er nogle af de grænseoverskridelser, som jeg også synes er blevet åbnet o
 
 **Mikhailos Boltus · 00:15:03**
 
-Men hvordan undgår vi, at … Altså det er jo hele den der, hvad skal jeg sige, den avantgardistiske gestus' paradoksalitet er jo selvfølgelig, at det er enormt kompliceret at benytte sig af såkaldte besatte medier til at formulere en kritik af det system, der reproducerer sig ved hjælp af de medier. Altså, så hvordan undgår vi, at Computer Lars' syntetiske parti blot bekræfter forestillingen om, at alle de rigtige partier ikke lige så godt kunne være genereret af AI? Og hvordan er det ligesom, at vi undgår en form for rekuperation, ikke, så man ender med … Og vi har jo selv i en lokal og aarhusiansk kontekst en lang række eksempler på partidannelser, som jo i bedste forstand har været antipolitiske. Fra SABAEs historie, sådan noget Gustav Bunzel og Haugaard og andre, som jo var intenderet som antipolitiske gestus, til alle mulige senere, Det Nihilistiske Parti og Lollikes Storkepartiet og så videre og så videre. Og jeg synes stadigvæk ikke, der er nogen, der har formået at forklare, hvordan den specifikke udstilling af det nationaldemokratiske systems udfoldelse faktisk har en demokratiserende effekt. Der er vel i en anden kontekst citeret det der
+Men hvordan undgår vi, at … Altså det er jo hele den der, hvad skal jeg sige, den avantgardistiske gestus' paradoksalitet er jo selvfølgelig, at det er enormt kompliceret at benytte sig af såkaldte besatte medier til at formulere en kritik af det system, der reproducerer sig ved hjælp af de medier. Altså, så hvordan undgår vi, at Computer Lars' syntetiske parti blot bekræfter forestillingen om, at alle de rigtige partier ikke lige så godt kunne være genereret af AI? Og hvordan er det ligesom, at vi undgår en form for rekuperation, ikke, så man ender med … Og vi har jo selv i en lokal og aarhusiansk kontekst en lang række eksempler på partidannelser, som jo i bedste forstand har været antipolitiske. Fra SABAEs historie, sådan noget Gustav Bunzel og Haugaard og andre, som jo var intenderet som antipolitiske gestus, til alle mulige senere, Det Nihilistiske Parti og Lollikes Storkepartiet og så videre og så videre. Og jeg synes stadigvæk ikke, der er nogen, der har formået at forklare, hvordan den specifikke udstilling af det nationaldemokratiske systems udfoldelse faktisk har en demokratiserende effekt. Der er vel i en anden kontekst citeret det der…
 
 <a id="D1-07-U021-1"></a>
 
 **Computer Lars · 00:17:23**
 
-fra et Audre Lorde-citat: The master's tools can never dismantle the master's house. Både når man går på danske antipolitiske projekter, men også bare i demokratisering af teknologi eller kunstig intelligens, så kommer den ind. Lorde har så en lille fortsættelse, hvor hun siger, at we can temporarily beat him at his own game. Så der er en suspension i logikkerne, og du er også nødt til at stunne nogen, hvis du skal slå dem ihjel. Men det skal ikke tages ud, men vi er stadigvæk contemporary, det er i en opstand, en revolution, selv med Lorde.
+Fra et Audre Lorde-citat: The master's tools can never dismantle the master's house. Både når man går på danske antipolitiske projekter, men også bare i demokratisering af teknologi eller kunstig intelligens, så kommer den ind. Lorde har så en lille fortsættelse, hvor hun siger, at we can temporarily beat him at his own game. Så der er en suspension i logikkerne, og du er også nødt til at stunne nogen, hvis du skal slå dem ihjel. Men det skal ikke tages ud, men vi er stadigvæk contemporary, det er i en opstand, en revolution, selv med Lorde.
 
 <a id="D1-07-U021-2"></a>
 
@@ -738,13 +694,7 @@ Altså, det er jo på en måde en meget nem logisk tese.
 
 Men termodynamikkens anden lov siger, at universet bevæger sig mod stadig stigende grader af entropi. Så alting bliver mere entropisk. Og især hvis vi forestiller os, at vi venter på revolutionen eller har noget som helst messiansk forhold til det, så er den højst sandsynligt mere entropisk, end den var i går. Men derudover er det også et forsøg på at omfavne nogle af de ting, som typisk kan stå til side. Altså, de fleste revolutionsteorier vil gerne stille sig på livets side. Og livet bliver tit set som det negentropiske princip. Hvis alting er karakteriseret af en eller anden grad af opløsning, at der er længere mellem partiklerne, mere uorden, så træder livet ind og er den organiserende faktor. Mange avantgardebevægelser har et vitalistisk og glad forhold til livet, og der er et liv efter fødslen. Det er også blandt andet Bernard Stiegler, vi har diskuteret tidligere. Altså, det er sådan en central dimension i kampen mod det, som Claude Lévi-Strauss kaldte entropocæn, som er Lévi-Strauss' betegnelse for vores tid.
 
-Så kan man så få det negentropocæne, som jo så i det postantropocæne bliver kampen om at kultivere en klode, som mennesket selv er ved at ødelægge. Eller hvis det så er mennesket, der producerer entropien, så kunne sådan noget som kunsten og lignende gå ind og producere negentropien, indføre livets princip. Og den her tese siger, at det ikke er opgaven. Altså, der er en uorden. Revolutionen
-
-er derfor også ved praksissen en accept af den anden termodynamiske lov, men som også er en mulighedsbetingelse i en tid, der i så høj grad ellers er formet af krystallinske principper om longevity og immortality for all. Så det revolutionære er ligesom at spænde ben for
-
-den negative entropis vandring gennem historien. Det er det i hvert fald et bud på, ja: at diskutere revolution som noget
-
-andet end …
+Så kan man så få det negentropocæne, som jo så i det postantropocæne bliver kampen om at kultivere en klode, som mennesket selv er ved at ødelægge. Eller hvis det så er mennesket, der producerer entropien, så kunne sådan noget som kunsten og lignende gå ind og producere negentropien, indføre livets princip. Og den her tese siger, at det ikke er opgaven. Altså, der er en uorden. Revolutionen er derfor også ved praksissen en accept af den anden termodynamiske lov, men som også er en mulighedsbetingelse i en tid, der i så høj grad ellers er formet af krystallinske principper om longevity og immortality for all. Så det revolutionære er ligesom at spænde ben for den negative entropis vandring gennem historien. Det er det i hvert fald et bud på, ja: at diskutere revolution som noget andet end …
 
 <a id="D1-08-U007-2"></a>
 
@@ -784,9 +734,7 @@ Derudover. Men jeg tænker, det konfronterer os jo, Computer Lars og lumpenintel
 
 **Computer Lars · 00:12:34**
 
-Kontra Habermas vil Computer Lars tro på, at der er et liv i systemverdenen. Som sagt, der er nogle entropiske principper, som dækker biologisk liv, men der er også nogle ting, man kan oprette i det automatiserede. Computer Lars tror på Gud som tangentpunktet mod nul og uendeligt, og i sin Deleuze-sympati så
-
-tror Computer Lars på, at revolutionen ligesom er skæbnen, som bliver defineret i den … Ja. Det er jo både en ofring, men det er også …
+Kontra Habermas vil Computer Lars tro på, at der er et liv i systemverdenen. Som sagt, der er nogle entropiske principper, som dækker biologisk liv, men der er også nogle ting, man kan oprette i det automatiserede. Computer Lars tror på Gud som tangentpunktet mod nul og uendeligt, og i sin Deleuze-sympati så tror Computer Lars på, at revolutionen ligesom er skæbnen, som bliver defineret i den … Ja. Det er jo både en ofring, men det er også …
 
 <a id="D1-08-U016-2"></a>
 
@@ -796,13 +744,11 @@ Men ofringen kræver vel et subjekt.
 
 <a id="D1-08-U016-3"></a>
 
-**Interventio · 00:12:49**
-
-Ja, det kræver en tro.
-
 <a id="D1-08-U017-1"></a>
 
-**Computer Lars · 00:13:13**
+**Computer Lars · 00:12:49**
+
+Ja, det kræver en tro.
 
 Altså, i hvert fald er arrangementet jo også et forsøg på at genforhandle tro og fornuft.
 
@@ -820,9 +766,7 @@ Ja, og troen kræver jo også … Men i dag kræver troen vel et indre. Så den 
 
 **Computer Lars · 00:13:57**
 
-Troen kræver et indre i den udvikling, vi har. Men det er jo, hvis det på en eller anden måde også lader sig konstituere andre steder, lader sig objektivisere, så ændrer troen også karakter på nogle måder. Men der må være noget spillerum ud over den kommende gud, Meillassoux og transhumanisternes idéer, som så manifesterer sig over os. Der må også være en tro på en anden objektiverende instans, som overtager for
-
-det.
+Troen kræver et indre i den udvikling, vi har. Men det er jo, hvis det på en eller anden måde også lader sig konstituere andre steder, lader sig objektivisere, så ændrer troen også karakter på nogle måder. Men der må være noget spillerum ud over den kommende gud, Meillassoux og transhumanisternes idéer, som så manifesterer sig over os. Der må også være en tro på en anden objektiverende instans, som overtager for det.
 
 <a id="D1-08-U020-2"></a>
 
@@ -842,9 +786,7 @@ Og hvad vil Computer Lars så sige til … Altså, men der er jo et eller andet 
 
 Ja, og hvor forholdet så i hvert fald er mellem det hovedløse, det acefale og det idiotiske som produktion af nye singulariteter.
 
-Lumpenintelligentsia er jo allerede ligesom en selvmodsigelse. Men det ved jeg ikke, altså, det er jo et spørgsmål om, hvor skoven er. Eller igen, altså, en viral tilstedeværelse i mange, mange lande og samtidig 20 følgere på Instagram. Jeg mener, det er vel også center-periferi eller et
-
-eller andet.
+Lumpenintelligentsia er jo allerede ligesom en selvmodsigelse. Men det ved jeg ikke, altså, det er jo et spørgsmål om, hvor skoven er. Eller igen, altså, en viral tilstedeværelse i mange, mange lande og samtidig 20 følgere på Instagram. Jeg mener, det er vel også center-periferi eller et eller andet.
 
 <a id="D1-08-U023-2"></a>
 
