@@ -1,0 +1,263 @@
+[
+  {
+    "path": "Disput 3/tese a_3.m4a",
+    "seconds": 1278.528,
+    "tags": {
+      "creation_time": "2023-09-22T16:43:05.000000Z"
+    },
+    "bytes": 39038778,
+    "id": "D3-01",
+    "group": "Disput 3",
+    "sha256": "0d8936b528e49042f05ca1475ad7dbb760a34bb3e31eaab119be27a713dea8ef",
+    "display_duration": "00:21:18",
+    "status": "principal",
+    "title": "Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX",
+    "drive_name": "tese a:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10228823,
+      "sha256": "270a9960121955373934ffad392d8846e6b152ea9e2b74440df61d86f0636c07"
+    }
+  },
+  {
+    "path": "Disput 3/tese b_3.m4a",
+    "seconds": 1216.853,
+    "tags": {
+      "creation_time": "2023-09-22T17:07:00.000000Z"
+    },
+    "bytes": 37135636,
+    "id": "D3-02",
+    "group": "Disput 3",
+    "sha256": "04a48e26a81237664d0b4ef5df04b6c5296b2eb9fff2e24ec9ee1b4a04758e88",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "Computer Lars’ etymologi er beregningens triumf",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8",
+    "drive_name": "tese b:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9735409,
+      "sha256": "105a241168d6de2aa088423c9bccb6cae4fade28105f4a4843222af9d10a9293"
+    }
+  },
+  {
+    "path": "Disput 3/tese c_3.m4a",
+    "seconds": 1221.547,
+    "tags": {
+      "creation_time": "2023-09-22T17:46:27.000000Z"
+    },
+    "bytes": 37245263,
+    "id": "D3-03",
+    "group": "Disput 3",
+    "sha256": "f4a4379d7de08d05568509b333e69ef90724614a10b97434981c4ba23bb2e11d",
+    "display_duration": "00:20:21",
+    "status": "principal",
+    "title": "Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser pr. analogi",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8",
+    "drive_name": "tese c:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9772901,
+      "sha256": "fa6411deb78923c75b72d6a3444cfaf6fd85f2800b4e70fb058bdef9d368e0b9"
+    }
+  },
+  {
+    "path": "Disput 3/tese d_3.m4a",
+    "seconds": 1219.2,
+    "tags": {
+      "creation_time": "2023-09-22T18:09:49.000000Z"
+    },
+    "bytes": 37187237,
+    "id": "D3-04",
+    "group": "Disput 3",
+    "sha256": "93a602b40701ac4717cdbb416b4e59c13a98a052361783ddd88aed510fefca59",
+    "display_duration": "00:20:19",
+    "status": "principal",
+    "title": "Poetisk og militær hæder bestemmes som feltaritmetik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG",
+    "drive_name": "tese d:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9754134,
+      "sha256": "6ffec9d71a65f32c81fb90e8b860ce63bcd43ec4d32dcb3b05126aaf60224e67"
+    }
+  },
+  {
+    "path": "Disput 3/tese e_3.m4a",
+    "seconds": 1216.555,
+    "tags": {
+      "creation_time": "2023-09-22T18:52:27.000000Z"
+    },
+    "bytes": 37118851,
+    "id": "D3-05",
+    "group": "Disput 3",
+    "sha256": "bc93b79235d2b9b167accdc34242dc3f440540e5c8e7e9ad1da853b8016b14b8",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "I Biblioteket i Babel er ethvert gennemløb overtalligt i forhold til sin kombinatorik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu",
+    "drive_name": "tese e:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9732854,
+      "sha256": "281e1b4ac790461c015a1ef6e93799292ba0846c49e8d8c45963b6def7261260"
+    }
+  },
+  {
+    "path": "Disput 3/tese f_3.m4a",
+    "seconds": 1218.88,
+    "tags": {
+      "creation_time": "2023-09-22T19:17:28.000000Z"
+    },
+    "bytes": 37145414,
+    "id": "D3-06",
+    "group": "Disput 3",
+    "sha256": "05b72f1dc3b07684e4628b65766a8d6c96bcb256a91549366b5073cd45b65c9e",
+    "display_duration": "00:20:18",
+    "status": "principal",
+    "title": "Rekursivitet som tidssløjfe er bevidsthedens mediale struktur",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg",
+    "drive_name": "tese f:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9751550,
+      "sha256": "19e6e388d49b0c8434e1ed355dd77bb12c9aef654c7edb87739d8bb5fd3f95ad"
+    }
+  },
+  {
+    "path": "Disput 3/tese g_3.m4a",
+    "seconds": 1273.771,
+    "tags": {
+      "creation_time": "2023-09-22T19:54:07.000000Z"
+    },
+    "bytes": 38798684,
+    "id": "D3-07",
+    "group": "Disput 3",
+    "sha256": "585f65a121b2f5778d1d323a876e1568feee8eafef91fcc03a4763976b175621",
+    "display_duration": "00:21:13",
+    "status": "principal",
+    "title": "Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK",
+    "drive_name": "tese g:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10190758,
+      "sha256": "43b455b0301ba6353c3d6d38878d8c67fb555fa09bd541af992b0eead9be2bd6"
+    }
+  },
+  {
+    "path": "Disput 3/tese h_3.m4a",
+    "seconds": 1222.827,
+    "tags": {
+      "creation_time": "2023-09-22T20:19:07.000000Z"
+    },
+    "bytes": 37289877,
+    "id": "D3-08",
+    "group": "Disput 3",
+    "sha256": "2c5e0c610467d7fc808a3a65f520eb77239bb70dedf37ff802bcdb0312661bea",
+    "display_duration": "00:20:22",
+    "status": "principal",
+    "title": "Intelligens er objektivt stupidt, og vice versa",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT",
+    "drive_name": "tese h:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9783215,
+      "sha256": "adf447e1806b02d06b1baab7e4a0e449442e6ec20f8f4bab5e31cf6e0d8934c7"
+    }
+  },
+  {
+    "path": "Disput 3/pseudotese_3.m4a",
+    "seconds": 35.349,
+    "tags": {
+      "creation_time": "2023-09-22T20:23:10.000000Z"
+    },
+    "bytes": 1079618,
+    "id": "D3-09",
+    "group": "Disput 3",
+    "sha256": "fec8d7b384873e1c782995d6f96edb58e957bad8e011bd1c930890956e47bcbf",
+    "display_duration": "00:00:35",
+    "status": "principal",
+    "title": "Pseudotese",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z",
+    "drive_name": "pseudotese:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 283210,
+      "sha256": "3568f4909f75c70e43fec5ee68436d9331670e8b5648d04feb647a942a86555b"
+    }
+  }
+]

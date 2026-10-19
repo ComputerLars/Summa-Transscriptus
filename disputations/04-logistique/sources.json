@@ -1,0 +1,698 @@
+[
+  {
+    "path": "Disput 4/metatese1.m4a",
+    "seconds": 329.216,
+    "tags": {
+      "creation_time": "2023-09-24T16:33:32.000000Z"
+    },
+    "bytes": 10058078,
+    "id": "D4-01",
+    "group": "Disput 4",
+    "sha256": "c25ec4590e8be126568d69b55604fce53e72a836ab09af752877a62c3c9ff589",
+    "display_duration": "00:05:29",
+    "status": "principal",
+    "title": "Metatese 1",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1HDJ_tkxXm1iZp_fxt-E0MPHIJA_HqS2x",
+    "drive_name": "metatese1.m4a",
+    "drive_url": "https://drive.google.com/file/d/1HDJ_tkxXm1iZp_fxt-E0MPHIJA_HqS2x/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2634154,
+      "sha256": "d630b80d685687738d665e007ffd830c65fd56e34494d2df219019c8b60e4ae2"
+    }
+  },
+  {
+    "path": "Disput 4/metatese2.m4a",
+    "seconds": 339.84,
+    "tags": {
+      "creation_time": "2023-09-24T16:41:59.000000Z"
+    },
+    "bytes": 10389057,
+    "id": "D4-02",
+    "group": "Disput 4",
+    "sha256": "f1060b13d41d9b44731e45fa56162d9ea3d2af549ba1cba96a1e0ffb1501a05a",
+    "display_duration": "00:05:39",
+    "status": "principal",
+    "title": "Metatese 2",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "14X4j7O7nU7XqyEMkWgy_qLNDMZGeOFVa",
+    "drive_name": "metatese2.m4a",
+    "drive_url": "https://drive.google.com/file/d/14X4j7O7nU7XqyEMkWgy_qLNDMZGeOFVa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2719114,
+      "sha256": "c1e9b4ec5630beea8063c2cb630183ff060257a09da4f023f16b785046da83e3"
+    }
+  },
+  {
+    "path": "Disput 4/metatese3.m4a",
+    "seconds": 316.843,
+    "tags": {
+      "creation_time": "2023-09-24T16:49:57.000000Z"
+    },
+    "bytes": 9680085,
+    "id": "D4-03",
+    "group": "Disput 4",
+    "sha256": "faea74beb135a43591a568e8689eb5291c12af78455e7af6a7cb5d40bf1acfed",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 3",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1T8rEgszH2fXN9vDyymcgo80JCLSYUxfF",
+    "drive_name": "metatese3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1T8rEgszH2fXN9vDyymcgo80JCLSYUxfF/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2535082,
+      "sha256": "a101e6206629f8cb8a56ea88c8a6ecc549b85ca0c686910b5b204b34966c65e0"
+    }
+  },
+  {
+    "path": "Disput 4/metatese4.m4a",
+    "seconds": 299.392,
+    "tags": {
+      "creation_time": "2023-09-24T16:58:22.000000Z"
+    },
+    "bytes": 9136276,
+    "id": "D4-04",
+    "group": "Disput 4",
+    "sha256": "b55adeae9bae14f1067be7cf7b28ceffb9b77e61c289c83e20b9c04fd38e6106",
+    "display_duration": "00:04:59",
+    "status": "principal",
+    "title": "Metatese 4",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1ZPTf9zA8Xncx4I4jsUwvsq81I-gnzpr6",
+    "drive_name": "metatese4.m4a",
+    "drive_url": "https://drive.google.com/file/d/1ZPTf9zA8Xncx4I4jsUwvsq81I-gnzpr6/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2395690,
+      "sha256": "0968aa80922dcb52c30af0093fb38b0d64390fd66b96201b6b1710f97a67b8b6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese5.m4a",
+    "seconds": 307.072,
+    "tags": {
+      "creation_time": "2023-09-24T17:06:46.000000Z"
+    },
+    "bytes": 9386610,
+    "id": "D4-05",
+    "group": "Disput 4",
+    "sha256": "462b5da46eb4dd51bcdc7921c246cf3e430625e4d20540a20f00d74560e0e169",
+    "display_duration": "00:05:07",
+    "status": "principal",
+    "title": "Metatese 5",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "16alGAv8rpKZ2Kop7raGzOYh7m_pWHOwp",
+    "drive_name": "metatese5.m4a",
+    "drive_url": "https://drive.google.com/file/d/16alGAv8rpKZ2Kop7raGzOYh7m_pWHOwp/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2457034,
+      "sha256": "701eef3672521f38bb9092aad4cad8dac9e68447c431f5acc4234c57b98ba8c1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese6.m4a",
+    "seconds": 317.099,
+    "tags": {
+      "creation_time": "2023-09-24T17:15:19.000000Z"
+    },
+    "bytes": 9703107,
+    "id": "D4-06",
+    "group": "Disput 4",
+    "sha256": "fb0d2f63bdf2c4dcfd6fdc334edfd5f968872aa3c349971b07030dd70d5f153f",
+    "display_duration": "00:05:17",
+    "status": "principal",
+    "title": "Metatese 6",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1mLwlJQeHNEJdpg7NbT93KL6oFdjeWXtA",
+    "drive_name": "metatese6.m4a",
+    "drive_url": "https://drive.google.com/file/d/1mLwlJQeHNEJdpg7NbT93KL6oFdjeWXtA/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2537386,
+      "sha256": "8e0bc858c8409003ff93e93bbf9c9b019659c6e6f3c2bce2f1042cef7846f5b9"
+    }
+  },
+  {
+    "path": "Disput 4/metatese7.m4a",
+    "seconds": 408.853,
+    "tags": {
+      "creation_time": "2023-09-24T17:25:04.000000Z"
+    },
+    "bytes": 12483718,
+    "id": "D4-07",
+    "group": "Disput 4",
+    "sha256": "e1f49975e83bc09ddb34cdf9379fa2323eb2acacf7a3fc427b8fa382da204540",
+    "display_duration": "00:06:48",
+    "status": "principal",
+    "title": "Metatese 7",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "119COSU3YhNst55o-VogjEmS74LqGOt9D",
+    "drive_name": "metatese7.m4a",
+    "drive_url": "https://drive.google.com/file/d/119COSU3YhNst55o-VogjEmS74LqGOt9D/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 3271210,
+      "sha256": "73325186ded16912bb64b7e1fbe5f330713402f356bffbc362352d0c57360ec6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese8.m4a",
+    "seconds": 315.52,
+    "tags": {
+      "creation_time": "2023-09-24T17:33:57.000000Z"
+    },
+    "bytes": 9631606,
+    "id": "D4-08",
+    "group": "Disput 4",
+    "sha256": "11304d12e88e771fd8b2e2d9eb6c5f3a1f367c07d1b2a686d66f893ecd175f5b",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 8",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1yWTdziUeoreziKJcXwvq1kouWgkx3o2j",
+    "drive_name": "metatese8.m4a",
+    "drive_url": "https://drive.google.com/file/d/1yWTdziUeoreziKJcXwvq1kouWgkx3o2j/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2524714,
+      "sha256": "cfdc6abc5029d8488459dcfdc01fb008a4c1240fc0cf53a3a1c4a32834feeeb6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese9.m4a",
+    "seconds": 318.656,
+    "tags": {
+      "creation_time": "2023-09-24T17:55:59.000000Z"
+    },
+    "bytes": 9723899,
+    "id": "D4-09",
+    "group": "Disput 4",
+    "sha256": "535a582e13ba31d6dca72da93691ce7f37217540312a287ed45ad27b6f5ad5e8",
+    "display_duration": "00:05:18",
+    "status": "principal",
+    "title": "Metatese 9",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1ZR0h4_xasuwxh2OXMG6p03E6Api-aQGa",
+    "drive_name": "metatese9.m4a",
+    "drive_url": "https://drive.google.com/file/d/1ZR0h4_xasuwxh2OXMG6p03E6Api-aQGa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2549770,
+      "sha256": "3f4b44c18477683dd85442039460d5148e61775663facb3f25866b8d44cb2a2e"
+    }
+  },
+  {
+    "path": "Disput 4/metatese10.m4a",
+    "seconds": 324.288,
+    "tags": {
+      "creation_time": "2023-09-24T18:04:52.000000Z"
+    },
+    "bytes": 9892016,
+    "id": "D4-10",
+    "group": "Disput 4",
+    "sha256": "f06b3146e2bb841400f00d801154ecec8b136764167a7b460080b13b5d51fd76",
+    "display_duration": "00:05:24",
+    "status": "principal",
+    "title": "Metatese 10",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1iyHLRP4xXPhx_sk4HxCV6mUEmJm91No2",
+    "drive_name": "metatese10.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iyHLRP4xXPhx_sk4HxCV6mUEmJm91No2/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-10.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2594699,
+      "sha256": "3d169706f7d37f0c4dea6fe2a1078e24f7d106d1a6595e7e469f4e2cdcf1e82f"
+    }
+  },
+  {
+    "path": "Disput 4/metatese11.m4a",
+    "seconds": 306.453,
+    "tags": {
+      "creation_time": "2023-09-24T18:13:10.000000Z"
+    },
+    "bytes": 9357358,
+    "id": "D4-11",
+    "group": "Disput 4",
+    "sha256": "13f21600fc4e91e28cc9f65f495e271ff3e4fe04c681c5fb494e3ba30582f6f6",
+    "display_duration": "00:05:06",
+    "status": "principal",
+    "title": "Metatese 11",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1yh72Fb4KFjmzCpp9kAHbY4Kz0TA-23Vk",
+    "drive_name": "metatese11.m4a",
+    "drive_url": "https://drive.google.com/file/d/1yh72Fb4KFjmzCpp9kAHbY4Kz0TA-23Vk/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-11.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2452139,
+      "sha256": "7d968cb958c5e4a5a66789d27cecb63fe30ff3ced1117461ef29e623d986bbf8"
+    }
+  },
+  {
+    "path": "Disput 4/metatese12.m4a",
+    "seconds": 315.797,
+    "tags": {
+      "creation_time": "2023-09-24T18:21:44.000000Z"
+    },
+    "bytes": 9648206,
+    "id": "D4-12",
+    "group": "Disput 4",
+    "sha256": "dfbec5eb0a77a2d8021750226e6bad8982604f76946d7093c02d1144a3b97b47",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 12",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "17bTvGyvefswtFElKKfN4Wcm_Ok25h55M",
+    "drive_name": "metatese12.m4a",
+    "drive_url": "https://drive.google.com/file/d/17bTvGyvefswtFElKKfN4Wcm_Ok25h55M/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-12.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2526731,
+      "sha256": "a97f650e2e6af7814776c57f84f289adda96f4c6f023c5871b02a022f0fb35d1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese13.m4a",
+    "seconds": 315.2,
+    "tags": {
+      "creation_time": "2023-09-24T18:30:24.000000Z"
+    },
+    "bytes": 9629752,
+    "id": "D4-13",
+    "group": "Disput 4",
+    "sha256": "ca4231bad1117b52a7a9c5c7c73ad45047111e0d68c3ac4b30fd875b97ef108e",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 13",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1g4djDLonMn-UI4xOzQZVNTtA9MzzI-BO",
+    "drive_name": "metatese13.m4a",
+    "drive_url": "https://drive.google.com/file/d/1g4djDLonMn-UI4xOzQZVNTtA9MzzI-BO/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-13.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2522123,
+      "sha256": "7d41aa93cb8474b565fa1a39d904b8e7a03d9367b9dd9721ad138a07108dccb2"
+    }
+  },
+  {
+    "path": "Disput 4/metatese14.m4a",
+    "seconds": 316.971,
+    "tags": {
+      "creation_time": "2023-09-24T18:38:40.000000Z"
+    },
+    "bytes": 9680561,
+    "id": "D4-14",
+    "group": "Disput 4",
+    "sha256": "6d99276c951b9ed84162d6795961b2070e5b3e51ce4849c5fc7e4bdb47e9b5dd",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 14",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1WtTu2EoYt6gua6DLGs1DZMd5Dailaikl",
+    "drive_name": "metatese14.m4a",
+    "drive_url": "https://drive.google.com/file/d/1WtTu2EoYt6gua6DLGs1DZMd5Dailaikl/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-14.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2536235,
+      "sha256": "004d23d34f8d0dafab1e084c0d6814aefd75e22c75dc71f9aedd572dbec0474d"
+    }
+  },
+  {
+    "path": "Disput 4/metatese15.m4a",
+    "seconds": 356.331,
+    "tags": {
+      "creation_time": "2023-09-24T18:48:18.000000Z"
+    },
+    "bytes": 10886414,
+    "id": "D4-15",
+    "group": "Disput 4",
+    "sha256": "fda182cb2fb84171ff44b1db002369796db96b4fb7ccc4fb1580736b2ad62eb7",
+    "display_duration": "00:05:56",
+    "status": "principal",
+    "title": "Metatese 15",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1SnlKzGLRlXnpflPIXBLOxsIqt2jq7dY_",
+    "drive_name": "metatese15.m4a",
+    "drive_url": "https://drive.google.com/file/d/1SnlKzGLRlXnpflPIXBLOxsIqt2jq7dY_/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-15.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2851019,
+      "sha256": "1f24b89f49b7fa366b4c1e7b2867d6b25c064b7db75f6fdb9fe5dba7f84ef05a"
+    }
+  },
+  {
+    "path": "Disput 4/metatese16.m4a",
+    "seconds": 332.8,
+    "tags": {
+      "creation_time": "2023-09-24T18:56:40.000000Z"
+    },
+    "bytes": 10158673,
+    "id": "D4-16",
+    "group": "Disput 4",
+    "sha256": "f64814f401e0f3ccf969a3a5a4b618f90dc8580e5f11383e102942cb67e7827a",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 16",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1GaiMVDZ35CII1blDp2rrWpQlXgzZvjQr",
+    "drive_name": "metatese16.m4a",
+    "drive_url": "https://drive.google.com/file/d/1GaiMVDZ35CII1blDp2rrWpQlXgzZvjQr/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-16.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2662955,
+      "sha256": "44349e05bc7d09a3858696ded24a0e7707c2f50f455b161bbe8567a0e11e1748"
+    }
+  },
+  {
+    "path": "Disput 4/metatese17.m4a",
+    "seconds": 333.867,
+    "tags": {
+      "creation_time": "2023-09-24T19:21:12.000000Z"
+    },
+    "bytes": 10206243,
+    "id": "D4-17",
+    "group": "Disput 4",
+    "sha256": "7bd5a00fd7397dbe265710bddb8e696cc793b85b05e411423ac11740d0f51e35",
+    "display_duration": "00:05:33",
+    "status": "principal",
+    "title": "Metatese 17",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1lHlTb7N2pbjH08uoyz0HQlo-OeuNXlfM",
+    "drive_name": "metatese17.m4a",
+    "drive_url": "https://drive.google.com/file/d/1lHlTb7N2pbjH08uoyz0HQlo-OeuNXlfM/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-17.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2671307,
+      "sha256": "41ef3a3c20ad7056a04dac1c07111378a637cad3ee42c3faa0f3e44275350101"
+    }
+  },
+  {
+    "path": "Disput 4/metatese18.m4a",
+    "seconds": 320.853,
+    "tags": {
+      "creation_time": "2023-09-24T19:30:25.000000Z"
+    },
+    "bytes": 9818626,
+    "id": "D4-18",
+    "group": "Disput 4",
+    "sha256": "94d9906020945db84bffc9d3f69bb6a48484dad7232b1cbe21c12c407419a21c",
+    "display_duration": "00:05:20",
+    "status": "principal",
+    "title": "Metatese 18",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1QoLGOQAbRS-_0PK5HibBnjOw9nYHrOFN",
+    "drive_name": "metatese18.m4a",
+    "drive_url": "https://drive.google.com/file/d/1QoLGOQAbRS-_0PK5HibBnjOw9nYHrOFN/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-18.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2567339,
+      "sha256": "90ae9fc0e3562bc52cadbe7173fa710fd451e1009e762a814a3d2dfdafaa8ef1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese19.m4a",
+    "seconds": 349.696,
+    "tags": {
+      "creation_time": "2023-09-24T19:39:15.000000Z"
+    },
+    "bytes": 10691111,
+    "id": "D4-19",
+    "group": "Disput 4",
+    "sha256": "62cc1b5ec2e56aab179e2d17ccfb9674a003bb61f6020c5bc2e8e8cae1c359b6",
+    "display_duration": "00:05:49",
+    "status": "principal",
+    "title": "Metatese 19",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1-9c4chnZB-kCx3QwgrcAxEX9aefqEE6E",
+    "drive_name": "metatese19.m4a",
+    "drive_url": "https://drive.google.com/file/d/1-9c4chnZB-kCx3QwgrcAxEX9aefqEE6E/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-19.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2798027,
+      "sha256": "187ae0e752fe4b6ab15e49368ef2ee8a823c83f47c78d0c7403f9e1b03e90ac0"
+    }
+  },
+  {
+    "path": "Disput 4/metatese20.m4a",
+    "seconds": 353.067,
+    "tags": {
+      "creation_time": "2023-09-24T19:48:28.000000Z"
+    },
+    "bytes": 10794924,
+    "id": "D4-20",
+    "group": "Disput 4",
+    "sha256": "d5df2ff9c194eb3540ecc4451b5a896fe40e60f7cf6d537189f83d7f15645c38",
+    "display_duration": "00:05:53",
+    "status": "principal",
+    "title": "Metatese 20",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1bOOuttNBYwDyUZnJ3zwBH04oQ8dFkWo0",
+    "drive_name": "metatese20.m4a",
+    "drive_url": "https://drive.google.com/file/d/1bOOuttNBYwDyUZnJ3zwBH04oQ8dFkWo0/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-20.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2825099,
+      "sha256": "fef65d2298bba0a85df7d18ff76d610681c753d3af172cc4267ef9d88350c986"
+    }
+  },
+  {
+    "path": "Disput 4/metatese21.m4a",
+    "seconds": 352.277,
+    "tags": {
+      "creation_time": "2023-09-24T19:57:49.000000Z"
+    },
+    "bytes": 10767656,
+    "id": "D4-21",
+    "group": "Disput 4",
+    "sha256": "b6769474448999681ed80fabb8b4c4158f0f36ab7ea00eb6609b2693c76840df",
+    "display_duration": "00:05:52",
+    "status": "principal",
+    "title": "Metatese 21",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "18GLiZd8FKL3AxfmwJ4tKiC5FDAUcumdg",
+    "drive_name": "metatese21.m4a",
+    "drive_url": "https://drive.google.com/file/d/18GLiZd8FKL3AxfmwJ4tKiC5FDAUcumdg/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-21.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2818763,
+      "sha256": "8266b8deb6bbe19b2f99da5c289bb29ba5f4bb05fea00b4d536be3fcb7a8bf3e"
+    }
+  },
+  {
+    "path": "Disput 4/metatese22.m4a",
+    "seconds": 304.939,
+    "tags": {
+      "creation_time": "2023-09-24T20:07:15.000000Z"
+    },
+    "bytes": 9317115,
+    "id": "D4-22",
+    "group": "Disput 4",
+    "sha256": "4a92afdce778348bfc11e4b91fbacb313087e57a3e42b14839a6470bc3ee9b35",
+    "display_duration": "00:05:04",
+    "status": "principal",
+    "title": "Metatese 22",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1iynTEnwKIGPM37Z0VnE8Td7VT-QjrKtX",
+    "drive_name": "metatese22.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iynTEnwKIGPM37Z0VnE8Td7VT-QjrKtX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-22.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2440043,
+      "sha256": "f0c9cca58fb2ec4c74f30ca6ac4c344f11c2865eb09749c60fa8a61333329245"
+    }
+  },
+  {
+    "path": "Disput 4/metatese23.m4a",
+    "seconds": 340.203,
+    "tags": {
+      "creation_time": "2023-09-24T20:15:44.000000Z"
+    },
+    "bytes": 10391291,
+    "id": "D4-23",
+    "group": "Disput 4",
+    "sha256": "00bce979a3d439a91dbae9aae96a542fcc1a5dd54d28dfff868a0d12c46c4e01",
+    "display_duration": "00:05:40",
+    "status": "principal",
+    "title": "Metatese 23",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "19qU_h44Oxz1-ix6huiNeRWdWWwQJ3_6M",
+    "drive_name": "metatese23.m4a",
+    "drive_url": "https://drive.google.com/file/d/19qU_h44Oxz1-ix6huiNeRWdWWwQJ3_6M/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-23.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2721995,
+      "sha256": "a2cba43ca81e9794811634072e2311edd70df3b1f1dfb9835b7c58f54a3a04b9"
+    }
+  },
+  {
+    "path": "Disput 4/metatese24.m4a",
+    "seconds": 332.885,
+    "tags": {
+      "creation_time": "2023-09-24T20:25:51.000000Z"
+    },
+    "bytes": 10178378,
+    "id": "D4-24",
+    "group": "Disput 4",
+    "sha256": "dbd9f2421a6250144cf2396e6b4ebded203bd29cea704d6f1fe9b89d814c7a7d",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 24",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1q0-eU6zgpTZ41lxoMlK8OKk21Tu8zgqa",
+    "drive_name": "metatese24.m4a",
+    "drive_url": "https://drive.google.com/file/d/1q0-eU6zgpTZ41lxoMlK8OKk21Tu8zgqa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-24.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2663531,
+      "sha256": "697f3854267dfcb7f5eeefabccb79c55aa03b7bdd5badc9d1a4e21969093cdb6"
+    }
+  }
+]

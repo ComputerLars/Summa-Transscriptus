@@ -1,0 +1,21 @@
+{
+  "edition_date": "2026-10-19",
+  "records": 49,
+  "speaking_turns": 528,
+  "source_paragraphs": 727,
+  "thesis_antithesis_pairs": 12,
+  "pseudotheses": 1,
+  "metatheses": 24,
+  "original_syntheses_unchanged": 48,
+  "missing_synthesis": [
+    "D4-21"
+  ],
+  "archival_files_unchanged": 82,
+  "pdf_pages": 317,
+  "pdf_bookmarks": 51,
+  "pdf_contains_all_current_speech_and_available_syntheses": true,
+  "continuous_web_reading": true,
+  "duplicate_html_ids": 0,
+  "mobile_horizontal_overflow": false,
+  "audio_at_source_time_tested": true
+}

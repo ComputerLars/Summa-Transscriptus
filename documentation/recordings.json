@@ -1,0 +1,1525 @@
+[
+  {
+    "path": "Disput 1/Lydfiler/tese 1.m4a",
+    "seconds": 1517.845,
+    "tags": {
+      "creation_time": "2023-09-18T14:46:00.000000Z"
+    },
+    "bytes": 46379582,
+    "id": "D1-01",
+    "group": "Disput 1",
+    "sha256": "88008b9b4b702a85aed15227ebef0c55ebfe80d832e027c43108b45f7455fd03",
+    "display_duration": "00:25:17",
+    "status": "principal",
+    "title": "Kunsten er død",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1Q9wZLl4axqwZzGdedRfXy38K6eQSLrO6",
+    "drive_name": "tese 1.m4a",
+    "drive_url": "https://drive.google.com/file/d/1Q9wZLl4axqwZzGdedRfXy38K6eQSLrO6/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 12143343,
+      "sha256": "00ebf7eb561eaea0a76861be889d33a7ccc6516a5882423549019efb4803581d"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese 2.m4a",
+    "seconds": 1297.6,
+    "tags": {
+      "creation_time": "2023-09-18T15:12:24.000000Z"
+    },
+    "bytes": 39644460,
+    "id": "D1-02",
+    "group": "Disput 1",
+    "sha256": "e901667d3646f2eb9b5caa238be0a20b9abb8582489adecc0cf86427a6297a4c",
+    "display_duration": "00:21:37",
+    "status": "principal",
+    "title": "Revolutionen er repræsenterbar",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "17GElSfe-gktcAy0OR4gkZPbWWLC-FM6v",
+    "drive_name": "tese 2.m4a",
+    "drive_url": "https://drive.google.com/file/d/17GElSfe-gktcAy0OR4gkZPbWWLC-FM6v/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10381375,
+      "sha256": "75fa08346db275f5528ca9810a06d585d024b165ee3e2e446eca4a0125e620e9"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese c.m4a",
+    "seconds": 1313.493,
+    "tags": {
+      "creation_time": "2023-09-18T15:55:27.000000Z"
+    },
+    "bytes": 40142467,
+    "id": "D1-03",
+    "group": "Disput 1",
+    "sha256": "15c6eae4b9b69ec5c1e2cfdca26cb0271b7b7401506fb23d1068b8dd3b60bc3e",
+    "display_duration": "00:21:53",
+    "status": "principal",
+    "title": "Fascisme og demokrati er ikke modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1olvZHs-E6IgtlgqqGoHZaGhNuJlgpx-Y",
+    "drive_name": "tese c.m4a",
+    "drive_url": "https://drive.google.com/file/d/1olvZHs-E6IgtlgqqGoHZaGhNuJlgpx-Y/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10508395,
+      "sha256": "d61e9a403cf11bdde11281d362afc9da8868513971f810fef1e4c01155a46fea"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese d.m4a",
+    "seconds": 1320.107,
+    "tags": {
+      "creation_time": "2023-09-18T16:24:25.000000Z"
+    },
+    "bytes": 40347603,
+    "id": "D1-04",
+    "group": "Disput 1",
+    "sha256": "0c0cb491a1fa1f36ffabdaaf4b956c280eddb2153bf37fb74f824af489ea155e",
+    "display_duration": "00:22:00",
+    "status": "principal",
+    "title": "Teknikken er revolutionens stilistik",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1YYWF7RqtytWSBN1Q_noMpzRb_SCAwtR1",
+    "drive_name": "tese d.m4a",
+    "drive_url": "https://drive.google.com/file/d/1YYWF7RqtytWSBN1Q_noMpzRb_SCAwtR1/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10561380,
+      "sha256": "e81652304ff9113fa7ca2ec1a01038d444eb7a4b3728ee037593a6bd845800ec"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese e.m4a",
+    "seconds": 1014.784,
+    "tags": {
+      "creation_time": "2023-09-18T17:02:01.000000Z"
+    },
+    "bytes": 31009230,
+    "id": "D1-05",
+    "group": "Disput 1",
+    "sha256": "a1cb7bee0727d51ac96b124bbc4e4d44e0cf8b9708266e2702e8703ddc3b2a7c",
+    "display_duration": "00:16:54",
+    "status": "principal",
+    "title": "Offentlighed og opstand er modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1xrKVqvQg3ejxnWpD0cgculVPycy0TlrR",
+    "drive_name": "tese e.m4a",
+    "drive_url": "https://drive.google.com/file/d/1xrKVqvQg3ejxnWpD0cgculVPycy0TlrR/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8118856,
+      "sha256": "7dd9fd638277b0039ce4214b3d74abda359d12d02b1c84d713f70a8110ad96c3"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese f.m4a",
+    "seconds": 1076.971,
+    "tags": {
+      "creation_time": "2023-09-18T17:22:46.000000Z"
+    },
+    "bytes": 32910642,
+    "id": "D1-06",
+    "group": "Disput 1",
+    "sha256": "35d04911e63cbda0f99d504bcc675de4f60257392468297a3634ac1e5c942651",
+    "display_duration": "00:17:56",
+    "status": "principal",
+    "title": "Publiciteten er transmonarkisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1WjQt5spZHdZeYrpI4OD6Yob9Npe_hnDX",
+    "drive_name": "tese f.m4a",
+    "drive_url": "https://drive.google.com/file/d/1WjQt5spZHdZeYrpI4OD6Yob9Npe_hnDX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8616222,
+      "sha256": "a60aa6b85790c59bff1a3bab4a7c4c3d38c5ee06af7311c64ffbb1a033fd144f"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese g.m4a",
+    "seconds": 1130.645,
+    "tags": {
+      "creation_time": "2023-09-18T17:57:49.000000Z"
+    },
+    "bytes": 34555318,
+    "id": "D1-07",
+    "group": "Disput 1",
+    "sha256": "10effb0f547247fed24fdc87fea57fd31b3799d19feb5fb374c25973a5f6917b",
+    "display_duration": "00:18:50",
+    "status": "principal",
+    "title": "Dialektikken er gået i stykker",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1vSUHw3cgI7NdiohwfuckowCfXc0PCA2_",
+    "drive_name": "tese g.m4a",
+    "drive_url": "https://drive.google.com/file/d/1vSUHw3cgI7NdiohwfuckowCfXc0PCA2_/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9045631,
+      "sha256": "ddaee3816006a1b04cd8bf8b53eb6ae6fa0f66ead3c2f4de3fef2ce50331c270"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese h.m4a",
+    "seconds": 1040.576,
+    "tags": {
+      "creation_time": "2023-09-18T18:18:20.000000Z"
+    },
+    "bytes": 31822395,
+    "id": "D1-08",
+    "group": "Disput 1",
+    "sha256": "c8c7dd7ee52f3b6c5b9fdee53efdfa73d4b9fe06217054ce3e42f19a74ead611",
+    "display_duration": "00:17:20",
+    "status": "principal",
+    "title": "Revolutionen er entropisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1YkBALifOHg8MVG-RTK758I5h7sWG0zXd",
+    "drive_name": "tese h.m4a",
+    "drive_url": "https://drive.google.com/file/d/1YkBALifOHg8MVG-RTK758I5h7sWG0zXd/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8325049,
+      "sha256": "9ac3156a2fec4cc8dfd58bf117cadadd5acc69cf51495e3f180938a9e8fb8f2a"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/bolt tese f_1.m4a",
+    "seconds": 1076.992,
+    "tags": {
+      "creation_time": "2023-09-27T11:51:01.000000Z"
+    },
+    "bytes": 34108447,
+    "id": "D1-09",
+    "group": "Disput 1",
+    "sha256": "b9e199743fcd7e55871f6cf7a3796f2c775a96a013682880c700f4df8cea86a0",
+    "display_duration": "00:17:56",
+    "status": "alternate_export",
+    "same_discussion_as": "D1-06",
+    "title": "Publiciteten er transmonarkisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "10_mpcqzhWdcdyDBOwmUME5wq2X3zlNDO",
+    "drive_name": "bolt tese f_1.m4a",
+    "drive_url": "https://drive.google.com/file/d/10_mpcqzhWdcdyDBOwmUME5wq2X3zlNDO/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8616510,
+      "sha256": "f62183517237fcccd5e28321e718a7158c6d36c39b1cb8202cb5f94f85a647ab"
+    }
+  },
+  {
+    "path": "Disput 2/tese a.m4a",
+    "seconds": 1274.539,
+    "tags": {
+      "creation_time": "2023-09-20T16:40:52.000000Z"
+    },
+    "bytes": 38913718,
+    "id": "D2-01",
+    "group": "Disput 2",
+    "sha256": "6655a18899c43bcb83e7149a87c8b4dee494fad74626b1036afaae006ed3d4e2",
+    "display_duration": "00:21:14",
+    "status": "principal",
+    "title": "Computer Lars er flad",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1u4TJmPME37K0H--SSNW7WUeJ4u7YdOQk",
+    "drive_name": "tese a.m4a",
+    "drive_url": "https://drive.google.com/file/d/1u4TJmPME37K0H--SSNW7WUeJ4u7YdOQk/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10196757,
+      "sha256": "03c86b616a0eff97e8a2abb58f1a50775da189db7c6c66b44824fea287186148"
+    }
+  },
+  {
+    "path": "Disput 2/tese b_2.m4a",
+    "seconds": 1256.896,
+    "tags": {
+      "creation_time": "2023-09-20T17:05:17.000000Z"
+    },
+    "bytes": 38372488,
+    "id": "D2-02",
+    "group": "Disput 2",
+    "sha256": "124c9c0bfb07f1c6204f0564b99b814bdeef87d5ef39be4601d6d1fb5c313194",
+    "display_duration": "00:20:56",
+    "status": "principal",
+    "title": "Netværket findes ikke, ergo eksisterer Computer Lars",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1E4S9CjzPDuTAHmy8e4JLPI5NcUkYniKt",
+    "drive_name": "tese b:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1E4S9CjzPDuTAHmy8e4JLPI5NcUkYniKt/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10055669,
+      "sha256": "6d35fcf95acff4f49631cdc5ebd1135b920b033dacbe3b258f1d46e9588c99c4"
+    }
+  },
+  {
+    "path": "Disput 2/tese c_2.m4a",
+    "seconds": 1265.749,
+    "tags": {
+      "creation_time": "2023-09-20T17:44:29.000000Z"
+    },
+    "bytes": 38696737,
+    "id": "D2-03",
+    "group": "Disput 2",
+    "sha256": "4c440e3217406e07fb9f8a3a0e508b20788c243cc8156cacd371b0a62ccc1878",
+    "display_duration": "00:21:05",
+    "status": "principal",
+    "title": "Computer Lars er blind",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1VNZOSeX23oZPgaXBKQoQVXK0TJIlg1QS",
+    "drive_name": "tese c:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1VNZOSeX23oZPgaXBKQoQVXK0TJIlg1QS/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10126486,
+      "sha256": "4df7232cdd90644b08a8acc24e64b166b2a940275d9f7c95efe7f4ba8e683951"
+    }
+  },
+  {
+    "path": "Disput 2/tese d_2.m4a",
+    "seconds": 1231.296,
+    "tags": {
+      "creation_time": "2023-09-20T18:08:11.000000Z"
+    },
+    "bytes": 37671637,
+    "id": "D2-04",
+    "group": "Disput 2",
+    "sha256": "1ea3ba4f039c7477c580130b37a0f06702e99e20613d34cfbfb9d16446f88691",
+    "display_duration": "00:20:31",
+    "status": "principal",
+    "title": "Computer Lars har mindst to legemer",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1W9gsT00HQHE6odUBUIvdkHXjbhNrxyWQ",
+    "drive_name": "tese d:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1W9gsT00HQHE6odUBUIvdkHXjbhNrxyWQ/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9850883,
+      "sha256": "c9ca61c65dfaf28b8a17ad3426403ab9ec4b7bb9c77b13b9c6a1ddc9a6b0398c"
+    }
+  },
+  {
+    "path": "Disput 2/tese e_2.m4a",
+    "seconds": 1267.072,
+    "tags": {
+      "creation_time": "2023-09-20T18:47:24.000000Z"
+    },
+    "bytes": 38729723,
+    "id": "D2-05",
+    "group": "Disput 2",
+    "sha256": "0276adc33e40a0b4fcfcb68cb6740682c02f868d5fb18a85c6fcd50c5436642d",
+    "display_duration": "00:21:07",
+    "status": "principal",
+    "title": "Computer Lars tager del i en liste",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "122PSP080OIAlfQAA7oFWykl-P5b_jOQP",
+    "drive_name": "tese e:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/122PSP080OIAlfQAA7oFWykl-P5b_jOQP/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10137154,
+      "sha256": "13c0bd78096e77ca81109a3ad90c5831df702836e98bf137db1a866f11c90ffb"
+    }
+  },
+  {
+    "path": "Disput 2/tese f&#x3a_2.m4a",
+    "seconds": 1228.288,
+    "tags": {
+      "creation_time": "2023-09-20T19:11:15.000000Z"
+    },
+    "bytes": 37579920,
+    "id": "D2-06",
+    "group": "Disput 2",
+    "sha256": "4be8c3db38c45a7645e673b053dc52af11ef72a87f006846d8459c58112bdfdc",
+    "display_duration": "00:20:28",
+    "status": "principal",
+    "title": "Kun ét af følgende udsagn er sandt: Computer Lars er et billede, som består af tekst; Computer Lars er en tekst, som består af billeder",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1iz7iSyG4TQmy3mMHjCsrj3AZBCOWw7iw",
+    "drive_name": "tese f&#x3a;2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iz7iSyG4TQmy3mMHjCsrj3AZBCOWw7iw/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9826795,
+      "sha256": "c6c3039d35c7d3edc9eaf465956e865e6b2e8d5e209c0fb39d3496956f3d9cc1"
+    }
+  },
+  {
+    "path": "Disput 2/tese g&#x3a_2.m4a",
+    "seconds": 1227.755,
+    "tags": {
+      "creation_time": "2023-09-20T19:48:30.000000Z"
+    },
+    "bytes": 37477486,
+    "id": "D2-07",
+    "group": "Disput 2",
+    "sha256": "b93a68f54f38747b4337b35940c30f23ac10904070d3adf8fd47753eace75e25",
+    "display_duration": "00:20:27",
+    "status": "principal",
+    "title": "Computer Lars operationaliserer tredjeheden",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "1P36DAa41Yr_1Ho1R-TjFRr2zmMVWNW2m",
+    "drive_name": "tese g&#x3a;2.m4a",
+    "drive_url": "https://drive.google.com/file/d/1P36DAa41Yr_1Ho1R-TjFRr2zmMVWNW2m/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9822667,
+      "sha256": "9cf7fec762f9084dfa7f5e400405514db320a00e2e60081fd88745d2b1bdc6b7"
+    }
+  },
+  {
+    "path": "Disput 2/tese h_2.m4a",
+    "seconds": 1232.875,
+    "tags": {
+      "creation_time": "2023-09-20T20:13:09.000000Z"
+    },
+    "bytes": 37655028,
+    "id": "D2-08",
+    "group": "Disput 2",
+    "sha256": "d1e4c6a7efe6ce3c0d8f904a00704a188411601d8005d2d78b30a03f65090d07",
+    "display_duration": "00:20:32",
+    "status": "principal",
+    "title": "En emancipatorisk kombinatorik negerer ethvert aggregat",
+    "event": {
+      "date": "2023-09-20",
+      "time": "18:00–22:00",
+      "guest": "Maia Bacchus",
+      "directory": "02-maia-bacchus"
+    },
+    "drive_id": "16uW6kFcx3P25PXRJd6Mi1WsJ3vhNl-v0",
+    "drive_name": "tese h:2.m4a",
+    "drive_url": "https://drive.google.com/file/d/16uW6kFcx3P25PXRJd6Mi1WsJ3vhNl-v0/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D2-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9863575,
+      "sha256": "d694f19a137df4f57fd69ba1c447baf60219d142aef37ce5a02a4e45505e0387"
+    }
+  },
+  {
+    "path": "Disput 3/tese a_3.m4a",
+    "seconds": 1278.528,
+    "tags": {
+      "creation_time": "2023-09-22T16:43:05.000000Z"
+    },
+    "bytes": 39038778,
+    "id": "D3-01",
+    "group": "Disput 3",
+    "sha256": "0d8936b528e49042f05ca1475ad7dbb760a34bb3e31eaab119be27a713dea8ef",
+    "display_duration": "00:21:18",
+    "status": "principal",
+    "title": "Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX",
+    "drive_name": "tese a:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1t-6zGuwQZPhN5eldS0GfTRgV6yw-UNkX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10228823,
+      "sha256": "270a9960121955373934ffad392d8846e6b152ea9e2b74440df61d86f0636c07"
+    }
+  },
+  {
+    "path": "Disput 3/tese b_3.m4a",
+    "seconds": 1216.853,
+    "tags": {
+      "creation_time": "2023-09-22T17:07:00.000000Z"
+    },
+    "bytes": 37135636,
+    "id": "D3-02",
+    "group": "Disput 3",
+    "sha256": "04a48e26a81237664d0b4ef5df04b6c5296b2eb9fff2e24ec9ee1b4a04758e88",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "Computer Lars’ etymologi er beregningens triumf",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8",
+    "drive_name": "tese b:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/19_WyZIhd7PkVu53o5RlgWLStsJb2-pZ8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9735409,
+      "sha256": "105a241168d6de2aa088423c9bccb6cae4fade28105f4a4843222af9d10a9293"
+    }
+  },
+  {
+    "path": "Disput 3/tese c_3.m4a",
+    "seconds": 1221.547,
+    "tags": {
+      "creation_time": "2023-09-22T17:46:27.000000Z"
+    },
+    "bytes": 37245263,
+    "id": "D3-03",
+    "group": "Disput 3",
+    "sha256": "f4a4379d7de08d05568509b333e69ef90724614a10b97434981c4ba23bb2e11d",
+    "display_duration": "00:20:21",
+    "status": "principal",
+    "title": "Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser pr. analogi",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8",
+    "drive_name": "tese c:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1Qu5qpdZ8iGWIzs-YI9MTPP_oTNxr3NE8/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9772901,
+      "sha256": "fa6411deb78923c75b72d6a3444cfaf6fd85f2800b4e70fb058bdef9d368e0b9"
+    }
+  },
+  {
+    "path": "Disput 3/tese d_3.m4a",
+    "seconds": 1219.2,
+    "tags": {
+      "creation_time": "2023-09-22T18:09:49.000000Z"
+    },
+    "bytes": 37187237,
+    "id": "D3-04",
+    "group": "Disput 3",
+    "sha256": "93a602b40701ac4717cdbb416b4e59c13a98a052361783ddd88aed510fefca59",
+    "display_duration": "00:20:19",
+    "status": "principal",
+    "title": "Poetisk og militær hæder bestemmes som feltaritmetik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG",
+    "drive_name": "tese d:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1jmeBA4eX_XF46TMSETi-R_IlCP0wG6WG/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9754134,
+      "sha256": "6ffec9d71a65f32c81fb90e8b860ce63bcd43ec4d32dcb3b05126aaf60224e67"
+    }
+  },
+  {
+    "path": "Disput 3/tese e_3.m4a",
+    "seconds": 1216.555,
+    "tags": {
+      "creation_time": "2023-09-22T18:52:27.000000Z"
+    },
+    "bytes": 37118851,
+    "id": "D3-05",
+    "group": "Disput 3",
+    "sha256": "bc93b79235d2b9b167accdc34242dc3f440540e5c8e7e9ad1da853b8016b14b8",
+    "display_duration": "00:20:16",
+    "status": "principal",
+    "title": "I Biblioteket i Babel er ethvert gennemløb overtalligt i forhold til sin kombinatorik",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu",
+    "drive_name": "tese e:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1vvWgtG6F7OF5EuO2V55mYx8uXapU2FSu/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9732854,
+      "sha256": "281e1b4ac790461c015a1ef6e93799292ba0846c49e8d8c45963b6def7261260"
+    }
+  },
+  {
+    "path": "Disput 3/tese f_3.m4a",
+    "seconds": 1218.88,
+    "tags": {
+      "creation_time": "2023-09-22T19:17:28.000000Z"
+    },
+    "bytes": 37145414,
+    "id": "D3-06",
+    "group": "Disput 3",
+    "sha256": "05b72f1dc3b07684e4628b65766a8d6c96bcb256a91549366b5073cd45b65c9e",
+    "display_duration": "00:20:18",
+    "status": "principal",
+    "title": "Rekursivitet som tidssløjfe er bevidsthedens mediale struktur",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg",
+    "drive_name": "tese f:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1bOnmwuI6TSbeRnxp_59W5cURXpYtm_vg/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9751550,
+      "sha256": "19e6e388d49b0c8434e1ed355dd77bb12c9aef654c7edb87739d8bb5fd3f95ad"
+    }
+  },
+  {
+    "path": "Disput 3/tese g_3.m4a",
+    "seconds": 1273.771,
+    "tags": {
+      "creation_time": "2023-09-22T19:54:07.000000Z"
+    },
+    "bytes": 38798684,
+    "id": "D3-07",
+    "group": "Disput 3",
+    "sha256": "585f65a121b2f5778d1d323a876e1568feee8eafef91fcc03a4763976b175621",
+    "display_duration": "00:21:13",
+    "status": "principal",
+    "title": "Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK",
+    "drive_name": "tese g:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1M6g1VzQKSRW2FNpha7d5fiSvtIjgrDKK/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10190758,
+      "sha256": "43b455b0301ba6353c3d6d38878d8c67fb555fa09bd541af992b0eead9be2bd6"
+    }
+  },
+  {
+    "path": "Disput 3/tese h_3.m4a",
+    "seconds": 1222.827,
+    "tags": {
+      "creation_time": "2023-09-22T20:19:07.000000Z"
+    },
+    "bytes": 37289877,
+    "id": "D3-08",
+    "group": "Disput 3",
+    "sha256": "2c5e0c610467d7fc808a3a65f520eb77239bb70dedf37ff802bcdb0312661bea",
+    "display_duration": "00:20:22",
+    "status": "principal",
+    "title": "Intelligens er objektivt stupidt, og vice versa",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT",
+    "drive_name": "tese h:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1P7dmGZwRbRNRMXr7ujIDZ3SBxdDKKenT/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9783215,
+      "sha256": "adf447e1806b02d06b1baab7e4a0e449442e6ec20f8f4bab5e31cf6e0d8934c7"
+    }
+  },
+  {
+    "path": "Disput 3/pseudotese_3.m4a",
+    "seconds": 35.349,
+    "tags": {
+      "creation_time": "2023-09-22T20:23:10.000000Z"
+    },
+    "bytes": 1079618,
+    "id": "D3-09",
+    "group": "Disput 3",
+    "sha256": "fec8d7b384873e1c782995d6f96edb58e957bad8e011bd1c930890956e47bcbf",
+    "display_duration": "00:00:35",
+    "status": "principal",
+    "title": "Pseudotese",
+    "event": {
+      "date": "2023-09-22",
+      "time": "18:00–22:00",
+      "guest": "Petrus Borumanum",
+      "directory": "03-petrus-borumanum"
+    },
+    "drive_id": "14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z",
+    "drive_name": "pseudotese:3.m4a",
+    "drive_url": "https://drive.google.com/file/d/14AUCmIEnp8jxwquAaTyBP00OodBTnQ1z/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D3-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 283210,
+      "sha256": "3568f4909f75c70e43fec5ee68436d9331670e8b5648d04feb647a942a86555b"
+    }
+  },
+  {
+    "path": "Disput 4/metatese1.m4a",
+    "seconds": 329.216,
+    "tags": {
+      "creation_time": "2023-09-24T16:33:32.000000Z"
+    },
+    "bytes": 10058078,
+    "id": "D4-01",
+    "group": "Disput 4",
+    "sha256": "c25ec4590e8be126568d69b55604fce53e72a836ab09af752877a62c3c9ff589",
+    "display_duration": "00:05:29",
+    "status": "principal",
+    "title": "Metatese 1",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1HDJ_tkxXm1iZp_fxt-E0MPHIJA_HqS2x",
+    "drive_name": "metatese1.m4a",
+    "drive_url": "https://drive.google.com/file/d/1HDJ_tkxXm1iZp_fxt-E0MPHIJA_HqS2x/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2634154,
+      "sha256": "d630b80d685687738d665e007ffd830c65fd56e34494d2df219019c8b60e4ae2"
+    }
+  },
+  {
+    "path": "Disput 4/metatese2.m4a",
+    "seconds": 339.84,
+    "tags": {
+      "creation_time": "2023-09-24T16:41:59.000000Z"
+    },
+    "bytes": 10389057,
+    "id": "D4-02",
+    "group": "Disput 4",
+    "sha256": "f1060b13d41d9b44731e45fa56162d9ea3d2af549ba1cba96a1e0ffb1501a05a",
+    "display_duration": "00:05:39",
+    "status": "principal",
+    "title": "Metatese 2",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "14X4j7O7nU7XqyEMkWgy_qLNDMZGeOFVa",
+    "drive_name": "metatese2.m4a",
+    "drive_url": "https://drive.google.com/file/d/14X4j7O7nU7XqyEMkWgy_qLNDMZGeOFVa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2719114,
+      "sha256": "c1e9b4ec5630beea8063c2cb630183ff060257a09da4f023f16b785046da83e3"
+    }
+  },
+  {
+    "path": "Disput 4/metatese3.m4a",
+    "seconds": 316.843,
+    "tags": {
+      "creation_time": "2023-09-24T16:49:57.000000Z"
+    },
+    "bytes": 9680085,
+    "id": "D4-03",
+    "group": "Disput 4",
+    "sha256": "faea74beb135a43591a568e8689eb5291c12af78455e7af6a7cb5d40bf1acfed",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 3",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1T8rEgszH2fXN9vDyymcgo80JCLSYUxfF",
+    "drive_name": "metatese3.m4a",
+    "drive_url": "https://drive.google.com/file/d/1T8rEgszH2fXN9vDyymcgo80JCLSYUxfF/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2535082,
+      "sha256": "a101e6206629f8cb8a56ea88c8a6ecc549b85ca0c686910b5b204b34966c65e0"
+    }
+  },
+  {
+    "path": "Disput 4/metatese4.m4a",
+    "seconds": 299.392,
+    "tags": {
+      "creation_time": "2023-09-24T16:58:22.000000Z"
+    },
+    "bytes": 9136276,
+    "id": "D4-04",
+    "group": "Disput 4",
+    "sha256": "b55adeae9bae14f1067be7cf7b28ceffb9b77e61c289c83e20b9c04fd38e6106",
+    "display_duration": "00:04:59",
+    "status": "principal",
+    "title": "Metatese 4",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1ZPTf9zA8Xncx4I4jsUwvsq81I-gnzpr6",
+    "drive_name": "metatese4.m4a",
+    "drive_url": "https://drive.google.com/file/d/1ZPTf9zA8Xncx4I4jsUwvsq81I-gnzpr6/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2395690,
+      "sha256": "0968aa80922dcb52c30af0093fb38b0d64390fd66b96201b6b1710f97a67b8b6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese5.m4a",
+    "seconds": 307.072,
+    "tags": {
+      "creation_time": "2023-09-24T17:06:46.000000Z"
+    },
+    "bytes": 9386610,
+    "id": "D4-05",
+    "group": "Disput 4",
+    "sha256": "462b5da46eb4dd51bcdc7921c246cf3e430625e4d20540a20f00d74560e0e169",
+    "display_duration": "00:05:07",
+    "status": "principal",
+    "title": "Metatese 5",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "16alGAv8rpKZ2Kop7raGzOYh7m_pWHOwp",
+    "drive_name": "metatese5.m4a",
+    "drive_url": "https://drive.google.com/file/d/16alGAv8rpKZ2Kop7raGzOYh7m_pWHOwp/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2457034,
+      "sha256": "701eef3672521f38bb9092aad4cad8dac9e68447c431f5acc4234c57b98ba8c1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese6.m4a",
+    "seconds": 317.099,
+    "tags": {
+      "creation_time": "2023-09-24T17:15:19.000000Z"
+    },
+    "bytes": 9703107,
+    "id": "D4-06",
+    "group": "Disput 4",
+    "sha256": "fb0d2f63bdf2c4dcfd6fdc334edfd5f968872aa3c349971b07030dd70d5f153f",
+    "display_duration": "00:05:17",
+    "status": "principal",
+    "title": "Metatese 6",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1mLwlJQeHNEJdpg7NbT93KL6oFdjeWXtA",
+    "drive_name": "metatese6.m4a",
+    "drive_url": "https://drive.google.com/file/d/1mLwlJQeHNEJdpg7NbT93KL6oFdjeWXtA/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2537386,
+      "sha256": "8e0bc858c8409003ff93e93bbf9c9b019659c6e6f3c2bce2f1042cef7846f5b9"
+    }
+  },
+  {
+    "path": "Disput 4/metatese7.m4a",
+    "seconds": 408.853,
+    "tags": {
+      "creation_time": "2023-09-24T17:25:04.000000Z"
+    },
+    "bytes": 12483718,
+    "id": "D4-07",
+    "group": "Disput 4",
+    "sha256": "e1f49975e83bc09ddb34cdf9379fa2323eb2acacf7a3fc427b8fa382da204540",
+    "display_duration": "00:06:48",
+    "status": "principal",
+    "title": "Metatese 7",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "119COSU3YhNst55o-VogjEmS74LqGOt9D",
+    "drive_name": "metatese7.m4a",
+    "drive_url": "https://drive.google.com/file/d/119COSU3YhNst55o-VogjEmS74LqGOt9D/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 3271210,
+      "sha256": "73325186ded16912bb64b7e1fbe5f330713402f356bffbc362352d0c57360ec6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese8.m4a",
+    "seconds": 315.52,
+    "tags": {
+      "creation_time": "2023-09-24T17:33:57.000000Z"
+    },
+    "bytes": 9631606,
+    "id": "D4-08",
+    "group": "Disput 4",
+    "sha256": "11304d12e88e771fd8b2e2d9eb6c5f3a1f367c07d1b2a686d66f893ecd175f5b",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 8",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1yWTdziUeoreziKJcXwvq1kouWgkx3o2j",
+    "drive_name": "metatese8.m4a",
+    "drive_url": "https://drive.google.com/file/d/1yWTdziUeoreziKJcXwvq1kouWgkx3o2j/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2524714,
+      "sha256": "cfdc6abc5029d8488459dcfdc01fb008a4c1240fc0cf53a3a1c4a32834feeeb6"
+    }
+  },
+  {
+    "path": "Disput 4/metatese9.m4a",
+    "seconds": 318.656,
+    "tags": {
+      "creation_time": "2023-09-24T17:55:59.000000Z"
+    },
+    "bytes": 9723899,
+    "id": "D4-09",
+    "group": "Disput 4",
+    "sha256": "535a582e13ba31d6dca72da93691ce7f37217540312a287ed45ad27b6f5ad5e8",
+    "display_duration": "00:05:18",
+    "status": "principal",
+    "title": "Metatese 9",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1ZR0h4_xasuwxh2OXMG6p03E6Api-aQGa",
+    "drive_name": "metatese9.m4a",
+    "drive_url": "https://drive.google.com/file/d/1ZR0h4_xasuwxh2OXMG6p03E6Api-aQGa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-09.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2549770,
+      "sha256": "3f4b44c18477683dd85442039460d5148e61775663facb3f25866b8d44cb2a2e"
+    }
+  },
+  {
+    "path": "Disput 4/metatese10.m4a",
+    "seconds": 324.288,
+    "tags": {
+      "creation_time": "2023-09-24T18:04:52.000000Z"
+    },
+    "bytes": 9892016,
+    "id": "D4-10",
+    "group": "Disput 4",
+    "sha256": "f06b3146e2bb841400f00d801154ecec8b136764167a7b460080b13b5d51fd76",
+    "display_duration": "00:05:24",
+    "status": "principal",
+    "title": "Metatese 10",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1iyHLRP4xXPhx_sk4HxCV6mUEmJm91No2",
+    "drive_name": "metatese10.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iyHLRP4xXPhx_sk4HxCV6mUEmJm91No2/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-10.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2594699,
+      "sha256": "3d169706f7d37f0c4dea6fe2a1078e24f7d106d1a6595e7e469f4e2cdcf1e82f"
+    }
+  },
+  {
+    "path": "Disput 4/metatese11.m4a",
+    "seconds": 306.453,
+    "tags": {
+      "creation_time": "2023-09-24T18:13:10.000000Z"
+    },
+    "bytes": 9357358,
+    "id": "D4-11",
+    "group": "Disput 4",
+    "sha256": "13f21600fc4e91e28cc9f65f495e271ff3e4fe04c681c5fb494e3ba30582f6f6",
+    "display_duration": "00:05:06",
+    "status": "principal",
+    "title": "Metatese 11",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1yh72Fb4KFjmzCpp9kAHbY4Kz0TA-23Vk",
+    "drive_name": "metatese11.m4a",
+    "drive_url": "https://drive.google.com/file/d/1yh72Fb4KFjmzCpp9kAHbY4Kz0TA-23Vk/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-11.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2452139,
+      "sha256": "7d968cb958c5e4a5a66789d27cecb63fe30ff3ced1117461ef29e623d986bbf8"
+    }
+  },
+  {
+    "path": "Disput 4/metatese12.m4a",
+    "seconds": 315.797,
+    "tags": {
+      "creation_time": "2023-09-24T18:21:44.000000Z"
+    },
+    "bytes": 9648206,
+    "id": "D4-12",
+    "group": "Disput 4",
+    "sha256": "dfbec5eb0a77a2d8021750226e6bad8982604f76946d7093c02d1144a3b97b47",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 12",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "17bTvGyvefswtFElKKfN4Wcm_Ok25h55M",
+    "drive_name": "metatese12.m4a",
+    "drive_url": "https://drive.google.com/file/d/17bTvGyvefswtFElKKfN4Wcm_Ok25h55M/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-12.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2526731,
+      "sha256": "a97f650e2e6af7814776c57f84f289adda96f4c6f023c5871b02a022f0fb35d1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese13.m4a",
+    "seconds": 315.2,
+    "tags": {
+      "creation_time": "2023-09-24T18:30:24.000000Z"
+    },
+    "bytes": 9629752,
+    "id": "D4-13",
+    "group": "Disput 4",
+    "sha256": "ca4231bad1117b52a7a9c5c7c73ad45047111e0d68c3ac4b30fd875b97ef108e",
+    "display_duration": "00:05:15",
+    "status": "principal",
+    "title": "Metatese 13",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1g4djDLonMn-UI4xOzQZVNTtA9MzzI-BO",
+    "drive_name": "metatese13.m4a",
+    "drive_url": "https://drive.google.com/file/d/1g4djDLonMn-UI4xOzQZVNTtA9MzzI-BO/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-13.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2522123,
+      "sha256": "7d41aa93cb8474b565fa1a39d904b8e7a03d9367b9dd9721ad138a07108dccb2"
+    }
+  },
+  {
+    "path": "Disput 4/metatese14.m4a",
+    "seconds": 316.971,
+    "tags": {
+      "creation_time": "2023-09-24T18:38:40.000000Z"
+    },
+    "bytes": 9680561,
+    "id": "D4-14",
+    "group": "Disput 4",
+    "sha256": "6d99276c951b9ed84162d6795961b2070e5b3e51ce4849c5fc7e4bdb47e9b5dd",
+    "display_duration": "00:05:16",
+    "status": "principal",
+    "title": "Metatese 14",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1WtTu2EoYt6gua6DLGs1DZMd5Dailaikl",
+    "drive_name": "metatese14.m4a",
+    "drive_url": "https://drive.google.com/file/d/1WtTu2EoYt6gua6DLGs1DZMd5Dailaikl/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-14.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2536235,
+      "sha256": "004d23d34f8d0dafab1e084c0d6814aefd75e22c75dc71f9aedd572dbec0474d"
+    }
+  },
+  {
+    "path": "Disput 4/metatese15.m4a",
+    "seconds": 356.331,
+    "tags": {
+      "creation_time": "2023-09-24T18:48:18.000000Z"
+    },
+    "bytes": 10886414,
+    "id": "D4-15",
+    "group": "Disput 4",
+    "sha256": "fda182cb2fb84171ff44b1db002369796db96b4fb7ccc4fb1580736b2ad62eb7",
+    "display_duration": "00:05:56",
+    "status": "principal",
+    "title": "Metatese 15",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1SnlKzGLRlXnpflPIXBLOxsIqt2jq7dY_",
+    "drive_name": "metatese15.m4a",
+    "drive_url": "https://drive.google.com/file/d/1SnlKzGLRlXnpflPIXBLOxsIqt2jq7dY_/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-15.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2851019,
+      "sha256": "1f24b89f49b7fa366b4c1e7b2867d6b25c064b7db75f6fdb9fe5dba7f84ef05a"
+    }
+  },
+  {
+    "path": "Disput 4/metatese16.m4a",
+    "seconds": 332.8,
+    "tags": {
+      "creation_time": "2023-09-24T18:56:40.000000Z"
+    },
+    "bytes": 10158673,
+    "id": "D4-16",
+    "group": "Disput 4",
+    "sha256": "f64814f401e0f3ccf969a3a5a4b618f90dc8580e5f11383e102942cb67e7827a",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 16",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1GaiMVDZ35CII1blDp2rrWpQlXgzZvjQr",
+    "drive_name": "metatese16.m4a",
+    "drive_url": "https://drive.google.com/file/d/1GaiMVDZ35CII1blDp2rrWpQlXgzZvjQr/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-16.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2662955,
+      "sha256": "44349e05bc7d09a3858696ded24a0e7707c2f50f455b161bbe8567a0e11e1748"
+    }
+  },
+  {
+    "path": "Disput 4/metatese17.m4a",
+    "seconds": 333.867,
+    "tags": {
+      "creation_time": "2023-09-24T19:21:12.000000Z"
+    },
+    "bytes": 10206243,
+    "id": "D4-17",
+    "group": "Disput 4",
+    "sha256": "7bd5a00fd7397dbe265710bddb8e696cc793b85b05e411423ac11740d0f51e35",
+    "display_duration": "00:05:33",
+    "status": "principal",
+    "title": "Metatese 17",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1lHlTb7N2pbjH08uoyz0HQlo-OeuNXlfM",
+    "drive_name": "metatese17.m4a",
+    "drive_url": "https://drive.google.com/file/d/1lHlTb7N2pbjH08uoyz0HQlo-OeuNXlfM/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-17.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2671307,
+      "sha256": "41ef3a3c20ad7056a04dac1c07111378a637cad3ee42c3faa0f3e44275350101"
+    }
+  },
+  {
+    "path": "Disput 4/metatese18.m4a",
+    "seconds": 320.853,
+    "tags": {
+      "creation_time": "2023-09-24T19:30:25.000000Z"
+    },
+    "bytes": 9818626,
+    "id": "D4-18",
+    "group": "Disput 4",
+    "sha256": "94d9906020945db84bffc9d3f69bb6a48484dad7232b1cbe21c12c407419a21c",
+    "display_duration": "00:05:20",
+    "status": "principal",
+    "title": "Metatese 18",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1QoLGOQAbRS-_0PK5HibBnjOw9nYHrOFN",
+    "drive_name": "metatese18.m4a",
+    "drive_url": "https://drive.google.com/file/d/1QoLGOQAbRS-_0PK5HibBnjOw9nYHrOFN/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-18.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2567339,
+      "sha256": "90ae9fc0e3562bc52cadbe7173fa710fd451e1009e762a814a3d2dfdafaa8ef1"
+    }
+  },
+  {
+    "path": "Disput 4/metatese19.m4a",
+    "seconds": 349.696,
+    "tags": {
+      "creation_time": "2023-09-24T19:39:15.000000Z"
+    },
+    "bytes": 10691111,
+    "id": "D4-19",
+    "group": "Disput 4",
+    "sha256": "62cc1b5ec2e56aab179e2d17ccfb9674a003bb61f6020c5bc2e8e8cae1c359b6",
+    "display_duration": "00:05:49",
+    "status": "principal",
+    "title": "Metatese 19",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1-9c4chnZB-kCx3QwgrcAxEX9aefqEE6E",
+    "drive_name": "metatese19.m4a",
+    "drive_url": "https://drive.google.com/file/d/1-9c4chnZB-kCx3QwgrcAxEX9aefqEE6E/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-19.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2798027,
+      "sha256": "187ae0e752fe4b6ab15e49368ef2ee8a823c83f47c78d0c7403f9e1b03e90ac0"
+    }
+  },
+  {
+    "path": "Disput 4/metatese20.m4a",
+    "seconds": 353.067,
+    "tags": {
+      "creation_time": "2023-09-24T19:48:28.000000Z"
+    },
+    "bytes": 10794924,
+    "id": "D4-20",
+    "group": "Disput 4",
+    "sha256": "d5df2ff9c194eb3540ecc4451b5a896fe40e60f7cf6d537189f83d7f15645c38",
+    "display_duration": "00:05:53",
+    "status": "principal",
+    "title": "Metatese 20",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1bOOuttNBYwDyUZnJ3zwBH04oQ8dFkWo0",
+    "drive_name": "metatese20.m4a",
+    "drive_url": "https://drive.google.com/file/d/1bOOuttNBYwDyUZnJ3zwBH04oQ8dFkWo0/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-20.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2825099,
+      "sha256": "fef65d2298bba0a85df7d18ff76d610681c753d3af172cc4267ef9d88350c986"
+    }
+  },
+  {
+    "path": "Disput 4/metatese21.m4a",
+    "seconds": 352.277,
+    "tags": {
+      "creation_time": "2023-09-24T19:57:49.000000Z"
+    },
+    "bytes": 10767656,
+    "id": "D4-21",
+    "group": "Disput 4",
+    "sha256": "b6769474448999681ed80fabb8b4c4158f0f36ab7ea00eb6609b2693c76840df",
+    "display_duration": "00:05:52",
+    "status": "principal",
+    "title": "Metatese 21",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "18GLiZd8FKL3AxfmwJ4tKiC5FDAUcumdg",
+    "drive_name": "metatese21.m4a",
+    "drive_url": "https://drive.google.com/file/d/18GLiZd8FKL3AxfmwJ4tKiC5FDAUcumdg/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-21.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2818763,
+      "sha256": "8266b8deb6bbe19b2f99da5c289bb29ba5f4bb05fea00b4d536be3fcb7a8bf3e"
+    }
+  },
+  {
+    "path": "Disput 4/metatese22.m4a",
+    "seconds": 304.939,
+    "tags": {
+      "creation_time": "2023-09-24T20:07:15.000000Z"
+    },
+    "bytes": 9317115,
+    "id": "D4-22",
+    "group": "Disput 4",
+    "sha256": "4a92afdce778348bfc11e4b91fbacb313087e57a3e42b14839a6470bc3ee9b35",
+    "display_duration": "00:05:04",
+    "status": "principal",
+    "title": "Metatese 22",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1iynTEnwKIGPM37Z0VnE8Td7VT-QjrKtX",
+    "drive_name": "metatese22.m4a",
+    "drive_url": "https://drive.google.com/file/d/1iynTEnwKIGPM37Z0VnE8Td7VT-QjrKtX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-22.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2440043,
+      "sha256": "f0c9cca58fb2ec4c74f30ca6ac4c344f11c2865eb09749c60fa8a61333329245"
+    }
+  },
+  {
+    "path": "Disput 4/metatese23.m4a",
+    "seconds": 340.203,
+    "tags": {
+      "creation_time": "2023-09-24T20:15:44.000000Z"
+    },
+    "bytes": 10391291,
+    "id": "D4-23",
+    "group": "Disput 4",
+    "sha256": "00bce979a3d439a91dbae9aae96a542fcc1a5dd54d28dfff868a0d12c46c4e01",
+    "display_duration": "00:05:40",
+    "status": "principal",
+    "title": "Metatese 23",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "19qU_h44Oxz1-ix6huiNeRWdWWwQJ3_6M",
+    "drive_name": "metatese23.m4a",
+    "drive_url": "https://drive.google.com/file/d/19qU_h44Oxz1-ix6huiNeRWdWWwQJ3_6M/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-23.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2721995,
+      "sha256": "a2cba43ca81e9794811634072e2311edd70df3b1f1dfb9835b7c58f54a3a04b9"
+    }
+  },
+  {
+    "path": "Disput 4/metatese24.m4a",
+    "seconds": 332.885,
+    "tags": {
+      "creation_time": "2023-09-24T20:25:51.000000Z"
+    },
+    "bytes": 10178378,
+    "id": "D4-24",
+    "group": "Disput 4",
+    "sha256": "dbd9f2421a6250144cf2396e6b4ebded203bd29cea704d6f1fe9b89d814c7a7d",
+    "display_duration": "00:05:32",
+    "status": "principal",
+    "title": "Metatese 24",
+    "event": {
+      "date": "2023-09-24",
+      "time": "18:00–22:00",
+      "guest": "Logistique",
+      "directory": "04-logistique"
+    },
+    "drive_id": "1q0-eU6zgpTZ41lxoMlK8OKk21Tu8zgqa",
+    "drive_name": "metatese24.m4a",
+    "drive_url": "https://drive.google.com/file/d/1q0-eU6zgpTZ41lxoMlK8OKk21Tu8zgqa/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D4-24.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 2663531,
+      "sha256": "697f3854267dfcb7f5eeefabccb79c55aa03b7bdd5badc9d1a4e21969093cdb6"
+    }
+  },
+  {
+    "path": "Analysemodeller/schanz.m4a",
+    "seconds": 125.291,
+    "tags": {
+      "creation_time": "2023-09-18T11:55:55.000000Z"
+    },
+    "bytes": 3832279,
+    "id": "X-01",
+    "group": "Analysemodeller",
+    "sha256": "270bc247904c2b9c53b7b94fabcf1522e4e2a2ef8118e9264aeb420779774733",
+    "display_duration": "00:02:05",
+    "status": "supplement",
+    "title": "Schanz",
+    "event": null,
+    "drive_id": "1sQYUkKJEpnI4Eq-PQVw3nNID-94-1Q4u",
+    "drive_name": "schanz.m4a",
+    "drive_url": "https://drive.google.com/file/d/1sQYUkKJEpnI4Eq-PQVw3nNID-94-1Q4u/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/X-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 1002918,
+      "sha256": "60fa12c6103fb977824b839531be38e3d69e00f010854bad87c08c03bc2b234e"
+    }
+  },
+  {
+    "path": "Analysemodeller/tese 0.m4a",
+    "seconds": 30.229,
+    "tags": {
+      "creation_time": "2023-09-18T12:50:45.000000Z"
+    },
+    "bytes": 926980,
+    "id": "X-02",
+    "group": "Analysemodeller",
+    "sha256": "e70c675e60a105b7a9d6c821a02cf57f81bce5759d120150a18ee165b6aa7c74",
+    "display_duration": "00:00:30",
+    "status": "supplement",
+    "title": "Tese 0",
+    "event": null,
+    "drive_id": "1R8RpCyv4LnrVOVjbDE3zu7zPs2h2MriS",
+    "drive_name": "tese 0.m4a",
+    "drive_url": "https://drive.google.com/file/d/1R8RpCyv4LnrVOVjbDE3zu7zPs2h2MriS/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/X-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 242310,
+      "sha256": "7d934dc3a417dbad97f49fcb3efd4902f609fe40a402e606490e5a4763eb0aa5"
+    }
+  },
+  {
+    "path": "Analysemodeller/tese00.m4a",
+    "seconds": 5.995,
+    "tags": {
+      "creation_time": "2023-09-18T12:57:47.000000Z"
+    },
+    "bytes": 183198,
+    "id": "X-03",
+    "group": "Analysemodeller",
+    "sha256": "811e79b19a7e3996d946e91abeb520fc4cf791ad76022daed63e976698acea1c",
+    "display_duration": "00:00:05",
+    "status": "supplement",
+    "title": "Tese 00",
+    "event": null,
+    "drive_id": "1lTjAxP8PtjE6-dA-0IUJ2Fe6Y48-1onY",
+    "drive_name": "tese00.m4a",
+    "drive_url": "https://drive.google.com/file/d/1lTjAxP8PtjE6-dA-0IUJ2Fe6Y48-1onY/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/X-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 48487,
+      "sha256": "ccb582aaa694bbac11a3261708e7e14ae160bdbd3e386f28680b04b644ff79e4"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "peirce",
+    "citation": "Charles S. Peirce, Collected Papers 1.536–1.537",
+    "url": "https://www.textlog.de/4284-2.html",
+    "excerpt": "except by determining a habit",
+    "note": "Forlæg for oplæsningen i D2-07. Henvisningen gælder Peirces tekst; den danske ordlyd skal fortsat kontrolleres mod optagelsen."
+  },
+  {
+    "id": "kant",
+    "citation": "Immanuel Kant, Critique of Pure Reason, note om judgement og stupidity",
+    "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+    "excerpt": "Deficiency in judgement is properly that which is called stupidity",
+    "note": "Meiklejohns engelske oversættelse, fodnote 26 i denne netudgave. Kontrolforlæg til forbindelsen mellem dumhed og dømmekraft i D3-07."
+  },
+  {
+    "id": "jarry",
+    "citation": "Alfred Jarry / Dr Faustroll, Commentaire pour servir à la construction pratique de la Machine à explorer le temps, Mercure de France 29 (1899), 387–396",
+    "url": "https://fr.wikisource.org/wiki/Commentaire_pour_servir_%C3%A0_la_construction_pratique_de_la_Machine_%C3%A0_explorer_le_temps",
+    "excerpt": "Être immobile dans le Temps",
+    "note": "Afsnit I–II behandler rum, tid og maskinens stilstand. Teksten er identificeret som et relevant forlæg til D4-02; den konkrete danske udgave og dens appendixplacering er ikke fastslået."
+  },
+  {
+    "id": "au-motto",
+    "citation": "Aarhus Universitetshistorie, Universitetets segl",
+    "url": "https://auhist.au.dk/25kapitlerafuniversitetetshistorie/25kapitlerafuniversitetetshistorie,universitetetssegl",
+    "excerpt": "Solidum petit in profundis",
+    "note": "Universitetets egen gengivelse af mottoet. De omgivende latinske ord i D2-01 er ikke dermed fastslået."
+  },
+  {
+    "id": "proust-csb",
+    "citation": "Marcel Proust, Contre Sainte-Beuve, Préface (Gallimard 1954), 55–63",
+    "url": "https://fr.wikisource.org/wiki/Contre_Sainte-Beuve/Pr%C3%A9face",
+    "excerpt": "Chaque jour j’attache moins de prix à l’intelligence.",
+    "note": "Præfacens åbningssætning. Henvisningen støtter værkidentifikationen i D3-08; den erstatter ikke den talte danske gengivelse."
+  },
+  {
+    "id": "proust-swann",
+    "citation": "Marcel Proust, Du côté de chez Swann, Combray I",
+    "url": "https://fr.wikisource.org/wiki/Combray",
+    "excerpt": "Longtemps, je me suis couché de bonne heure.",
+    "note": "Åbningen af romanen, omtalt i D3-06 og stillet ved siden af Contre Sainte-Beuve i D3-08. Netudgaven gengiver Gallimard 1946."
+  },
+  {
+    "id": "flaubert",
+    "citation": "Gustave Flaubert, Bouvard et Pécuchet",
+    "url": "https://www.gutenberg.org/ebooks/14157",
+    "note": "Værkidentifikation til diskussionen af dumhed, venskab og tilegnelse af viden i D3-08. Der er ikke tilføjet en bestemt passage som et påstået citat."
+  },
+  {
+    "id": "manuscript",
+    "citation": "Under Bugten, samledokument, rammetekst og teser",
+    "url": "manuscript.html",
+    "note": "Ordlyd, fem tabeller og syv indlejrede billeder er bevaret. Manuskriptets plan og fremførelsens rækkefølge holdes adskilt."
+  },
+  {
+    "id": "old-art",
+    "citation": "Summa Transscriptus, syntese til Kunsten er død, 18. september 2023",
+    "url": "archive/2023/disput-1/transcription_and_synthesis_20230918164901.txt",
+    "note": "Den bevarede syntese indeholder navnene Max Y. Locusus og Maxia Anna Niknolds. Den er et forlæg for en mulig henvisning i D4-02, ikke en bibliografisk autoritet for de navngivne teorier."
+  },
+  {
+    "id": "hui-machine",
+    "citation": "Yuk Hui, Machine and Sovereignty, University of Minnesota Press, 2024",
+    "url": "https://digitalmilieu.net/5245/publication-of-machine-and-sovereignty-university-of-minnesota-press-2024/",
+    "note": "Forfatterens publikationsoplysning identificerer navnet i omtalen af den kommende bog i D2-04."
+  },
+  {
+    "id": "magliabechi",
+    "citation": "Biblioteca Magliabechiana, IRHT Pinakes",
+    "url": "https://pinakes-dev.irht.cnrs.fr/notices/copiste-possesseur-autre/5141/",
+    "note": "Biblioteket opstod af Antonio Magliabechis donation i 1714. Navnet identificerer bibliotekaren i D3-05; anekdotens påstande er bevaret som fremført."
+  },
+  {
+    "id": "sabae",
+    "citation": "SABAE, Gustav Bunzel og Paul Smith, Arbejdsfrihedens spøgelse, CIRA katalog",
+    "url": "https://www.cira.ch/catalogue/index.php?lvl=notice_display&id=6236",
+    "note": "Katalogposten identificerer navn og organisation i D1-07."
+  }
+]

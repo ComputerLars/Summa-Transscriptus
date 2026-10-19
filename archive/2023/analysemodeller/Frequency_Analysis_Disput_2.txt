@@ -1,0 +1,1 @@
+computer: 280\nligesom: 50\nbillede: 48\nhvordan: 34\nnetværket: 27\nblindhed: 19\nforskellige: 18\nforhold: 17\nbilleder: 16\nspørgsmål: 16\n

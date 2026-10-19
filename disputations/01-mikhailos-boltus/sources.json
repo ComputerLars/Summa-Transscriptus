@@ -1,0 +1,234 @@
+[
+  {
+    "path": "Disput 1/Lydfiler/tese 1.m4a",
+    "seconds": 1517.845,
+    "tags": {
+      "creation_time": "2023-09-18T14:46:00.000000Z"
+    },
+    "bytes": 46379582,
+    "id": "D1-01",
+    "group": "Disput 1",
+    "sha256": "88008b9b4b702a85aed15227ebef0c55ebfe80d832e027c43108b45f7455fd03",
+    "display_duration": "00:25:17",
+    "status": "principal",
+    "title": "Kunsten er død",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1Q9wZLl4axqwZzGdedRfXy38K6eQSLrO6",
+    "drive_name": "tese 1.m4a",
+    "drive_url": "https://drive.google.com/file/d/1Q9wZLl4axqwZzGdedRfXy38K6eQSLrO6/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-01.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 12143343,
+      "sha256": "00ebf7eb561eaea0a76861be889d33a7ccc6516a5882423549019efb4803581d"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese 2.m4a",
+    "seconds": 1297.6,
+    "tags": {
+      "creation_time": "2023-09-18T15:12:24.000000Z"
+    },
+    "bytes": 39644460,
+    "id": "D1-02",
+    "group": "Disput 1",
+    "sha256": "e901667d3646f2eb9b5caa238be0a20b9abb8582489adecc0cf86427a6297a4c",
+    "display_duration": "00:21:37",
+    "status": "principal",
+    "title": "Revolutionen er repræsenterbar",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "17GElSfe-gktcAy0OR4gkZPbWWLC-FM6v",
+    "drive_name": "tese 2.m4a",
+    "drive_url": "https://drive.google.com/file/d/17GElSfe-gktcAy0OR4gkZPbWWLC-FM6v/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-02.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10381375,
+      "sha256": "75fa08346db275f5528ca9810a06d585d024b165ee3e2e446eca4a0125e620e9"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese c.m4a",
+    "seconds": 1313.493,
+    "tags": {
+      "creation_time": "2023-09-18T15:55:27.000000Z"
+    },
+    "bytes": 40142467,
+    "id": "D1-03",
+    "group": "Disput 1",
+    "sha256": "15c6eae4b9b69ec5c1e2cfdca26cb0271b7b7401506fb23d1068b8dd3b60bc3e",
+    "display_duration": "00:21:53",
+    "status": "principal",
+    "title": "Fascisme og demokrati er ikke modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1olvZHs-E6IgtlgqqGoHZaGhNuJlgpx-Y",
+    "drive_name": "tese c.m4a",
+    "drive_url": "https://drive.google.com/file/d/1olvZHs-E6IgtlgqqGoHZaGhNuJlgpx-Y/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-03.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10508395,
+      "sha256": "d61e9a403cf11bdde11281d362afc9da8868513971f810fef1e4c01155a46fea"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese d.m4a",
+    "seconds": 1320.107,
+    "tags": {
+      "creation_time": "2023-09-18T16:24:25.000000Z"
+    },
+    "bytes": 40347603,
+    "id": "D1-04",
+    "group": "Disput 1",
+    "sha256": "0c0cb491a1fa1f36ffabdaaf4b956c280eddb2153bf37fb74f824af489ea155e",
+    "display_duration": "00:22:00",
+    "status": "principal",
+    "title": "Teknikken er revolutionens stilistik",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1YYWF7RqtytWSBN1Q_noMpzRb_SCAwtR1",
+    "drive_name": "tese d.m4a",
+    "drive_url": "https://drive.google.com/file/d/1YYWF7RqtytWSBN1Q_noMpzRb_SCAwtR1/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-04.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 10561380,
+      "sha256": "e81652304ff9113fa7ca2ec1a01038d444eb7a4b3728ee037593a6bd845800ec"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese e.m4a",
+    "seconds": 1014.784,
+    "tags": {
+      "creation_time": "2023-09-18T17:02:01.000000Z"
+    },
+    "bytes": 31009230,
+    "id": "D1-05",
+    "group": "Disput 1",
+    "sha256": "a1cb7bee0727d51ac96b124bbc4e4d44e0cf8b9708266e2702e8703ddc3b2a7c",
+    "display_duration": "00:16:54",
+    "status": "principal",
+    "title": "Offentlighed og opstand er modsætninger",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1xrKVqvQg3ejxnWpD0cgculVPycy0TlrR",
+    "drive_name": "tese e.m4a",
+    "drive_url": "https://drive.google.com/file/d/1xrKVqvQg3ejxnWpD0cgculVPycy0TlrR/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-05.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8118856,
+      "sha256": "7dd9fd638277b0039ce4214b3d74abda359d12d02b1c84d713f70a8110ad96c3"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese f.m4a",
+    "seconds": 1076.971,
+    "tags": {
+      "creation_time": "2023-09-18T17:22:46.000000Z"
+    },
+    "bytes": 32910642,
+    "id": "D1-06",
+    "group": "Disput 1",
+    "sha256": "35d04911e63cbda0f99d504bcc675de4f60257392468297a3634ac1e5c942651",
+    "display_duration": "00:17:56",
+    "status": "principal",
+    "title": "Publiciteten er transmonarkisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1WjQt5spZHdZeYrpI4OD6Yob9Npe_hnDX",
+    "drive_name": "tese f.m4a",
+    "drive_url": "https://drive.google.com/file/d/1WjQt5spZHdZeYrpI4OD6Yob9Npe_hnDX/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-06.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8616222,
+      "sha256": "a60aa6b85790c59bff1a3bab4a7c4c3d38c5ee06af7311c64ffbb1a033fd144f"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese g.m4a",
+    "seconds": 1130.645,
+    "tags": {
+      "creation_time": "2023-09-18T17:57:49.000000Z"
+    },
+    "bytes": 34555318,
+    "id": "D1-07",
+    "group": "Disput 1",
+    "sha256": "10effb0f547247fed24fdc87fea57fd31b3799d19feb5fb374c25973a5f6917b",
+    "display_duration": "00:18:50",
+    "status": "principal",
+    "title": "Dialektikken er gået i stykker",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1vSUHw3cgI7NdiohwfuckowCfXc0PCA2_",
+    "drive_name": "tese g.m4a",
+    "drive_url": "https://drive.google.com/file/d/1vSUHw3cgI7NdiohwfuckowCfXc0PCA2_/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-07.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 9045631,
+      "sha256": "ddaee3816006a1b04cd8bf8b53eb6ae6fa0f66ead3c2f4de3fef2ce50331c270"
+    }
+  },
+  {
+    "path": "Disput 1/Lydfiler/tese h.m4a",
+    "seconds": 1040.576,
+    "tags": {
+      "creation_time": "2023-09-18T18:18:20.000000Z"
+    },
+    "bytes": 31822395,
+    "id": "D1-08",
+    "group": "Disput 1",
+    "sha256": "c8c7dd7ee52f3b6c5b9fdee53efdfa73d4b9fe06217054ce3e42f19a74ead611",
+    "display_duration": "00:17:20",
+    "status": "principal",
+    "title": "Revolutionen er entropisk",
+    "event": {
+      "date": "2023-09-18",
+      "time": "16:00–20:00",
+      "guest": "Mikhailos Boltus",
+      "directory": "01-mikhailos-boltus"
+    },
+    "drive_id": "1YkBALifOHg8MVG-RTK758I5h7sWG0zXd",
+    "drive_name": "tese h.m4a",
+    "drive_url": "https://drive.google.com/file/d/1YkBALifOHg8MVG-RTK758I5h7sWG0zXd/view?usp=drivesdk",
+    "audio_url": "https://github.com/ComputerLars/Summa-Transscriptus/releases/download/audio-access-20261017/D1-08.mp3",
+    "access_copy": {
+      "format": "MP3, mono, 32000 Hz, 64 kbit/s",
+      "bytes": 8325049,
+      "sha256": "9ac3156a2fec4cc8dfd58bf117cadadd5acc69cf51495e3f180938a9e8fb8f2a"
+    }
+  }
+]
