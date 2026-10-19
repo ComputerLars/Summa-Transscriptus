@@ -73,7 +73,7 @@ def build():
  'D2-01':[{'id':'anagrams','citation':'Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.','url':'manuscript.html#p40'}],
  'D2-04':[{'id':'bratton-stack','citation':'Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.','url':'https://mitpress.mit.edu/9780262029575/the-stack/'},{'id':'wynter-ceremony','citation':'Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.','url':'https://www.jstor.org/stable/302808'},{'id':'kantorowicz','citation':'Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.','url':'https://www.jstor.org/stable/j.ctvcszz1c'}],
  }
- h['record_references']={} 
+ h['record_references']={}
  for r in h['records']:
   refs=[]
   for entry in h['collation']['entries']:
@@ -82,6 +82,7 @@ def build():
      ref=next((x for x in h['collation']['references']if x['id']==refid),None)
      if ref and refid!='old-art' and ref not in refs:refs.append({k:ref[k]for k in ['id','citation','url']})
   h['record_references'][r['id']]=refs+additional_refs.get(r['id'],[])
+ h['edition']='2026-10-19'
  h['reading_policy']['speaker']='Navnene følger opførelsen. Begge kunstnerstemmer hedder Computer Lars. Sammenhængende tale fra samme offentlige position har én talerbetegnelse; lydsteder og kildeankre bevares.'
  h['reading_policy']['paragraphs']='Afsnit følger argumentet; optagelses- og genkendelsesenheder er kildeankre.'
  assert synthesis_before=={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}

@@ -569,7 +569,7 @@
     {
       "path": "hyperbook-data.json",
       "bytes": 2297951,
-      "sha256": "76203f7a3fcbc53eb9007fdede5f6080fb7f0dc0c9579a3940138b18250e6288"
+      "sha256": "91f129a2e12431279593985de69e2c218ad93fc6b5ac42dd3a3c34ba674b1191"
     },
     {
       "path": "hyperbook.css",
@@ -623,8 +623,8 @@
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 6891,
-      "sha256": "02c5730cf0ef0263688da6fa7d7cd6b3c4e7f722899501ece0651afcb831073d"
+      "bytes": 6917,
+      "sha256": "f993f9a7d68fb4c43337a33336dcfa67aa8a7650757697c55a8ce701f5b4a141"
     },
     {
       "path": "scripts/refresh_manifest.py",
