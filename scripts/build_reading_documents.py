@@ -1,5 +1,6 @@
 """Synchronise Word reading copies with the continuous public edition."""
 from pathlib import Path
+import sys
 import json
 from docx import Document
 from docx.oxml.ns import qn
@@ -7,6 +8,7 @@ from docx.shared import Pt,RGBColor
 R=Path(__file__).resolve().parents[1]
 h=json.loads((R/'hyperbook-data.json').read_text());records={r['id']:r for r in h['records']}
 for g in h['groups']:
+ if len(sys.argv)>1 and g['number']!=int(sys.argv[1]):continue
  path=R/g['path']/'reading.docx';doc=Document(path)
  for child in list(doc._element.body):
   if child.tag!=qn('w:sectPr'):doc._element.body.remove(child)
@@ -23,6 +25,8 @@ for g in h['groups']:
   history=h['collation']['records'][rid].get('historical')
   if history:
    doc.add_paragraph('Maskinsyntese · 2023','Heading 2');doc.add_paragraph(history['synthesis'])
+  elif rid=='D4-21':
+   doc.add_paragraph('Maskinsyntese · 2023','Heading 2');doc.add_paragraph('Ingen maskinsyntese er bevaret for Metatese 21.')
   p=doc.add_paragraph('Læseudgave og lydsteder: https://computerlars.github.io/Summa-Transscriptus/#disput/'+rid);p.paragraph_format.space_before=Pt(0);p.paragraph_format.space_after=Pt(6)
   for run in p.runs:run.font.size=Pt(8.5)
  doc.save(path)

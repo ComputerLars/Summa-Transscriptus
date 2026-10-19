@@ -105,7 +105,7 @@ Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, L
 
 **Optagelserne, 2023.** De oprindelige M4A-filer er registreret i [optagelsesoversigten](documentation/recordings.md). MP3-lyttekopierne følger samme forløb uden beskæring. Tiderne regnes fra begyndelsen af den enkelte optagelse. [Lyttekopier](https://github.com/ComputerLars/Summa-Transscriptus/releases/tag/audio-access-20261017).
 
-**Transskriptioner og synteser, 2023.** [56 TXT-filer](archive/2023/) er bevaret uændret. De 48 tilknyttede maskinsynteser afslutter de respektive forløb på læsesiden i deres oprindelige ordlyd. Syntesernes fejl, navne og slutninger tilhører dette historiske tekstlag.
+**Transskriptioner og synteser, 2023.** [56 TXT-filer](archive/2023/) er bevaret uændret. De 48 tilknyttede maskinsynteser afslutter de respektive forløb på læsesiden i deres oprindelige ordlyd. Syntesernes fejl, navne og slutninger tilhører dette historiske tekstlag. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).
 
 **Manuskriptet.** Samledokumentet rummer rammetekst, procedure, planer, teser, antiteser, tabeller, billeder og historiske tekster. Dets 492 ikke-tomme tekstafsnit og syv indlejrede billeder er bevaret i den diplomatiske udgave. Dets afsnitsnumre er kildeadresser.
 

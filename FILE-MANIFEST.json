@@ -3,8 +3,8 @@
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 23,
-      "sha256": "6feaded4e28ea86e001a6751b4e3d960e8b7c31b9616ff9936b79297086e809b"
+      "bytes": 429,
+      "sha256": "c121d4109cec92cfcd44312c55f1ae555e3ee49f9114a75e4717e80abb759a6a"
     },
     {
       "path": ".nojekyll",
@@ -18,13 +18,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 26592,
-      "sha256": "43cbfd5ec5772cc4a567a0e2bd1b87860381885307cc9b9cd9314c9a3e264e21"
+      "bytes": 26648,
+      "sha256": "5055c057560782b19f2dcc5c04559fe4e94686adecdb66924b117f966ebcbb21"
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1371296,
-      "sha256": "81847486b0ac0171321152e048c7fa44b4e36e96d258d2b01dbb952bd48eec4a"
+      "bytes": 1371413,
+      "sha256": "890a5b75c7772a21b10134f9cc6dc851476ec56c3428d2e9d6976086bb74a896"
     },
     {
       "path": "archive/2023/README.md",
@@ -367,24 +367,14 @@
       "sha256": "0f9a5cad07941f0826586c94e089d89b918c46e5c17cf2d5a3c6f666e3bc694f"
     },
     {
-      "path": "collation-data.js",
-      "bytes": 449624,
-      "sha256": "93463d1dc397a76029bbf4d1f6ef20773620516a5de4a4515c5fde2c9c00d6a4"
-    },
-    {
       "path": "collation.html",
       "bytes": 339,
       "sha256": "e8402bed86b45e419cc9ca6867386ca8ead6caec0c86c3e48a91ee253b7f5dff"
     },
     {
-      "path": "collation.js",
-      "bytes": 1461,
-      "sha256": "00802363ef2781b903008fef7d727a5bba61ce50714ae34417de986017e61b7b"
-    },
-    {
       "path": "collectanea-pdf.js",
-      "bytes": 7877,
-      "sha256": "a56f7f9a72c1fb10757508b4a29476df5da856af096462c5d16c06675988b8bd"
+      "bytes": 8000,
+      "sha256": "cde9f37527e56b1be0f86e79e94265cbfeb0505a22ab36ee1ffb7cd45761f72a"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.docx",
@@ -402,11 +392,6 @@
       "sha256": "6d6ee842c9cc835e5d26a28d78342f0f3fe8a153a21532314d1ecb1bdeef8ce9"
     },
     {
-      "path": "disputations/01-mikhailos-boltus/timed.md",
-      "bytes": 105120,
-      "sha256": "ac4ddaecf830e060a80d080c0da85d59bc7cc6dc60a5a4e3f810b3a546258e17"
-    },
-    {
       "path": "disputations/02-maia-bacchus/reading.docx",
       "bytes": 77586,
       "sha256": "8faddc031255509c26a3403bc8c5ab7bb09b293063c78d7080184f68ff96cef5"
@@ -420,11 +405,6 @@
       "path": "disputations/02-maia-bacchus/sources.json",
       "bytes": 8585,
       "sha256": "87a5206cd834a8554066b08f994209a2427a3b3b9e4697914d6f19d3d211b49b"
-    },
-    {
-      "path": "disputations/02-maia-bacchus/timed.md",
-      "bytes": 119264,
-      "sha256": "6629e42ea6a1253516e99f19e28680367561a51441a363275d97919fcfe22d79"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
@@ -442,14 +422,9 @@
       "sha256": "3e2baceac9ec5c82da818213f54719e84594cfcae4d9e74d39a005a85ba5fe3b"
     },
     {
-      "path": "disputations/03-petrus-borumanum/timed.md",
-      "bytes": 86066,
-      "sha256": "d6c5a0ba7d853f3ba487847d965d4e969cf346f91072c9de9bbd2f96d84bc30f"
-    },
-    {
       "path": "disputations/04-logistique/reading.docx",
-      "bytes": 64807,
-      "sha256": "9f45a9d549d614a6b45e77baf12ad688f054a587cd57ad8c6d72ac03331ab01e"
+      "bytes": 64826,
+      "sha256": "fae61bcfe822d2b618d0f36412d0ed157f1579ff70492cced0b1f0a40e456bf2"
     },
     {
       "path": "disputations/04-logistique/reading.md",
@@ -462,34 +437,19 @@
       "sha256": "9002f8ea0b0d4bbe5f4c475dc31c9d3a5434adc953ba15dbbc87e2eb24b7cf78"
     },
     {
-      "path": "disputations/04-logistique/timed.md",
-      "bytes": 79789,
-      "sha256": "5b19625ac08efc5cff91161e2ea03112128f720ae295de6352259dde5a13e811"
-    },
-    {
       "path": "documentation/access-audio.json",
       "bytes": 32095,
       "sha256": "bfa7aa9eee67356f5d83a07adcaf552f697ae948c1e1b83dfee3570ac38b10bf"
     },
     {
-      "path": "documentation/collation.json",
-      "bytes": 468298,
-      "sha256": "c09f880b85110fa3ca8c2e85d4241fcfc5c98d35afc30b1431c42dc70964856b"
-    },
-    {
-      "path": "documentation/collation.md",
-      "bytes": 38269,
-      "sha256": "867f82d6d90849b8a117a156f53c0711f06e6cb69a77c0c14d65008522b57fe8"
-    },
-    {
       "path": "documentation/dissertation.md",
-      "bytes": 863,
-      "sha256": "c78586f1153a8ba405ecbfbb7b0c2085ea48d2336cd91afac33dd3eddb0d1c98"
+      "bytes": 895,
+      "sha256": "ad5e03da4005035efce37a615abc2ba541911083d69fa5e949c7d594dd8e1363"
     },
     {
       "path": "documentation/editorial-principles.md",
-      "bytes": 3606,
-      "sha256": "6f6fead92799daca8af04531c7979f1c38121f9b2177b00869dac87de9e96915"
+      "bytes": 3512,
+      "sha256": "11d5855b2b7ebb613e51a1de80bfbb6e14851803c13f35125c87b99d9aae081a"
     },
     {
       "path": "documentation/hyperbook-sources.json",
@@ -512,19 +472,9 @@
       "sha256": "21e69e810d597598624c7b36bcc51fc652f52a37f9cb0ae15d0abe19dccc7983"
     },
     {
-      "path": "documentation/publication-validation.json",
-      "bytes": 643,
-      "sha256": "bb169fd118032578b8cba29db8035cb7dea4c6a1282f9339f054693d2436f593"
-    },
-    {
       "path": "documentation/reading-corrections.json",
       "bytes": 195051,
       "sha256": "01b266356b314ffe6fad9906e1411f372a30fa4c6230b9cd99eb36f335ec1514"
-    },
-    {
-      "path": "documentation/reading-revisions.json",
-      "bytes": 1245727,
-      "sha256": "88873d983aa3e991312c53527def6154dedba3724b744e7f2e47a7150c8290d8"
     },
     {
       "path": "documentation/recordings.json",
@@ -533,8 +483,8 @@
     },
     {
       "path": "documentation/recordings.md",
-      "bytes": 17611,
-      "sha256": "a816d5cc429823e4cda5f37e0bfd2831407e3cba209d4709d91d2e76e86a6ed6"
+      "bytes": 18375,
+      "sha256": "9a9cd594b43dc0c943e2c777ddec6b8ecd5a77f2c5f147a56d6536ae1a0adc63"
     },
     {
       "path": "documentation/references.json",
@@ -545,11 +495,6 @@
       "path": "documentation/references.md",
       "bytes": 3692,
       "sha256": "9af055529b14492cdee7a48ecf38c7257efbbe55076a8ab3a022e9c2b327ffbf"
-    },
-    {
-      "path": "documentation/revisions.md",
-      "bytes": 896,
-      "sha256": "01ec6a64756627d6fefa6dc840c952f2735f6b80626a1eddc40ad1ad0b8ca038"
     },
     {
       "path": "documentation/speaker-readings-20261019.json",
@@ -583,13 +528,13 @@
     },
     {
       "path": "hyperbook.css",
-      "bytes": 13308,
-      "sha256": "c5212136724773241cab5026d24097a2cd55735a24f1806eb0a11d2f5ec99dab"
+      "bytes": 13359,
+      "sha256": "408724c337f3a1a6916a0175a91ea4884e23e870682ad868ee3352178c279b44"
     },
     {
       "path": "hyperbook.js",
-      "bytes": 26838,
-      "sha256": "c60a7e59a983ffb84abd9442892613127f4cf53ef80914abdb60a4e44c539e76"
+      "bytes": 26986,
+      "sha256": "5ea43c101fe31249f52c74ed60c82c9dbc49809afb901b17228b7ab6c8d8d284"
     },
     {
       "path": "index.html",
@@ -598,8 +543,8 @@
     },
     {
       "path": "manuscript.html",
-      "bytes": 462614,
-      "sha256": "713a37b0ff1788040be265a888958e4eafaa7082bd244ec708158e735f72d04f"
+      "bytes": 462564,
+      "sha256": "27a7a04e42b89dbe5e56c1424caf7ad6bd5455e93fab0d52153c6d9586f9382e"
     },
     {
       "path": "organ-tekst.html",
@@ -610,11 +555,6 @@
       "path": "reader.html",
       "bytes": 274,
       "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
-    },
-    {
-      "path": "reader.js",
-      "bytes": 14722,
-      "sha256": "8eb87229562f7715f4b214db8d6a2a2e1ebc34df1bfb55ceea6f542f74e27933"
     },
     {
       "path": "readings.html",
@@ -628,13 +568,13 @@
     },
     {
       "path": "scripts/build_reading_documents.py",
-      "bytes": 2059,
-      "sha256": "0a1598fe6672a92fe8b3ae1a28d324656ac37c2060a52d2855ece66f646009e5"
+      "bytes": 2281,
+      "sha256": "bc552d4de16ad354405248e2b1321a854d174d83724009345f83ea29f579b6ef"
     },
     {
       "path": "scripts/build_readme.py",
-      "bytes": 6869,
-      "sha256": "3b088c294f564ddfb7caca97b3edd5248704af0e2719bd16f3e276ce33702d65"
+      "bytes": 6925,
+      "sha256": "f3c726fcd9e125c92caaacf6f93d63802bf4a855207bcfac0f558b443fb5fee3"
     },
     {
       "path": "scripts/build_scroll.py",

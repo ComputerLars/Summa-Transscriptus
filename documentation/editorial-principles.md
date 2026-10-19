@@ -4,7 +4,7 @@ Læseudgaverne bygger på ny lydgenkendelse af optagelserne fra september 2023, 
 
 Tegnsætning, kongruens, åbenlyse genkendelsesfejl og rene stammen er rettet. Argumenternes rækkefølge, negationer, kvalifikationer, faglige særheder og meningsbærende gentagelser er bevaret. Talerens faktiske påstande er ikke faktakorrigeret til andre påstande. Dette er transskriptionsredaktion, ikke nye synteser af disputterne.
 
-Læseudgaven vælger de bedst underbyggede læsninger ved sammenhold af lyd, kontekst, selvstændige genkendelser, de oprindelige transskriptioner og skriftlige forlæg. Afbrudte tilløb er udeladt; sætningsforbindelser er renskrevet. En urekonstrueret latinsk oplæsning er angivet som oplæsning. [Redaktionelle læsemåder](../readings.html) · [Revisionsdata](reading-revisions.json) og de tidligere udgaver bevarer teksthistorien. Tidsankrene er omtrentlige og regnes fra begyndelsen af hver optagelse.
+Læseudgaven vælger de bedst underbyggede læsninger ved sammenhold af lyd, kontekst, selvstændige genkendelser, de oprindelige transskriptioner og skriftlige forlæg. Afbrudte tilløb er udeladt; sætningsforbindelser er renskrevet. En urekonstrueret latinsk oplæsning er angivet som oplæsning. Tidsankrene er omtrentlige og regnes fra begyndelsen af hver optagelse.
 
 ## Stemmer og opførelsesnavne
 
@@ -20,8 +20,8 @@ Teksterne følger de bevarede optagelsers rækkefølge, kontrolleret mod deres i
 
 Disput 1 indeholder også en senere eksport af diskussionen om publicitet. Begge filer er bevaret som kilder, men diskussionen optræder kun én gang i læseudgaven. Analysemodellernes tre korte optagelser er registreret som supplerende kilder, ikke som yderligere offentlige disputter. Manifesternes filnavne, varigheder og SHA-256-kontrolsummer forbinder teksterne med de uændrede lydfiler.
 
-## Læseredaktion, 19. oktober 2026
+## Tekst og kildeankre
 
 Optagelsesbrud inde i én talers sætning sammenføjes. Afsnit følger argumentets overgange. Hængende forbindelsesord fjernes, og afbrudte udsagn får udeladelsesprikker. Nye talerpositioner begynder med stort bogstav. Ændringer i paragrafgrænserne står i [paragrafregisteret](paragraph-boundaries.json). Kildeankrene og de oprindelige optagelsesenheder bevares.
 
-[Supplerende talerafstemninger](speaker-readings-20261019.json) fører generiske angivelser tilbage til de navngivne talerpositioner. Begge kunstnerstemmer hedder Computer Lars. De oprindelige transskriptioner og maskinsynteser redigeres ikke.
+[Supplerende talerafstemninger](speaker-readings-20261019.json) fører generiske angivelser tilbage til de navngivne talerpositioner. Begge kunstnerstemmer hedder Computer Lars. De oprindelige transskriptioner og maskinsynteser redigeres ikke. Ingen maskinsyntese er bevaret for Metatese 21 (D4-21).

@@ -62,6 +62,7 @@ async function makePDF(items,title){
     for(const t of r.utterances){ensure(60);para(t.speaker+' · '+clock(t.start),7.4,6,r.audio+'#t='+Math.floor(t.start));for(const b of t.blocks)para(b);y-=7}
     const h=historical(x.id);for(const source of H.record_references?.[x.id]||[])para(source.citation+' '+ref(source.citation,abs(source.url)),7.2,8);
     if(h){heading('Maskinsyntese · 2023',10.5);para(h.synthesis);para('Kildetekst '+ref('Syntese · '+x.id,abs(h.url)),7.2,15)}
+    else if(x.id==='D4-21'){heading('Maskinsyntese · 2023',10.5);para('Ingen maskinsyntese er bevaret for Metatese 21.')}
    }else if(x.kind==='frame'){
     for(const n of (x.id==='ordo'?[72,74,76,77,78]:Array.from({length:66},(_,i)=>i+4))){const p=manuscriptParagraph(n),f=H.figures.find(f=>f.paragraph===n);if(p?.text.trim())para(p.text);if(f)await image(f)}
    }else{

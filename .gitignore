@@ -1,2 +1,16 @@
 __pycache__/
 *.py[cod]
+
+# Local editorial working files
+/documentation/publication-validation.json
+/documentation/revisions.md
+/documentation/reading-revisions.json
+/documentation/collation.md
+/documentation/collation.json
+/reader.js
+/collation.js
+/collation-data.js
+/disputations/01-mikhailos-boltus/timed.md
+/disputations/02-maia-bacchus/timed.md
+/disputations/03-petrus-borumanum/timed.md
+/disputations/04-logistique/timed.md
