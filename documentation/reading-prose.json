@@ -281,6 +281,60 @@
       "after": "Carol Stumper",
       "basis": "Det samme dokumenterede anagram nævnes flere steder; figuren i manuskriptets §40 har Carol Stumper.",
       "reference": "manuscript.html#p40"
+    },
+    {
+      "record": "D3-08",
+      "before": "Vi opfatter chimpansen som intelligent, som gør noget med hænderne, men der er cirklen vores forhold til hunden.",
+      "after": "Vi opfatter chimpansen som intelligent, når den gør noget med hænderne. Men hvad siger det om vores forhold til hunden?",
+      "basis": "Forfatterens afklaring, 20. oktober 2026; nænsom grammatisk integration."
+    },
+    {
+      "record": "D4-04",
+      "before": "både til Jørgen Sønderborgs position, men også til Bohr og Heisenbergs københavnerinterpretation",
+      "after": "både til Jorn og Silkeborg-interpretationen og til Bohr og Heisenbergs københavnerinterpretation",
+      "basis": "Forfatterens afklaring, 20. oktober 2026; nænsom grammatisk integration."
+    },
+    {
+      "record": "D4-14",
+      "before": "Carol Stumper eller Frø",
+      "after": "Carol Stumper eller alecprotrums",
+      "basis": "Forfatterens valg af nonsensanagrammet alecprotrums, 20. oktober 2026. Bogstavmængden svarer til Computer Lars."
+    },
+    {
+      "record": "D4-05",
+      "before": "hvis jeg lige ser Logistique i øjet",
+      "after": "hvis jeg lige ser Computer Lars i øjet",
+      "basis": "Forfatteren bekræfter, at Logistique fortsat taler. Den, bureauet ser i øjnene og giver ordet, er Computer Lars."
+    },
+    {
+      "record": "D4-19",
+      "before": "motivationen af tesen, at.. Harmoni. Det ligger jo lige for.",
+      "after": "motivationen af tesen. Det ligger jo lige for:",
+      "basis": "Forfatteren afklarer harmonerer og de to spørgsmål. Den afbrudte genstart samles i det fulde spørgsmål."
+    },
+    {
+      "record": "D4-19",
+      "before": "motivationen af tesen, at… Harmoni. Det ligger jo lige for.",
+      "after": "motivationen af tesen. Det ligger jo lige for:",
+      "basis": "Forfatteren afklarer harmonerer og de to spørgsmål. Den afbrudte genstart samles i det fulde spørgsmål."
+    },
+    {
+      "record": "D4-19",
+      "before": "motivationen af tesen, at. Harmoni. Det ligger jo lige for.",
+      "after": "motivationen af tesen. Det ligger jo lige for:",
+      "basis": "Forfatteren afklarer harmonerer og de to spørgsmål. Den afbrudte genstart samles i det fulde spørgsmål."
+    },
+    {
+      "record": "D4-19",
+      "before": "Hvordan er der begrænsninger?",
+      "after": "Hvad er der af begrænsninger?",
+      "basis": "Forfatteren afklarer harmonerer og de to spørgsmål. Den afbrudte genstart samles i det fulde spørgsmål."
+    },
+    {
+      "record": "D4-19",
+      "before": "Harmoni er det i forhold til tidsperspektivet.",
+      "after": "Hvordan harmonerer det i forhold til tidsperspektivet?",
+      "basis": "Forfatteren afklarer harmonerer og de to spørgsmål. Den afbrudte genstart samles i det fulde spørgsmål."
     }
   ]
 }

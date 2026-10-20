@@ -1,8 +1,18 @@
 {
   "edition": "2026-10-20",
   "starts": [
-    {"record":"D4-15","turn":"D4-15-U002-2","time":131.1,"basis":"Svaret 'Der er mindst to gode ting' lokaliseret i originaloptagelsen."},
-    {"record":"D4-23","turn":"D4-23-U004-3","time":249.58,"basis":"Indvendingen 'Der burde Logistique jo ikke være enig i' lokaliseret i originaloptagelsen."}
+    {
+      "record": "D4-15",
+      "turn": "D4-15-U002-2",
+      "time": 131.1,
+      "basis": "Svaret 'Der er mindst to gode ting' lokaliseret i originaloptagelsen."
+    },
+    {
+      "record": "D4-23",
+      "turn": "D4-23-U004-3",
+      "time": 249.58,
+      "basis": "Indvendingen 'Der burde Logistique jo ikke være enig i' lokaliseret i originaloptagelsen."
+    }
   ],
   "splits": [
     {
@@ -12,7 +22,9 @@
       "first_speaker": "Logistique",
       "second_speaker": "Computer Lars",
       "second_id": "D4-16-U003-2",
-      "second_units": ["D4-16-U003-2"],
+      "second_units": [
+        "D4-16-U003-2"
+      ],
       "time": 116.7,
       "basis": "Fremsættelsen af bureauets tese efterfølges af Computer Lars' spørgsmål til dens praksiselement. Lokal genkendelse af det konkrete lydsted og sammenhængen mellem replikkerne."
     },
@@ -23,7 +35,9 @@
       "first_speaker": "Logistique",
       "second_speaker": "Computer Lars",
       "second_id": "D4-21-U002-cont",
-      "second_units": ["D4-21-U003"],
+      "second_units": [
+        "D4-21-U003"
+      ],
       "time": 80.72,
       "basis": "Logistique afslutter sin sætning om disputanterne i København; derefter svarer Computer Lars med konkrete beretninger om Mikhailos Boltus og Petrus Borumanum. Den oprindelige kildeenhed deles uden at duplikere kildeankret."
     },
@@ -37,6 +51,14 @@
       "second_units": [],
       "time": 258.2,
       "basis": "Computer Lars' indvending slutter efter 'enig i'. Bureauets selvbeskrivelse tilhører Logistique og fortsætter ind i næste kildeenhed."
+    }
+  ],
+  "confirmed_turns": [
+    {
+      "record": "D4-05",
+      "turn": "D4-05-U001",
+      "speaker": "Logistique",
+      "basis": "Forfatterens udtrykkelige afklaring 20. oktober 2026: Logistique selv taler; intet nyt talerskift indsættes."
     }
   ]
 }

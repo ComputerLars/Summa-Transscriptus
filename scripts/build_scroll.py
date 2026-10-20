@@ -119,6 +119,7 @@ def build():
  for p in h['manuscript']:p['text']=p['text'].replace('€€€#€€##€####DD###€','')
  speaker_path=R/'documentation/speaker-readings-20261019.json'
  speaker_edits={(x['record'],x['turn']):x['after']for x in json.loads(speaker_path.read_text())['changes']}if speaker_path.exists()else{}
+ speaker_edits.update({(x['record'],x['turn']):x['speaker']for x in SPEAKER_BOUNDARIES.get('confirmed_turns',[])})
  synthesis_before={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}
  for r in h['records']:
   for p in r['paragraphs']:
