@@ -23,8 +23,8 @@
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1375568,
-      "sha256": "3d240a810c29895e7c41bc660f14a2c0ef9efb7c59eda1fbe6ff360202e545d9"
+      "bytes": 1379121,
+      "sha256": "074692a35c46664930a5c03faaed2d572527edc87f533dcea2296ad880a60c77"
     },
     {
       "path": "archive/2023/README.md",
@@ -378,13 +378,13 @@
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.docx",
-      "bytes": 71820,
-      "sha256": "a2d4667277768cee39958dbdac711176ce638f047c88f7cc164aad6f8fa59f57"
+      "bytes": 71808,
+      "sha256": "65534e88a233849511bed381e4063b4cc478488e4227632b8b071c632592da9a"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.md",
-      "bytes": 103778,
-      "sha256": "c1491594c9fdd33ba70e7a49f180cfba3036e133a0d61df2c45afb9d3896aaf5"
+      "bytes": 103760,
+      "sha256": "51fa8f636fb6101990b0b042f257985cf2ec985164e2c62226f84e6ef075dc2a"
     },
     {
       "path": "disputations/01-mikhailos-boltus/sources.json",
@@ -394,12 +394,12 @@
     {
       "path": "disputations/02-maia-bacchus/reading.docx",
       "bytes": 77638,
-      "sha256": "80eb5fba05d472778d7bb13b0b678324ea3008e29c756226d8f70c2d5e43fe61"
+      "sha256": "1d7a1e1d3c484e7dab640058ae38306aa8db021511dbf1fabac67c006647c819"
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 124317,
-      "sha256": "24d97d2bf663f40375757ae7912958d36ce909013ca1ec0d272dfc69ab6a9ec7"
+      "bytes": 124314,
+      "sha256": "4fcf887919b580c66481d590cec842471548a8f4ba5f9e0ca941fbdbe1d4a4a9"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -408,13 +408,13 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
-      "bytes": 66495,
-      "sha256": "3f45c9181646fd826df109fc4f0be82a6feb46962c35a3ad6d3058e45e60bbcb"
+      "bytes": 66493,
+      "sha256": "bbaddb24a84e1a8c5429ec2a83e4c7f8dc6876c5fc292d75c070a7878da1cbe4"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 89568,
-      "sha256": "ce3d4e121ad0ae679c04937b59106071ef60956884fc1e1097afa40f76998a19"
+      "bytes": 89570,
+      "sha256": "7553df4bd107567968b6b72e587e991ce337911fd47717abd14c3390cbe97118"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -423,13 +423,13 @@
     },
     {
       "path": "disputations/04-logistique/reading.docx",
-      "bytes": 64810,
-      "sha256": "e075a22a60012a3714787ab2d960d5f1587f90aab717d5df124df8b8cda15f07"
+      "bytes": 64812,
+      "sha256": "c2ad4003cac548094d58a7159a74592ea3e55f73bb2a8c60230bd9fb90dcd147"
     },
     {
       "path": "disputations/04-logistique/reading.md",
-      "bytes": 85650,
-      "sha256": "b653e8254b9571c276cb01b734db2e0417059b0758fa8cc99cec65525ec9603c"
+      "bytes": 85665,
+      "sha256": "6e476968b3fb2b321482f7f75fdeb59577ae4d57ef8764725c51da0a89036a11"
     },
     {
       "path": "disputations/04-logistique/sources.json",
@@ -463,8 +463,8 @@
     },
     {
       "path": "documentation/paragraph-boundaries.json",
-      "bytes": 992872,
-      "sha256": "0f78e9aa0a71fe298a5e8f3f60509ffc7fbe5aea7b849a1ab9aefac3679c0966"
+      "bytes": 978763,
+      "sha256": "c38a7f82282fe34d499d9fdfe21f985fc1698b39e22176c76d06491869905f11"
     },
     {
       "path": "documentation/position-readings.json",
@@ -473,18 +473,18 @@
     },
     {
       "path": "documentation/reading-corrections.json",
-      "bytes": 234777,
-      "sha256": "27e856de44576bf045b215ea5de0d9d5ce0a5133b6ad6411672926d95272e5cc"
+      "bytes": 264761,
+      "sha256": "94da904af5a988109bdbc1211b0609a237423c8d1b8013aaa420ec7c222c785f"
     },
     {
       "path": "documentation/reading-paragraphs.json",
-      "bytes": 11308,
-      "sha256": "13585b528da931ee9a7c03dce086bc76259fb219dd4f7202512ac69f85909f60"
+      "bytes": 11523,
+      "sha256": "0dadd4b5b95a91aa224f32d0f01c530a69bf27a3c5c3083869a15319acf78c41"
     },
     {
       "path": "documentation/reading-prose.json",
-      "bytes": 4206,
-      "sha256": "9662643ccefe60c8b371c677eb6e0ff8980e08a3251a820f0dad6d7052845607"
+      "bytes": 10605,
+      "sha256": "e72d89b900da8f4741a6cf5db84cd7fe5c065c204c61c93a56440491d29f755c"
     },
     {
       "path": "documentation/recordings.json",
@@ -507,9 +507,14 @@
       "sha256": "9af055529b14492cdee7a48ecf38c7257efbbe55076a8ab3a022e9c2b327ffbf"
     },
     {
+      "path": "documentation/speaker-boundaries.json",
+      "bytes": 1868,
+      "sha256": "91348d97b0466951bc0ac6238fbef97b44353e132ff63b0acffd785662e58de6"
+    },
+    {
       "path": "documentation/speaker-readings-20261019.json",
-      "bytes": 14497,
-      "sha256": "d1a8f48194175cd03501ec751ecad217882fbcd177433fbe01fdbe20e8f114cd"
+      "bytes": 14786,
+      "sha256": "af53f9f15bfc942053c452fbefe2eec9b5322df7a82de5d5715eff6edf038be3"
     },
     {
       "path": "documentation/supplements.md",
@@ -533,8 +538,8 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2286781,
-      "sha256": "ba84db7d2110f43214a1cee244945a58328c8440b4809bfba321619f6e790b9e"
+      "bytes": 2288009,
+      "sha256": "8f20a65abbe066ca5dcff741f43b890e1a9862b79cbe0f614c0c279bc53cccd6"
     },
     {
       "path": "hyperbook.css",
@@ -588,8 +593,8 @@
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 11693,
-      "sha256": "8a471f13aae74e5e2eda92f47b2d30e20cf19144ba150d72bc14bfc87baa7e19"
+      "bytes": 14714,
+      "sha256": "ff569ffd1cdf1035dc2067e6f19c3f47cb4065ac130fb618e686c6939f5a3e06"
     },
     {
       "path": "scripts/refresh_manifest.py",

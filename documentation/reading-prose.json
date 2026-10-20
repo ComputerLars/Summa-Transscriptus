@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-19",
+  "edition": "2026-10-20",
   "edits": [
     {
       "record": "D1-01",
@@ -155,6 +155,132 @@
       "record": "D4-19",
       "before": "Det hjælper ingenting. For døgnets fluktuering indgår også i selvsamme relativisering af tiden. Det hjælper ingenting, for døgnets fluktuering indgår i selvsamme relativisering af tiden.",
       "after": "Det hjælper ingenting, for døgnets fluktuering indgår i selvsamme relativisering af tiden."
+    },
+    {
+      "record": "D1-01",
+      "before": "teknologisk teknologi",
+      "after": "teknologisk teleologi",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D1-01",
+      "before": "Optryk, fordi anagrammet",
+      "after": "Fordi anagrammet",
+      "basis": "Fjerner en løs genkendelsesrest ved genstarten af sætningen."
+    },
+    {
+      "record": "D1-02",
+      "before": "det, der bevises, og det, der repræsenterer",
+      "after": "det, der repræsenteres, og det, der repræsenterer",
+      "basis": "Relationen mellem repræsentationens to led fremgår af den efterfølgende argumentation."
+    },
+    {
+      "record": "D1-05",
+      "before": "dagens offentlighedsbillede, hvis den findes, er, at den er",
+      "after": "dagens offentlighed, hvis den findes, er",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D1-06",
+      "before": "Bateson, der tager til Chile",
+      "after": "Stafford Beer, der tager til Chile",
+      "basis": "Kontekstuel identifikation af Cybersyns britiske kybernetiker; rettelsen gælder referenten i læseudgaven, ikke en påstand om sikker ordlyd.",
+      "reference": "https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias"
+    },
+    {
+      "record": "D1-06",
+      "before": "Jakob von Uexküll har den her fede",
+      "after": "Thomas Urquhart har den her fede",
+      "basis": "Oversættelsen af Rabelais og slægtstavlen tilbage til Adam identificerer Thomas Urquhart. Genealogien er bevaret i hans Pantochronachanon.",
+      "reference": "https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211"
+    },
+    {
+      "record": "D1-07",
+      "before": "desillusionsløse",
+      "after": "desillusionerede",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D2-01",
+      "before": "lader rundt i",
+      "after": "bladrer rundt i",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D2-02",
+      "before": "men også sådan ustruktureret, konkurrencepræget.",
+      "after": "men også ustruktureret, konkurrencepræget verden.",
+      "basis": "Fuldfører den afbrudte substantivforbindelse “i en centerløs … verden”; indskuddet bevares."
+    },
+    {
+      "record": "D2-03",
+      "before": "en strategisk scene",
+      "after": "en strategisk seen",
+      "basis": "Samtalens følgende replikker udfolder “at være seende” og strategisk blindhed; “seen” anvendes som handlingsnavn."
+    },
+    {
+      "record": "D2-03",
+      "before": "Disputationen og tesen Computer Lars er blind. Andet afsnit.",
+      "after": "Disputationen af tesen »Computer Lars er blind« er nu afsluttet.",
+      "basis": "Praeses’ tilbagevendende afslutningsformel."
+    },
+    {
+      "record": "D2-04",
+      "before": "som formuleret af Benjamin Bratton, eksempelvis i The Stack of Machine Sovereignty, eller i Computation Sovereignty, og snart i 2024, altså Yuk Hui, Machine Sovereignty.",
+      "after": "som formuleret af Benjamin Bratton, eksempelvis i The Stack: On Software and Sovereignty, og snart, i 2024, af Yuk Hui i Machine and Sovereignty: For a Planetary Thinking.",
+      "basis": "Bogtitler identificeret hos de to originalforlag; den afbrudte, gentagne titel fjernes.",
+      "reference": "https://mitpress.mit.edu/9780262029575/the-stack/"
+    },
+    {
+      "record": "D2-06",
+      "before": "en kompositionel kontekst",
+      "after": "en komputationel kontekst",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D2-06",
+      "before": "Hypotesen er, at de bare ikke er eksklusive",
+      "after": "Hypotesen er, at de er eksklusive",
+      "basis": "Den udtalte tese kræver netop ét sandt udsagn; taleren siger umiddelbart før “gensidigt eksklusive”, og ny genkendelse bekræfter eksklusiviteten."
+    },
+    {
+      "record": "D2-07",
+      "before": "er det andet en ting uden nogen form for eksistens, mindre end eksistens, men bestemt af det første. Et tredje har en eksistensform, der består i de andenheder, der bestemmer eksistensformen for en lov eller et begreb.",
+      "after": "er det andet en eksisterende ting uden nogen værensform ringere end eksistens, men bestemt af det første. Et tredje har en værensform, der består i de andenheder, det bestemmer: en lovs eller et begrebs værensform.",
+      "basis": "Det annoncerede citat sammenholdt med Peirce, Collected Papers 1.536–537, Lowell Lectures (1903). Den danske læsning retter de bortfaldne ord og relationens retning.",
+      "reference": "https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf"
+    },
+    {
+      "record": "D3-05",
+      "before": "Niccolò Magliabechi",
+      "after": "Antonio Magliabechi",
+      "basis": "Den florentinske bibliotekar identificeret hos Biblioteca Nazionale Centrale di Firenze.",
+      "reference": "https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/"
+    },
+    {
+      "record": "D3-07",
+      "before": "Det siger jeg forlods udpeger",
+      "after": "Det, siger jeg forlods, udpeger",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D3-08",
+      "before": "at myggen er mindre intelligent",
+      "after": "at amøben er mindre intelligent",
+      "basis": "Eksemplet beskriver et væsen, der bevæger sig og spiser uden mund og ben; læsningen følger Morin-passagens biologiske eksempel."
+    },
+    {
+      "record": "D4-08",
+      "before": "idet de kræver koncentrationsrækken og udfoldelsen af argumentrækken",
+      "after": "idet de kræver koncentration og udfoldelse af argumentrækken",
+      "basis": "Sammenhold af lokal talegenkendelse, sammenhæng og læseudgavens sætningsbygning."
+    },
+    {
+      "record": "D4-14",
+      "before": "Carl Stampe",
+      "after": "Carol Stumper",
+      "basis": "Det samme dokumenterede anagram nævnes flere steder; figuren i manuskriptets §40 har Carol Stumper.",
+      "reference": "manuscript.html#p40"
     }
   ]
 }

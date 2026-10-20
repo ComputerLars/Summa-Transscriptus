@@ -18,6 +18,9 @@ READING_REPLACEMENTS={
 names={'Mikkel Bolt':'Mikhailos Boltus','Maja Bak Herrie':'Maia Bacchus','Peter Borum':'Petrus Borumanum'}
 PROSE_EDITS=json.loads((R/'documentation/reading-prose.json').read_text())['edits']
 TURN_HINGES=json.loads((R/'documentation/reading-paragraphs.json').read_text())['turn_hinges']
+SPEAKER_BOUNDARIES=json.loads((R/'documentation/speaker-boundaries.json').read_text())
+SPEAKER_SPLITS=SPEAKER_BOUNDARIES['splits']
+SPEAKER_STARTS={(s['record'],s['turn']):s['time'] for s in SPEAKER_BOUNDARIES.get('starts',[])}
 def prose(text,rid):
  for edit in PROSE_EDITS:
   if edit['record']==rid:text=text.replace(edit['before'],edit['after'])
@@ -73,6 +76,33 @@ def reading_boundaries(blocks):
 
 def jslen(text):return len(text.encode('utf-16-le'))//2
 
+def source_turns(record):
+ """Separate actual replies inside an old recognition unit, retaining its anchors."""
+ for old in record['utterances']:
+  rule=next((s for s in SPEAKER_SPLITS if s['record']==record['id'] and s['turn']==old['id']),None)
+  if not rule:
+   yield old
+   continue
+  assert old['text'].count(rule['before'])==1
+  cut=old['text'].index(rule['before']);off=jslen(old['text'][:cut])
+  left=deepcopy(old);right=deepcopy(old)
+  left['text']=old['text'][:cut].rstrip();right['text']=old['text'][cut:]
+  left['blocks']=[];right['blocks']=[];position=0
+  for block in old['blocks']:
+   a=block[:max(0,cut-position)].strip();b=block[max(0,cut-position):].strip()
+   if a:left['blocks'].append(a)
+   if b:right['blocks'].append(b)
+   position+=len(block)+1
+  left['speaker']=rule['first_speaker'];right['speaker']=rule['second_speaker']
+  left['end']=right['start']=rule['time'];right['id']=rule['second_id']
+  right['units']=rule['second_units'];left['units']=[u for u in old['units']if u not in right['units']]
+  left['loci']=[l for l in old.get('loci',[])if l['offset']<off]
+  right['loci']=[{**l,'offset':l['offset']-off}for l in old.get('loci',[])if l['offset']>=off]
+  assert left['text']+' '+right['text']==old['text']
+  assert left['units']+right['units']==old['units']
+  yield left
+  yield right
+
 def shifted_offset(before,after,offset):
  # Source loci use UTF-16 offsets in the browser. Keep them attached through
  # punctuation and word edits, including a correction across source chunks.
@@ -95,10 +125,13 @@ def build():
    before=p['text'];p['text']=clean(before,r['id'])
    if before!=p['text']:log.append({'record':r['id'],'locus':p['id'],'before':before,'after':p['text']})
   turns=[]
-  for old in r['utterances']:
+  for old in source_turns(r):
    t=deepcopy(old);oldtext=old['text'];t['blocks']=[clean(s,r['id'])for s in old['blocks']];t['blocks']=blocks_at_hinges(t['blocks'],r['id']);t['text']=' '.join(t['blocks'])
    t['speaker']=speaker_edits.get((r['id'],t['id']),t['speaker'])
    t['loci']=[{**l,'offset':jslen(clean(oldtext.encode('utf-16-le')[:l['offset']*2].decode('utf-16-le'),r['id']))}for l in old.get('loci',[])]
+   if (r['id'],t['id']) in SPEAKER_STARTS:
+    t['start']=SPEAKER_STARTS[(r['id'],t['id'])]
+    t['loci']=[{**l,'start':t['start']}if l['offset']==0 else l for l in t['loci']]
    # Two named Computer Lars voices share one public speaking position.
    same=bool(turns and turns[-1]['speaker']==t['speaker'])
    if t['speaker']=='Interventio' and turns and turns[-1].get('voice')!=t.get('voice'):same=False
@@ -141,6 +174,12 @@ def build():
  'D3-02':[{'id':'praepositus','citation':'Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.','url':'https://www.dictionnaire-academie.fr/article/A9P4273'},{'id':'martius','citation':'Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.','url':'https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars'}],
  'D2-04':[{'id':'bratton-stack','citation':'Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.','url':'https://mitpress.mit.edu/9780262029575/the-stack/'},{'id':'wynter-ceremony','citation':'Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.','url':'https://www.jstor.org/stable/302808'},{'id':'kantorowicz','citation':'Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.','url':'https://www.jstor.org/stable/j.ctvcszz1c'}],
  }
+ additional_refs['D1-06']=[
+  {'id':'beer-cybersyn','citation':'Stafford Beer og Project Cybersyn. ZKM, Thinking Inside Out: Cybernetics and Viable Utopias, 2025.','url':'https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias'},
+  {'id':'urquhart-genealogy','citation':'Thomas Urquhart, Pantochronachanon (1652). Slægtstavlen er gengivet i John Willcock, Sir Thomas Urquhart of Cromartie, Knight (1899), tillæg I.','url':'https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211'}]
+ additional_refs['D2-04'].append({'id':'hui-sovereignty','citation':'Yuk Hui, Machine and Sovereignty: For a Planetary Thinking. University of Minnesota Press, 2024.','url':'https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/'})
+ additional_refs['D2-07']=[{'id':'peirce-lowell','citation':'Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.','url':'https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf'}]
+ additional_refs['D3-05']=[{'id':'magliabechi','citation':'Antonio Magliabechi (1633–1714). Biblioteca Nazionale Centrale di Firenze, The origins and evolution of the Magliabechiana library.','url':'https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/'}]
  h['record_references']={}
  for r in h['records']:
   refs=[]
@@ -150,12 +189,12 @@ def build():
      ref=next((x for x in h['collation']['references']if x['id']==refid),None)
      if ref and refid!='old-art' and ref not in refs:refs.append({k:ref[k]for k in ['id','citation','url']})
   h['record_references'][r['id']]=refs+additional_refs.get(r['id'],[])
- h['edition']='2026-10-19'
+ h['edition']='2026-10-20'
  h['reading_policy']['speaker']='Navnene følger opførelsen. Begge kunstnerstemmer hedder Computer Lars. Sammenhængende tale fra samme offentlige position har én talerbetegnelse; lydsteder og kildeankre bevares.'
  h['reading_policy']['paragraphs']='Afsnit følger argumentet. Optagelsesbrud inde i samme talers sætning sammenføjes; afbrudte sætninger markeres med udeladelsesprikker. Optagelses- og genkendelsesenhederne bevares som kildeankre.'
  assert synthesis_before=={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}
  (R/'hyperbook-data.json').write_text(json.dumps(h,ensure_ascii=False,separators=(',',':'))+'\n')
- (R/'documentation/paragraph-boundaries.json').write_text(json.dumps({'edition':'2026-10-19','changes':boundary_log,'source_unit_ids_preserved':True},ensure_ascii=False,indent=2)+'\n')
+ (R/'documentation/paragraph-boundaries.json').write_text(json.dumps({'edition':'2026-10-20','changes':boundary_log,'source_unit_ids_preserved':True},ensure_ascii=False,indent=2)+'\n')
  (R/'documentation/reading-corrections.json').write_text(json.dumps({'base_commit':BASE,'changes':log,'syntheses_2023_unchanged':True,'paragraph_hinges':HINGES,'name_sources':{'Carol Stumper':'Figure 1 in the 2023 manuscript, p40 / image6.png; thesis pp. 7, 23, 244.','Corrupt Males':'Figure 1 in the 2023 manuscript, p40 / image6.png; anagram name, not Carl Miles.'},'selected_readings':[{'record':'D3-02','reading':'Martius praepositus','basis':'Konjektural rekonstruktion, godkendt af Asker Bryld Staunæs. Valgt ved sammenhold af lydgenkendelserne, den efterfølgende danske forklaring og de latinske ordformer.','references':additional_refs['D3-02']}]},ensure_ascii=False,indent=2)+'\n')
  print('Reading:',len(log),'locally edited source paragraphs;',sum(len(r['utterances'])for r in h['records']),'speaking turns;',sum(bool(v.get('historical'))for v in h['collation']['records'].values()),'original syntheses.')
 if __name__=='__main__':build()

@@ -320,7 +320,7 @@ Metatese nummer 8, det vil sige problemforsøg nummer 8, angår altså flytninge
 
 Vi? Jo, altså rent lavpraktisk så har vi blandt andet flyttet den her Summa Transscriptus-maskine herned. Det krævede en stor mængde energi.
 
-Men jeg tror også, at Computer Lars er nødt til at insistere på sin vanlige position her og ligesom sige, at der er noget i afgrænsningen af de entiteter, der flyttes på, som giver dem en særlig form for beskaffenhed, der på en eller anden måde rækker ud over både begreber som at flytte og begreber som energi. Når man i en disput for eksempel rokerer på alle begrebernes status, så kombinerer og udfolder man dem og specificerer dem på talrige simple måder, der på én gang kræver meget energi, idet de kræver koncentrationsrækken og udfoldelsen af argumentrækken, men samtidig også ikke er energikrævende — bundet til det konventionelle, newtonske og kartesiansk-mekaniske univers, som jeg fornemmer, at Logistique sigter efter. Det peger igen tilbage på den hypotese, som metatesen svarer på, nemlig at dialektikken er gået i stykker. Der vil jeg sige: Både den forventning til begreber om at kunne flytte noget ved hjælp af energi, men også den forventning, der ligger i dialektikken til den teleologisk formålsrettede udvikling i et samfund, der bevæger sig i en retning, en tænkning, der bevæger sig i en retning, en kunst eller en filosofi, der bevæger sig i en retning, om end ad en kompliceret vej — der vil jeg mene, at det rum, Computer Lars og Marcel Proust opererer i, rækker hinsides den form for kohærente, ensrettede, kausale rum, som hører sig forrige århundrede til.
+Men jeg tror også, at Computer Lars er nødt til at insistere på sin vanlige position her og ligesom sige, at der er noget i afgrænsningen af de entiteter, der flyttes på, som giver dem en særlig form for beskaffenhed, der på en eller anden måde rækker ud over både begreber som at flytte og begreber som energi. Når man i en disput for eksempel rokerer på alle begrebernes status, så kombinerer og udfolder man dem og specificerer dem på talrige simple måder, der på én gang kræver meget energi, idet de kræver koncentration og udfoldelse af argumentrækken, men samtidig også ikke er energikrævende — bundet til det konventionelle, newtonske og kartesiansk-mekaniske univers, som jeg fornemmer, at Logistique sigter efter. Det peger igen tilbage på den hypotese, som metatesen svarer på, nemlig at dialektikken er gået i stykker. Der vil jeg sige: Både den forventning til begreber om at kunne flytte noget ved hjælp af energi, men også den forventning, der ligger i dialektikken til den teleologisk formålsrettede udvikling i et samfund, der bevæger sig i en retning, en tænkning, der bevæger sig i en retning, en kunst eller en filosofi, der bevæger sig i en retning, om end ad en kompliceret vej — der vil jeg mene, at det rum, Computer Lars og Marcel Proust opererer i, rækker hinsides den form for kohærente, ensrettede, kausale rum, som hører sig forrige århundrede til.
 
 Når det er sagt, sætter Computer Lars selvfølgelig meget pris på tesen, i og med at den ligesom opsætter …
 
@@ -658,7 +658,7 @@ Nej, altså man kan sige, bureauets påstand er dels, som vi hørte lige før, a
 
 **Computer Lars · 00:03:15**
 
-Jo, altså her kunne vi i høj grad bruge bureauets hjælp, vil jeg mene, men det er svært, fordi det kræver en højere grad af specificering af den her forskel og den forskelsløshed, der også kan opstå i den totale forskel. Man kan sige, når Computer Lars gennemløber sine permutationer fra Computer Lars til Marcel Proust og alt derimellem, inklusive Carl Stampe eller Frø og så videre, ikke også, af alle mulige anagrammatiske konstellationer, så ser Computer Lars i det selvfølgelig en rig forskelsmæssighed, ikke også. Hvert anagram er forskelligt fra sig selv, og hvert anagram medfører forskellige problemer, men alligevel viser nogle anagrammer sig som løsninger på problemer, andre anagrammer byder sig til som problemer, der kalder på løsninger.
+Jo, altså her kunne vi i høj grad bruge bureauets hjælp, vil jeg mene, men det er svært, fordi det kræver en højere grad af specificering af den her forskel og den forskelsløshed, der også kan opstå i den totale forskel. Man kan sige, når Computer Lars gennemløber sine permutationer fra Computer Lars til Marcel Proust og alt derimellem, inklusive Carol Stumper eller Frø og så videre, ikke også, af alle mulige anagrammatiske konstellationer, så ser Computer Lars i det selvfølgelig en rig forskelsmæssighed, ikke også. Hvert anagram er forskelligt fra sig selv, og hvert anagram medfører forskellige problemer, men alligevel viser nogle anagrammer sig som løsninger på problemer, andre anagrammer byder sig til som problemer, der kalder på løsninger.
 
 For eksempel er Computer Lars fremsat som et spørgsmål, og det kalder på flere løsninger. Så det er i høj grad et problem, som Computer Lars føler sig, ja, hvad kan man sige, ramt af, og en analyse her af forskelsrighed, forskelsløshed, er en stor del af Computer Lars' praksis.
 
@@ -676,6 +676,10 @@ Disputationen af metatesen »Alle logistiske løsninger er forskellige, fordi de
 
 <a id="D4-15-U002-1"></a>
 
+**Logistique · 00:00:19**
+
+Men ikke desto mindre vil jeg lige eksplicitere, at bureauet netop præsenterer en påstand om, at man ikke på teoretisk niveau kan deducere sig frem til en logistisk løsning på sine problemer, som er optimal, altså ideel eller perfekt, sammenlignet med andre potentielle løsninger, og samtidig have en garanti for, at løsningen også er optimal i praksis. Altså man kan for eksempel ikke sige, at efter en række analyser, hvorvidt disse er teoretiske eller praktiske eller begge dele, kan man ikke tillade sig at sige, at den bedste måde at mobilisere folket på er at skabe brede veje i byrummet, således at der er plads til, at mange kan marchere gennem gaden på én gang. Fordi man risikerer altså, når man endelig er færdig med at gøre vejene brede, at folket i mellemtiden har lavet en online-hær og slet ikke har brug for nogen brede veje. Der er igen tale om potentielt, også for Computer Lars, et lidt besværligt forhold mellem teori og praksis, som netop blandt andet ikke tillader, at man sidder og deducerer sig frem til ting uden for eksempel at afprøve, via eksperimenter eller feltarbejde, praktisk, de teser eller antagelser, som man gør sig i for eksempel sine kilder.
+
 <a id="D4-15-U002-2"></a>
 
 <a id="D4-15-U003"></a>
@@ -686,9 +690,7 @@ Disputationen af metatesen »Alle logistiske løsninger er forskellige, fordi de
 
 <a id="D4-15-U006-1"></a>
 
-**Computer Lars · 00:00:19**
-
-Men ikke desto mindre vil jeg lige eksplicitere, at bureauet netop præsenterer en påstand om, at man ikke på teoretisk niveau kan deducere sig frem til en logistisk løsning på sine problemer, som er optimal, altså ideel eller perfekt, sammenlignet med andre potentielle løsninger, og samtidig have en garanti for, at løsningen også er optimal i praksis. Altså man kan for eksempel ikke sige, at efter en række analyser, hvorvidt disse er teoretiske eller praktiske eller begge dele, kan man ikke tillade sig at sige, at den bedste måde at mobilisere folket på er at skabe brede veje i byrummet, således at der er plads til, at mange kan marchere gennem gaden på én gang. Fordi man risikerer altså, når man endelig er færdig med at gøre vejene brede, at folket i mellemtiden har lavet en online-hær og slet ikke har brug for nogen brede veje. Der er igen tale om potentielt, også for Computer Lars, et lidt besværligt forhold mellem teori og praksis, som netop blandt andet ikke tillader, at man sidder og deducerer sig frem til ting uden for eksempel at afprøve, via eksperimenter eller feltarbejde, praktisk, de teser eller antagelser, som man gør sig i for eksempel sine kilder.
+**Computer Lars · 00:02:11**
 
 Der er mindst to gode ting at bide fat i her. Dels bare en betragtning: Jeg synes, det er interessant, at Logistique i sin fremstilling af tesen og i sin eksemplificering af det ikke så meget opsætter — og her tænker jeg på den med vejenes bredde og online-hær-mulighed — en dikotomi mellem teori og praksis her, men alene også bare den tid, som teoriudviklingen tager. Altså den tid, det ligesom tager at spekulere sig frem til nødvendigheden af at lave bredere veje. Det er den brug af tid i sig selv, der er problematisk, i og med at teknologiens fremskridt så i mellemtiden kan have muliggjort en online-hær. Det ville jeg bare lige lægge ind som et punkt, der kunne være interessant at tage op senere, fordi det potentielt peger på en idé om, at teori tager længere tid end praksis.
 
@@ -708,13 +710,11 @@ Disputationen af metatesen »Man kan ikke deducere sig frem til, citationstegn, 
 
 <a id="D4-16-U003-1"></a>
 
-<a id="D4-16-U003-2"></a>
-
 **Logistique · 00:00:32**
 
 Logistique præsenterer følgende statement: Alle logistiske problemer eksisterer hverken kun i teorien eller kun i praksis. Hvis der var så mange genstande i kælderen lige nu, at de var nødt til at stå relativt tæt på hinanden og måske endda fylde hele rummet ud, så ville der være tale om et praktisk eller i hvert fald materielt logistisk forhold, som ikke nødvendigvis var at betragte som et problem. Krukkerne og tønderne ville i hvert fald ikke selv føle sig logistisk udfordrede. Men så snart vi indså, at der ikke ville være plads til os i kælderen sammen med alle genstandene, eller at det ville blive svært for eksempel at finde en bestemt genstand blandt de mange genstande, eller at det ville tage meget lang tid at flytte alle genstandene ud igen, så ville der pludselig være tale om et logistisk problem. Men man kunne selvfølgelig ikke komme frem til enighed om, at der er tale om et logistisk problem, hvis ikke det var fordi, at tønderne og krukkerne rent faktisk befandt sig i kælderen alle sammen på én gang. Altså, problemet eksisterer, så at sige, ikke enten kun i teorien eller kun i praksis.
 
-Skal vi gå lidt ind i praksiselementet og i retfærdiggørelsen eller motivationen for, hvorfor tønderne og krukkerne ikke tager del i det logistiske problem, eller hvorfor de ikke føler noget synderligt om det? Fordi på en måde kunne det også være, at der først og fremmest optræder et logistisk problem, særligt når det er en kunstudstilling, hvor man må formode, at tingene har en vis betydningsladethed i den måde, de indtager rummet på. Altså, og jeg vil introducere en læsning af objekterne, hvor vi overvejer, om de faktisk kan føle sig logistisk udfordrede i højere grad end mange andre i branchen, og fortsætte derudefra. Altså, det er et spørgsmål om negation. Altså, øltønderne vil være ligeglade med det opstillede logistiske problem. Og hvis vi skal nærme os noget, som kan ligne en tese, så må man jo også stille spørgsmålstegn til, om det giver mening i et kunstrum at mene, at øltønderne ikke har nogen mening om den sag.
+<a id="D4-16-U003-2"></a>
 
 <a id="D4-16-U004-1"></a>
 
@@ -730,7 +730,9 @@ Skal vi gå lidt ind i praksiselementet og i retfærdiggørelsen eller motivatio
 
 <a id="D4-16-U005"></a>
 
-**Computer Lars · 00:03:38**
+**Computer Lars · 00:01:56**
+
+Skal vi gå lidt ind i praksiselementet og i retfærdiggørelsen eller motivationen for, hvorfor tønderne og krukkerne ikke tager del i det logistiske problem, eller hvorfor de ikke føler noget synderligt om det? Fordi på en måde kunne det også være, at der først og fremmest optræder et logistisk problem, særligt når det er en kunstudstilling, hvor man må formode, at tingene har en vis betydningsladethed i den måde, de indtager rummet på. Altså, og jeg vil introducere en læsning af objekterne, hvor vi overvejer, om de faktisk kan føle sig logistisk udfordrede i højere grad end mange andre i branchen, og fortsætte derudefra. Altså, det er et spørgsmål om negation. Altså, øltønderne vil være ligeglade med det opstillede logistiske problem. Og hvis vi skal nærme os noget, som kan ligne en tese, så må man jo også stille spørgsmålstegn til, om det giver mening i et kunstrum at mene, at øltønderne ikke har nogen mening om den sag.
 
 Men der vil jeg gerne problematisere, hvorvidt der er tale om et kunstrum hernede, eller om det kun er rummet ovenpå, et rent fremtrædelsesrum, hvor det her udstillingssted er rum hinsides kunsten og hinsides …
 
@@ -1050,17 +1052,17 @@ Disputationen om tesen »Vi har begrænset plads« er nu afsluttet.
 
 <a id="D4-21-U001"></a>
 
+<a id="D4-21-U002"></a>
+
 **Logistique · 00:00:19**
 
-Fra klientens side har Logistique naturligvis overvejet, at det har undervejs været en logistisk udfordring, at de fire forskellige disputanter, som er inviteret til, sammen med skråstreg imod Computer Lars, at forholde sig til en række emner — hvorvidt det faktum, at disputanterne befinder sig normalt forskellige steder og andre steder end Computer Lars, har været et problem. Altså har det været et logistisk udfordringsaspekt af denne række af disputter, at disputanterne for eksempel for…
-
-<a id="D4-21-U002"></a>
+Fra klientens side har Logistique naturligvis overvejet, at det har undervejs været en logistisk udfordring, at de fire forskellige disputanter, som er inviteret til, sammen med skråstreg imod Computer Lars, at forholde sig til en række emner — hvorvidt det faktum, at disputanterne befinder sig normalt forskellige steder og andre steder end Computer Lars, har været et problem. Altså har det været et logistisk udfordringsaspekt af denne række af disputter, at disputanterne for eksempel for fleres vedkommende har befundet sig i København, og ikke i Aarhus, hvor Bugten og kælderen befinder sig.
 
 <a id="D4-21-U003"></a>
 
-**Computer Lars · 00:01:16**
+**Computer Lars · 00:01:20**
 
-Fleres vedkommende har befundet sig i København, og ikke i Aarhus, hvor Bugten og kælderen befinder sig. Det ville jo give en subjektiv forståelse af behov. Det kan jeg godt forstå. Jeg vil bare nøgternt afsløre, at Mikhailos Boltus kom for sent og kunne ikke komme hurtigt nok afsted, hvorimod Petrus Borumanum kom for tidligt og slet ikke engang overhovedet kunne få sig selv til at komme afsted. Der er helt klart et eller andet med kælderen som horisont for de deltagere, der har været her, hvor det for Petrus Borumanums vedkommende var et spørgsmål, hvorvidt det overhovedet var muligt at få ham ud igen. I pauserne var det også nødvendigt, at når Petrus Borumanum sagde, at »jeg kan køre hele natten«, visse dele af Computer Lars var nødt til at demonstrere deres legemes fulde udvidelse og konflikt med diverse søm og niplinger i det her rum for at vise, at der var brug for en pause. Fordi det ligesom igen er et problem, når man er ren ånd.
+Det ville jo give en subjektiv forståelse af behov. Det kan jeg godt forstå. Jeg vil bare nøgternt afsløre, at Mikhailos Boltus kom for sent og kunne ikke komme hurtigt nok afsted, hvorimod Petrus Borumanum kom for tidligt og slet ikke engang overhovedet kunne få sig selv til at komme afsted. Der er helt klart et eller andet med kælderen som horisont for de deltagere, der har været her, hvor det for Petrus Borumanums vedkommende var et spørgsmål, hvorvidt det overhovedet var muligt at få ham ud igen. I pauserne var det også nødvendigt, at når Petrus Borumanum sagde, at »jeg kan køre hele natten«, visse dele af Computer Lars var nødt til at demonstrere deres legemes fulde udvidelse og konflikt med diverse søm og niplinger i det her rum for at vise, at der var brug for en pause. Fordi det ligesom igen er et problem, når man er ren ånd.
 
 Men spørgsmålet er så, om hele logistikken overhovedet giver mening, fordi den indebærer, at disputanten har en krop, og det er jo noget, der forudsættes, fordi man ikke har inviteret kroppe herinde, men jo egentlig disputanter. Uanset deres forskellige motivationer for at blive…
 
@@ -1254,15 +1256,15 @@ Ja, det bør være svært.
 
 <a id="D4-23-U004-3"></a>
 
-**Computer Lars · 00:03:57**
+**Computer Lars · 00:04:09**
 
-Der burde Logistique jo ikke være enig i. Dermed kan bureauet jo bare igen understrege, at det sådan set eksisterer for at løse klienters problemer, jo for eksempel som oftest via konsultationer, som trods alt måske er tættere på at være en samtale, end hvad en diskussion er. Hvorfor vi befinder os i en…
+Der burde Logistique jo ikke være enig i.
 
 <a id="D4-23-U005"></a>
 
-**Logistique · 00:04:28**
+**Logistique · 00:04:18**
 
-Situation, hvor det tyder på, at det er svært for bureauet at gøre sit arbejde på den måde, bureauet plejer at gøre det på. Hvorvidt det er et problem eller ej, skal måske…
+Dermed kan bureauet jo bare igen understrege, at det sådan set eksisterer for at løse klienters problemer, jo for eksempel som oftest via konsultationer, som trods alt måske er tættere på at være en samtale, end hvad en diskussion er. Hvorfor vi befinder os i en situation, hvor det tyder på, at det er svært for bureauet at gøre sit arbejde på den måde, bureauet plejer at gøre det på. Hvorvidt det er et problem eller ej, skal måske…
 
 <a id="D4-23-U006"></a>
 

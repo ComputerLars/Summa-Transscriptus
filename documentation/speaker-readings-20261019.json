@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-19",
+  "edition": "2026-10-20",
   "changes": [
     {
       "record": "D1-04",
@@ -392,6 +392,13 @@
       "before": "Interventio",
       "after": "Computer Lars",
       "basis": "Samtaleforløb og fortsættelse af den navngivne talers argument; Computer Lars betegner begge kunstnerstemmer."
+    },
+    {
+      "record": "D4-15",
+      "turn": "D4-15-U001",
+      "before": "Computer Lars",
+      "after": "Logistique",
+      "basis": "Bureauets egen fremsættelse: teori, praksis og brede veje. Computer Lars svarer først med “Der er mindst to gode ting at bide fat i her”."
     }
   ]
 }
