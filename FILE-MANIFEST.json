@@ -23,8 +23,8 @@
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1379070,
-      "sha256": "cd5f420a2278d2ae8d947a729af20fe1eb3c9e69c56605cfc8462262f9202253"
+      "bytes": 1377685,
+      "sha256": "f09e525c2434b5545d47adb707e7afe8a7d02ee8beb5d91b67e463a1a8f36896"
     },
     {
       "path": "archive/2023/README.md",
@@ -373,18 +373,18 @@
     },
     {
       "path": "collectanea-pdf.js",
-      "bytes": 8042,
-      "sha256": "b9986ba3b44e7ec8881b224a8d66718cef0ae0a5063ef0a07fd6ad6d08924fba"
+      "bytes": 8402,
+      "sha256": "954d372bcfe033f45392254f183a56455dd0facb2be2d6fcdd36965195347e4a"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.docx",
-      "bytes": 71808,
-      "sha256": "65534e88a233849511bed381e4063b4cc478488e4227632b8b071c632592da9a"
+      "bytes": 72179,
+      "sha256": "2efcb7fb549123b77d3254ab74b60b574142b506089a8e918ab4be379670e625"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.md",
-      "bytes": 103760,
-      "sha256": "51fa8f636fb6101990b0b042f257985cf2ec985164e2c62226f84e6ef075dc2a"
+      "bytes": 104292,
+      "sha256": "7bd277bf1e2bdc289b13064f8f2ea5d3876894ed86bd0a0c06e4aaeeca9db8bd"
     },
     {
       "path": "disputations/01-mikhailos-boltus/sources.json",
@@ -393,13 +393,13 @@
     },
     {
       "path": "disputations/02-maia-bacchus/reading.docx",
-      "bytes": 77638,
-      "sha256": "1d7a1e1d3c484e7dab640058ae38306aa8db021511dbf1fabac67c006647c819"
+      "bytes": 77534,
+      "sha256": "d41aa5a38c529078084f4802d4ad8f78180ebc78ea95441fa53056f9c6117d64"
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 124314,
-      "sha256": "4fcf887919b580c66481d590cec842471548a8f4ba5f9e0ca941fbdbe1d4a4a9"
+      "bytes": 124048,
+      "sha256": "e78eb042824a0d6235401a9032d6be6ef4be578db012131b7e3d49c976a94b99"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -408,13 +408,13 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
-      "bytes": 66491,
-      "sha256": "88d13d84bb3d00fa78d4ab0771ed56c2fafbac816a0a9cbe0e3bdfc126d24bfd"
+      "bytes": 66487,
+      "sha256": "dcb22f897373de1f840e9c52c553e2e0ae0f59e59109ae012f6b2ecfa0fcc291"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 89578,
-      "sha256": "3df9c9d6e67fb588cd02c100764d2b05bc4388a3fbf1b258f761327e4230de91"
+      "bytes": 89549,
+      "sha256": "f311213224af1d6f5206eecc6725c3534c001d6e95b72641e15b03e4bead7115"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -423,8 +423,8 @@
     },
     {
       "path": "disputations/04-logistique/reading.docx",
-      "bytes": 64813,
-      "sha256": "b25151cb112357a804347a65075ab48f139af251354ff81aa211e6edc7bd009d"
+      "bytes": 64835,
+      "sha256": "311c5bb5db059be222e149d618a5bc9e696fe4a68e7e19062a127229909ce40a"
     },
     {
       "path": "disputations/04-logistique/reading.md",
@@ -463,8 +463,8 @@
     },
     {
       "path": "documentation/paragraph-boundaries.json",
-      "bytes": 978783,
-      "sha256": "2e4fc5f3c345ce0abbfb59e4671b459beb311cdc020a800376adbb7a95794ecb"
+      "bytes": 991157,
+      "sha256": "bc427821947c2161e341683eadd0bdb37a9f1272fcb8dc6679e6c185fdad5d66"
     },
     {
       "path": "documentation/position-readings.json",
@@ -473,18 +473,18 @@
     },
     {
       "path": "documentation/reading-corrections.json",
-      "bytes": 266355,
-      "sha256": "77736fa420c275967ca35988977ba97f2e3d7aae419b9a08d2c1dc860305f9c9"
+      "bytes": 269579,
+      "sha256": "fb7c3329bb912cb22bc748725b98b6d16202149317333b8fa1c7960c2de618ad"
     },
     {
       "path": "documentation/reading-paragraphs.json",
-      "bytes": 11523,
-      "sha256": "0dadd4b5b95a91aa224f32d0f01c530a69bf27a3c5c3083869a15319acf78c41"
+      "bytes": 11586,
+      "sha256": "98eb9086f44a76b60d349b3eaf7fcbd958ad6a7d774701a0535e188ce1e15540"
     },
     {
       "path": "documentation/reading-prose.json",
-      "bytes": 13411,
-      "sha256": "0e78ae53b1b0740fd2cd8fa70be60b23108d159a8000406c254aa40125f9bd51"
+      "bytes": 14221,
+      "sha256": "a6df441e2a686fe9e52e2fc2ba96a324de1fceba912ec8df51edb5e5206ec961"
     },
     {
       "path": "documentation/recordings.json",
@@ -508,13 +508,13 @@
     },
     {
       "path": "documentation/speaker-boundaries.json",
-      "bytes": 2225,
-      "sha256": "096474ce264f01a6684949f535fefaca4ed907c5e7ab7050fa84f6906b1e0114"
+      "bytes": 2561,
+      "sha256": "2fdb911092f833b97a92af4ae896289a71a9dbfc5cc9caa6f845e5795aad3842"
     },
     {
       "path": "documentation/speaker-readings-20261019.json",
-      "bytes": 14786,
-      "sha256": "af53f9f15bfc942053c452fbefe2eec9b5322df7a82de5d5715eff6edf038be3"
+      "bytes": 18533,
+      "sha256": "c9500203a14265a92fa7e955e73bb39f13ad927c953f9de44915d896a76d0e98"
     },
     {
       "path": "documentation/supplements.md",
@@ -538,8 +538,8 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2288038,
-      "sha256": "823963b505f9ef006ad0664a435dc29682a04896d148227ef2f93554508893e2"
+      "bytes": 2287588,
+      "sha256": "bce85e63ae50f156b5f3be060a2489714f95d16417136e8b081e298d6b675611"
     },
     {
       "path": "hyperbook.css",
@@ -548,8 +548,8 @@
     },
     {
       "path": "hyperbook.js",
-      "bytes": 26991,
-      "sha256": "92632e56a4cccc606cb69135e31522ad1df7d27996decaba5142a287cb65594c"
+      "bytes": 27280,
+      "sha256": "612d4779a92a8180d27ac1b3f48e2ccf60f9b63c2b743d12a298dc1eaab7c000"
     },
     {
       "path": "index.html",
@@ -583,8 +583,8 @@
     },
     {
       "path": "scripts/build_reading_documents.py",
-      "bytes": 2382,
-      "sha256": "8094d16155afb1cb67f061f402ff772bf9e2e82d26a5a808119dffc61f2547fe"
+      "bytes": 2817,
+      "sha256": "e05b4d1c61497c27bb795ccd07077d61c4a51be5a7e29ae0341a139f6883fd6e"
     },
     {
       "path": "scripts/build_readme.py",
@@ -593,8 +593,8 @@
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 14829,
-      "sha256": "02e3a3d38d404d766019764eeb3a81151b4e7e32abff0543e3d327469c9a1497"
+      "bytes": 15193,
+      "sha256": "d880f1ce68973674e5e6d1f08f922672c466b9c11f44b935eaae76c82734953e"
     },
     {
       "path": "scripts/refresh_manifest.py",

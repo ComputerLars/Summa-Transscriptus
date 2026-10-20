@@ -399,6 +399,97 @@
       "before": "Computer Lars",
       "after": "Logistique",
       "basis": "Bureauets egen fremsættelse: teori, praksis og brede veje. Computer Lars svarer først med “Der er mindst to gode ting at bide fat i her”."
+    },
+    {
+      "record": "D2-01",
+      "turn": "D2-01-U024-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Kort bekræftelse mellem Maias formulering om ontologi og Computer Lars’ fortsættende svar om spiralen; den lokale stemmeklynge støtter Computer Lars."
+    },
+    {
+      "record": "D2-01",
+      "turn": "D2-01-U027",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Den særskilte stemmesammenligning af netop denne replik peger på Maia (0,8815; afstand til næste stemme 0,0551), mens den længere optagelsesdel indeholder flere stemmer. Replikken fortsætter hendes indvending om det dybe og det flade."
+    },
+    {
+      "record": "D2-02",
+      "turn": "D2-02-U036-3",
+      "before": "Interventio",
+      "after": "Praeses",
+      "basis": "Kort bekræftelse ved overgangen til Praeses’ afslutning; lokal stemmesammenligning peger på Praeses."
+    },
+    {
+      "record": "D2-03",
+      "turn": "D2-03-U028-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Svaret på Maias spørgsmål om, hvorvidt alle positionerne er indeholdt i Computer Lars. Lokal stemmesammenligning støtter Computer Lars."
+    },
+    {
+      "record": "D2-04",
+      "turn": "D2-04-U019-2",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Maias korte indskud mellem Computer Lars’ to anekdoter; den lokale stemmeklynge er tydeligt knyttet til Maia (0,9590)."
+    },
+    {
+      "record": "D2-04",
+      "turn": "D2-04-U030-2",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Maias korte tilføjelse til den foregående formulering om overfladespænding; stemmesammenligningen støtter Maia (0,9440)."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U011-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Påbegyndt svar, som fortsættes af den følgende Computer Lars-stemme med “Svært at sige”; lokal stemmeklynge støtter Computer Lars."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U025-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Bekræftelsen på Maias præciserende spørgsmål om pixel og bogstav efterfølges af Computer Lars’ udfoldelse af netop den sammenligning."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U012-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Påbegyndt svar på Maias spørgsmål om de kommunikationsformer, der ikke kommer med i permutationen; den lokale stemmeklynge støtter Computer Lars."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U019-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "En af de to Computer Lars-stemmer tager spørgsmålet om emancipatorik og kombinatorik op; den anden fuldfører med “Muligheden af andethed”. Stemmeklyngen støtter Computer Lars."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U020-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Kort bekræftende indskud mellem to dele af Maias argument om repræsentationelt demokrati."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U020-5",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Modsvaret om afskud og indskud fortsættes direkte i Computer Lars’ næste replik med “Mellem output og input”."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U005-2",
+      "before": "Interventio",
+      "after": "Petrus Borumanum",
+      "basis": "Kort indledning til Petrus’ antitese efter Computer Lars’ fremsættelse; den lokale stemmeklynge støtter Petrus."
     }
   ]
 }

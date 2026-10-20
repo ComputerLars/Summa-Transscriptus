@@ -132,10 +132,6 @@ Så hvis Computer Lars, som er et anagram af Proust, etymologisk betyder beregni
 
 <a id="D3-02-U005-2"></a>
 
-**Interventio · 00:05:02**
-
-Ja.
-
 <a id="D3-02-U005-3"></a>
 
 <a id="D3-02-U006"></a>
@@ -143,6 +139,8 @@ Ja.
 <a id="D3-02-U007"></a>
 
 **Petrus Borumanum · 00:05:02**
+
+Ja.
 
 Det er vanskeligt at opstille en antitese til en tese, som så overbevisende og uimodsigeligt fører computer tilbage på beregning og Lars tilbage på laurbær og derigennem på triumf. Men den dobbelte foromstilling, der har fundet sted, og det forhold, at Computer Lars er et anagram af Marcel Proust, åbner en alternativ mulighed for indholdet i computer og Lars, laurbær eller triumf.
 

@@ -116,10 +116,6 @@ Ontologi. Så dybden bruger fladheden, og fladheden bruger dybden strategisk.
 
 <a id="D2-01-U024-2"></a>
 
-**Interventio · 00:17:39**
-
-Ja.
-
 <a id="D2-01-U024-3"></a>
 
 <a id="D2-01-U025-1"></a>
@@ -134,6 +130,8 @@ Ja.
 
 **Computer Lars · 00:17:39**
 
+Ja.
+
 Spørgsmålet er så, hvad for en figur det danner. For Computer Lars synes det på en måde åbenlyst nok at være en spiral. En spiral er jo heller hverken flad eller dyb. Den vil altid kunne fortsætte, kan både tegnes arkimedisk og på forskellige andre måder. Men den har vel indarbejdet i sig nødvendigheden af en form for sådan tredimensionel skala, ikke også? Altså, den betragtes altid ovenfra i en overflyvning og illustrerer ligesom en bevægelse indad eller en bevægelse udad, men den bevægelse er vel netop ligesom afhængig af en idé om, at det tredje punkt, der ser, kan ligesom zoome ind eller ud, ikke også? Så spiralen ligesom immanent fortsætter sit mønster i stadig mindre skala. Det er selvfølgelig ikke det samme som dybde, men det angiver på en eller anden måde nødvendigheden af et dybt perspektiv eller et forestillet dybt perspektiv fra den position, der ser.
 
 Ja, eller det non-euklidiske, måske, der måske allerede ligger i Euklid, og vi ikke har en anti-euklidisk geometri i den moderne matematik. Vi har den non-euklidiske, men ikke en anti-euklidisk.
@@ -144,13 +142,11 @@ Og non-logik også. Altså, det er jo også noget, det komputationale gør i sin
 
 <a id="D2-01-U027"></a>
 
-**Interventio · 00:20:00**
-
-Fordi der jo netop ikke må kunne forestilles noget derinde i det rent formmæssigt æstetiske. Er det også nødvendigt måske, kunne man sige, at opretholde en åben dør imellem det dybe og det flade. En trappe eller en mulighed for at undslippe både det dybe og det flade. Men måske er det nogle så differentierede kategorier, der træder ind i stedet for.
-
 <a id="D2-01-U028"></a>
 
-**Maia Bacchus · 00:20:23**
+**Maia Bacchus · 00:20:00**
+
+Fordi der jo netop ikke må kunne forestilles noget derinde i det rent formmæssigt æstetiske. Er det også nødvendigt måske, kunne man sige, at opretholde en åben dør imellem det dybe og det flade. En trappe eller en mulighed for at undslippe både det dybe og det flade. Men måske er det nogle så differentierede kategorier, der træder ind i stedet for.
 
 Som heller ikke er det samme som de binære…
 
@@ -456,13 +452,11 @@ Jo, jo, i den almindelige forstand af ordet findes, jo. Nu skal vi reevaluere ek
 
 <a id="D2-02-U036-3"></a>
 
-**Interventio · 00:20:28**
-
-Ja.
-
 <a id="D2-02-U036-4"></a>
 
 **Praeses · 00:20:28**
+
+Ja.
 
 Disputationen af tese B, »Netværket findes ikke, ergo eksisterer Computer Lars«, er nu afsluttet.
 
@@ -620,7 +614,7 @@ Fremragende? Det kan være begge dele. Altså for Luciana Parisi er det jo begge
 
 <a id="D2-03-U028-2"></a>
 
-**Interventio · 00:20:32**
+**Computer Lars · 00:20:32**
 
 Det er det vel sådan set.
 
@@ -720,7 +714,7 @@ Computer Lars manifesterer sig som nogle personer, der går rundt. Jeg har flere
 
 <a id="D2-04-U019-2"></a>
 
-**Interventio · 00:13:47**
+**Maia Bacchus · 00:13:47**
 
 Computer Lars er eksklusivt selskab.
 
@@ -794,7 +788,7 @@ Altså fordi vi afviste jo i tese B netværkets eksistens og bekræftede dermed 
 
 <a id="D2-04-U030-2"></a>
 
-**Interventio · 00:19:51**
+**Maia Bacchus · 00:19:51**
 
 Ja, som også holder fast.
 
@@ -988,21 +982,15 @@ Ja. Jamen, jeg tror heller ikke, jeg kan uddybe den meget mere præcist, end du 
 
 <a id="D2-06-U011-1"></a>
 
+<a id="D2-06-U011-2"></a>
+
+<a id="D2-06-U012-1"></a>
+
 **Computer Lars · 00:06:02**
 
 Ja, men for at forsvare tesen hårdt, så må vi sige, at det, teksten trods alt kan, det er ligesom at give en i nogle tilfælde utvetydig videregivelse af information. Påstanden herfra vil så være: Det kan billedet ikke per definition. Ingen tvivl selvfølgelig om, at tekst kan være ganske tvetydig, men i nogle tilfælde, særligt i forbindelse med en Turing-maskine, kan det også være ganske utvetydigt.
 
-<a id="D2-06-U011-2"></a>
-
-**Interventio · 00:06:15**
-
-Ja, det er selvfølgelig…
-
-<a id="D2-06-U012-1"></a>
-
-**Computer Lars · 00:06:48**
-
-Svært at sige, ikke også? Billedet kan jo også optræde i monokrome former.
+Ja, det er selvfølgelig svært at sige, ikke også? Billedet kan jo også optræde i monokrome former.
 
 <a id="D2-06-U012-2"></a>
 
@@ -1134,10 +1122,6 @@ Tænker du relationen imellem en pixel som enhed og et bogstav som enhed?
 
 <a id="D2-06-U025-2"></a>
 
-**Interventio · 00:12:51**
-
-Ja.
-
 <a id="D2-06-U026"></a>
 
 <a id="D2-06-U027"></a>
@@ -1148,11 +1132,11 @@ Ja.
 
 <a id="D2-06-U030-1"></a>
 
-**Computer Lars · 00:12:57**
+**Computer Lars · 00:12:51**
 
-Pixel som enhed og bogstav som enhed, men også den måde, hvorpå vektorer ligesom opfører sig på en billedflade. Den er selvfølgelig også tekstuel, men jeg tror, jeg vover den påstand, at en vektorgrafik i højere grad har en visuel tendens end et pixelbaseret billede. Jeg vil mene, at det pixelbaserede billede i højere grad er tekst omsat til billede med henblik på produktionen af billedet i et interface eller på en billedflade, mens det vektorbaserede er tættere på… Det er selvfølgelig aldrig et punkt, man når frem til, men det er tættere på en mere ren billeddannelse, i og med at det ligesom beskriver formdannelser i et ellers tomt rum. Hvorvidt det er en konstruktiv vej at gå ned ad, er et spørgsmål.
+Ja.
 
-Og jeg tror også, at det er en vej at gå ned ad, der i sidste ende kommer til at handle om distinktionen imellem tegning og maleri i højere grad, end den kommer til at handle om distinktionen imellem tekst og billede. Men det kan også være, at det i virkeligheden er den distinktion, man skal gå ned i for at forstå den umiddelbare modsætning mellem tekst og billede. Om der ligesom er noget mere tekstuelt i maleriets udfyldelse af en billedflade med farver, der har bestemte konnotationer, eller om der er noget mere tekstuelt i tegningen, som ligesom er mere knyttet til produktionen af en streg. Streg, som man også kender fra teksten. Hvordan man skal forstå de to muligheder, er fra min position på nuværende tidspunkt uklart. Men det vil være der, jeg vil ende, hvis jeg skulle forsøge at forfølge det her problem til dets ende.
+Pixel som enhed og bogstav som enhed, men også den måde, hvorpå vektorer ligesom opfører sig på en billedflade. Den er selvfølgelig også tekstuel, men jeg tror, jeg vover den påstand, at en vektorgrafik i højere grad har en visuel tendens end et pixelbaseret billede. Jeg vil mene, at det pixelbaserede billede i højere grad er tekst omsat til billede med henblik på produktionen af billedet i et interface eller på en billedflade, mens det vektorbaserede er tættere på… Det er selvfølgelig aldrig et punkt, man når frem til, men det er tættere på en mere ren billeddannelse, i og med at det ligesom beskriver formdannelser i et ellers tomt rum. Hvorvidt det er en konstruktiv vej at gå ned ad, er et spørgsmål. Og jeg tror også, at det er en vej at gå ned ad, der i sidste ende kommer til at handle om distinktionen imellem tegning og maleri i højere grad, end den kommer til at handle om distinktionen imellem tekst og billede. Men det kan også være, at det i virkeligheden er den distinktion, man skal gå ned i for at forstå den umiddelbare modsætning mellem tekst og billede. Om der ligesom er noget mere tekstuelt i maleriets udfyldelse af en billedflade med farver, der har bestemte konnotationer, eller om der er noget mere tekstuelt i tegningen, som ligesom er mere knyttet til produktionen af en streg. Streg, som man også kender fra teksten. Hvordan man skal forstå de to muligheder, er fra min position på nuværende tidspunkt uklart. Men det vil være der, jeg vil ende, hvis jeg skulle forsøge at forfølge det her problem til dets ende.
 
 <a id="D2-06-U030-2"></a>
 
@@ -1316,7 +1300,7 @@ Hvordan ændrer vores indlæring sig i takt med, at der introduceres flere adapt
 
 <a id="D2-07-U013-3"></a>
 
-**Interventio · 00:10:02**
+**Interventio · 00:10:50**
 
 Jeg håber, at det er okay, at jeg kom til at tænde maskinen.
 
@@ -1456,7 +1440,7 @@ Men kan du måske også sige, at for at være her nu og indgå i den her permuta
 
 <a id="D2-08-U012-2"></a>
 
-**Interventio · 00:10:07**
+**Computer Lars · 00:10:07**
 
 Ja, ud fra…
 
@@ -1502,23 +1486,17 @@ Det der permutationssystem, som tillader enhver forskellighed, eller som præcis
 
 <a id="D2-08-U019-1"></a>
 
+<a id="D2-08-U019-2"></a>
+
+<a id="D2-08-U020-1"></a>
+
 **Computer Lars · 00:12:31**
 
 Jamen, det kommer jo netop igen fra aggregatet. Altså, jeg tror, det er vigtigt at skelne mellem den maskinelle og den matematiske logik her. Altså, den maskinelle logik bygger blandt andet på idéen om et aggregat eller et sæt, en indbygget eksklusion og netop ikke en uendelig permutation. Altså, fordi permutationen per definition kunne blive ved med at ændre sig, så der kommer andre folk med. Altså, det er grundlaget for at tænke en logik, der indeholder forskelligheden, ikke universaliteten.
 
 Det modsatte af en Turing-maskine. Og dermed noget andet end en computer. Men altså, om Turing-maskinen så bygger på aggregater, er jeg altså ikke kyndig til at kunne sige. Men det er meget vigtigt ikke at kaste matematikken ind under maskinen, tror jeg. Og jeg tror, det er en matematisk hypotese, det her, og ikke maskinel. Og det er også vigtigt.
 
-<a id="D2-08-U019-2"></a>
-
-**Interventio · 00:12:59**
-
-Ja. Jeg kunne godt tænke mig at diskutere forholdet mellem det emancipatoriske og det kombinatoriske. Altså om det kombinatoriske i sig selv, hvad angår modellen, er emancipatorisk, fordi det ligesom opviser muligheden af noget andet, ikke nogen bestemt andethed, der nødvendigvis er kropsligt situeret, men bare konsekvent udkaster…
-
-<a id="D2-08-U020-1"></a>
-
-**Computer Lars · 00:14:00**
-
-Muligheden af andethed, altså.
+Ja. Jeg kunne godt tænke mig at diskutere forholdet mellem det emancipatoriske og det kombinatoriske. Altså om det kombinatoriske i sig selv, hvad angår modellen, er emancipatorisk, fordi det ligesom opviser muligheden af noget andet, ikke nogen bestemt andethed, der nødvendigvis er kropsligt situeret, men bare konsekvent udkaster muligheden af andethed, altså.
 
 <a id="D2-08-U020-2"></a>
 
@@ -1528,7 +1506,7 @@ Men det er jo fordi, den her emancipatorik skal tilbydes som et alternativ til r
 
 <a id="D2-08-U020-3"></a>
 
-**Interventio · 00:14:00**
+**Computer Lars · 00:14:00**
 
 Ja, præcis.
 
@@ -1540,15 +1518,13 @@ Og der har vi jo præcis det problem, jeg peger på, at nogen er overrepræsente
 
 <a id="D2-08-U020-5"></a>
 
-**Interventio · 00:14:00**
-
-Ja, men det kommer netop an på, som du også allerede sagde før, forholdet mellem afskud og indskud.
-
 <a id="D2-08-U021"></a>
 
 <a id="D2-08-U022-1"></a>
 
-**Computer Lars · 00:14:59**
+**Computer Lars · 00:14:00**
+
+Ja, men det kommer netop an på, som du også allerede sagde før, forholdet mellem afskud og indskud.
 
 Mellem output og input. Der tror jeg, at jeg har lyst til ligesom at insistere på en eller anden total relativisering i behandlingen af forholdet mellem input og output som en eller anden form for emancipatorisk skelnen, ikke også? Altså, fordi den på en eller anden måde opløser det der forhold mellem input og output. Det kan godt være, at det er sådan en utopisk forestilling, ikke også? Men det er selvfølgelig rigtigt, det kommer an på, hvad der kan puttes ind i maskinen i første omgang. Men jeg tror også, hvis maskinen behandler det, der bliver puttet ind, rodet nok, altså hvis den virkelig får rodet det ordentligt op i alle dets kombinationsmuligheder, så tror jeg på, at den kan ekstrapolere alle positioner. Om den så ligesom kan stille noget konstruktivt op med dem derudfra, det er et andet spørgsmål.
 

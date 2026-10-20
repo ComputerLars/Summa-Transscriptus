@@ -170,7 +170,7 @@ def build():
     text+=['**'+t['speaker']+' · '+clock+'**',*t['blocks']]
   (R/g['path']/'reading.md').write_text('\n\n'.join(text)+'\n')
  additional_refs={
- 'D1-01':[{'id':'oratio-latina','citation':'Oratio latina · efter Hans-Jørgen Schanz (1973) · rekonstrueret forlæg.','url':'sources/under-bugten/opening-latin.md'}],
+ 'D1-01':[{'id':'oratio-latina','citation':'Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.','url':'sources/under-bugten/opening-latin.md'}],
  'D2-01':[{'id':'anagrams','citation':'Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.','url':'manuscript.html#p40'}],
  'D3-02':[{'id':'praepositus','citation':'Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.','url':'https://www.dictionnaire-academie.fr/article/A9P4273'},{'id':'martius','citation':'Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.','url':'https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars'}],
  'D2-04':[{'id':'bratton-stack','citation':'Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.','url':'https://mitpress.mit.edu/9780262029575/the-stack/'},{'id':'wynter-ceremony','citation':'Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.','url':'https://www.jstor.org/stable/302808'},{'id':'kantorowicz','citation':'Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.','url':'https://www.jstor.org/stable/j.ctvcszz1c'}],
@@ -189,7 +189,11 @@ def build():
     for refid in entry.get('references',[]):
      ref=next((x for x in h['collation']['references']if x['id']==refid),None)
      if ref and refid!='old-art' and ref not in refs:refs.append({k:ref[k]for k in ['id','citation','url']})
-  h['record_references'][r['id']]=refs+additional_refs.get(r['id'],[])
+  additions=additional_refs.get(r['id'],[])
+  if r['id']=='D2-04':refs=[ref for ref in refs if ref['id']!='hui-machine']
+  if r['id']=='D2-07':refs=[ref for ref in refs if ref['id']!='peirce']
+  addition_ids={ref['id']for ref in additions}
+  h['record_references'][r['id']]=[ref for ref in refs if ref['id']not in addition_ids]+additions
  h['edition']='2026-10-20'
  h['reading_policy']['speaker']='Navnene følger opførelsen. Begge kunstnerstemmer hedder Computer Lars. Sammenhængende tale fra samme offentlige position har én talerbetegnelse; lydsteder og kildeankre bevares.'
  h['reading_policy']['paragraphs']='Afsnit følger argumentet. Optagelsesbrud inde i samme talers sætning sammenføjes; afbrudte sætninger markeres med udeladelsesprikker. Optagelses- og genkendelsesenhederne bevares som kildeankre.'

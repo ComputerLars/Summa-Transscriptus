@@ -21,12 +21,18 @@ for g in h['groups']:
   for t in r['utterances']:
    sec=int(t['start']);clock=f'{sec//3600:02}:{sec%3600//60:02}:{sec%60:02}'
    p=doc.add_paragraph();p.paragraph_format.keep_with_next=True;p.paragraph_format.space_before=Pt(12);run=p.add_run(t['speaker']+' · '+clock);run.font.size=Pt(9);run.italic=True
-   for b in t['blocks']:doc.add_paragraph(b)
+   for b in t['blocks']:
+    doc.add_paragraph(b)
+    if rid=='D1-01' and b.startswith('Incipere reconstructionem'):
+     p=doc.add_paragraph('Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.')
+     p.paragraph_format.space_after=Pt(12)
+     for run in p.runs:run.font.size=Pt(8.5);run.italic=True
   history=h['collation']['records'][rid].get('historical')
   if history:
    doc.add_paragraph('Maskinsyntese · 2023','Heading 2');doc.add_paragraph(history['synthesis'])
   elif rid=='D4-21':
    doc.add_paragraph('Maskinsyntese · 2023','Heading 2');doc.add_paragraph('Ingen maskinsyntese er bevaret for Metatese 21.')
+  doc.paragraphs[-1].paragraph_format.keep_with_next=True
   p=doc.add_paragraph('Læseudgave og lydsteder: https://computerlars.github.io/Summa-Transscriptus/#disput/'+rid);p.paragraph_format.space_before=Pt(0);p.paragraph_format.space_after=Pt(6)
   for run in p.runs:run.font.size=Pt(8.5)
  doc.save(path)
