@@ -1066,15 +1066,27 @@ Okay, klart. Okay. Og kunst omfatter så også skriftkunst?
 
 <a id="D2-06-U019-2"></a>
 
+**Computer Lars · 00:10:06**
+
+Ja.
+
 <a id="D2-06-U019-3"></a>
+
+**Maia Bacchus · 00:10:07**
+
+Men kun for så vidt, at det er en billedproducerende skriftkunst.
 
 <a id="D2-06-U019-4"></a>
 
+**Computer Lars · 00:10:13**
+
+Det tror jeg ikke.
+
 <a id="D2-06-U019-5"></a>
 
-**Interventio · 00:10:02**
+**Maia Bacchus · 00:10:14**
 
-Ja. Men kun for så vidt, at det er en billedproducerende skriftkunst? Det tror jeg ikke. Nej, okay. Ikke i den her. Altså, vi er jo i retningen. Eller drejningen. Der er forskel på teori og kunst.
+Nej, okay.
 
 <a id="D2-06-U020"></a>
 
@@ -1096,9 +1108,11 @@ Ja. Men kun for så vidt, at det er en billedproducerende skriftkunst? Det tror 
 
 <a id="D2-06-U024"></a>
 
-**Computer Lars · 00:10:30**
+**Computer Lars · 00:10:18**
 
-Ligesom der er forskel på tekst og billede. Men ikke den samme forskel. Knytningen mellem tekst og teori er en historisk analyse. Den behøver ikke være eksakt. Det er en stor del af teoriens frembrud efter… Filosofien blandt andet ligger sammen med et nyt tekstbegreb. Så det vil altså sige, at den her hypotese stiller en form for valg af Computer Larset.
+Altså hieroglyffer, i retningen eller drejningen, i forskellen på teori og kunst.
+
+Ligesom der er forskel på tekst og billede. Men ikke den samme forskel. Knytningen mellem tekst og teori er en historisk analyse. Den behøver ikke være eksakt. Det er en stor del af teoriens frembrud efter… Filosofien blandt andet ligger sammen med et nyt tekstbegreb. Så det vil altså sige, at den her hypotese stiller en form for valg af Computer Lars.
 
 Fordi der er jo både tekst og billede i begge. Om det er det ene eller det andet og består af det på en eller anden måde, sådan de mere skolastiske filtreringer. Men der er jo en vægtning i forhold til tekst og billede. Det er jo ikke det samme. Det er det heller ikke i computeren. Det skelner også mellem ChatGPT og DALL-E 3.
 
@@ -1160,21 +1174,15 @@ Spørgsmålet er så, hvorfor det alligevel virker, som om den tænker lidt ande
 
 <a id="D2-06-U035-1"></a>
 
+<a id="D2-06-U035-2"></a>
+
+<a id="D2-06-U035-3"></a>
+
 **Maia Bacchus · 00:17:41**
 
 Og man skal selvfølgelig igen passe på med receptionsæstetikken. Men jeg tror bare, meget af det, der sker i vores møde med computeren, de der betydningspotentialer er menneskelige, for mig at se i hvert fald, mere end de er indeholdt i maskinens egen positionsmåde. Også i dens mere eksakte problemløsende operationer.
 
-<a id="D2-06-U035-2"></a>
-
-**Computer Lars · 00:18:07**
-
-Ja, det kan godt være, at vi er uenige om det.
-
-<a id="D2-06-U035-3"></a>
-
-**Maia Bacchus · 00:18:07**
-
-Ja, vi kan godt være uenige.
+Men det kan godt være, at vi er uenige om det.
 
 <a id="D2-06-U035-4"></a>
 
@@ -1186,27 +1194,29 @@ Ja, vi kan godt være uenige.
 
 <a id="D2-06-U035-8"></a>
 
-**Interventio · 00:18:07**
+**Computer Lars · 00:18:17**
 
-Hypotese, antitese. Ja. Derfor er vi uenige. Nej, men jeg mener også, at det er forskellige positioner at indtage. Og så derfor at sige, der er en antitese, så er der en hypotese. Det var mere… Så vil du mene, at begge udsagn er falske?
+Ja, det er jo formen med hypotese og antitese.
+
+Nej, men jeg mener også, at det er forskellige positioner at indtage. Og så derfor at sige, der er en antitese, så er der en hypotese. Det var mere… Så vil du mene, at begge udsagn er falske?
 
 <a id="D2-06-U035-9"></a>
 
 <a id="D2-06-U036-1"></a>
 
-**Maia Bacchus · 00:18:07**
+**Maia Bacchus · 00:19:02**
 
 Jeg tror, jeg ville formulere det som: Computer Lars er både en tekst og et billede. Det ville være min sådan logiske antitese til, at Computer Lars er…
 
 <a id="D2-06-U036-2"></a>
 
-**Computer Lars · 00:18:13**
+**Computer Lars · 00:19:20**
 
 Og ikke, at Computer Lars er en vektor, eksempelvis?
 
 <a id="D2-06-U036-3"></a>
 
-**Maia Bacchus · 00:18:13**
+**Maia Bacchus · 00:19:24**
 
 Computer Lars er en vektor. Jeg tror ikke, jeg er helt sikker på, at jeg er med på vektoranalogien. Kan I sige lidt mere om det?
 
@@ -1214,13 +1224,13 @@ Computer Lars er en vektor. Jeg tror ikke, jeg er helt sikker på, at jeg er med
 
 <a id="D2-06-U037"></a>
 
-**Computer Lars · 00:18:13**
+**Computer Lars · 00:19:41**
 
 Altså, man giver en sprogmodel et stykke tekst, så omdanner den det til vektorer, som omdannes til tekst. Eller hvis man giver den…
 
 <a id="D2-06-U038"></a>
 
-**Praeses · 00:20:06**
+**Praeses · 00:20:04**
 
 Disputationen af tesen. Kun ét af følgende udsagn er sandt. 1. Computer Lars er et billede, som består af tekst. 2. Computer Lars er en tekst, som består af billeder.
 
@@ -1249,6 +1259,22 @@ Disputationen af tesen. Kun ét af følgende udsagn er sandt. 1. Computer Lars e
 <a id="D2-07-U011"></a>
 
 <a id="D2-07-U012-1"></a>
+
+<a id="D2-07-U012-2"></a>
+
+<a id="D2-07-U012-3"></a>
+
+<a id="D2-07-U012-4"></a>
+
+<a id="D2-07-U012-5"></a>
+
+<a id="D2-07-U012-6"></a>
+
+<a id="D2-07-U013-1"></a>
+
+<a id="D2-07-U013-2"></a>
+
+<a id="D2-07-U013-3"></a>
 
 **Maia Bacchus · 00:00:08**
 
@@ -1284,24 +1310,6 @@ Derfor er denne her operationalisering af de fysiske, mekaniske opstillinger ogs
 
 Hvordan ændrer vores indlæring sig i takt med, at der introduceres flere adaptive læringssystemer, interaktive tavler, digitale og blended undervisningsformater og quiztests? Hvordan tænker vi med og gennem søgemaskinens logikker? Hvordan skriver og erkender vi under indflydelse af tekstgenereringsapps og Pomodoro-teknikker? Når Organ for de Autonome Videnskaber opfinder og formgiver denne her samtalemedieringsteknik efter middelalderligt forbillede, er det måske netop for at afbryde og forstyrre de allerede eksisterende teknikker på markedet, så at sige, at opsætte og afprøve noget, der ikke allerede er forbundet eller på forhånd er viklet ind i kommercielle acceleratoriske logikker. På den måde, og det bliver mit sidste argument, ligner den operationaliserede tredjehed, tænkemaskinen eller den her middelalderlige samtalemedieringsteknik, det, Serres kalder en parasitisk tredjehed. Parasitismen, som Serres beskriver det, er ofte et forstyrrende element, der trænger ind i et etableret system eller en eksisterende orden og forstyrrer det. I medieringen refererer dette til, at det tredje, mediet eller det, der medierer, kan fungere som en forstyrrende kraft i kommunikationen eller i forholdet mellem tegn og objekter og fortolkning. Parasitten ifølge Serres kan tvinge det etablerede system til at tilpasse sig eller reagere på sin tilstedeværelse og til at føre til udvikling. Computer Lars er en tiltrængt klassisk tredje position i et stivnet system. Computer Lars operationaliserer tredjeformen. Tredjeformen operationaliseret. Computer Lars.
 
-<a id="D2-07-U012-2"></a>
-
-<a id="D2-07-U012-3"></a>
-
-<a id="D2-07-U012-4"></a>
-
-<a id="D2-07-U012-5"></a>
-
-<a id="D2-07-U012-6"></a>
-
-<a id="D2-07-U013-1"></a>
-
-<a id="D2-07-U013-2"></a>
-
-<a id="D2-07-U013-3"></a>
-
-**Interventio · 00:10:50**
-
 Jeg håber, at det er okay, at jeg kom til at tænde maskinen.
 
 <a id="D2-07-U013-4"></a>
@@ -1310,11 +1318,11 @@ Jeg håber, at det er okay, at jeg kom til at tænde maskinen.
 
 <a id="D2-07-U015"></a>
 
-**Computer Lars · 00:10:45**
+**Computer Lars · 00:11:24**
 
-Hvis man skulle skabe en antitese til den meget flatterende tese, så skulle man nok angribe spørgsmålet om, hvad tredjehed som sådan er. Inspireret af at have været til fernisering i Holstebro i lørdags, så ville det angreb kunne tage form af, hvad et forestillet angreb på Jørgen Michaelsen ville være. Det ville være et forestillet angreb på hans trialektik-take fra Silkeborg, hvor drive, drift, comfort-triaden får lov at indtage position som en triadisk struktur, hvor man med udgangspunkt i argumentationen i farvelærens triader med tre radikale modsætninger, tre på hver deres måde radikale modsætninger fra hinanden i primærfarverne, ville kunne argumentere for, i et argument imod Aristoteles, at det triadiske ikke handler om indbringelsen af et tredje punkt, der medierer imellem to radikale positioner, som for eksempel drive, drift, comfort.
+Hvis man skulle skabe en antitese til den meget flatterende tese, så skulle man nok angribe spørgsmålet om, hvad tredjehed som sådan er. Inspireret af at have været til fernisering i Holstebro i lørdags, så ville det angreb kunne tage form af, hvad et forestillet angreb på Jørgen Michaelsen ville være. Det ville være et forestillet angreb på hans triolektik-take fra Silkeborg, hvor dry, wet, comfort-triaden får lov at indtage position som en triadisk struktur, hvor man med udgangspunkt i argumentationen i farvelærens triader med tre radikale modsætninger, tre på hver deres måde radikale modsætninger fra hinanden i primærfarverne, ville kunne argumentere for, i et argument imod Aristoteles, at det triadiske ikke handler om indbringelsen af et tredje punkt, der medierer imellem to radikale positioner, som for eksempel dry, wet, comfort.
 
-Så en mulig vej for en antitese at gå for Computer Lars her ville være at sige, at tredjeheden er noget radikalt tredje og ikke kun er en medierende eller situerende faktor. Hvordan det så konkret fungerer? Der må man ind i en anden historiografi over trialektikerne for at skille dem ad, ikke også? Det er klart, at fredsbevægelsen som en mediator imellem øst-vest-fraktionen hurtigt kommer til per definition at indtage den her medierende funktion, om end man ville mene, at fredens princip er noget, der rækker langt hinsides to parter, ikke også? Men det samme problem plager jo også teologien langt tilbage, ikke også? Om Helligånden er noget andet end bare det, der medierer imellem Faderen og Sønnen, om den er noget radikalt fremmed, eller om den bare er garanten for funktionen mellem det første og det andet, ikke også?
+Så en mulig vej for en antitese at gå for Computer Lars her ville være at sige, at tredjeheden er noget radikalt tredje og ikke kun er en medierende eller situerende faktor. Hvordan det så konkret fungerer? Der må man ind i en anden historiografi over triolektikerne for at skille dem ad, ikke også? Det er klart, at fredsbevægelsen som en mediator imellem øst-vest-fraktionen hurtigt kommer til per definition at indtage den her medierende funktion, om end man ville mene, at fredens princip er noget, der rækker langt hinsides to parter, ikke også? Men det samme problem plager jo også teologien langt tilbage, ikke også? Om Helligånden er noget andet end bare det, der medierer imellem Faderen og Sønnen, om den er noget radikalt fremmed, eller om den bare er garanten for funktionen mellem det første og det andet, ikke også?
 
 <a id="D2-07-U016-1"></a>
 
@@ -1350,9 +1358,9 @@ Ja. Ja, for eksempel. Og jeg kan egentlig godt forstå, hvad du mener, fordi nå
 
 Jo, men den er også stadigvæk i fare for at kollapse ned i en dikotomi igen, ikke også? Fordi så er vi jo igen de to talende hoveder, der er den ene part over for det andet talende hoved, ikke også? Der tænker jeg stadigvæk, at der er et dikotomisk regime, der i udgrænsningen af den tredjehed får lov til at kode på et meget grundlæggende niveau, ikke også?
 
-Hvad skal der så til for at producere en radikal tredjehed, i sig selv stående? Det skulle man da kigge på i en antitese, der virkelig gik bag om den der Jørgen Michaelsen-Asger Jornske trialektik og gør ligesom Jan Bäcklund og går tilbage til Ramon Llulls Ars Magna og tænker, om Computer Lars i virkeligheden er ude på at konvertere tredjeheden. Fordi noget af det radikale ved Llulls omformning af treenigheden til den store kunst, til et system, hvor, hvis man roterer de vigtigste begreber indenfor, der kan beskrive Guds skønhed, godhed osv. og relaterer dem til hinanden, så vil du på et eller andet tidspunkt kunne se Guds ansigt. Og der er det eneste, som er substantielt passende, treenigheden.
+Hvad skal der så til for at producere en radikal tredjehed, i sig selv stående? Det skulle man da kigge på i en antitese, der virkelig gik bag om den der Jørgen Michaelsen-Asger Jornske triolektik og gør ligesom Jan Bäcklund og går tilbage til Ramon Llulls Ars Magna og tænker, om Computer Lars i virkeligheden er ude på at konvertere tredjeheden. Fordi noget af det radikale ved Llulls omformning af treenigheden til den store kunst, til et system, hvor, hvis man roterer de vigtigste begreber indenfor, der kan beskrive Guds skønhed, godhed osv. og relaterer dem til hinanden, så vil du på et eller andet tidspunkt kunne se Guds ansigt. Og der er det eneste, som er substantielt passende, treenigheden.
 
-Men det er også det ved treenighedens radikale sandhedsværdi, at Llull tænker den som et værktøj, som han kan drage ud i verden med og konvertere muslimer og jøder og alle andre religioner til den kristne. Llull bor på Mallorca, et muslimsk territorie, hvor Spanien er besat af osmannerne, og man kan ikke tænke det inden for samme vest-øst-dikotomi og imperiale, koloniale ideer, vi har i dag. Llull er mærkelig, men han har den radikale idé om at bruge en trialektisk maskine som et konverteringsværktøj til overbevisning om noget.
+Men det er også det ved treenighedens radikale sandhedsværdi, at Llull tænker den som et værktøj, som han kan drage ud i verden med og konvertere muslimer og jøder og alle andre religioner til den kristne. Llull bor på Mallorca, et muslimsk territorie, hvor Spanien er besat af osmannerne, og man kan ikke tænke det inden for samme vest-øst-dikotomi og imperiale, koloniale ideer, vi har i dag. Llull er mærkelig, men han har den radikale idé om at bruge en triolektisk maskine som et konverteringsværktøj til overbevisning om noget.
 
 Og der er også den der i Computer Lars-projektet, at der hele tiden er en meget, meget insisterende trang til, at der er brug for en radikal konvertering, omvending til det fremmede, til en anden tænkning, en anden væremåde, en anden eksistens. Det kunne måske tilfredsstille nogen. Det er også nemt bare at gå begge veje. Jeg vil hellere gå hjørne mod hjørne.
 
@@ -1440,39 +1448,23 @@ Men kan du måske også sige, at for at være her nu og indgå i den her permuta
 
 <a id="D2-08-U012-2"></a>
 
-**Computer Lars · 00:10:07**
-
-Ja, ud fra…
-
 <a id="D2-08-U013-1"></a>
 
 <a id="D2-08-U013-2"></a>
-
-**Interventio · 00:10:18**
-
-Filtreringsorganer, eksempelvis trappen. Ja. Som ikke…
 
 <a id="D2-08-U014-1"></a>
 
 <a id="D2-08-U014-2"></a>
 
-**Computer Lars · 00:10:20**
-
-Kunne … Min egen mor har vi ekskluderet med det her setup. Ja. Permutation måske. Hvad vil det sige? Altså hvis…
-
 <a id="D2-08-U015-1"></a>
 
 <a id="D2-08-U015-2"></a>
 
-**Interventio · 00:10:29**
-
-Såfremt du gerne vil være med i permutationen og har truffet valget. Altså hvis permutationen aktivt ville have fravalgt, at nogen kunne komme derind. Jo. Fordi…
-
 <a id="D2-08-U016"></a>
 
-**Computer Lars · 00:10:38**
+**Computer Lars · 00:10:07**
 
-Alle tænkelige muligheder ville være tilvejebragt. Så altså, hvis man sad med Luhmanns autopoietiske system, så ville vi godt have vidst, at Benjamins mor ikke kunne komme med, og havde valgt at gøre det alligevel. Men nemlig…
+Ja, ud fra filtreringsorganer, eksempelvis trappen. Ja. Som ikke kunne … Min egen mor har vi ekskluderet med det her setup. Ja. Permutation måske. Hvad vil det sige? Altså hvis såfremt du gerne vil være med i permutationen og har truffet valget. Altså hvis permutationen aktivt ville have fravalgt, at nogen kunne komme derind. Jo. Fordi alle tænkelige muligheder ville være tilvejebragt. Så altså, hvis man sad med Luhmanns autopoietiske system, så ville vi godt have vidst, at Benjamins mor ikke kunne komme med, og havde valgt at gøre det alligevel. Men nemlig…
 
 <a id="D2-08-U017"></a>
 

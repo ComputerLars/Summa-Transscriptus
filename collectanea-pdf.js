@@ -65,6 +65,7 @@ async function makePDF(items,title){
     else if(x.id==='D4-21'){heading('Maskinsyntese · 2023',10.5);para('Ingen maskinsyntese er bevaret for Metatese 21.')}
    }else if(x.kind==='frame'){
     for(const n of (x.id==='ordo'?[72,74,76,77,78]:Array.from({length:66},(_,i)=>i+4))){const p=manuscriptParagraph(n),f=H.figures.find(f=>f.paragraph===n);if(p?.text.trim())para(p.text);if(f)await image(f)}
+    if(x.id==='ordo'&&H.performance?.closing_signal)para(H.performance.closing_signal,8.2,14);
    }else{
     if(x.speaker)para(x.speaker+' · '+clock(x.start),7.4,8,records.get(x.record)?.audio+'#t='+Math.floor(x.start));for(const block of x.text.split(/\n\s*\n/)){para(block);if(block.startsWith('Incipere reconstructionem'))para('Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz (1973).',7.2,8,abs('sources/under-bugten/opening-latin.md'))}
    }

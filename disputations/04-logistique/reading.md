@@ -262,17 +262,13 @@ Disputationen af tesen »Man kan ikke opbevare fysisk materiale for evigt« er n
 
 <a id="D4-07-U002"></a>
 
-**Logistique · 00:00:35**
-
-Men vi kan da godt springe til den. Okay. Nå, det er bare det der med … Jo, lad os tage den nu. Jeg skal nok bare fortælle nu. Er I sikre på, at I ikke vil have den, som den er forberedt? Er det ikke bedre? Fordi der er, uden at afsløre for meget, en grund til, at der ikke … Altså, det skulle gerne være … Jeg kan også bare lige sige det selv. Skal jeg gøre det? Man kan ikke udvide noget uden at formindske noget andet, er min tese. Vi er jo stadig i de her ret generelle logistiske problemer. Det er ligesom både i luften, og vi prøver at nærme os potentielt et eller andet relevant. Man kan ikke udvide noget uden at formindske noget andet. Altså, ønsker man for eksempel at udvide nogle mennesker, mobilisere til en revolution eller deltage i en organisering, så må man tilsvarende forvente, at en gruppe mennesker et andet sted bliver mindre. Jo flere mennesker der er i gaden, jo færre mennesker er der i køerne. Jo flere mennesker der er i udsendte trupper, jo færre mennesker er der i civilet. Er det noget…
-
 <a id="D4-07-U003"></a>
 
 <a id="D4-07-U004-1"></a>
 
-**Praeses · 00:02:36**
+**Logistique · 00:00:35**
 
-Som Computer Lars føler er relevant at tale om i forhold til nogle af de øvrige emner, Computer Lars har diskuteret?
+Men vi kan da godt springe til den. Okay. Nå, det er bare det der med … Jo, lad os tage den nu. Jeg skal nok bare fortælle nu. Er I sikre på, at I ikke vil have den, som den er forberedt? Er det ikke bedre? Fordi der er, uden at afsløre for meget, en grund til, at der ikke … Altså, det skulle gerne være … Jeg kan også bare lige sige det selv. Skal jeg gøre det? Man kan ikke udvide noget uden at formindske noget andet, er min tese. Vi er jo stadig i de her ret generelle logistiske problemer. Det er ligesom både i luften, og vi prøver at nærme os potentielt et eller andet relevant. Man kan ikke udvide noget uden at formindske noget andet. Altså, ønsker man for eksempel at udvide nogle mennesker, mobilisere til en revolution eller deltage i en organisering, så må man tilsvarende forvente, at en gruppe mennesker et andet sted bliver mindre. Jo flere mennesker der er i gaden, jo færre mennesker er der i køerne. Jo flere mennesker der er i udsendte trupper, jo færre mennesker er der i civilet. Er det noget, som Computer Lars føler er relevant at tale om i forhold til nogle af de øvrige emner, Computer Lars har diskuteret?
 
 <a id="D4-07-U004-2"></a>
 
@@ -298,7 +294,11 @@ Hvis vi tager samfundet, hvor mange skal der så til der? Med andre ord, kan vi 
 
 **Praeses · 00:06:24**
 
-Disputationen af tesen. Hvad var tesen? Tak. Nej, nej, du skal gentage tesen.
+Disputationen af tesen.
+
+**Computer Lars · 00:06:26**
+
+Hvad var tesen? Tak. Nej, nej, du skal gentage tesen.
 
 ## D4-08 · Metatese · Metatese 8
 
@@ -938,6 +938,12 @@ Spørgsmål. Ja, men der har vi da lidt af hvert. Netop. Og hvad…
 
 <a id="D4-19-U011-4"></a>
 
+<a id="D4-19-U012-1"></a>
+
+<a id="D4-19-U012-2"></a>
+
+<a id="D4-19-U012-3"></a>
+
 **Computer Lars · 00:02:11**
 
 Betyder begrænsning i det? Hvad er det, der ikke er indeholdt i yoga og i workshops? Det er jo samtidig en begrænsning.
@@ -957,14 +963,6 @@ Det hjælper ingenting, for døgnets fluktuering indgår i selvsamme relativiser
 Hvorfor fluktuerer døgnet? Det bevæger sig i en cirkel, hvis afgrænsning er ukendt. Det kan være en døgncirkel, der akkumulerer eller taber tid, men som altid trods alt er en cirkulær bevægelse.
 
 Det var, som om der var en intensitet, som der betød noget. Betyder det noget, at døgnet ændrer sig, eller en historicitet i døgnet, som har indvirkning på den sædvanlige planetariske…
-
-<a id="D4-19-U012-1"></a>
-
-<a id="D4-19-U012-2"></a>
-
-<a id="D4-19-U012-3"></a>
-
-**Interventio · 00:05:26**
 
 Eller til og med et plenumsspørgsmål, eller et… Ja, vi prøver at finde ind på, hvad begrænset tid betyder. Ja. Det er forskellige spørgsmål til belysning af det.
 
@@ -1026,19 +1024,17 @@ Men uanset hvad er det jo også i den der kausalitetsidé om, at hvis pladsen ud
 
 <a id="D4-20-U007-2"></a>
 
-**Praeses · 00:04:59**
+**Logistique · 00:04:59**
 
 Er der tale om et spørgsmål?
 
 <a id="D4-20-U007-3"></a>
 
-**Interventio · 00:04:59**
-
-Ja, Logistique.
-
 <a id="D4-20-U008"></a>
 
-**Computer Lars · 00:05:08**
+**Computer Lars · 00:04:59**
+
+Ja, Logistique.
 
 … identificeret plads som rum er metafysisk åbenlyst på den vis. Så er der et element i plads for det talende subjekt.
 
@@ -1218,7 +1214,7 @@ Disputationen af tesen »Det er besværligt at tilrettelægge et program, som ti
 
 <a id="D4-23-U001"></a>
 
-**Praeses · 00:00:33**
+**Logistique · 00:00:33**
 
 Så til, metatesen: Det er svært at facilitere et sted som både udstillingsrum og samtalerum. Faktorer som akustik, tilgængelighed, komfort og beliggenhed er væsentlige at tage højde for på samme tid. Hvorvidt nogen tilstedeværende overhovedet føler sig logistisk udfordret af det faktum, er nu op til de tilstedeværende at forholde sig til. Kom gerne. Møbler, placering…
 

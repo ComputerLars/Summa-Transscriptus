@@ -16,6 +16,9 @@ for g in h['groups']:
  for name in ['Normal','Title','Subtitle','Heading 1','Heading 2','Heading 3']:
   st=doc.styles[name];st.font.color.rgb=RGBColor(0,0,0)
  doc.add_paragraph('Summa Transscriptus','Title');doc.add_paragraph(g['guest']+' og Computer Lars','Subtitle');doc.add_paragraph(g['date']+' · Under Bugten · Aarhus Bugt Center for Kunst på Det Jyske Kunstakademi')
+ if h.get('performance',{}).get('closing_signal'):
+  p=doc.add_paragraph(h['performance']['closing_signal']);p.paragraph_format.space_after=Pt(16)
+  for run in p.runs:run.font.size=Pt(9);run.italic=True
  for rid in g['records']:
   r=records[rid];title=r['title'] if r['title']==r['position'] or r['title'].startswith(r['position']+' ') else r['position']+' · '+r['title'];doc.add_paragraph(title,'Heading 1');p=doc.add_paragraph(rid+' · '+g['date']);p.paragraph_format.space_after=Pt(18)
   for t in r['utterances']:

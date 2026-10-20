@@ -17,7 +17,73 @@
       "record": "D2-07",
       "turn": "D2-07-U012-2",
       "time": 650,
-      "basis": "Den bevarede bemærkning ved maskinen er lokaliseret til det tidligere udtagne kildevindue 650–669 sekunder; den gamle start på 602 sekunder tilhører stadig Maias fremsættelse. Taleren af det korte indskud er fortsat uafgjort."
+      "basis": "Forfatteren bekræfter Maia Bacchus. Den bevarede maskinbemærkning er lokaliseret i kildevinduet 650–669 sekunder."
+    },
+    {
+      "record": "D1-06",
+      "turn": "D1-06-U001-2",
+      "time": 31.34,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D1-06",
+      "turn": "D1-06-U001-5",
+      "time": 65.1,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-2",
+      "time": 1093.28,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-4",
+      "time": 1097.7,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-9",
+      "time": 1142.66,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D3-08",
+      "turn": "D3-08-U013-2",
+      "time": 843.0,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue; den tidligere enhedsinddeling havde sammenpresset flere replikker til samme starttid."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-2",
+      "time": 1160.36,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue giver replikstarten; den gamle enhedsopdeling havde sammenpresset talerskiftene."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-3",
+      "time": 1164.62,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue giver replikstarten; den gamle enhedsopdeling havde sammenpresset talerskiftene."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-4",
+      "time": 1181.3,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue giver replikstarten; den gamle enhedsopdeling havde sammenpresset talerskiftene."
+    },
+    {
+      "record": "D2-07",
+      "turn": "D2-07-U013-4",
+      "time": 684.92,
+      "basis": "Lokal genkendelse af det oprindelige kildevindue giver replikstarten; den gamle enhedsopdeling havde sammenpresset talerskiftene."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U038",
+      "time": 1204.92,
+      "basis": "Praeses’ afslutningsmeddelelse i det lokalt genkendte kildevindue."
     }
   ],
   "splits": [
@@ -57,6 +123,17 @@
       "second_units": [],
       "time": 258.2,
       "basis": "Computer Lars' indvending slutter efter 'enig i'. Bureauets selvbeskrivelse tilhører Logistique og fortsætter ind i næste kildeenhed."
+    },
+    {
+      "record": "D4-07",
+      "turn": "D4-07-U008-2",
+      "before": "Hvad var tesen?",
+      "first_speaker": "Praeses",
+      "second_speaker": "Computer Lars",
+      "second_id": "D4-07-U008-2-cont",
+      "second_units": [],
+      "time": 386,
+      "basis": "Praeses’ afbrudte afslutningsmeddelelse adskilles fra spørgsmålet om tesens ordlyd; forfatteren præciserer, at Praeses ikke spørger."
     }
   ],
   "confirmed_turns": [
@@ -65,6 +142,116 @@
       "turn": "D4-05-U001",
       "speaker": "Logistique",
       "basis": "Forfatterens udtrykkelige afklaring 20. oktober 2026: Logistique selv taler; intet nyt talerskift indsættes."
+    }
+  ],
+  "locus_times": [
+    {
+      "record": "D3-08",
+      "unit": "D3-08-U013-1",
+      "time": 820.16,
+      "basis": "Den omtvistede afslutning begynder faktisk ved 13:40, ikke omkring 12:57."
+    }
+  ],
+  "partitions": [
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U019-2",
+      "basis": "Forfatterens præcise fordeling af replikkerne; de fem dele af en tidligere sammenlagt genkendelse.",
+      "parts": [
+        {
+          "marker": "",
+          "id": "D2-06-U019-2",
+          "speaker": "Computer Lars",
+          "time": 606.6,
+          "units": [
+            "D2-06-U019-2"
+          ]
+        },
+        {
+          "marker": "Men kun for så vidt",
+          "id": "D2-06-U019-3",
+          "speaker": "Maia Bacchus",
+          "time": 607.36,
+          "units": [
+            "D2-06-U019-3"
+          ]
+        },
+        {
+          "marker": "Det tror jeg ikke.",
+          "id": "D2-06-U019-4",
+          "speaker": "Computer Lars",
+          "time": 613.36,
+          "units": [
+            "D2-06-U019-4"
+          ]
+        },
+        {
+          "marker": "Nej, okay.",
+          "id": "D2-06-U019-5",
+          "speaker": "Maia Bacchus",
+          "time": 614.48,
+          "units": [
+            "D2-06-U019-5"
+          ]
+        },
+        {
+          "marker": "Ikke i den her.",
+          "id": "D2-06-U019-5-cont",
+          "speaker": "Computer Lars",
+          "time": 618.68,
+          "units": []
+        }
+      ]
+    }
+  ],
+  "ends": [
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U034",
+      "time": 1097.7,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-4",
+      "time": 1140.72,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-9",
+      "time": 1160.08,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-2",
+      "time": 1162.9,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-3",
+      "time": 1180.72,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U036-4",
+      "time": 1190.22,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U038",
+      "time": 1218.46,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
+    },
+    {
+      "record": "D3-08",
+      "turn": "D3-08-U010",
+      "time": 840.74,
+      "basis": "Afslutning lokaliseret i det samme lokale kildevindue som den korrigerede replikstart."
     }
   ]
 }

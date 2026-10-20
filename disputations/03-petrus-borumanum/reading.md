@@ -230,6 +230,8 @@ Jeg tænker, Larsen som sådan er jo en subtil triumfator.
 
 <a id="D3-02-U023"></a>
 
+<a id="D3-02-U024-1"></a>
+
 **Computer Lars · 00:14:58**
 
 Triumf, tænker jeg. Det er den jævne suverænitet, ikke også? Den er ikke så meget forbundet med … Det er jo noget triumf, der sker i den, fordi den er ud fra en tredje position, men den er ikke så opretholdt gennem en konstant produktion af triumfer. Måske. Det er derfor, at man kan genopstå. Ja, det er rigtigt. Jeg tænker, at der i hvert fald også er noget i det anagrammatiske, der bare rent fænomenologisk er værd at tage med der, ikke også? Der er noget med at ligge på en divan en sen lørdag eftermiddag.
@@ -250,11 +252,7 @@ Ja, men det opløser jo også spørgsmålet om, hvorvidt noget er langt eller ko
 
 Det godtager det næste bind i rækken. Men jeg tænker, det spørger også samtidig ind til, hvilken type triumf der er tale om. En lediggangens triumf.
 
-<a id="D3-02-U024-1"></a>
-
-**Interventio · 00:19:48**
-
-Digtets triumf er jo ofte …
+Digterens triumf er jo ofte resignationen.
 
 <a id="D3-02-U024-2"></a>
 
@@ -480,7 +478,7 @@ Disputationen af tesen »Poetisk og militær hæder bestemmes som feltaritmetik�
 
 <a id="D3-05-U001-1"></a>
 
-**Interventio · 00:00:26**
+**Computer Lars · 00:00:26**
 
 Er det det?
 
@@ -902,7 +900,7 @@ Når man går fra mennesket til dyret, er de ikke til at lave instinktfri. Og n�
 
 <a id="D3-08-U016-4"></a>
 
-**Computer Lars · 00:12:57**
+**Computer Lars · 00:14:03**
 
 Jamen, den er også interessant, fordi dumhed, stupiditet også… Der er forskellige varianter. Der er forskellige etymologiske spor, der forfølges. Dumhed både på fransk, stupidité og bêtise. Du er dum, du er ligesom et dyr. At være intelligent er et karaktertræk, det er noget, man hænger på, og bare har kontinuerlig skelnen mellem mennesker og dyr. Som samtidig så er problemløsende og differentierende i sin natur, og også den, der sætter ind for at gøre mennesker selvtilgivende, og i sin objektiverende natur, ved den her tro på at lave den differens mod udsigelsespositioner selv, og derfor glider begrebet hele tiden over i maskinen som potentialitetsrum.
 

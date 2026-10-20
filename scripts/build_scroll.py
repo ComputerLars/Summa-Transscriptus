@@ -36,6 +36,7 @@ def clean(text,rid=''):
  text=re.sub(r',\s*ikke\?(?:\s*,)?', '.',text)
  if rid=='D2-04':
   text=text.replace('Computer Lars har mindst to lemmer','Computer Lars har mindst to legemer').replace('Computer Lars har to lemmer','Computer Lars har mindst to legemer')
+ text=text.replace('trialekt','triolekt')
  text=prose(text,rid)
  text=re.sub(r'\.\s*\.', '.',text)
  text=re.sub(r' {2,}',' ',text)
@@ -62,6 +63,7 @@ def reading_boundaries(blocks):
  """Join source chunk boundaries inside one speaker's sentence."""
  out=[]
  for block in blocks:
+  if not block.strip():continue
   if out and not re.search(r'[.!?…][”\'\"]?$',out[-1]):
    out[-1]+=' '+block
   else:out.append(block)
@@ -79,6 +81,21 @@ def jslen(text):return len(text.encode('utf-16-le'))//2
 def source_turns(record):
  """Separate actual replies inside an old recognition unit, retaining its anchors."""
  for old in record['utterances']:
+  partition=next((p for p in SPEAKER_BOUNDARIES.get('partitions',[])if p['record']==record['id']and p['turn']==old['id']),None)
+  if partition:
+   parts=partition['parts'];cuts=[0]+[old['text'].index(p['marker'])for p in parts[1:]]+[len(old['text'])]
+   assert cuts==sorted(cuts)
+   assert [u for p in parts for u in p['units']]==old['units']
+   for i,part in enumerate(parts):
+    a,z=cuts[i],cuts[i+1];t=deepcopy(old);t.update(id=part['id'],speaker=part['speaker'],start=part['time'],end=parts[i+1]['time']if i+1<len(parts)else max(old['end'],part['time']+1),units=part['units'],text=old['text'][a:z].strip())
+    t['blocks']=[];pos=0
+    for b in old['blocks']:
+     fragment=b[max(0,a-pos):max(0,z-pos)].strip()
+     if fragment:t['blocks'].append(fragment)
+     pos+=len(b)+1
+    off=jslen(old['text'][:a]);stop=jslen(old['text'][:z]);t['loci']=[{**l,'offset':l['offset']-off,'start':part['time']}for l in old.get('loci',[])if off<=l['offset']<stop]
+    yield t
+   continue
   rule=next((s for s in SPEAKER_SPLITS if s['record']==record['id'] and s['turn']==old['id']),None)
   if not rule:
    yield old
@@ -130,6 +147,9 @@ def build():
    t=deepcopy(old);oldtext=old['text'];t['blocks']=[clean(s,r['id'])for s in old['blocks']];t['blocks']=blocks_at_hinges(t['blocks'],r['id']);t['text']=' '.join(t['blocks'])
    t['speaker']=speaker_edits.get((r['id'],t['id']),t['speaker'])
    t['loci']=[{**l,'offset':jslen(clean(oldtext.encode('utf-16-le')[:l['offset']*2].decode('utf-16-le'),r['id']))}for l in old.get('loci',[])]
+   for l in t['loci']:
+    for correction in SPEAKER_BOUNDARIES.get('locus_times',[]):
+     if correction['record']==r['id']and correction['unit']==l['id']:l['start']=correction['time']
    if (r['id'],t['id']) in SPEAKER_STARTS:
     t['start']=SPEAKER_STARTS[(r['id'],t['id'])]
     t['loci']=[{**l,'start':t['start']}if l['offset']==0 else l for l in t['loci']]
@@ -141,16 +161,16 @@ def build():
     prior['text']+=' '+t['text'];prior['blocks']+=t['blocks'];prior['end']=t['end'];prior['units']+=t['units'];prior['loci'] += [{**l,'offset':l['offset']+offset}for l in t['loci']]
    else:turns.append(t)
   for t in turns:
+   for end in SPEAKER_BOUNDARIES.get('ends',[]):
+    if end['record']==r['id']and end['turn']==t['id']:t['end']=end['time']
    before={'text':t['text'],'blocks':list(t['blocks'])}
-   replacement=READING_REPLACEMENTS.get((r['id'],t['id']))
+   replacement=next((v for (rid,uid),v in READING_REPLACEMENTS.items()if rid==r['id']and(uid==t['id']or uid in t['units'])),None)
    if replacement:
     assert '[Kort udveksling ved maskinen.]' in t['text']
-    t['blocks']=[replacement['text']]
-    # Retain links to all source units without indexing the omitted chatter.
-    t['loci']=[{**l,'offset':0}for l in t.get('loci',[])]
+    t['blocks']=[replacement['text']if '[Kort udveksling ved maskinen.]'in b else b for b in t['blocks']]
    t['blocks']=blocks_at_hinges([prose(b,r['id'])for b in reading_boundaries(t['blocks'])],r['id'],t['id'])
    t['text']=' '.join(t['blocks'])
-   if before['text']!=t['text'] and not replacement:
+   if before['text']!=t['text']:
     t['loci']=[{**l,'offset':shifted_offset(before['text'],t['text'],l['offset'])}for l in t.get('loci',[])]
    if before['text']!=t['text'] or before['blocks']!=t['blocks']:
     entry={'record':r['id'],'turn':t['id'],'before':before,'after':{'text':t['text'],'blocks':t['blocks']}}
@@ -179,7 +199,8 @@ def build():
   {'id':'beer-cybersyn','citation':'Stafford Beer og Project Cybersyn. ZKM, Thinking Inside Out: Cybernetics and Viable Utopias, 2025.','url':'https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias'},
   {'id':'urquhart-genealogy','citation':'Thomas Urquhart, Pantochronachanon (1652). Slægtstavlen er gengivet i John Willcock, Sir Thomas Urquhart of Cromartie, Knight (1899), tillæg I.','url':'https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211'}]
  additional_refs['D2-04'].append({'id':'hui-sovereignty','citation':'Yuk Hui, Machine and Sovereignty: For a Planetary Thinking. University of Minnesota Press, 2024.','url':'https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/'})
- additional_refs['D2-07']=[{'id':'peirce-lowell','citation':'Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.','url':'https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf'}]
+ additional_refs['D2-07']=[{'id':'michaelsen-dwc','citation':'Jørgen Michaelsen, DRY-WET-COMFORT: Bidrag til en kritik af den kunstneriske tænkning. I Postheroic Supersession, red. Jørgen Michaelsen og Lucas Haberkorn. Silkeborg: Museum Jorn, 2022, s. 183–215; triolektik s. 190, hygrometerets mastertriade s. 196–198.','url':'https://museumjorn.dk/exhibit/dry-wet-comfort/'},{'id':'peirce-lowell','citation':'Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.','url':'https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf'}]
+ additional_refs['D2-07'].append({'id':'llull-context','citation':'Historisk kontekst: Ramon Llull (ca. 1232–1316) blev født på Mallorca efter Jaume I’s erobring af øen i 1229. Archivo de la Corona de Aragón, Autógrafo de Ramon Llull (1297–1316).','url':'https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/llull.html'})
  additional_refs['D3-05']=[{'id':'magliabechi','citation':'Antonio Magliabechi (1633–1714). Biblioteca Nazionale Centrale di Firenze, The origins and evolution of the Magliabechiana library.','url':'https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/'}]
  h['record_references']={}
  for r in h['records']:
@@ -194,6 +215,7 @@ def build():
   if r['id']=='D2-07':refs=[ref for ref in refs if ref['id']!='peirce']
   addition_ids={ref['id']for ref in additions}
   h['record_references'][r['id']]=[ref for ref in refs if ref['id']not in addition_ids]+additions
+ h['performance']={'closing_signal':'Klokkesignalet indleder afslutningen, mens de sidste replikker endnu pågår, og afbryder til sidst disputten.','basis':'Forfatterens beskrivelse af opførelsens lydlige afslutningsprocedure, 20. oktober 2026. De oprindelige optagelser bevares.'}
  h['edition']='2026-10-20'
  h['reading_policy']['speaker']='Navnene følger opførelsen. Begge kunstnerstemmer hedder Computer Lars. Sammenhængende tale fra samme offentlige position har én talerbetegnelse; lydsteder og kildeankre bevares.'
  h['reading_policy']['paragraphs']='Afsnit følger argumentet. Optagelsesbrud inde i samme talers sætning sammenføjes; afbrudte sætninger markeres med udeladelsesprikker. Optagelses- og genkendelsesenhederne bevares som kildeankre.'

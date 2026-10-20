@@ -490,6 +490,97 @@
       "before": "Interventio",
       "after": "Petrus Borumanum",
       "basis": "Kort indledning til Petrus’ antitese efter Computer Lars’ fremsættelse; den lokale stemmeklynge støtter Petrus."
+    },
+    {
+      "record": "D1-06",
+      "turn": "D1-06-U001-2",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-2",
+      "before": "Computer Lars",
+      "after": "Maia Bacchus",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D2-06",
+      "turn": "D2-06-U035-4",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D2-07",
+      "turn": "D2-07-U012-2",
+      "before": "Interventio",
+      "after": "Maia Bacchus",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U013-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D2-08",
+      "turn": "D2-08-U015-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D3-02",
+      "turn": "D3-02-U024-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D3-05",
+      "turn": "D3-05-U001-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D4-19",
+      "turn": "D4-19-U012-1",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D4-20",
+      "turn": "D4-20-U007-2",
+      "before": "Praeses",
+      "after": "Logistique",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D4-20",
+      "turn": "D4-20-U007-3",
+      "before": "Interventio",
+      "after": "Computer Lars",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D4-07",
+      "turn": "D4-07-U003",
+      "before": "Praeses",
+      "after": "Logistique",
+      "basis": "Forfatterens talerafklaring 20. oktober 2026; begge kunstnerstemmer bevarer den fælles offentlige position Computer Lars."
+    },
+    {
+      "record": "D4-23",
+      "turn": "D4-23-U001",
+      "before": "Praeses",
+      "after": "Logistique",
+      "basis": "Fremsættelsen udfolder bureauets logistiske metatese; i overensstemmelse med forfatterens rollepræcisering adskilles den fra Praeses’ afslutningsmeddelelse."
     }
   ]
 }

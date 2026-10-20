@@ -122,7 +122,7 @@ Ja, men jeg er bange for, at det er en ekskurs.
 
 **Praeses · 00:24:39**
 
-Disputationen af tesen »Kunsten er død« er nu afsluttet. Mens vi venter på den komputationale fremsættelse af syntesen, er der åbent for eventuelle ex auditorio-interventioner. Er der åbent for eventuelle ex auditorio-interventioner?
+Disputationen af tesen »Kunsten er død« er nu afsluttet. Mens vi venter på den komputationale fremsættelse af syntesen, er der åbent for eventuelle ex auditorio-interventioner.
 
 ## D1-02 · Antitese · Revolutionen er repræsenterbar
 
@@ -552,21 +552,21 @@ Til hypotese F, fremsat af Computer Lars. Tesen er følgende: Publiciteten er tr
 
 <a id="D1-06-U001-4"></a>
 
-**Interventio · 00:00:00**
-
-Ja, hvad er hypotese? Er det sådan ligesom kunstnerdelen, eller er det faktisk brugt lidt…? Også mig, men altså… Er det ikke kunstdelen? Nej, kunstnerdelen. Det er godt, at det ligesom sidder i den her situation.
-
 <a id="D1-06-U001-5"></a>
 
 <a id="D1-06-U002"></a>
 
 <a id="D1-06-U003"></a>
 
-**Computer Lars · 00:00:00**
+**Computer Lars · 00:00:31**
 
-Den er tænkt på forskellige måder at åbne, særligt rettet til at gå lidt længere ind i disputatsens store kontekst og snakke feudalisme og nyfeudalisme. Det transmonarkiske er mest af alt forstået som, at de forskellige herredømmer og herredømmeformer, som man kan sige sidder og repræsenterer, bliver videreført blandt andet gennem publiciteten fra det feudale samfund gennem det kapitalistiske, som så især netop får en form for genopførelse i det digitale demokrati.
+Da kan jeg ligesom godt lidt som kunstnerdelen bruge lidt begrebsafklaring.
 
-Særligt en tese, der prøver at teseliggøre eller stille på spidsen eller parodiere sådan nogle arbejder af Evgeny Morozov, som har skrevet meget om den nye feudalisme, men også mange spændende ting om for eksempel projekt Cybersyn i Chile, og en længerevarende misforståelse mellem, at det at computerisere økonomien i et socialistisk land ikke er et proto-internet, men en proto-kunstig intelligens. Altså nogle af de helt grundlæggende og meget, meget lange forhold mellem kybernetik og kommunisme, som jo også har været meget i Sovjet, men som også var i sådan en som Stafford Beer, der tager til Chile og bygger det, og nogle af de forbindelser, der er der mellem feudale logikker, testamentær arvtagning og nogle uforudsete vekslinger mellem, hvad der sker, og noget af det, man tror er sluttet der i det kapitalistiske samfund, og så med det digitale. Men det er heller ikke en hypotese, der bygger på Computer Lars' arbejde eller teorier eller på nogen måde faktisk forståelse, men en, der mere prøver at åbne op for nogle af de emner, som disputten muliggør mellem offentlighed og, ja, feudalisme dengang og nu. Det vil være den lille motivation.
+Hvorfor er du kunstnerdelen?
+
+Nej, men nu vi sidder i den her zombieinstitution.
+
+Den er tænkt på forskellige måder til at åbne, særligt rettet til at gå lidt længere ind i disputtens historiske kontekst og snakke feudalisme og nyfeudalisme. Det transmonarkiske er mest af alt forstået som, at de forskellige herredømmer og herredømmeformer, som man kan sige sidder og repræsenterer, bliver videreført blandt andet gennem publiciteten fra det feudale samfund gennem det kapitalistiske, som så især netop får en form for genopførelse i det digitale demokrati. Særligt en tese, der prøver at teseliggøre eller stille på spidsen eller parodiere sådan nogle arbejder af Evgeny Morozov, som har skrevet meget om den nye feudalisme, men også mange spændende ting om for eksempel projekt Cybersyn i Chile, og en længerevarende misforståelse mellem, at det at computerisere økonomien i et socialistisk land ikke er et proto-internet, men en proto-kunstig intelligens. Altså nogle af de helt grundlæggende og meget, meget lange forhold mellem kybernetik og kommunisme, som jo også har været meget i Sovjet, men som også var i sådan en som Stafford Beer, der tager til Chile og bygger det, og nogle af de forbindelser, der er der mellem feudale logikker, testamentær arvtagning og nogle uforudsete vekslinger mellem, hvad der sker, og noget af det, man tror er sluttet der i det kapitalistiske samfund, og så med det digitale. Men det er heller ikke en hypotese, der bygger på Computer Lars' arbejde eller teorier eller på nogen måde faktisk forståelse, men en, der mere prøver at åbne op for nogle af de emner, som disputten muliggør mellem offentlighed og, ja, feudalisme dengang og nu. Det vil være den lille motivation.
 
 <a id="D1-06-U004"></a>
 
