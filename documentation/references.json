@@ -700,9 +700,9 @@
     "verified": "2026-10-20"
   },
   {
-    "id": "malabou-morin",
-    "citation": "Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.",
-    "url": "https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77",
+    "id": "morin-intelligence",
+    "citation": "Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Livre premier: Anthropologie de la connaissance. Paris: Seuil, 1986. Kapitlet “Intelligence, pensée, conscience”, I: “L’intelligence de l’intelligence humaine”, afsnittet “Les qualités intelligentes”.",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb34900054d",
     "relation": "kontekst",
     "loci": [
       {
@@ -710,7 +710,7 @@
         "match": "Morin skriver lignende om vanskelighederne ved intelligenstest"
       }
     ],
-    "note": "Malabous henvisning identificerer Morins kritik af intelligensmåling. Amøbe-eksemplets præcise forlæg er ikke identificeret.",
+    "note": "Morin kritiserer intelligensmålingens partielle, lokale og relative karakter. Amøbe-eksemplets præcise forlæg er ikke identificeret.",
     "verified": "2026-10-21"
   },
   {

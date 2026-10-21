@@ -406,13 +406,13 @@ Valgskrifterne giver et særskilt forlæg til rammetekstens redegørelse for Llu
 
 [D3-07 · Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-07/D3-07-U001)
 
-<a id="malabou-morin"></a>
+<a id="morin-intelligence"></a>
 
-## 51 · Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.
+## 51 · Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Livre premier: Anthropologie de la connaissance. Paris: Seuil, 1986. Kapitlet “Intelligence, pensée, conscience”, I: “L’intelligence de l’intelligence humaine”, afsnittet “Les qualités intelligentes”.
 
-[Kontekst](https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77)
+[Kontekst](https://catalogue.bnf.fr/ark:/12148/cb34900054d)
 
-Malabous henvisning identificerer Morins kritik af intelligensmåling. Amøbe-eksemplets præcise forlæg er ikke identificeret.
+Morin kritiserer intelligensmålingens partielle, lokale og relative karakter. Amøbe-eksemplets præcise forlæg er ikke identificeret.
 
 [D3-08 · Intelligens er objektivt stupidt, og vice versa](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-08/D3-08-U010)
 

@@ -988,7 +988,7 @@ Diskussionen af tesen »Intelligens er objektivt stupidt, og vice versa« er nu 
 
 [24] [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
 
-[51] [Jf. Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.](https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77)
+[51] [Jf. Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Livre premier: Anthropologie de la connaissance. Paris: Seuil, 1986. Kapitlet “Intelligence, pensée, conscience”, I: “L’intelligence de l’intelligence humaine”, afsnittet “Les qualités intelligentes”.](https://catalogue.bnf.fr/ark:/12148/cb34900054d)
 
 ## D3-09 · Pseudotese · Pseudotese
 
