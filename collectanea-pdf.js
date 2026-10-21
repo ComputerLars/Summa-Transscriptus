@@ -40,7 +40,7 @@ async function makePDF(items,title){
   }
   const heading=(text,size=12)=>{ensure(65);para(text,size,14)};
   const ref=(label,url)=>{if(!url)return '';let n=refs.findIndex(r=>r.url===url);if(n<0){n=refs.length;refs.push({label,url})}return '['+(n+1)+']'};
-  async function image(x){const f=(H.figures.find(f=>f.id===x.id)||H.photos.find(p=>p.id===x.id)||x),bytes=await(await fetch(f.src)).arrayBuffer();const im=/\.png$/i.test(f.src)?await doc.embedPng(bytes):await doc.embedJpg(bytes),scale=Math.min((W-M*2)/im.width,370/im.height),iw=im.width*scale,ih=im.height*scale;ensure(ih+65);page.drawImage(im,{x:(W-iw)/2,y:y-ih,width:iw,height:ih});y-=ih+15;para(f.title+(f.credit?' · '+f.credit:'')+(f.place?'\n'+f.place:''),7.2,12);}
+  async function image(x){const f=(H.figures.find(f=>f.id===x.id)||H.photos.find(p=>p.id===x.id)||x),bytes=await(await fetch(f.src)).arrayBuffer();const im=/\.png$/i.test(f.src)?await doc.embedPng(bytes):await doc.embedJpg(bytes),scale=Math.min((W-M*2)/im.width,370/im.height),iw=im.width*scale,ih=im.height*scale;ensure(ih+65);page.drawImage(im,{x:(W-iw)/2,y:y-ih,width:iw,height:ih});y-=ih+15;para(f.title+(f.credit?' · Fotografi: '+f.credit:'')+(f.place?'\n'+f.place:''),7.2,12);}
   newPage();y=Hh*.67;
   for(const line of wrap(title||'Collectanea',18,W-M*2)){draw(line,18,{center:true});y-=27}
   y-=22;
@@ -60,17 +60,17 @@ async function makePDF(items,title){
    else if(x.kind==='record'){
     const r=records.get(x.id);
     for(const t of r.utterances){ensure(60);para(t.speaker+' · '+clock(t.start),7.4,6,r.audio+'#t='+Math.floor(t.start));for(const b of t.blocks){para(b);if(b.startsWith('Incipere reconstructionem'))para('Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz (1973).',7.2,8,abs('sources/under-bugten/opening-latin.md'))}y-=7}
-    const h=historical(x.id);for(const source of H.record_references?.[x.id]||[])para(source.citation+' '+ref(source.citation,abs(source.url)),7.2,8);
+    const h=historical(x.id);for(const source of H.record_references?.[x.id]||[])para(source.display+' '+ref(source.display,abs(source.url)),7.2,8);
     if(h){heading('Maskinsyntese · 2023',10.5);para(h.synthesis);para('Kildetekst '+ref('Syntese · '+x.id,abs(h.url)),7.2,15)}
     else if(x.id==='D4-21'){heading('Maskinsyntese · 2023',10.5);para('Ingen maskinsyntese er bevaret for Metatese 21.')}
    }else if(x.kind==='frame'){
-    for(const n of (x.id==='ordo'?[72,74,76,77,78]:Array.from({length:66},(_,i)=>i+4))){const p=manuscriptParagraph(n),f=H.figures.find(f=>f.paragraph===n);if(p?.text.trim())para(p.text);if(f)await image(f)}
+    for(const n of (x.id==='ordo'?[72,74,76,77,78]:Array.from({length:66},(_,i)=>i+4))){const p=manuscriptParagraph(n),f=H.figures.find(f=>f.paragraph===n);if(p?.text.trim()){para(p.text);for(const source of H.frame_references?.[String(n)]||[])para(source.display+' '+ref(source.display,abs(source.url)),7.2,8)}if(f)await image(f)}
     if(x.id==='ordo'&&H.performance?.closing_signal)para(H.performance.closing_signal,8.2,14);
    }else{
     if(x.speaker)para(x.speaker+' · '+clock(x.start),7.4,8,records.get(x.record)?.audio+'#t='+Math.floor(x.start));for(const block of x.text.split(/\n\s*\n/)){para(block);if(block.startsWith('Incipere reconstructionem'))para('Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz (1973).',7.2,8,abs('sources/under-bugten/opening-latin.md'))}
    }
    if(item.note){heading('Anmærkning',10.5);para(item.note)}
-   const sources=[ref('Locus · '+(x.record||x.title),x.url)];
+   const sources=[ref('Locus · '+(x.record||x.title),x.url)];if(x.kind!=='record'&&x.kind!=='frame')for(const source of selectedReferences(x))sources.push(ref(source.display,abs(source.url)));
    if(x.record){const r=records.get(x.record);sources.push(ref('Optagelse · '+x.record,r.original));sources.push(ref('Lyttekopi · '+x.record,r.audio+(x.start!=null?'#t='+Math.floor(x.start):'')))}
    para('Kilder: '+sources.filter(Boolean).join(' '),7.4,10);
   }

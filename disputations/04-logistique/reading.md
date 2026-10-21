@@ -82,6 +82,10 @@ Altså ja, det kan da godt være, at man kan rejse i tiden, og at metatese numme
 
 Dette var afslutningen på tesen: Man kan ikke rejse i tiden.
 
+### Henvisninger
+
+[3] [Alfred Jarry / Dr Faustroll, Commentaire pour servir à la construction pratique de la Machine à explorer le temps, Mercure de France 29 (1899), 387–396](https://fr.wikisource.org/wiki/Commentaire_pour_servir_%C3%A0_la_construction_pratique_de_la_Machine_%C3%A0_explorer_le_temps)
+
 ## D4-03 · Metatese · Metatese 3
 
 <a id="D4-03-U001"></a>
@@ -1209,6 +1213,10 @@ Så vil bureauet naturligvis spørge, om de sidste to metateser og bonusmetatese
 Computer Lars.
 
 Disputationen af tesen »Det er besværligt at tilrettelægge et program, som tilgodeser samtlige organisatoriske og logistiske behov« er nu afsluttet.
+
+### Henvisninger
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
 
 ## D4-23 · Metatese · Metatese 23
 

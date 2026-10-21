@@ -3,10 +3,20 @@ from pathlib import Path
 import sys
 import json
 from docx import Document
+from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Pt,RGBColor
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
 R=Path(__file__).resolve().parents[1]
 h=json.loads((R/'hyperbook-data.json').read_text());records={r['id']:r for r in h['records']}
+def source_link(p,text,url):
+ link=OxmlElement('w:hyperlink');link.set(qn('r:id'),p.part.relate_to(url,RT.HYPERLINK,is_external=True))
+ run=OxmlElement('w:r');properties=OxmlElement('w:rPr')
+ for tag,attrs in [('w:rFonts',{'w:ascii':'Courier New','w:hAnsi':'Courier New'}),('w:sz',{'w:val':'17'}),('w:color',{'w:val':'000000'})]:
+  element=OxmlElement(tag)
+  for key,value in attrs.items():element.set(qn(key),value)
+  properties.append(element)
+ run.append(properties);value=OxmlElement('w:t');value.text=text;run.append(value);link.append(run);p._p.append(link)
 for g in h['groups']:
  if len(sys.argv)>1 and g['number']!=int(sys.argv[1]):continue
  path=R/g['path']/'reading.docx';doc=Document(path)
@@ -30,6 +40,14 @@ for g in h['groups']:
      p=doc.add_paragraph('Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.')
      p.paragraph_format.space_after=Pt(12)
      for run in p.runs:run.font.size=Pt(8.5);run.italic=True
+  if h['record_references'].get(rid):
+   p=doc.add_paragraph('Henvisninger');p.paragraph_format.keep_with_next=True
+   p.paragraph_format.space_before=Pt(12)
+   for run in p.runs:run.font.size=Pt(9);run.italic=True
+   for ref in h['record_references'][rid]:
+    p=doc.add_paragraph();p.paragraph_format.space_after=Pt(6)
+    url=ref['url']if ref['url'].startswith('http')else 'https://computerlars.github.io/Summa-Transscriptus/'+ref['url']
+    source_link(p,'['+str(ref['number'])+'] '+ref['display'],url)
   history=h['collation']['records'][rid].get('historical')
   if history:
    doc.add_paragraph('Maskinsyntese · 2023','Heading 2');doc.add_paragraph(history['synthesis'])

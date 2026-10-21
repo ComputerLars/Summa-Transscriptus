@@ -124,6 +124,14 @@ Ja, men jeg er bange for, at det er en ekskurs.
 
 Disputationen af tesen »Kunsten er død« er nu afsluttet. Mens vi venter på den komputationale fremsættelse af syntesen, er der åbent for eventuelle ex auditorio-interventioner.
 
+### Henvisninger
+
+[33] [Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.](https://computerlars.github.io/Summa-Transscriptus/sources/under-bugten/opening-latin.md)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
+[48] [Walter Benjamin, Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit (1935–1936). Udgave med kommentar af Detlev Schöttker. Frankfurt am Main: Suhrkamp, 2007.](https://www.suhrkamp.de/buch/walter-benjamin-das-kunstwerk-im-zeitalter-seiner-technischen-reproduzierbarkeit-t-9783518270011)
+
 ## D1-02 · Antitese · Revolutionen er repræsenterbar
 
 <a id="D1-02-U001"></a>
@@ -238,6 +246,14 @@ Jamen, det er jo interessant, hvis det kan lade sig gøre allerede i tese to at 
 
 Disputationen af tesen »Revolutionen er repræsenterbar« er nu afsluttet.
 
+### Henvisninger
+
+[27] [Max Horkheimer, “Traditionelle und kritische Theorie” (1937). I Traditionelle und kritische Theorie: Fünf Aufsätze. Frankfurt am Main: Fischer, 1992.](https://www.fischerverlage.de/buch/max-horkheimer-traditionelle-und-kritische-theorie-9783596113286)
+
+[46] [Jf. Théorie Communiste, “Much Ado About Nothing”, afsnit 1, “The theory of programmatism”. Endnotes 1, 2008.](https://www.endnotes.org.uk/issues/issue-1/theorie-communiste-much-ado-about-nothing)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
 ## D1-03 · Tese · Fascisme og demokrati er ikke modsætninger
 
 <a id="D1-03-U001"></a>
@@ -337,6 +353,12 @@ Men noget af det, der er interessant i Halls analyse, det er de vanskeligheder, 
 **Praeses · 00:21:31**
 
 Disputationen af tesen: »Fascisme og demokrati er ikke modsætninger« er nu afsluttet.
+
+### Henvisninger
+
+[16] [Jf. Jacques Rancière, Disagreement: Politics and Philosophy, overs. Julie Rose. Minneapolis: University of Minnesota Press, paperback 2004 [1999]. Fransk original: La Mésentente, 1995.](https://www.upress.umn.edu/9780816628452/disagreement/)
+
+[41] [Stuart Hall, “The Great Moving Right Show”. Marxism Today, januar 1979, s. 14–20.](https://banmarchive.org.uk/marxism-today/january-1979/the-great-moving-right-show/)
 
 ## D1-04 · Antitese · Teknikken er revolutionens stilistik
 
@@ -454,6 +476,10 @@ Nej, men præcis, det er jo det, der så hurtigt bliver så kompliceret. Det var
 
 Disputationen af tesen »Teknikken er revolutionens stilistik« er nu afsluttet.
 
+### Henvisninger
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
 ## D1-05 · Tese · Offentlighed og opstand er modsætninger
 
 <a id="D1-05-U001"></a>
@@ -537,6 +563,14 @@ Og det er bare interessant, lad os sige, hvis man sammenligner med for eksempel 
 **Praeses · 00:16:05**
 
 Disputationen af tesen »Offentlighed og opstand er modsætninger« er nu afsluttet.
+
+### Henvisninger
+
+[20] [Jürgen Habermas, Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft (1962), med “Vorwort zur Neuauflage 1990”. Frankfurt am Main: Suhrkamp, 1990.](https://www.suhrkamp.de/buch/juergen-habermas-strukturwandel-der-oeffentlichkeit-t-9783518284919)
+
+[30] [Mikhail Bakhtin, Rabelais and His World, overs. Hélène Iswolsky. Ny udgave, MIT Press, 2025. Russisk original 1965; engelsk oversættelse 1968.](https://mitpress.mit.edu/9780262553131/rabelais-and-his-world/)
+
+[34] [Jf. Oskar Negt og Alexander Kluge, Öffentlichkeit und Erfahrung: Zur Organisationsanalyse von bürgerlicher und proletarischer Öffentlichkeit. Frankfurt am Main: Suhrkamp, 1972.](https://www.suhrkamp.de/buch/oeffentlichkeit-und-erfahrung-t-9783518106396)
 
 ## D1-06 · Antitese · Publiciteten er transmonarkisk
 
@@ -633,6 +667,20 @@ Det er jo sådan, det defineres. Altså, Ernst Kantorowicz, »Kongens to kroppe�
 **Praeses · 00:16:46**
 
 Disputationen af tesen »Publiciteten er transmonarkisk« er nu afsluttet.
+
+### Henvisninger
+
+[6] [Benedict Anderson, Imagined Communities: Reflections on the Origin and Spread of Nationalism. London: Verso, 1983; revideret udgave 1991.](https://www.versobooks.com/products/1126-imagined-communities)
+
+[10] [Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.](https://www.jstor.org/stable/j.ctvcszz1c)
+
+[28] [Jf. Michel Foucault, “The Subject and Power”. Critical Inquiry 8, nr. 4, 1982, s. 777–795, især gennemgangen af pastoral magt. DOI: 10.1086/448181.](https://www.journals.uchicago.edu/doi/10.1086/448181)
+
+[40] [Jf. Stafford Beer og Project Cybersyn. ZKM, Thinking Inside Out: Cybernetics and Viable Utopias, 2025.](https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias)
+
+[45] [Thomas Urquhart, Pantochronachanon (1652). Slægtstavlen er gengivet i John Willcock, Sir Thomas Urquhart of Cromartie, Knight (1899), tillæg I.](https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
 
 ## D1-07 · Tese · Dialektikken er gået i stykker
 
@@ -757,6 +805,16 @@ Fra et Audre Lorde-citat: The master's tools can never dismantle the master's ho
 **Praeses · 00:17:23**
 
 Disputationen af tesen »Dialektikken er gået i stykker« er nu afsluttet.
+
+### Henvisninger
+
+[5] [Audre Lorde, “The Master’s Tools Will Never Dismantle the Master’s House” (1979). I Sister Outsider: Essays and Speeches. Crossing Press, 1984.](https://www.penguin.co.uk/books/314706/sister-outsider-by-lorde-audre/9780241503706)
+
+[21] [Louis-Ferdinand Céline, Entretiens avec le Professeur Y. Paris: Gallimard, 1955. BnF cb31920018j.](https://catalogue.bnf.fr/ark:/12148/cb31920018j)
+
+[39] [Jf. SABAE, Gustav Bunzel og Paul Smith, Arbejdsfrihedens spøgelse, CIRA katalog](https://www.cira.ch/catalogue/index.php?lvl=notice_display&id=6236)
+
+[46] [Jf. Théorie Communiste, “Much Ado About Nothing”, afsnit 1, “The theory of programmatism”. Endnotes 1, 2008.](https://www.endnotes.org.uk/issues/issue-1/theorie-communiste-much-ado-about-nothing)
 
 ## D1-08 · Antitese · Revolutionen er entropisk
 
@@ -889,3 +947,7 @@ Lumpenintelligentsia er jo allerede ligesom en selvmodsigelse. Men det ved jeg i
 **Praeses · 00:16:44**
 
 Tesen: Revolutionen er entropisk. Disputationen af tesen »Revolutionen er entropisk« er nu afsluttet.
+
+### Henvisninger
+
+[26] [Jf. Maurice Blanchot, La Communauté inavouable. Paris: Les Éditions de Minuit, 1983; forlagets nuværende udgave 1984. Første del: “La communauté négative”.](https://www.leseditionsdeminuit.fr/livre-La_Communaut%C3%A9_inavouable-1537-1-1-0-1.html)

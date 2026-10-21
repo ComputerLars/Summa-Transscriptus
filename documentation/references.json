@@ -1,80 +1,702 @@
 [
   {
-    "id": "peirce",
-    "citation": "Charles S. Peirce, Collected Papers 1.536–1.537",
-    "url": "https://www.textlog.de/4284-2.html",
-    "excerpt": "except by determining a habit",
-    "note": "Forlæg for oplæsningen i D2-07. Henvisningen gælder Peirces tekst; den danske ordlyd skal fortsat kontrolleres mod optagelsen."
+    "id": "au-motto",
+    "citation": "Aarhus Universitetshistorie, Universitetets segl",
+    "url": "https://auhist.au.dk/25kapitlerafuniversitetetshistorie/25kapitlerafuniversitetetshistorie,universitetetssegl",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-01",
+        "match": "Aarhusiensis"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "kant",
-    "citation": "Immanuel Kant, Critique of Pure Reason, note om judgement og stupidity",
-    "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
-    "excerpt": "Deficiency in judgement is properly that which is called stupidity",
-    "note": "Meiklejohns engelske oversættelse, fodnote 26 i denne netudgave. Kontrolforlæg til forbindelsen mellem dumhed og dømmekraft i D3-07."
+    "id": "turing-computable",
+    "citation": "Alan M. Turing, “On Computable Numbers, with an Application to the Entscheidungsproblem”. Proceedings of the London Mathematical Society, 2. serie, 42, 1936–1937, s. 230–265. Rettelse i bind 43, 1937, s. 544–546.",
+    "url": "https://www.turing.org.uk/sources/biblio4.html",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D2-08",
+        "match": "om Turing-maskinen så bygger på aggregater"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
     "id": "jarry",
     "citation": "Alfred Jarry / Dr Faustroll, Commentaire pour servir à la construction pratique de la Machine à explorer le temps, Mercure de France 29 (1899), 387–396",
     "url": "https://fr.wikisource.org/wiki/Commentaire_pour_servir_%C3%A0_la_construction_pratique_de_la_Machine_%C3%A0_explorer_le_temps",
-    "excerpt": "Être immobile dans le Temps",
-    "note": "Afsnit I–II behandler rum, tid og maskinens stilstand. Teksten er identificeret som et relevant forlæg til D4-02; den konkrete danske udgave og dens appendixplacering er ikke fastslået."
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D4-02",
+        "match": "Alfred Jarrys"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "au-motto",
-    "citation": "Aarhus Universitetshistorie, Universitetets segl",
-    "url": "https://auhist.au.dk/25kapitlerafuniversitetetshistorie/25kapitlerafuniversitetetshistorie,universitetetssegl",
-    "excerpt": "Solidum petit in profundis",
-    "note": "Universitetets egen gengivelse af mottoet. De omgivende latinske ord i D2-01 er ikke dermed fastslået."
+    "id": "magliabechi",
+    "citation": "Antonio Magliabechi (1633–1714). Biblioteca Nazionale Centrale di Firenze, The origins and evolution of the Magliabechiana library.",
+    "url": "https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-05",
+        "match": "Antonio Magliabechi"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "lorde-tools",
+    "citation": "Audre Lorde, “The Master’s Tools Will Never Dismantle the Master’s House” (1979). I Sister Outsider: Essays and Speeches. Crossing Press, 1984.",
+    "url": "https://www.penguin.co.uk/books/314706/sister-outsider-by-lorde-audre/9780241503706",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-07",
+        "match": "Audre Lorde-citat"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "anderson-communities",
+    "citation": "Benedict Anderson, Imagined Communities: Reflections on the Origin and Spread of Nationalism. London: Verso, 1983; revideret udgave 1991.",
+    "url": "https://www.versobooks.com/products/1126-imagined-communities",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-06",
+        "match": "Benedict Anderson snakker om de her forestillede fællesskaber"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "bratton-stack",
+    "citation": "Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.",
+    "url": "https://mitpress.mit.edu/9780262029575/the-stack/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-04",
+        "match": "Benjamin Bratton"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "peirce-lowell",
+    "citation": "Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.",
+    "url": "https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-07",
+        "match": "Charles Sanders Peirces"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "hofstadter-loop",
+    "citation": "Douglas R. Hofstadter, I Am a Strange Loop. New York: Basic Books, paperback 2008 [2007].",
+    "url": "https://www.hbglibrary.com/titles/douglas-r-hofstadter/i-am-a-strange-loop/9780465030798/",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-06",
+        "match": "Douglas Hofstadter"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "kantorowicz",
+    "citation": "Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.",
+    "url": "https://www.jstor.org/stable/j.ctvcszz1c",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-06",
+        "match": "Ernst Kantorowicz"
+      },
+      {
+        "record": "D2-04",
+        "match": "kongen har to kroppe"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "anagrams",
+    "citation": "Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.",
+    "url": "manuscript.html#p40",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-01",
+        "match": "Carol Stumper"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "flaubert",
+    "citation": "Gustave Flaubert, Bouvard et Pécuchet: œuvre posthume. Paris: Alphonse Lemerre, 1881. BnF cb32110099x.",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb32110099x",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-08",
+        "match": "Bouvard og Pécuchet"
+      },
+      {
+        "record": "D3-08",
+        "match": "antitese på forhånd er modbevist af Bouvard og Pécuchet"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "luhn-kwic",
+    "citation": "Hans Peter Luhn, Keyword-in-Context Index for Technical Literature (KWIC Index). IBM Research, rapport RC 127, 1959.",
+    "url": "https://dominoweb.draco.res.ibm.com/reports/rc127.pdf",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D2-05",
+        "match": "Hans Peter Luhn"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "llull-context",
+    "citation": "Historisk kontekst: Ramon Llull (ca. 1232–1316) blev født på Mallorca efter Jaume I’s erobring af øen i 1229. Archivo de la Corona de Aragón, Autógrafo de Ramon Llull (1297–1316).",
+    "url": "https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/llull.html",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D2-07",
+        "match": "Mallorca"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "kant",
+    "citation": "Immanuel Kant, Kritik der reinen Vernunft (1781/1787), “Transzendentale Doktrin der Urteilskraft”, indledningen, noten om Dummheit. Engelsk: J. M. D. Meiklejohn, The Critique of Pure Reason, note 26.",
+    "url": "https://www.gutenberg.org/files/4280/4280-h/4280-h.htm",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-07",
+        "match": "dumhed ifølge Kant"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "ranciere-disagreement",
+    "citation": "Jacques Rancière, Disagreement: Politics and Philosophy, overs. Julie Rose. Minneapolis: University of Minnesota Press, paperback 2004 [1999]. Fransk original: La Mésentente, 1995.",
+    "url": "https://www.upress.umn.edu/9780816628452/disagreement/",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-03",
+        "match": "Rancières demokratiterm"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "lyotard-condition",
+    "citation": "Jean-François Lyotard, The Postmodern Condition: A Report on Knowledge, overs. Geoffrey Bennington og Brian Massumi. Minneapolis: University of Minnesota Press, 1984. Fransk original 1979.",
+    "url": "https://www.upress.umn.edu/9780816611737/the-postmodern-condition/",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-03",
+        "match": "Jean-François Lyotards forestilling"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "borges-library",
+    "citation": "Jorge Luis Borges, “La biblioteca de Babel”. Obras completas, bind I. Buenos Aires: Emecé, 1989. Uddrag fra s. 468 hos Instituto Cervantes.",
+    "url": "https://cvc.cervantes.es/actcult/borges/elementos/11a.htm",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-05",
+        "match": "Jorge Luis Borges"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "michaelsen-dwc",
+    "citation": "Jørgen Michaelsen, DRY-WET-COMFORT: Bidrag til en kritik af den kunstneriske tænkning. I Postheroic Supersession, red. Jørgen Michaelsen og Lucas Haberkorn. Silkeborg: Museum Jorn, 2022, s. 183–215; triolektik s. 190, hygrometerets mastertriade s. 196–198.",
+    "url": "https://museumjorn.dk/exhibit/dry-wet-comfort/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-07",
+        "match": "Jørgen Michaelsen"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "habermas-public",
+    "citation": "Jürgen Habermas, Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft (1962), med “Vorwort zur Neuauflage 1990”. Frankfurt am Main: Suhrkamp, 1990.",
+    "url": "https://www.suhrkamp.de/buch/juergen-habermas-strukturwandel-der-oeffentlichkeit-t-9783518284919",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-05",
+        "match": "genudgivelsen af Borgerlig offentlighed"
+      }
+    ],
+    "verified": "2026-10-20",
+    "manuscript": [
+      10,
+      12
+    ]
+  },
+  {
+    "id": "celine-professor",
+    "citation": "Louis-Ferdinand Céline, Entretiens avec le Professeur Y. Paris: Gallimard, 1955. BnF cb31920018j.",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb31920018j",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-07",
+        "match": "Samtaler med professor Y"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "parisi-optics",
+    "citation": "Luciana Parisi, “Negative optics in vision machines”. AI & SOCIETY 36, 2021, s. 1281–1293; online 5. november 2020. DOI: 10.1007/s00146-020-01096-7.",
+    "url": "https://link.springer.com/article/10.1007/s00146-020-01096-7",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-03",
+        "match": "Med Luciana Parisi kunne vi sige"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
     "id": "proust-csb",
-    "citation": "Marcel Proust, Contre Sainte-Beuve, Préface (Gallimard 1954), 55–63",
+    "citation": "Marcel Proust, Contre Sainte-Beuve, red. Bernard de Fallois. Paris: Gallimard, 1954, “Préface”, s. 55–63; åbningssætningen s. 55.",
     "url": "https://fr.wikisource.org/wiki/Contre_Sainte-Beuve/Pr%C3%A9face",
-    "excerpt": "Chaque jour j’attache moins de prix à l’intelligence.",
-    "note": "Præfacens åbningssætning. Henvisningen støtter værkidentifikationen i D3-08; den erstatter ikke den talte danske gengivelse."
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-08",
+        "match": "Contre Sainte-Beuve"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
     "id": "proust-swann",
     "citation": "Marcel Proust, Du côté de chez Swann, Combray I",
     "url": "https://fr.wikisource.org/wiki/Combray",
-    "excerpt": "Longtemps, je me suis couché de bonne heure.",
-    "note": "Åbningen af romanen, omtalt i D3-06 og stillet ved siden af Contre Sainte-Beuve i D3-08. Netudgaven gengiver Gallimard 1946."
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-06",
+        "match": "I lang tid gik jeg tidligt i seng"
+      },
+      {
+        "record": "D3-08",
+        "match": "I lang tid gik jeg tidligt i seng"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "flaubert",
-    "citation": "Gustave Flaubert, Bouvard et Pécuchet",
-    "url": "https://www.gutenberg.org/ebooks/14157",
-    "note": "Værkidentifikation til diskussionen af dumhed, venskab og tilegnelse af viden i D3-08. Der er ikke tilføjet en bestemt passage som et påstået citat."
+    "id": "martius",
+    "citation": "Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-02",
+        "match": "Martius"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "manuscript",
-    "citation": "Under Bugten, samledokument, rammetekst og teser",
-    "url": "manuscript.html",
-    "note": "Ordlyd, fem tabeller og syv indlejrede billeder er bevaret. Manuskriptets plan og fremførelsens rækkefølge holdes adskilt."
+    "id": "blanchot-community",
+    "citation": "Maurice Blanchot, La Communauté inavouable. Paris: Les Éditions de Minuit, 1983; forlagets nuværende udgave 1984. Første del: “La communauté négative”.",
+    "url": "https://www.leseditionsdeminuit.fr/livre-La_Communaut%C3%A9_inavouable-1537-1-1-0-1.html",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-08",
+        "match": "Maurice Blanchot"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "old-art",
-    "citation": "Summa Transscriptus, syntese til Kunsten er død, 18. september 2023",
-    "url": "archive/2023/disput-1/transcription_and_synthesis_20230918164901.txt",
-    "note": "Den bevarede syntese indeholder navnene Max Y. Locusus og Maxia Anna Niknolds. Den er et forlæg for en mulig henvisning i D4-02, ikke en bibliografisk autoritet for de navngivne teorier."
+    "id": "horkheimer-critical",
+    "citation": "Max Horkheimer, “Traditionelle und kritische Theorie” (1937). I Traditionelle und kritische Theorie: Fünf Aufsätze. Frankfurt am Main: Fischer, 1992.",
+    "url": "https://www.fischerverlage.de/buch/max-horkheimer-traditionelle-und-kritische-theorie-9783596113286",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-02",
+        "match": "distinktionen mellem kritisk teori og traditionel teori"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "hui-machine",
-    "citation": "Yuk Hui, Machine and Sovereignty, University of Minnesota Press, 2024",
-    "url": "https://digitalmilieu.net/5245/publication-of-machine-and-sovereignty-university-of-minnesota-press-2024/",
-    "note": "Forfatterens publikationsoplysning identificerer navnet i omtalen af den kommende bog i D2-04."
+    "id": "foucault-subject",
+    "citation": "Michel Foucault, “The Subject and Power”. Critical Inquiry 8, nr. 4, 1982, s. 777–795, især gennemgangen af pastoral magt. DOI: 10.1086/448181.",
+    "url": "https://www.journals.uchicago.edu/doi/10.1086/448181",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-06",
+        "match": "Foucaults analyse af subjektet"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
-    "id": "magliabechi",
-    "citation": "Biblioteca Magliabechiana, IRHT Pinakes",
-    "url": "https://pinakes-dev.irht.cnrs.fr/notices/copiste-possesseur-autre/5141/",
-    "note": "Biblioteket opstod af Antonio Magliabechis donation i 1714. Navnet identificerer bibliotekaren i D3-05; anekdotens påstande er bevaret som fremført."
+    "id": "serres-parasite",
+    "citation": "Michel Serres, Le Parasite. Paris: Grasset, 1980.",
+    "url": "https://www.grasset.fr/livre/le-parasite-9782246008774/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-07",
+        "match": "det, Serres kalder en parasitisk tredjehed"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "bakhtin-rabelais",
+    "citation": "Mikhail Bakhtin, Rabelais and His World, overs. Hélène Iswolsky. Ny udgave, MIT Press, 2025. Russisk original 1965; engelsk oversættelse 1968.",
+    "url": "https://mitpress.mit.edu/9780262553131/rabelais-and-his-world/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-05",
+        "match": "Bakhtins Rabelais-bog"
+      }
+    ],
+    "verified": "2026-10-20",
+    "manuscript": [
+      12
+    ]
+  },
+  {
+    "id": "fraser-public",
+    "citation": "Nancy Fraser, “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy”. Social Text 25/26, 1990, s. 56–80. DOI: 10.2307/466240.",
+    "url": "https://www.jstor.org/stable/466240",
+    "relation": "kontekst",
+    "loci": [],
+    "manuscript": [
+      10
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "mirzoeff-look",
+    "citation": "Nicholas Mirzoeff, “The Right to Look”. Critical Inquiry 37, nr. 3, 2011, s. 473–496. DOI: 10.1086/659354.",
+    "url": "https://www.journals.uchicago.edu/doi/10.1086/659354",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D2-03",
+        "match": "Når Nicholas Mirzoeff argumenterer"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "oratio-latina",
+    "citation": "Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.",
+    "url": "sources/under-bugten/opening-latin.md",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-01",
+        "match": "Incipere reconstructionem"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "negt-kluge",
+    "citation": "Oskar Negt og Alexander Kluge, Öffentlichkeit und Erfahrung: Zur Organisationsanalyse von bürgerlicher und proletarischer Öffentlichkeit. Frankfurt am Main: Suhrkamp, 1972.",
+    "url": "https://www.suhrkamp.de/buch/oeffentlichkeit-und-erfahrung-t-9783518106396",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-05",
+        "match": "Negt og Kluge"
+      }
+    ],
+    "verified": "2026-10-20",
+    "manuscript": [
+      10
+    ]
+  },
+  {
+    "id": "virilio-vision",
+    "citation": "Paul Virilio, The Vision Machine, overs. Julie Rose. London: British Film Institute / Bloomington: Indiana University Press, 1994, s. 72–73. Fransk original: La Machine de vision, 1988.",
+    "url": "https://apo33.org/pub/PDF/Philosophie/22429545-Paul-Virilio-The-Vision-Machine.pdf",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-03",
+        "match": "Blindness is thus very much"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "praepositus",
+    "citation": "Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.",
+    "url": "https://www.dictionnaire-academie.fr/article/A9P4273",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-02",
+        "match": "Marc Prévost"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "llull-elections",
+    "citation": "Ramon Llull, Artifitium electionis personarum (før 1283), Blaquerna, kap. 24 (ca. 1283), og De arte eleccionis (1299). Faksimiler, transskriptioner og oversættelser i The Augsburg Web Edition of Llull’s Electoral Writings, red. M. Drton, G. Hägele, D. Haneberg, F. Pukelsheim og W. Reif.",
+    "url": "https://www.math.uni-augsburg.de/htdocs/emeriti/pukelsheim/llull/",
+    "relation": "kontekst",
+    "loci": [],
+    "note": "Valgskrifterne giver et særskilt forlæg til rammetekstens redegørelse for Llulls valgmetoder; de er ikke identiske med Ars magna.",
+    "manuscript": [
+      28,
+      30,
+      34,
+      41,
+      62
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "musil-qualities",
+    "citation": "Robert Musil, Der Mann ohne Eigenschaften, 1930–1932, med efterladte manuskripter. Digital udgave: Musil Online, Österreichische Nationalbibliothek.",
+    "url": "https://edition.onb.ac.at/fedora/objects/context%3Amusil/methods/sdef%3AContext/get?mode=read",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D3-07",
+        "match": "Robert Musils Manden uden egenskaber"
+      }
+    ],
+    "verified": "2026-10-20"
   },
   {
     "id": "sabae",
     "citation": "SABAE, Gustav Bunzel og Paul Smith, Arbejdsfrihedens spøgelse, CIRA katalog",
     "url": "https://www.cira.ch/catalogue/index.php?lvl=notice_display&id=6236",
-    "note": "Katalogposten identificerer navn og organisation i D1-07."
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-07",
+        "match": "SABAEs historie"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "beer-cybersyn",
+    "citation": "Stafford Beer og Project Cybersyn. ZKM, Thinking Inside Out: Cybernetics and Viable Utopias, 2025.",
+    "url": "https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-06",
+        "match": "Stafford Beer"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "hall-right",
+    "citation": "Stuart Hall, “The Great Moving Right Show”. Marxism Today, januar 1979, s. 14–20.",
+    "url": "https://banmarchive.org.uk/marxism-today/january-1979/the-great-moving-right-show/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-03",
+        "match": "The Great Moving Right Show"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "kraemer-bredekamp",
+    "citation": "Sybille Krämer og Horst Bredekamp, “Culture, Technology, Cultural Techniques – Moving Beyond Text”, overs. Michael Wutz. Theory, Culture & Society 30, nr. 6, 2013, s. 20–29. Tysk original 2003. DOI: 10.1177/0263276413496287.",
+    "url": "https://journals.sagepub.com/doi/10.1177/0263276413496287",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-05",
+        "match": "Kulturteknik kan forstås som en form"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "kraemer-flat",
+    "citation": "Sybille Krämer, “Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities”. Journal of Cultural Analytics 7, nr. 4 (2022), udgivet 27. januar 2023. DOI: 10.22148/001c.55592.",
+    "url": "https://doi.org/10.22148/001c.55592",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D2-01",
+        "match": "Kritikken kommer fra den tyske filosof"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "wynter-ceremony",
+    "citation": "Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.",
+    "url": "https://www.jstor.org/stable/302808",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-04",
+        "match": "Sylvia Wynter"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "urquhart-genealogy",
+    "citation": "Thomas Urquhart, Pantochronachanon (1652). Slægtstavlen er gengivet i John Willcock, Sir Thomas Urquhart of Cromartie, Knight (1899), tillæg I.",
+    "url": "https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-06",
+        "match": "Thomas Urquhart"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "tc-programmatism",
+    "citation": "Théorie Communiste, “Much Ado About Nothing”, afsnit 1, “The theory of programmatism”. Endnotes 1, 2008.",
+    "url": "https://www.endnotes.org.uk/issues/issue-1/theorie-communiste-much-ado-about-nothing",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D1-02",
+        "match": "Théorie Communiste kalder programmatismen"
+      },
+      {
+        "record": "D1-07",
+        "match": "programmatismens ophævelse"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "manuscript",
+    "citation": "Under Bugten, samledokument, rammetekst og teser",
+    "url": "manuscript.html",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-01"
+      },
+      {
+        "record": "D1-02"
+      },
+      {
+        "record": "D1-04"
+      },
+      {
+        "record": "D1-06"
+      },
+      {
+        "record": "D3-01"
+      },
+      {
+        "record": "D3-02"
+      },
+      {
+        "record": "D3-05"
+      },
+      {
+        "record": "D3-07"
+      },
+      {
+        "record": "D4-22"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "benjamin-artwork",
+    "citation": "Walter Benjamin, Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit (1935–1936). Udgave med kommentar af Detlev Schöttker. Frankfurt am Main: Suhrkamp, 2007.",
+    "url": "https://www.suhrkamp.de/buch/walter-benjamin-das-kunstwerk-im-zeitalter-seiner-technischen-reproduzierbarkeit-t-9783518270011",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D1-01",
+        "match": "den klassiske benjaminske tese"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "hui-sovereignty",
+    "citation": "Yuk Hui, Machine and Sovereignty: For a Planetary Thinking. University of Minnesota Press, 2024.",
+    "url": "https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/",
+    "relation": "forlæg",
+    "loci": [
+      {
+        "record": "D2-04",
+        "match": "Yuk Hui"
+      }
+    ],
+    "verified": "2026-10-20"
+  },
+  {
+    "id": "wronski-algorithms",
+    "citation": "Hoëné-Wronski, Introduction à la philosophie des mathématiques et technie de l’algorithmie. Paris: Courcier, 1811, s. 6. Gengivet og diskuteret i Francesc X. Barca i Salom, “Onofre J. Novellas y el compendio de matemáticas”, Llull 14, 1991, s. 449–477, især s. 470, note 50.",
+    "url": "https://dialnet.unirioja.es/descarga/articulo/62094.pdf#page=22",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-07",
+        "match": "Summeringsalgoritmerne"
+      }
+    ],
+    "verified": "2026-10-20"
   }
 ]

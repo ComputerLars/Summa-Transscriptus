@@ -1,5 +1,5 @@
 {
-  "edition_date": "2026-10-19",
+  "edition_date": "2026-10-21",
   "files": [
     {
       "path": ".gitignore",
@@ -18,13 +18,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 25649,
-      "sha256": "076b1539684bb4126739c2f151fee1eaaf4f0d534eca9515f2fde6f813c59484"
+      "bytes": 25898,
+      "sha256": "f78752ea7ba36a6780f623df6598140890f0c71c49cf300f59ab1d7371e66984"
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 1379215,
-      "sha256": "e9cf4c3a2554e62e7eae46717c9aef4c900781b2c47b702b05d4421fb530a01f"
+      "bytes": 1406355,
+      "sha256": "0bc4cbe4c241ef358e96fb0b3050df979d5756f4316d663eee85df453824951a"
     },
     {
       "path": "archive/2023/README.md",
@@ -373,18 +373,18 @@
     },
     {
       "path": "collectanea-pdf.js",
-      "bytes": 8497,
-      "sha256": "d71a67f6bac1625987ea43d7878b469246e9965abe74b623dd91f886323bbd5c"
+      "bytes": 8761,
+      "sha256": "81203a6fe110e75edc0fa75a0ac9970a74d73c040f236820d9fe2f99765fe44a"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.docx",
-      "bytes": 72200,
-      "sha256": "f59280e7cb1ff2bd6c8c4d82139741c35d42372e0ed8f7481a247e7112296c50"
+      "bytes": 75108,
+      "sha256": "d7fecad7b790e33fb6bbefebf5d21684b512fcb3d46cd807636ec2677a382382"
     },
     {
       "path": "disputations/01-mikhailos-boltus/reading.md",
-      "bytes": 104149,
-      "sha256": "bffa2f1ac8b7987f36e45b0c2085d5944ca42195aa852779836fcf8306b68c7b"
+      "bytes": 109112,
+      "sha256": "982f9aaf4dcbf704bd9131b0fe6dfee2291642aba53bd9c407458c8c4a0ac481"
     },
     {
       "path": "disputations/01-mikhailos-boltus/sources.json",
@@ -393,13 +393,13 @@
     },
     {
       "path": "disputations/02-maia-bacchus/reading.docx",
-      "bytes": 77544,
-      "sha256": "e441160eaeb6ab08b0f58aec4a119e0c6ee35fd251f2e71b75b492dc6a4d096f"
+      "bytes": 80298,
+      "sha256": "62366e09989b315e327c2d5cfe7afba640c277a5a7110b5dc4e6d9f4bfc192c5"
     },
     {
       "path": "disputations/02-maia-bacchus/reading.md",
-      "bytes": 123868,
-      "sha256": "724df5a19d139ac7e052cf6051da446e3b55d41bf50ef198e8f318f31db00c3f"
+      "bytes": 127612,
+      "sha256": "e5c526cac367cff70530b42bde36ce00c5e83378a1085f6bc2c0283c8311eaf5"
     },
     {
       "path": "disputations/02-maia-bacchus/sources.json",
@@ -408,13 +408,13 @@
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.docx",
-      "bytes": 66537,
-      "sha256": "02e830bc11bf4232bd76a24380449d4c52f20591586d828c6cde6acea44ee7da"
+      "bytes": 68642,
+      "sha256": "905cfa1b73386d53f9a1cd91719bced980badf76cf050c5186b50cadbc1376fe"
     },
     {
       "path": "disputations/03-petrus-borumanum/reading.md",
-      "bytes": 89535,
-      "sha256": "ac126c3a1be7c6d52f253731d2e95fd25b0f97441b84f6a471ed55bcffabbff9"
+      "bytes": 92797,
+      "sha256": "a2f4ea734849750707abc5bccdbcf8c5fd4500d3b7e3f130b300fc27f7718782"
     },
     {
       "path": "disputations/03-petrus-borumanum/sources.json",
@@ -423,13 +423,13 @@
     },
     {
       "path": "disputations/04-logistique/reading.docx",
-      "bytes": 64878,
-      "sha256": "8fa73685468b8e207866c9452a02ab9a6bb5fe9311846ef74fad6fb033e4cd22"
+      "bytes": 65367,
+      "sha256": "4e8803b33d084b95e564fd7a59f95b01b25a57be5ee2901049ad447889b11c04"
     },
     {
       "path": "disputations/04-logistique/reading.md",
-      "bytes": 85618,
-      "sha256": "41f174893334e6d1fc526e68b7391ca51ae2dcbc037513727158d735f7ae270c"
+      "bytes": 86069,
+      "sha256": "76928ea8261e38441a0404b523637c8a41c629c840b7e1adce357ff7314441da"
     },
     {
       "path": "disputations/04-logistique/sources.json",
@@ -448,8 +448,8 @@
     },
     {
       "path": "documentation/editorial-principles.md",
-      "bytes": 1302,
-      "sha256": "f00fd61593418a7d4d8cdcc78c751dd0c6ce28e900c1c5ccf73f96dfb422a7bf"
+      "bytes": 1483,
+      "sha256": "f1367731caca79307c87e904a3defa075cb4b0ccaba3700add519449db9124a9"
     },
     {
       "path": "documentation/hyperbook-sources.json",
@@ -463,8 +463,8 @@
     },
     {
       "path": "documentation/paragraph-boundaries.json",
-      "bytes": 994702,
-      "sha256": "bf7b36802f9dc736be20a93cdf826dfe8f07a979db1643414fc19f1ec7f6b3f5"
+      "bytes": 994410,
+      "sha256": "7476ee394083b7152d05c8a210816148b3039be1898e532aee7b13fffd61d7e5"
     },
     {
       "path": "documentation/position-readings.json",
@@ -473,8 +473,8 @@
     },
     {
       "path": "documentation/reading-corrections.json",
-      "bytes": 275948,
-      "sha256": "446dad4450ea941d71e0ae33a11d4c20004163c98bb85648bff4df86fc5b04a6"
+      "bytes": 279931,
+      "sha256": "f5bb56a986914a48ce5b160c99be058ff6c4c5165f0295c9867b146679f2db42"
     },
     {
       "path": "documentation/reading-paragraphs.json",
@@ -483,8 +483,8 @@
     },
     {
       "path": "documentation/reading-prose.json",
-      "bytes": 17359,
-      "sha256": "937cdbdeb9becd6980ce3afd1479df2f46f63b3f82c08b192b54f1acfb2ef197"
+      "bytes": 18978,
+      "sha256": "86ccf12283edd08d0bd2a2b68673c373059217e744e455dd0a4caefcdb3ba6f2"
     },
     {
       "path": "documentation/recordings.json",
@@ -498,13 +498,13 @@
     },
     {
       "path": "documentation/references.json",
-      "bytes": 4482,
-      "sha256": "c0df48bb545a67136dd69eb088997caa1ae761cb613ba03ec1e5e31cda638dae"
+      "bytes": 23098,
+      "sha256": "ffe76f9b031a44df5e8add9ab48bc0b1b5cf241593a51b9dc2becb478cba4bc0"
     },
     {
       "path": "documentation/references.md",
-      "bytes": 3692,
-      "sha256": "9af055529b14492cdee7a48ecf38c7257efbbe55076a8ab3a022e9c2b327ffbf"
+      "bytes": 21776,
+      "sha256": "830d15c2cef26b1005ee7ab50de0f8cd3e7d9629bc3e2f58214277f3536835a2"
     },
     {
       "path": "documentation/speaker-boundaries.json",
@@ -538,18 +538,18 @@
     },
     {
       "path": "hyperbook-data.json",
-      "bytes": 2287042,
-      "sha256": "00c62572df45f10bd35e1d9bf1352f9b6d94912661962c03b3260efa121c4943"
+      "bytes": 2338880,
+      "sha256": "0d2f975d98b2926e157d07eacb282f00f68c5c4106586cbe77e15d8091f39f69"
     },
     {
       "path": "hyperbook.css",
-      "bytes": 13359,
-      "sha256": "408724c337f3a1a6916a0175a91ea4884e23e870682ad868ee3352178c279b44"
+      "bytes": 13647,
+      "sha256": "31bff9d1cbdfaf4715341659c46eef9ed84e0118ad8295e29a5795ccba6927a8"
     },
     {
       "path": "hyperbook.js",
-      "bytes": 27698,
-      "sha256": "3e47e7e433e3533bf89f35701c3f10048bda9ffb52d8df970634ed289a7019a2"
+      "bytes": 29016,
+      "sha256": "7c9beaf23b84b8f8210c9a92d1c7a139d338b1663bf645895695972f67b57706"
     },
     {
       "path": "index.html",
@@ -582,24 +582,29 @@
       "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
     },
     {
+      "path": "scripts/bibliography.py",
+      "bytes": 3100,
+      "sha256": "ed0eea2f254c89bd57cb4436dbb82158c4c28e0e78e35c6fefc78b27208545e2"
+    },
+    {
       "path": "scripts/build_reading_documents.py",
-      "bytes": 3020,
-      "sha256": "962f3f0bfd01df6f9908afc1fbe78a2828deed55a8852bbb00d9949610465a45"
+      "bytes": 4180,
+      "sha256": "4ea35bf1f2d3518edf6d9c75b9d9265cffbe46d8894e1879d5d06c8fbb0deda6"
     },
     {
       "path": "scripts/build_readme.py",
-      "bytes": 5926,
-      "sha256": "b85e72b8f88a7a7f78b90a0e4811b3214bf82806370560ab7531e89763fbaf94"
+      "bytes": 6226,
+      "sha256": "11d6da77a90f3ad6fb771543d9ca01d54ee4ab5f3420db02c4a0913e130d3613"
     },
     {
       "path": "scripts/build_scroll.py",
-      "bytes": 17550,
-      "sha256": "4e36b5331c0c07042807ea74cb68757f9434052b2521f93234e0c438962f6424"
+      "bytes": 13875,
+      "sha256": "6750c72f20c9d068144bf4535a2488572eca6a9a333e2c31178ad73e8dc73161"
     },
     {
       "path": "scripts/refresh_manifest.py",
-      "bytes": 659,
-      "sha256": "e9f8084ab8497d8824f86f15611264724f40cbbdfd366ee34c919d1d37abb1d6"
+      "bytes": 707,
+      "sha256": "06a5b497719f1b3320953cb18c20c752828c560fcce09f868593d784251e6c40"
     },
     {
       "path": "seek-controls.css",
@@ -893,8 +898,8 @@
     },
     {
       "path": "sources/under-bugten/photos/README.md",
-      "bytes": 2409,
-      "sha256": "987561c7edd5d9b5f346b359e0f7f3c350513a09bbaf2240b5a982ab611a5609"
+      "bytes": 2453,
+      "sha256": "8d27203dbb654953c9ff65cdc38340bea74b7410414a315a69b7ee1b2acbcc2d"
     },
     {
       "path": "sources/under-bugten/photos/akkumulatorerne.jpg",

@@ -108,6 +108,10 @@ Ja, der ligger vel også en relation egentlig. Det, at Proust er nødt til at br
 
 Disputationen af tesen »Hos Computer Lars inverteres den proustske teksts relation mellem imaginær rekursivitet og strukturel irreduktibilitet« er nu afsluttet.
 
+### Henvisninger
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
 ## D3-02 · Antitese · Computer Lars’ etymologi er beregningens triumf
 
 <a id="D3-02-U001"></a>
@@ -262,6 +266,14 @@ Digterens triumf er jo ofte resignationen.
 
 Disputationen af tese B, Computer Lars’ etymologi er beregningens triumf, er nu afsluttet. Tese B, Computer Lars’ etymologi er beregningens triumf, er nu afsluttet.
 
+### Henvisninger
+
+[25] [Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars)
+
+[36] [Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.](https://www.dictionnaire-academie.fr/article/A9P4273)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
 ## D3-03 · Tese · Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser pr. analogi
 
 <a id="D3-03-U001"></a>
@@ -391,6 +403,10 @@ Måske symbolske. Måske er vi her i en situation, hvor analogien helt kan forsv
 **Praeses · 00:18:57**
 
 Disputationen af tesen »Den kybernetiske operationalisering tilvejebringer aposterioriske virkelighedsbetingelser per analogi, ergo genererer Leder Lars nye interessegrupper og nye politiske problemer« er nu afsluttet.
+
+### Henvisninger
+
+[17] [Jf. Jean-François Lyotard, The Postmodern Condition: A Report on Knowledge, overs. Geoffrey Bennington og Brian Massumi. Minneapolis: University of Minnesota Press, 1984. Fransk original 1979.](https://www.upress.umn.edu/9780816611737/the-postmodern-condition/)
 
 ## D3-04 · Antitese · Poetisk og militær hæder bestemmes som feltaritmetik
 
@@ -622,6 +638,14 @@ Bibliotekarenheder, der forsøger at gennemløbe biblioteket gennem læsning, og
 
 Disputationen af tesen »I Biblioteket i Babel er ethvert gennemløb overtalligt i forhold til sin kombinatorik« er nu afsluttet.
 
+### Henvisninger
+
+[4] [Jf. Antonio Magliabechi (1633–1714). Biblioteca Nazionale Centrale di Firenze, The origins and evolution of the Magliabechiana library.](https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/)
+
+[18] [Jorge Luis Borges, “La biblioteca de Babel”. Obras completas, bind I. Buenos Aires: Emecé, 1989. Uddrag fra s. 468 hos Instituto Cervantes.](https://cvc.cervantes.es/actcult/borges/elementos/11a.htm)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
 ## D3-06 · Antitese · Rekursivitet som tidssløjfe er bevidsthedens mediale struktur
 
 <a id="D3-06-U001"></a>
@@ -693,6 +717,12 @@ Hvis vi forestiller os, at det går til rummet med to veje, fra udstrækningen t
 **Praeses · 00:19:19**
 
 Disputationen af tesen »Rekursivitet som tidssløjfe er bevidsthedens mediale struktur« er nu afsluttet.
+
+### Henvisninger
+
+[9] [Jf. Douglas R. Hofstadter, I Am a Strange Loop. New York: Basic Books, paperback 2008 [2007].](https://www.hbglibrary.com/titles/douglas-r-hofstadter/i-am-a-strange-loop/9780465030798/)
+
+[24] [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
 
 ## D3-07 · Tese · Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft
 
@@ -800,6 +830,16 @@ Det er lidt det, jeg godt kan føle, Leder Lars er for mig. Det er den dagligdag
 
 Et af Computer Lars' to legemer afleverer tese, argument. Disputationen af tesen: »En komputation, der erstatter uralgoritmerne roduddragelse og hævelse til potenser med uralgoritmerne division og multiplikation, afskærer sig fra fornuften, men bevarer muligheden for at være eller ikke være dum«, er nu afsluttet.
 
+### Henvisninger
+
+[15] [Immanuel Kant, Kritik der reinen Vernunft (1781/1787), “Transzendentale Doktrin der Urteilskraft”, indledningen, noten om Dummheit. Engelsk: J. M. D. Meiklejohn, The Critique of Pure Reason, note 26.](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
+
+[38] [Robert Musil, Der Mann ohne Eigenschaften, 1930–1932, med efterladte manuskripter. Digital udgave: Musil Online, Österreichische Nationalbibliothek.](https://edition.onb.ac.at/fedora/objects/context%3Amusil/methods/sdef%3AContext/get?mode=read)
+
+[47] [Under Bugten, samledokument, rammetekst og teser](https://computerlars.github.io/Summa-Transscriptus/manuscript.html)
+
+[50] [Jf. Hoëné-Wronski, Introduction à la philosophie des mathématiques et technie de l’algorithmie. Paris: Courcier, 1811, s. 6. Gengivet og diskuteret i Francesc X. Barca i Salom, “Onofre J. Novellas y el compendio de matemáticas”, Llull 14, 1991, s. 449–477, især s. 470, note 50.](https://dialnet.unirioja.es/descarga/articulo/62094.pdf#page=22)
+
 ## D3-08 · Antitese · Intelligens er objektivt stupidt, og vice versa
 
 <a id="D3-08-U001"></a>
@@ -884,7 +924,7 @@ Subjektiv. Ja. Så er det muligt, at den går fejl af distinktionen mellem stupi
 
 Men det spørgsmål mellem problemløsningen og for så vidt også problemopstillingen og intelligens synes afhængigt af, at problemets, som man vil sige på fransk, data og givne kendsgerninger, som er med til at konstituere det, er afhængige af dels en horisont, dels nogle handlemuligheder. Idet handlemuligheder og opfattelsesmuligheder er indbyrdes solidariske på en måde, som har med den enkelte opfattende og handlende entitet at gøre. Morin skriver lignende om vanskelighederne ved intelligenstest, at de for det første ikke er til at lave culture-free.
 
-Når man går fra mennesket til dyret, er de ikke til at lave instinktfri. Og når frem til, at man ikke kan sige, at amøben er mindre intelligent, når den kan bevæge sig og spise uden at have organerne mund og ben, end for eksempel andre bevægelser. Vi opfatter chimpansen som intelligent, når den gør noget med hænderne. Men hvad siger det om vores forhold til hunden? Hvilket er, så at sige, at intelligensbegrebet i sig selv er mere eller mindre opløst, så snarere anvendt i systemet, i et givet systems opfattelsesmuligheder og handlemuligheder. Hvilket så ville føre frem til at sige, at intelligens måske kunne frafaldes som en term ved siden af termen krop, termen art eller termen opfattende og handlende entitet, og dermed et objektivt forhold, ved hvilket der ved siden af kun opstår en subjektiv stupiditetsvurdering, som vi kalder dumhedsvurdering, i diskrepansen mellem det ene og det andet intelligensfelt, der står frem over for hinanden. Men det er muligt, at denne antitese er på forhånd afvist, at du har… Med deres blotte tilstedeværelsessammenhæng som intelligensmuligheden, stupiditeten.
+Når man går fra mennesket til dyret, er de ikke til at lave instinktfri. Og når frem til, at man ikke kan sige, at amøben er mindre intelligent, når den kan bevæge sig og spise uden at have organerne mund og ben, end for eksempel andre bevægelser. Vi opfatter chimpansen som intelligent, når den gør noget med hænderne. Men hvad siger det om vores forhold til hunden? Hvilket er, så at sige, at intelligensbegrebet i sig selv er mere eller mindre opløst, så snarere anvendt i systemet, i et givet systems opfattelsesmuligheder og handlemuligheder. Hvilket så ville føre frem til at sige, at intelligens måske kunne frafaldes som en term ved siden af termen krop, termen art eller termen opfattende og handlende entitet, og dermed et objektivt forhold, ved hvilket der ved siden af kun opstår en subjektiv stupiditetsvurdering, som vi kalder dumhedsvurdering, i diskrepansen mellem det ene og det andet intelligensfelt, der står frem over for hinanden. Men det er muligt, at denne antitese på forhånd er modbevist af Bouvard og Pécuchet.
 
 <a id="D3-08-U013-2"></a>
 
@@ -937,6 +977,14 @@ Det tror jeg også stemmer overens med Heideggers dumhedsbegreb, som er kanonisk
 **Praeses · 00:19:03**
 
 Diskussionen af tesen »Intelligens er objektivt stupidt, og vice versa« er nu afsluttet. »Intelligens er objektivt stupidt, og vice versa« er nu afsluttet.
+
+### Henvisninger
+
+[12] [Gustave Flaubert, Bouvard et Pécuchet: œuvre posthume. Paris: Alphonse Lemerre, 1881. BnF cb32110099x.](https://catalogue.bnf.fr/ark:/12148/cb32110099x)
+
+[23] [Marcel Proust, Contre Sainte-Beuve, red. Bernard de Fallois. Paris: Gallimard, 1954, “Préface”, s. 55–63; åbningssætningen s. 55.](https://fr.wikisource.org/wiki/Contre_Sainte-Beuve/Pr%C3%A9face)
+
+[24] [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
 
 ## D3-09 · Pseudotese · Pseudotese
 

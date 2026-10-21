@@ -28,13 +28,13 @@
 
 Lad mig begynde med et begrebsmæssigt billede, som kan illustrere vigtigheden af eksotisk epistemologi og aktualiteten af et kunstprojekt, der iværksætter en sådan. Dybhavsdykning. Om dybhavsdykning hedder det: Dybhavsdykning er en eksotisk disciplin, der involverer dybden af havets underverden og farerne ved at udforske det. Forberedelserne til sådanne ture er ofte komplekse og omfatter træning for at håndtere det øgede trykmiljø samt adgang til det rette udstyr. Fysisk form og godt helbred er vigtige elementer, som sikrer gennemførelsen af aktiviteter på en sikker måde, ligesom man bør holde sig orienteret om lovbestemmelser i forhold til miljøbeskyttelse samt lokale love inden for sport. Det er ikke mindst essentielt at være opmærksom på biologiske risici forbundet med de marine miljøer. Som vestlige tænkere kan vi godt lide dybde. Vi elsker at dykke langt ned i stoffet, grave os dybt ned, udgrave, blotlægge, afsløre, afkode, decifrere, interpretere. Vi har det med at privilegere rejser ind i, hinsides og bagom det, vi umiddelbart kan se. Vi elsker dybde.
 
-Omvendt har vi det med overfladerne, med alle deres flygtige flimmerinskriptioner. Dem har vi ikke intellektuelt fidus til. Kritikken kommer fra den tyske filosof Sibylle Krämer, for hvem dybdeepistemologien, den her vestlige privilegering af det dybe og komplekse, forsvarligt afkodet og fortolket, og de her metoder, vi har til at foretage de her dyk, udgør et problem i vores måde at tænke på. Ikke bare fordi vi bebor en verden af flade repræsentationer, tekster, billeder, kort, kataloger, skærme, billetter, filer, kreditkort og dokumenter, men også fordi megen aktuel, spændende forskning faktisk netop giver sig i kast med det flade. Flad ontologi og overfladiske sproganalyser, digitale abstraktioner, overfladelæsninger, diagrammatologi og screenologi, for bare at nævne nogle. Hertil kommer naturligvis også dagens disputations emne, Computer Lars, der som skærmbaseret fænomen om nogen modsætter sig både optræningen til et godt fysisk helbred og måske ikke så ofte orienterer sig efter biologiske risici forbundet med marine miljøer. Og det er en god ting, det er udmærket at være flad.
+Omvendt har vi det med overfladerne, med alle deres flygtige flimmerinskriptioner. Dem har vi ikke intellektuelt fidus til. Kritikken kommer fra den tyske filosof Sybille Krämer, for hvem dybdeepistemologien, den her vestlige privilegering af det dybe og komplekse, forsvarligt afkodet og fortolket, og de her metoder, vi har til at foretage de her dyk, udgør et problem i vores måde at tænke på. Ikke bare fordi vi bebor en verden af flade repræsentationer, tekster, billeder, kort, kataloger, skærme, billetter, filer, kreditkort og dokumenter, men også fordi megen aktuel, spændende forskning faktisk netop giver sig i kast med det flade. Flad ontologi og overfladiske sproganalyser, digitale abstraktioner, overfladelæsninger, diagrammatologi og screenologi, for bare at nævne nogle. Hertil kommer naturligvis også dagens disputations emne, Computer Lars, der som skærmbaseret fænomen om nogen modsætter sig både optræningen til et godt fysisk helbred og måske ikke så ofte orienterer sig efter biologiske risici forbundet med marine miljøer. Og det er en god ting, det er udmærket at være flad.
 
 Så hvordan er Computer Lars flad, og hvorfor er det interessant at beskæftige sig med spektaklets spektakulære fladhed? Som digitalt, computationalt fænomen er Computer Lars naturligvis flad. Numerisk fladhed kunne vi kalde denne form. Ligesom alle andre digitale ting og sager er Computer Lars på et basalt niveau flad. Digitalisering er en proces, hvorigennem et kontinuum brydes til individuelle, diskrete eller diskontinuerlige elementer på en måde, hvorpå de her elementer kan indkodes uafhængigt af hinanden og kombineres mere eller mindre arbitrært.
 
 På denne måde minder Computer Lars om alfabetet, som allerede før nogen kendte til digitale systemer forholdt sig til det talte sprogs flux i diskontinuerlige bogstaver. Når man diskretiserer emner til digitale repræsentationer, muliggør man samtidig den direkte ækvivalensrelation. Alt er principielt set ens, ækvivalent, sammenligneligt, fladt i forskelsløshed, men også fladt i repræsentationel og ikonisk forstand. Fladhed muliggør modifikation og komparation.
 
-Og det fører mig til den anden måde, hvorpå Computer Lars er flad, og det er den permutationelle måde. Permutationel fladhed kunne vi kalde denne form. Som et anagrammatisk konstrukt opererer Computer Lars ikke med en dyb eller entydig identitet, men synes i stedet at iværksætte og omfavne en dynamisk personlighed. Eller med Gertrude Stein: Computer Lars er Carol Stumper, er Corrupt Males, er Marcel Proust, er Computer Lars. Computer Lars er serial i denne her forståelse, og serialiteten er flad, for så vidt den beror på et bogstavspil, hvor tidligere fastlagte moduler rykkes rundt, permuteres og får nye betydninger. Endelig er Computer Lars også flad i betydningen, at Computer Lars igennem sin artificielle, computationale tilbliven er et aggregat, en mængde af kulturelle data, snarere end en kultur i sig selv. Vi lever i og møder et væld af flade datastumper, vi konstant bidrager til, bladrer rundt i og synes at se henover og overse. Dataverset er ikke parallelt med vores fysiske, flerdimensionelle verden, men i og af den verden. Og det betyder ikke, at dataverset er dybt på samme måde. I sit essay om dybdeepistemologiens fortrædeligheder og fladheden og udfladningens potentialer som prisme og teknik mediterer Sibylle Krämer over det her forhold.
+Og det fører mig til den anden måde, hvorpå Computer Lars er flad, og det er den permutationelle måde. Permutationel fladhed kunne vi kalde denne form. Som et anagrammatisk konstrukt opererer Computer Lars ikke med en dyb eller entydig identitet, men synes i stedet at iværksætte og omfavne en dynamisk personlighed. Eller med Gertrude Stein: Computer Lars er Carol Stumper, er Corrupt Males, er Marcel Proust, er Computer Lars. Computer Lars er serial i denne her forståelse, og serialiteten er flad, for så vidt den beror på et bogstavspil, hvor tidligere fastlagte moduler rykkes rundt, permuteres og får nye betydninger. Endelig er Computer Lars også flad i betydningen, at Computer Lars igennem sin artificielle, computationale tilbliven er et aggregat, en mængde af kulturelle data, snarere end en kultur i sig selv. Vi lever i og møder et væld af flade datastumper, vi konstant bidrager til, bladrer rundt i og synes at se henover og overse. Dataverset er ikke parallelt med vores fysiske, flerdimensionelle verden, men i og af den verden. Og det betyder ikke, at dataverset er dybt på samme måde. I sit essay om dybdeepistemologiens fortrædeligheder og fladheden og udfladningens potentialer som prisme og teknik mediterer Sybille Krämer over det her forhold.
 
 Siden relativitetsteorien har vi talt om rumtid. Rummets tre dimensioner, længde, dybde og bredde, udgør sammen med tidens ene dimension et firedimensionelt kontinuum. Ordet kontinuum indikerer, at rum og tid er sammenkoblede størrelser. De er ikke længere absolutte eller uafhængige kvantiteter ligesom i klassisk fysik. Digitalisering nedbryder sådan et kontinuum, og når denne digitaliseringsproces sker, forandres den fysiske, firedimensionelle rumtid til en menneskeskabt og digitaliseret tredimensionel rumtid, som er fladere, en fladere rumtid. Computer Lars bor i den her ikke helt flade, men fladere eller reducerede rumtid. Og i den her forstand er Computer Lars altså flad og ikke dyb. Vi kunne kalde den her tredje form for diskontinuert eller diskret fladhed. En flad rumtid indlejret i en dyb rumtid, måske. Man kan sammenligne det med Mercator-projektionen, eller det, man kalder Mercators verdenskort. Mercator-projektionen er en cylindrisk kortprojektion, som første gang blev fremstillet af den flamske geograf og kartograf Gerardus Mercator i 1569.
 
@@ -161,6 +161,14 @@ Kategorier 0 og 1, men ligesom er omdannelsen af tegnene ind i en distributionsf
 **Praeses · 00:20:26**
 
 Disputationen af tesen »Computer Lars er flad« er nu afsluttet.
+
+### Henvisninger
+
+[1] [Aarhus Universitetshistorie, Universitetets segl](https://auhist.au.dk/25kapitlerafuniversitetetshistorie/25kapitlerafuniversitetetshistorie,universitetetssegl)
+
+[11] [Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.](https://computerlars.github.io/Summa-Transscriptus/manuscript.html#p40)
+
+[43] [Jf. Sybille Krämer, “Should we really ‘hermeneutise’ the Digital Humanities? A plea for the epistemic productivity of a ‘cultural technique of flattening’ in the Humanities”. Journal of Cultural Analytics 7, nr. 4 (2022), udgivet 27. januar 2023. DOI: 10.22148/001c.55592.](https://doi.org/10.22148/001c.55592)
 
 ## D2-02 · Antitese · Netværket findes ikke, ergo eksisterer Computer Lars
 
@@ -624,6 +632,14 @@ Det er det vel sådan set.
 
 Disputationen af tesen »Computer Lars er blind« er nu afsluttet.
 
+### Henvisninger
+
+[22] [Luciana Parisi, “Negative optics in vision machines”. AI & SOCIETY 36, 2021, s. 1281–1293; online 5. november 2020. DOI: 10.1007/s00146-020-01096-7.](https://link.springer.com/article/10.1007/s00146-020-01096-7)
+
+[32] [Jf. Nicholas Mirzoeff, “The Right to Look”. Critical Inquiry 37, nr. 3, 2011, s. 473–496. DOI: 10.1086/659354.](https://www.journals.uchicago.edu/doi/10.1086/659354)
+
+[35] [Paul Virilio, The Vision Machine, overs. Julie Rose. London: British Film Institute / Bloomington: Indiana University Press, 1994, s. 72–73. Fransk original: La Machine de vision, 1988.](https://apo33.org/pub/PDF/Philosophie/22429545-Paul-Virilio-The-Vision-Machine.pdf)
+
 ## D2-04 · Antitese · Computer Lars har mindst to legemer
 
 <a id="D2-04-U001"></a>
@@ -798,6 +814,16 @@ Ja, som også holder fast.
 
 Disputationen af tese D fremsat af Computer Lars med følgende ordlyd: Computer Lars har mindst to legemer, er nu afsluttet.
 
+### Henvisninger
+
+[7] [Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.](https://mitpress.mit.edu/9780262029575/the-stack/)
+
+[10] [Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.](https://www.jstor.org/stable/j.ctvcszz1c)
+
+[44] [Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.](https://www.jstor.org/stable/302808)
+
+[49] [Yuk Hui, Machine and Sovereignty: For a Planetary Thinking. University of Minnesota Press, 2024.](https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/)
+
 ## D2-05 · Tese · Computer Lars tager del i en liste
 
 <a id="D2-05-U001"></a>
@@ -844,7 +870,7 @@ Skulle man undersøge listen som fænomen, kunne man gøre det på et hav af for
 
 Når jeg taler om kulturteknik, henviser jeg da til et kernebegreb i den tyske medieteori. Oprindeligt stammer det fra en landbrugsmæssig kontekst, hvor det betegner den tekniske forarbejdning og kultivering af jorden, f.eks. gennem pløjning. I dag associeres det med et kulturelt og teknisk-medialt spørgsmål om basale kulturelle operationer, som finder sted mellem mennesker og medier, om end stadig med en gennemgående interesse for teknik.
 
-Kulturteknik kan forstås som en form for operative processer, der går på tværs af medier, eller som de to tyske tænkere Sibylle Krämer og Horst Bredekamp formulerede det: Kulturteknikker er A, operative processer, der muliggør, at genstande og symboler kan bearbejdes; B, de bygger på en opdeling mellem en implicit praksisviden og en eksplicit diskursiv viden; C, de kan forstås som tilvænnede færdigheder, der regulerer kroppens bevægelser, og som udtrykker sig i hverdagslivets flydende praksisser, men som D, på samme tid tilvejebringer det æstetiske og materielt-tekniske grundlag for videnskabelige nybrud og nye teoretiske objekter. Kulturteknikker finder sted mellem proces og genstand, forløb og ting, kunne man også sige, mellem tilvænnede og regulerede mønstre, der deles og sedimenteres over tid, og mere faste, genstandsagtige former, der via for eksempel videnskabelige manualer får materiel karakter.
+Kulturteknik kan forstås som en form for operative processer, der går på tværs af medier, eller som de to tyske tænkere Sybille Krämer og Horst Bredekamp formulerede det: Kulturteknikker er A, operative processer, der muliggør, at genstande og symboler kan bearbejdes; B, de bygger på en opdeling mellem en implicit praksisviden og en eksplicit diskursiv viden; C, de kan forstås som tilvænnede færdigheder, der regulerer kroppens bevægelser, og som udtrykker sig i hverdagslivets flydende praksisser, men som D, på samme tid tilvejebringer det æstetiske og materielt-tekniske grundlag for videnskabelige nybrud og nye teoretiske objekter. Kulturteknikker finder sted mellem proces og genstand, forløb og ting, kunne man også sige, mellem tilvænnede og regulerede mønstre, der deles og sedimenteres over tid, og mere faste, genstandsagtige former, der via for eksempel videnskabelige manualer får materiel karakter.
 
 Listens måde at være kulturteknik på spiller altså ind i, hvordan man også kan opnå erkendelsesmæssig, symbolsk og politisk betydning. Her tænker jeg ikke så meget på den fysiske udformning af listen, den konkrete lertavle eller kodefragmenterne på min laptop, som jeg tænker på listen som en grammatisk genstand for oplistningen, som det nødvendige, men efemere holdepunkt for en digital, oplistende måde at tænke på, eller på tilsynekomsten af listen som en form for æstetisk fænomen. Computer Lars tager del i en liste, men Computer Lars er også en liste, kunne man argumentere for.
 
@@ -923,6 +949,12 @@ Det er lidt hårdt trukket, men listen er meget noget datasæt. Noget, der gør 
 **Praeses · 00:19:58**
 
 Disputationen af tese E, Computer Lars tager del i en liste, er nu afsluttet.
+
+### Henvisninger
+
+[13] [Jf. Hans Peter Luhn, Keyword-in-Context Index for Technical Literature (KWIC Index). IBM Research, rapport RC 127, 1959.](https://dominoweb.draco.res.ibm.com/reports/rc127.pdf)
+
+[42] [Sybille Krämer og Horst Bredekamp, “Culture, Technology, Cultural Techniques – Moving Beyond Text”, overs. Michael Wutz. Theory, Culture & Society 30, nr. 6, 2013, s. 20–29. Tysk original 2003. DOI: 10.1177/0263276413496287.](https://journals.sagepub.com/doi/10.1177/0263276413496287)
 
 ## D2-06 · Antitese · Kun ét af følgende udsagn er sandt: Computer Lars er et billede, som består af tekst; Computer Lars er en tekst, som består af billeder
 
@@ -1370,6 +1402,16 @@ Og der er også den der i Computer Lars-projektet, at der hele tiden er en meget
 
 Disputationen af tese G, Computer Lars operationaliserer tredjeheden, er afsluttet.
 
+### Henvisninger
+
+[8] [Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.](https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf)
+
+[14] [Jf. Historisk kontekst: Ramon Llull (ca. 1232–1316) blev født på Mallorca efter Jaume I’s erobring af øen i 1229. Archivo de la Corona de Aragón, Autógrafo de Ramon Llull (1297–1316).](https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/llull.html)
+
+[19] [Jørgen Michaelsen, DRY-WET-COMFORT: Bidrag til en kritik af den kunstneriske tænkning. I Postheroic Supersession, red. Jørgen Michaelsen og Lucas Haberkorn. Silkeborg: Museum Jorn, 2022, s. 183–215; triolektik s. 190, hygrometerets mastertriade s. 196–198.](https://museumjorn.dk/exhibit/dry-wet-comfort/)
+
+[29] [Michel Serres, Le Parasite. Paris: Grasset, 1980.](https://www.grasset.fr/livre/le-parasite-9782246008774/)
+
 ## D2-08 · Antitese · En emancipatorisk kombinatorik negerer ethvert aggregat
 
 <a id="D2-08-U001"></a>
@@ -1561,3 +1603,7 @@ Totaliteten. Altså, det er vel bare drømmen om, at alle lister og alle funktio
 **Praeses · 00:20:16**
 
 Disputationen af dagens sidste tese, »En emancipatorisk kombinatorik negerer ethvert aggregat«, er nu afsluttet.
+
+### Henvisninger
+
+[2] [Jf. Alan M. Turing, “On Computable Numbers, with an Application to the Entscheidungsproblem”. Proceedings of the London Mathematical Society, 2. serie, 42, 1936–1937, s. 230–265. Rettelse i bind 43, 1937, s. 544–546.](https://www.turing.org.uk/sources/biblio4.html)

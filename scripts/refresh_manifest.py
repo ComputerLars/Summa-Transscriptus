@@ -7,5 +7,5 @@ for name in sorted(set(names)):
  p=R/name
  if not name or name=='FILE-MANIFEST.json' or not p.is_file():continue
  b=p.read_bytes();files.append({'path':name,'bytes':len(b),'sha256':hashlib.sha256(b).hexdigest()})
-(R/'FILE-MANIFEST.json').write_text(json.dumps({'edition_date':'2026-10-19','files':files},ensure_ascii=False,indent=2)+'\n')
+(R/'FILE-MANIFEST.json').write_text(json.dumps({'edition_date':json.loads((R/'hyperbook-data.json').read_text())['edition'],'files':files},ensure_ascii=False,indent=2)+'\n')
 print('Manifest:',len(files),'files')

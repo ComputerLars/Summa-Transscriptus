@@ -179,7 +179,10 @@ def build():
   r['utterances']=turns
   n=int(r['id'].split('-')[1]);r['position']='Pseudotese' if r['id']=='D3-09' else 'Metatese' if r['group']==4 else 'Tese' if n%2 else 'Antitese'
   r['pair']=None if r['group']==4 or r['id']=='D3-09' else r['id'][:-2]+f'{n if n%2 else n-1:02}'
-  # The public reading files use the same grouped turns and real paragraphs.
+ from bibliography import attach
+ attach(h)
+ additional_refs={'D3-02':[ref for ref in h['record_references']['D3-02']if ref['id']in ('praepositus','martius')]}
+ # The public reading files use the same grouped turns and real paragraphs.
  for g in h['groups']:
   text=['# '+g['guest']+' og Computer Lars',g['date']]
   for rid in g['records']:
@@ -188,40 +191,19 @@ def build():
     text += ['<a id="'+u+'"></a>'for u in t['units']]
     secs=int(t['start']);clock=f'{secs//3600:02}:{secs%3600//60:02}:{secs%60:02}'
     text+=['**'+t['speaker']+' · '+clock+'**',*t['blocks']]
+   if h['record_references'].get(rid):
+    text+=['### Henvisninger']
+    for ref in h['record_references'][rid]:
+     url=ref['url']if ref['url'].startswith('http')else 'https://computerlars.github.io/Summa-Transscriptus/'+ref['url']
+     text+=['['+str(ref['number'])+'] ['+ref['display']+']('+url+')']
   (R/g['path']/'reading.md').write_text('\n\n'.join(text)+'\n')
- additional_refs={
- 'D1-01':[{'id':'oratio-latina','citation':'Oratio latina · rekonstrueret forlæg efter Hans-Jørgen Schanz, Til rekonstruktionen af kritikken af den politiske økonomis omfangslogiske status. Aarhus: Modtryk, 1973.','url':'sources/under-bugten/opening-latin.md'}],
- 'D2-01':[{'id':'anagrams','citation':'Figur 1: Anagrammer af Computer Lars. Samledokumentet, §40, 2023.','url':'manuscript.html#p40'}],
- 'D3-02':[{'id':'praepositus','citation':'Prévôt, fra latin praepositus. Dictionnaire de l’Académie française, 9. udgave.','url':'https://www.dictionnaire-academie.fr/article/A9P4273'},{'id':'martius','citation':'Martius: tilhørende Mars. Lewis & Short, A Latin Dictionary (1879), “Mars”, III.','url':'https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DMars'}],
- 'D2-04':[{'id':'bratton-stack','citation':'Benjamin H. Bratton, The Stack: On Software and Sovereignty. MIT Press, 2016.','url':'https://mitpress.mit.edu/9780262029575/the-stack/'},{'id':'wynter-ceremony','citation':'Sylvia Wynter, The Ceremony Must Be Found: After Humanism. boundary 2, 12/13, 1984, pp. 19–70.','url':'https://www.jstor.org/stable/302808'},{'id':'kantorowicz','citation':'Ernst H. Kantorowicz, The King’s Two Bodies: A Study in Mediaeval Political Theology. Princeton University Press, 1957.','url':'https://www.jstor.org/stable/j.ctvcszz1c'}],
- }
- additional_refs['D1-06']=[
-  {'id':'beer-cybersyn','citation':'Stafford Beer og Project Cybersyn. ZKM, Thinking Inside Out: Cybernetics and Viable Utopias, 2025.','url':'https://zkm.de/en/2025/01/thinking-inside-out-cybernetics-and-viable-utopias'},
-  {'id':'urquhart-genealogy','citation':'Thomas Urquhart, Pantochronachanon (1652). Slægtstavlen er gengivet i John Willcock, Sir Thomas Urquhart of Cromartie, Knight (1899), tillæg I.','url':'https://www.gutenberg.org/files/38604/38604-h/38604-h.htm#Page_211'}]
- additional_refs['D2-04'].append({'id':'hui-sovereignty','citation':'Yuk Hui, Machine and Sovereignty: For a Planetary Thinking. University of Minnesota Press, 2024.','url':'https://www.upress.umn.edu/9781517917418/machine-and-sovereignty/'})
- additional_refs['D2-07']=[{'id':'michaelsen-dwc','citation':'Jørgen Michaelsen, DRY-WET-COMFORT: Bidrag til en kritik af den kunstneriske tænkning. I Postheroic Supersession, red. Jørgen Michaelsen og Lucas Haberkorn. Silkeborg: Museum Jorn, 2022, s. 183–215; triolektik s. 190, hygrometerets mastertriade s. 196–198.','url':'https://museumjorn.dk/exhibit/dry-wet-comfort/'},{'id':'peirce-lowell','citation':'Charles Sanders Peirce, Lowell Lectures (1903), Collected Papers 1.536–537.','url':'https://colorysemiotica.wordpress.com/wp-content/uploads/2014/08/peirce-collectedpapers.pdf'}]
- additional_refs['D2-07'].append({'id':'llull-context','citation':'Historisk kontekst: Ramon Llull (ca. 1232–1316) blev født på Mallorca efter Jaume I’s erobring af øen i 1229. Archivo de la Corona de Aragón, Autógrafo de Ramon Llull (1297–1316).','url':'https://www.cultura.gob.es/archivos-aca/actividades/documentos-para-la-historia-de-europa/llull.html'})
- additional_refs['D3-05']=[{'id':'magliabechi','citation':'Antonio Magliabechi (1633–1714). Biblioteca Nazionale Centrale di Firenze, The origins and evolution of the Magliabechiana library.','url':'https://bncf.cultura.gov.it/en/library/the-origins-and-evolution-of-the-magliabechiana-library/'}]
- h['record_references']={}
- for r in h['records']:
-  refs=[]
-  for entry in h['collation']['entries']:
-   if entry['source_id']==r['id']:
-    for refid in entry.get('references',[]):
-     ref=next((x for x in h['collation']['references']if x['id']==refid),None)
-     if ref and refid!='old-art' and ref not in refs:refs.append({k:ref[k]for k in ['id','citation','url']})
-  additions=additional_refs.get(r['id'],[])
-  if r['id']=='D2-04':refs=[ref for ref in refs if ref['id']!='hui-machine']
-  if r['id']=='D2-07':refs=[ref for ref in refs if ref['id']!='peirce']
-  addition_ids={ref['id']for ref in additions}
-  h['record_references'][r['id']]=[ref for ref in refs if ref['id']not in addition_ids]+additions
  h['performance']={'closing_signal':'Klokkesignalet indleder afslutningen, mens de sidste replikker endnu pågår, og afbryder til sidst disputten.','basis':'Forfatterens beskrivelse af opførelsens lydlige afslutningsprocedure, 20. oktober 2026. De oprindelige optagelser bevares.'}
- h['edition']='2026-10-20'
+ h['edition']='2026-10-21'
  h['reading_policy']['speaker']='Navnene følger opførelsen. Begge kunstnerstemmer hedder Computer Lars. Sammenhængende tale fra samme offentlige position har én talerbetegnelse; lydsteder og kildeankre bevares.'
  h['reading_policy']['paragraphs']='Afsnit følger argumentet. Optagelsesbrud inde i samme talers sætning sammenføjes; afbrudte sætninger markeres med udeladelsesprikker. Optagelses- og genkendelsesenhederne bevares som kildeankre.'
  assert synthesis_before=={k:(v.get('historical')or{}).get('synthesis')for k,v in h['collation']['records'].items()}
  (R/'hyperbook-data.json').write_text(json.dumps(h,ensure_ascii=False,separators=(',',':'))+'\n')
- (R/'documentation/paragraph-boundaries.json').write_text(json.dumps({'edition':'2026-10-20','changes':boundary_log,'source_unit_ids_preserved':True},ensure_ascii=False,indent=2)+'\n')
+ (R/'documentation/paragraph-boundaries.json').write_text(json.dumps({'edition':'2026-10-21','changes':boundary_log,'source_unit_ids_preserved':True},ensure_ascii=False,indent=2)+'\n')
  (R/'documentation/reading-corrections.json').write_text(json.dumps({'base_commit':BASE,'changes':log,'syntheses_2023_unchanged':True,'paragraph_hinges':HINGES,'name_sources':{'Carol Stumper':'Figure 1 in the 2023 manuscript, p40 / image6.png; thesis pp. 7, 23, 244.','Corrupt Males':'Figure 1 in the 2023 manuscript, p40 / image6.png; anagram name, not Carl Miles.'},'selected_readings':[{'record':'D3-02','reading':'Martius praepositus','basis':'Konjektural rekonstruktion, godkendt af Asker Bryld Staunæs. Valgt ved sammenhold af lydgenkendelserne, den efterfølgende danske forklaring og de latinske ordformer.','references':additional_refs['D3-02']}]},ensure_ascii=False,indent=2)+'\n')
  print('Reading:',len(log),'locally edited source paragraphs;',sum(len(r['utterances'])for r in h['records']),'speaking turns;',sum(bool(v.get('historical'))for v in h['collation']['records'].values()),'original syntheses.')
 if __name__=='__main__':build()

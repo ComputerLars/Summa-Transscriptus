@@ -28,3 +28,6 @@ body{color:#141414;background:#FFFFFF;background-image:none}
 @media print{.disput-group{break-before:page}.disput-record>header h3{font-size:14pt}.pair-synthesis{break-inside:avoid}.notula,.running-head,.contents{display:none}.disput-group>header h2{font:18pt 'Courier New',monospace}.speaker-turn{margin-bottom:6mm}#book>.title-page{break-after:page}.title-page h1{font-size:26pt}#praefatio h2,#apparatus h2,#bog h2,.plates>h2{font:16pt 'Courier New',monospace}}
 
 .synthesis-gap{margin:30px 0 45px;font-size:15px}
+
+/* Bibliographic locators belong to the apparatus, not the spoken text. */
+.bibliographic-mark{font-size:.62em;vertical-align:super;margin-left:.5em;white-space:nowrap}.bibliographic-mark a{color:inherit}.record-references [id]{scroll-margin-top:4em}.source-line{overflow-wrap:anywhere}

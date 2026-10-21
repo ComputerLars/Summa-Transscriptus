@@ -407,6 +407,30 @@
       "before": "Er der åbent for eventuelle ex auditorio-interventioner?",
       "after": "",
       "basis": "Gentaget genkendelse af afslutningens meddelelse; Praeses stiller ikke et nyt spørgsmål."
+    },
+    {
+      "record": "D3-08",
+      "before": "Men det er muligt, at denne antitese er på forhånd afvist, at du har… Med deres blotte tilstedeværelsessammenhæng som intelligensmuligheden, stupiditeten.",
+      "after": "Men det er muligt, at denne antitese på forhånd er modbevist af Bouvard og Pécuchet.",
+      "basis": "Forfatterens bekræftelse 20. oktober 2026 af Bouvard og Pécuchet og den foreslåede sætningsbegyndelse. Den fortsat uafklarede afsluttende konstruktion er udeladt i læseudgaven; lydstedet og de tidligere læsninger bevares."
+    },
+    {
+      "record": "D3-08",
+      "before": "Men det er muligt, at denne antitese er på forhånd afvist, at du har.. Med deres blotte tilstedeværelsessammenhæng som intelligensmuligheden, stupiditeten.",
+      "after": "Men det er muligt, at denne antitese på forhånd er modbevist af Bouvard og Pécuchet.",
+      "basis": "Forfatterens bekræftelse 20. oktober 2026 af Bouvard og Pécuchet og den foreslåede sætningsbegyndelse. Den fortsat uafklarede afsluttende konstruktion er udeladt i læseudgaven; lydstedet og de tidligere læsninger bevares."
+    },
+    {
+      "record": "D2-01",
+      "before": "Sibylle Krämer",
+      "after": "Sybille Krämer",
+      "basis": "Forfatternavnet kontrolleret mod forfatterangivelserne i Journal of Cultural Analytics og Theory, Culture & Society."
+    },
+    {
+      "record": "D2-05",
+      "before": "Sibylle Krämer",
+      "after": "Sybille Krämer",
+      "basis": "Forfatternavnet kontrolleret mod forfatterangivelserne i Journal of Cultural Analytics og Theory, Culture & Society."
     }
   ]
 }

@@ -111,6 +111,8 @@ Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, L
 
 **Læseudgaven, oktober 2026.** Redigeret efter optagelserne, de oprindelige transskriptioner og de skriftlige forlæg. Tegnsætning, grammatik og navneformer er renskrevet; ordforråd, argumenter og meningsbærende gentagelser er bevaret. [Udgaveprincipper](documentation/editorial-principles.md).
 
+**Kilder og forlæg.** [Bibliografien](documentation/references.md) forbinder værker, citater og begreber med bestemte tekst- og lydsteder. “Jf.” angiver en konteksthenvisning. Henvisningerne følger også med i Word-filerne og PDF-udgaverne.
+
 ## Organ Tekst
 
 Organ for de Autonome Videnskabers udstillingsmateriale til *Under Bugten*, 2023. Fyrre slides med rammetekst, skolastisk komputation, Llulls parvise valg og anagrammernes repræsentationsmodel.
