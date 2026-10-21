@@ -608,8 +608,8 @@
     },
     {
       "path": "scripts/book.typ",
-      "bytes": 8095,
-      "sha256": "cf819c5a67a934c18aaa42463d07494b5fac6af91da15ace2137ba528bf73f5b"
+      "bytes": 8092,
+      "sha256": "d67ec60e1ac1e639d7c58d3007dead89d47423bdc8a445ddf66ea39f5b014ee4"
     },
     {
       "path": "scripts/build_book_pdf.py",

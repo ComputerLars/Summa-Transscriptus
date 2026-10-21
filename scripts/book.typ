@@ -62,7 +62,7 @@
 #show heading.where(level: 2): it => block(above: 6mm, below: 3mm, sticky: true)[
   #text(size: if serif { 14pt } else { 10.1pt }, style: if serif { "italic" } else { "normal" }, weight: if serif { "regular" } else { "bold" }, it.body)
 ]
-#[ 
+#[
   #set par(first-line-indent: 0pt, justify: false)
   #text(font: mono, size: 7pt, fill: accent, book.cover-label)
   #v(if serif { 13mm } else { 29mm })
@@ -80,7 +80,7 @@
   #quiet(book.event, size: 7pt)
 ]
 #pagebreak(to: "odd")
-#[ 
+#[
   #set par(first-line-indent: 0pt, justify: false)
   #v(25mm)
   #quiet(book.author, size: 8pt)
@@ -94,7 +94,7 @@
   #quiet(book.edition)
 ]
 #pagebreak()
-#[ 
+#[
   #set par(first-line-indent: 0pt, justify: false)
   #v(1fr)
   #rule()
