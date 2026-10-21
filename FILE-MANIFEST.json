@@ -8,8 +8,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 429,
-      "sha256": "c121d4109cec92cfcd44312c55f1ae555e3ee49f9114a75e4717e80abb759a6a"
+      "bytes": 477,
+      "sha256": "6618d897730a4349a9e7945e94da3b44357442544598f1efde6af5a5df821da9"
     },
     {
       "path": ".nojekyll",
@@ -28,8 +28,8 @@
     },
     {
       "path": "Summa-Transscriptus.pdf",
-      "bytes": 5973910,
-      "sha256": "2fd0adc21aecb98e903cf2de8f64c9564ac71d7ab978e3a9634049b30e57dc45"
+      "bytes": 5028753,
+      "sha256": "0265ac43b47c8f54d21fad37747426e26daa7b42cd9bcdc959571512b630d664"
     },
     {
       "path": "archive/2023/README.md",
@@ -597,9 +597,9 @@
       "sha256": "ce9f7b183368c60de0e97617a5c8efad6ed688ab8e3193bed91c8644ac5a3ded"
     },
     {
-      "path": "scripts/archive_pdf.py",
-      "bytes": 6831,
-      "sha256": "1436de27c1c7f2e23388e8d55c0f829a9b34e53a182201c398b0b742023d0100"
+      "path": "scripts/README.md",
+      "bytes": 817,
+      "sha256": "5b12fb4c5c060d5bcc7395b8a6f1d45f846ec2355b5c3c1978a8027d4fc366a4"
     },
     {
       "path": "scripts/bibliography.py",
@@ -607,9 +607,14 @@
       "sha256": "026986b0e73a2cac060334726838616b9b5c626bfe532624835c22ad221a1958"
     },
     {
+      "path": "scripts/book.typ",
+      "bytes": 8095,
+      "sha256": "cf819c5a67a934c18aaa42463d07494b5fac6af91da15ace2137ba528bf73f5b"
+    },
+    {
       "path": "scripts/build_book_pdf.py",
-      "bytes": 6566,
-      "sha256": "8d62a6d3685177003acbf41d8aca52d644aea0c67dca80c98f43cd2545172221"
+      "bytes": 6128,
+      "sha256": "6e781509d98dd87023fd8eec4108c6ac2767328ce820e2e7d971735185b2a6b5"
     },
     {
       "path": "scripts/build_reading_documents.py",
@@ -633,8 +638,13 @@
     },
     {
       "path": "scripts/requirements-pdf.txt",
-      "bytes": 35,
-      "sha256": "48fad147060752fbad45d6768e96b3ccddcff300444ff1aa4f06e0613e9c6ba9"
+      "bytes": 72,
+      "sha256": "3f748aa1153624bda61bf3a0f39175b0705c1127e527e407a15c07de3ad82efb"
+    },
+    {
+      "path": "scripts/typst_book.py",
+      "bytes": 4750,
+      "sha256": "f645ce6423ea339a33f65016e9ca1ace8f085f0e00a5561b2a99e2e2fb2ca0ae"
     },
     {
       "path": "seek-controls.css",

@@ -14,3 +14,6 @@ __pycache__/
 /disputations/02-maia-bacchus/timed.md
 /disputations/03-petrus-borumanum/timed.md
 /disputations/04-logistique/timed.md
+
+# Reproducible local Typst build
+/.book-build/
