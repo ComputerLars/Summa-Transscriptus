@@ -431,6 +431,18 @@
       "before": "Sibylle Krämer",
       "after": "Sybille Krämer",
       "basis": "Forfatternavnet kontrolleret mod forfatterangivelserne i Journal of Cultural Analytics og Theory, Culture & Society."
+    },
+    {
+      "record": "D1-01",
+      "before": "Altså kunst, et sted fra 35-36-37.",
+      "after": "Altså kunst, et sted fra 1935–1937.",
+      "basis": "Forfatterens præcisering 21. oktober 2026: tallene er årstal i henvisningen til Benjamins kunstværksessay."
+    },
+    {
+      "record": "D3-06",
+      "before": "Jeg husker pludselig Châtelets billede, billedet af en cirkel,",
+      "after": "Jeg husker pludselig Shattucks afbildning af en cirkel,",
+      "basis": "Forfatterens genkendelse 21. oktober 2026 af navnet Shattuck og ordet afbildning; erstatter den afviste genkendelse Châtelet. Det præcise diagramforlæg er ikke identificeret."
     }
   ]
 }

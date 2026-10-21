@@ -698,5 +698,33 @@
       }
     ],
     "verified": "2026-10-20"
+  },
+  {
+    "id": "malabou-morin",
+    "citation": "Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.",
+    "url": "https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-08",
+        "match": "Morin skriver lignende om vanskelighederne ved intelligenstest"
+      }
+    ],
+    "note": "Malabous henvisning identificerer Morins kritik af intelligensmåling. Amøbe-eksemplets præcise forlæg er ikke identificeret.",
+    "verified": "2026-10-21"
+  },
+  {
+    "id": "shattuck-structure",
+    "citation": "Roger Shattuck, “Lost and found: the structure of Proust’s novel”. I Richard Bales (red.), The Cambridge Companion to Proust. Cambridge: Cambridge University Press, 2001, s. 74–84. DOI: 10.1017/CCOL052166019X.006.",
+    "url": "https://doi.org/10.1017/CCOL052166019X.006",
+    "relation": "kontekst",
+    "loci": [
+      {
+        "record": "D3-06",
+        "match": "Shattucks afbildning af en cirkel"
+      }
+    ],
+    "note": "Henvisningen gælder Shattucks fremstilling af romanens struktur. Den omtalte cirkelillustration er ikke identificeret.",
+    "verified": "2026-10-21"
   }
 ]

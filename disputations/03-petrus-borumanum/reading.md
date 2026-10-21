@@ -706,7 +706,7 @@ Men for at den skal holde, så tror jeg, det væsentligste er at beskrive tidssl
 
 **Petrus Borumanum · 00:16:07**
 
-Der så at sige binder knude. Jeg husker pludselig Châtelets billede, billedet af en cirkel, tror jeg det grafisk bliver til, men som så har en anden cirkel under sig, en påsat, som er spejlingshistorien i Swanns kærlighed, som er den del af fortællingen, hvis lokale udsyn ikke er medieret af fortællerens bevidsthedsstrøm på samme måde som resten. Og det er klart, der har vi de to sløjfer.
+Der så at sige binder knude. Jeg husker pludselig Shattucks afbildning af en cirkel, tror jeg det grafisk bliver til, men som så har en anden cirkel under sig, en påsat, som er spejlingshistorien i Swanns kærlighed, som er den del af fortællingen, hvis lokale udsyn ikke er medieret af fortællerens bevidsthedsstrøm på samme måde som resten. Og det er klart, der har vi de to sløjfer.
 
 Men spørgsmålet er så, og det er jo det åbne spørgsmål, om den foregribelse, som åbner sig i madeleinekageøjeblikket, eller synet af det ene sæt kirketårne fremmaner tanken om det andet sæt kirketårne, om det nødvendigvis er en sløjfestruktur.
 
@@ -723,6 +723,8 @@ Disputationen af tesen »Rekursivitet som tidssløjfe er bevidsthedens mediale s
 [9] [Jf. Douglas R. Hofstadter, I Am a Strange Loop. New York: Basic Books, paperback 2008 [2007].](https://www.hbglibrary.com/titles/douglas-r-hofstadter/i-am-a-strange-loop/9780465030798/)
 
 [24] [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
+
+[52] [Jf. Roger Shattuck, “Lost and found: the structure of Proust’s novel”. I Richard Bales (red.), The Cambridge Companion to Proust. Cambridge: Cambridge University Press, 2001, s. 74–84. DOI: 10.1017/CCOL052166019X.006.](https://doi.org/10.1017/CCOL052166019X.006)
 
 ## D3-07 · Tese · Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft
 
@@ -985,6 +987,8 @@ Diskussionen af tesen »Intelligens er objektivt stupidt, og vice versa« er nu 
 [23] [Marcel Proust, Contre Sainte-Beuve, red. Bernard de Fallois. Paris: Gallimard, 1954, “Préface”, s. 55–63; åbningssætningen s. 55.](https://fr.wikisource.org/wiki/Contre_Sainte-Beuve/Pr%C3%A9face)
 
 [24] [Marcel Proust, Du côté de chez Swann, Combray I](https://fr.wikisource.org/wiki/Combray)
+
+[51] [Jf. Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.](https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77)
 
 ## D3-09 · Pseudotese · Pseudotese
 

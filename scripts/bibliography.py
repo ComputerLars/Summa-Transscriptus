@@ -14,6 +14,7 @@ def attach(h):
     h['frame_references']={}
     for number,entry in enumerate(entries,1):
         ref={k:entry[k]for k in ['id','citation','url','relation']}
+        if entry.get('note'):ref['note']=entry['note']
         ref['number']=number
         ref['display']=('Jf. 'if ref['relation']=='kontekst'else'')+ref['citation']
         locations=[]

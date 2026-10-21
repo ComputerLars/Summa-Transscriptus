@@ -25,7 +25,7 @@ Fire disputationer blev annonceret: 18. september kl. 16–20 samt 20., 22. og 2
 
 Scriptet afsætter tyve minutter pr. fremsættelse og fem minutter til indlæg ex auditorio. Et sådant indlæg skal holdes inden for to minutter og fremsætte en begrundet afvisning eller en distinktion. Praeses leder forløbet.
 
-Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, Logistique, Computer Lars og Praeses. Begge kunstnerstemmer optræder som Computer Lars. Ex auditorio betegner indlæg fra salen; en uidentificeret indskudt replik betegnes Interventio.
+Navnene følger opførelsen: Mikhailos Boltus, Maia Bacchus, Petrus Borumanum, Logistique, Computer Lars og Praeses. Begge kunstnerstemmer optræder som Computer Lars. Ex auditorio betegner indlæg fra salen.
 
 [Rammetekst](https://computerlars.github.io/Summa-Transscriptus/#praefatio) · [Ordo disputandi](https://computerlars.github.io/Summa-Transscriptus/#apparatus) · [Manuscriptum](https://computerlars.github.io/Summa-Transscriptus/manuscript.html) · [Original Word-fil](sources/under-bugten/manuscript.docx).
 

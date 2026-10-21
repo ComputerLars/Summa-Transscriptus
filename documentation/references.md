@@ -405,3 +405,23 @@ Valgskrifterne giver et særskilt forlæg til rammetekstens redegørelse for Llu
 [Kontekst](https://dialnet.unirioja.es/descarga/articulo/62094.pdf#page=22)
 
 [D3-07 · Wronskis aritmetiske uralgoritmer og dumhed som mangel på dømmekraft](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-07/D3-07-U001)
+
+<a id="malabou-morin"></a>
+
+## 51 · Catherine Malabou, Métamorphoses de l’intelligence: Du QI à l’IA. Paris: Presses universitaires de France, coll. Quadrige, 2021 [første udgave 2017], s. 59, note 2. Henviser til Edgar Morin, La Méthode, bind III: La connaissance de la connaissance. Paris: Seuil, 1986, s. 75.
+
+[Kontekst](https://bib.vincent-bonnefille.fr/download/380/pdf/380.pdf#page=77)
+
+Malabous henvisning identificerer Morins kritik af intelligensmåling. Amøbe-eksemplets præcise forlæg er ikke identificeret.
+
+[D3-08 · Intelligens er objektivt stupidt, og vice versa](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-08/D3-08-U010)
+
+<a id="shattuck-structure"></a>
+
+## 52 · Roger Shattuck, “Lost and found: the structure of Proust’s novel”. I Richard Bales (red.), The Cambridge Companion to Proust. Cambridge: Cambridge University Press, 2001, s. 74–84. DOI: 10.1017/CCOL052166019X.006.
+
+[Kontekst](https://doi.org/10.1017/CCOL052166019X.006)
+
+Henvisningen gælder Shattucks fremstilling af romanens struktur. Den omtalte cirkelillustration er ikke identificeret.
+
+[D3-06 · Rekursivitet som tidssløjfe er bevidsthedens mediale struktur](https://computerlars.github.io/Summa-Transscriptus/#disput/D3-06/D3-06-U013)
